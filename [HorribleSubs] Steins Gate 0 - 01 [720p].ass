@@ -1,5 +1,7 @@
 ﻿[Script Info]
 Title: HorribleSubs
+; Subs edited by Woute and Davixxa for consistency
+; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 848
@@ -18,7 +20,7 @@ Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:00:15.47,0:00:19.51,Default,,0000,0000,0000,,So this is where you've been, Big Sis Mayu.
-Dialogue: 0,0:00:19.51,0:00:21.27,Default,,0000,0000,0000,,Suzu-{\i1}chan{\i}...
+Dialogue: 0,0:00:19.51,0:00:21.27,Default,,0000,0000,0000,,Suzu...
 Dialogue: 0,0:00:21.27,0:00:23.39,Default,,0000,0000,0000,,Dad and the others are looking for you.
 Dialogue: 0,0:00:23.39,0:00:26.73,Default,,0000,0000,0000,,They said they're about\Nto kick off the operation.
 Dialogue: 0,0:00:26.73,0:00:28.19,Default,,0000,0000,0000,,Big Sis Mayu?
@@ -57,28 +59,28 @@ Dialogue: 0,0:02:54.54,0:02:55.80,Default,,0000,0000,0000,,It's okay.
 Dialogue: 0,0:02:55.80,0:02:57.80,Default,,0000,0000,0000,,Wanna go grab a bite?
 Dialogue: 0,0:02:57.80,0:02:59.34,Default,,0000,0000,0000,,My treat.
 Dialogue: 0,0:03:01.13,0:03:05.35,Default,,0000,0000,0000,,In that case, can we head over to Akiba?
-Dialogue: 0,0:03:05.35,0:03:09.48,Default,,0000,0000,0000,,Ruka-{\i1}kun{\i} and Faris-{\i1}chan{\i}\Ninvited me out a bit ago.
+Dialogue: 0,0:03:05.35,0:03:09.48,Default,,0000,0000,0000,,Luka and Faris\Ninvited me out a bit ago.
 Dialogue: 0,0:03:09.48,0:03:12.02,Default,,0000,0000,0000,,Akihabara, huh?
 Dialogue: 0,0:03:12.02,0:03:13.31,Default,,0000,0000,0000,,That a no?
 Dialogue: 0,0:03:16.61,0:03:18.94,Default,,0000,0000,0000,,No, let's go.
 Dialogue: 0,0:03:20.40,0:03:21.74,Default,,0000,0000,0000,,Wonderful!
 Dialogue: 0,0:03:21.74,0:03:24.74,Default,,0000,0000,0000,,I'll let those guys know we're coming.
-Dialogue: 0,0:03:24.74,0:03:27.54,Default,,0000,0000,0000,,Faris-{\i1}chan{\i}? Guess what?
+Dialogue: 0,0:03:24.74,0:03:27.54,Default,,0000,0000,0000,,Faris? Guess what?
 Dialogue: 0,0:03:27.54,0:03:30.66,Default,,0000,0000,0000,,It's already December...
 Dialogue: 0,0:03:32.29,0:03:34.96,Default,,0000,0000,0000,,It feels like that summer...
 Dialogue: 0,0:03:34.96,0:03:36.67,Default,,0000,0000,0000,,...was just days ago.
 Dialogue: 0,0:03:49.31,0:03:54.31,Default,,0000,0000,0000,,Um, they said they'd be\Nwaiting here somewhere... Oh!
-Dialogue: 0,0:03:54.31,0:03:55.94,Default,,0000,0000,0000,,Ruka-{\i1}kun{\i}! Faris-{\i1}chan{\i}!
-Dialogue: 0,0:03:55.94,0:03:56.94,Default,,0000,0000,0000,,Too-too-roo!
-Dialogue: 0,0:03:56.94,0:03:58.90,Default,,0000,0000,0000,,Hello, Mayuri-{\i1}chan{\i}.
+Dialogue: 0,0:03:54.31,0:03:55.94,Default,,0000,0000,0000,,Luka! Faris!
+Dialogue: 0,0:03:55.94,0:03:56.94,Default,,0000,0000,0000,,Tutturu!
+Dialogue: 0,0:03:56.94,0:03:58.90,Default,,0000,0000,0000,,Hello, Mayuri.
 Dialogue: 0,0:03:58.90,0:04:01.53,Default,,0000,0000,0000,,Oh! It's Kyouma!
-Dialogue: 0,0:04:01.53,0:04:04.91,Default,,0000,0000,0000,,It's been a while, Rukako, Faris.
-Dialogue: 0,0:04:04.91,0:04:06.12,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}...
-Dialogue: 0,0:04:06.12,0:04:09.58,Default,,0000,0000,0000,,Kyouma! I missed you, meow!
+Dialogue: 0,0:04:01.53,0:04:04.91,Default,,0000,0000,0000,,It's been a while, Lukako, Faris.
+Dialogue: 0,0:04:04.91,0:04:06.12,Default,,0000,0000,0000,,Okabe...
+Dialogue: 0,0:04:06.12,0:04:09.58,Default,,0000,0000,0000,,Kyouma! I missed you, nya!
 Dialogue: 0,0:04:09.58,0:04:11.37,Default,,0000,0000,0000,,Hey! Cut it out!
 Dialogue: 0,0:04:11.37,0:04:14.83,Default,,0000,0000,0000,,What for, meow?\NKyouma knows he likes it, meow!
 Dialogue: 0,0:04:14.83,0:04:17.96,Default,,0000,0000,0000,,First off, quit with the calling me Kyouma.
-Dialogue: 0,0:04:17.96,0:04:18.96,Default,,0000,0000,0000,,How come?
+Dialogue: 0,0:04:17.96,0:04:18.96,Default,,0000,0000,0000,,Nyan? Why?{Consistency with the 0 VN}
 Dialogue: 0,0:04:18.96,0:04:21.05,Default,,0000,0000,0000,,That's from the Dark Past.
 Dialogue: 0,0:04:21.05,0:04:25.26,Default,,0000,0000,0000,,Is that what you call the dark ages\Nkept secret by a cult of medieval wizards?!
 Dialogue: 0,0:04:25.26,0:04:26.68,Default,,0000,0000,0000,,Not even close.
@@ -87,10 +89,10 @@ Dialogue: 0,0:04:28.68,0:04:33.10,Default,,0000,0000,0000,,I go to the lab from 
 Dialogue: 0,0:04:33.10,0:04:34.60,Default,,0000,0000,0000,,I've been busy with things.
 Dialogue: 0,0:04:34.60,0:04:37.77,Default,,0000,0000,0000,,Don't tell me you're part\Nof a secret organization!
 Dialogue: 0,0:04:37.77,0:04:40.07,Default,,0000,0000,0000,,No, I'm swamped with college seminars.
-Dialogue: 0,0:04:40.07,0:04:41.23,Default,,0000,0000,0000,,Meow?
+Dialogue: 0,0:04:40.07,0:04:41.23,Default,,0000,0000,0000,,Nya?
 Dialogue: 0,0:04:41.23,0:04:42.69,Default,,0000,0000,0000,,Plus, club and stuff.
-Dialogue: 0,0:04:42.69,0:04:43.86,Default,,0000,0000,0000,,Meow meow?
-Dialogue: 0,0:04:43.86,0:04:45.70,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}'s in club?
+Dialogue: 0,0:04:42.69,0:04:43.86,Default,,0000,0000,0000,,Nya nya?
+Dialogue: 0,0:04:43.86,0:04:45.70,Default,,0000,0000,0000,,Okabe is in a club?
 Dialogue: 0,0:04:45.70,0:04:48.41,Default,,0000,0000,0000,,Researching UFOs and\Nmythical creatures and stuff?
 Dialogue: 0,0:04:48.41,0:04:50.79,Default,,0000,0000,0000,,No, the tennis club.
 Dialogue: 0,0:04:51.75,0:04:54.33,Default,,0000,0000,0000,,What?!
@@ -104,7 +106,7 @@ Dialogue: 0,0:05:10.64,0:05:13.31,Default,,0000,0000,0000,,If you must know, g-g
 Dialogue: 0,0:05:13.31,0:05:14.23,Default,,0000,0000,0000,,Group...
 Dialogue: 0,0:05:14.23,0:05:15.14,Default,,0000,0000,0000,,...dates?!
 Dialogue: 0,0:05:15.14,0:05:16.98,Default,,0000,0000,0000,,What?!
-Dialogue: 0,0:05:16.98,0:05:18.73,Default,,0000,0000,0000,,Okabe-{\i1}san{\i} is going on group dates?!
+Dialogue: 0,0:05:16.98,0:05:18.73,Default,,0000,0000,0000,,Okabe is going on group dates?!
 Dialogue: 0,0:05:18.73,0:05:21.53,Default,,0000,0000,0000,,How could you?! That hurts! That's pathetic!
 Dialogue: 0,0:05:21.53,0:05:23.28,Default,,0000,0000,0000,,You disgust me, mister! Disgust me!
 Dialogue: 0,0:05:23.28,0:05:25.57,Default,,0000,0000,0000,,What's gotten into you?
@@ -112,7 +114,7 @@ Dialogue: 0,0:05:25.57,0:05:27.28,Default,,0000,0000,0000,,Don't be so mean, guy
 Dialogue: 0,0:05:27.28,0:05:29.66,Default,,0000,0000,0000,,I'm a normal college student, you know.
 Dialogue: 0,0:05:29.66,0:05:31.16,Default,,0000,0000,0000,,You're lewd! So lewd!
 Dialogue: 0,0:05:31.16,0:05:32.62,Default,,0000,0000,0000,,Explain yourself, Kyouma!
-Dialogue: 0,0:05:32.62,0:05:34.50,Default,,0000,0000,0000,,How could you, Okabe-{\i1}san{\i}?
+Dialogue: 0,0:05:32.62,0:05:34.50,Default,,0000,0000,0000,,How could you, Okabe?
 Dialogue: 0,0:05:34.50,0:05:36.67,Default,,0000,0000,0000,,--Erm...\N--A message from Yuki!
 Dialogue: 0,0:05:36.67,0:05:38.38,Default,,0000,0000,0000,,Something happen?
 Dialogue: 0,0:05:38.38,0:05:39.50,Default,,0000,0000,0000,,No...
@@ -147,7 +149,7 @@ Dialogue: 0,0:07:11.47,0:07:15.01,Default,,0000,0000,0000,,I'd welcome her wrath
 Dialogue: 0,0:07:15.01,0:07:16.14,Default,,0000,0000,0000,,Dad!
 Dialogue: 0,0:07:16.14,0:07:18.06,Default,,0000,0000,0000,,Please forget I said that.
 Dialogue: 0,0:07:18.06,0:07:21.02,Default,,0000,0000,0000,,There's something you always said in the future.
-Dialogue: 0,0:07:21.02,0:07:23.94,Default,,0000,0000,0000,,That this world line was\Nthe worst one imaginable...
+Dialogue: 0,0:07:21.02,0:07:23.94,Default,,0000,0000,0000,,That this worldline was\Nthe worst one imaginable...
 Dialogue: 0,0:07:23.94,0:07:27.32,Default,,0000,0000,0000,,...but having me was the\Nbest thing that ever happened.
 Dialogue: 0,0:07:27.32,0:07:34.03,Default,,0000,0000,0000,,I came here to convince Uncle Okarin so\Nthat we could somehow change that future.
 Dialogue: 0,0:07:34.03,0:07:38.75,Default,,0000,0000,0000,,And yet, ever since that day,\Nhe hasn't come back here once.
@@ -160,7 +162,7 @@ Dialogue: 0,0:07:53.47,0:07:54.64,Default,,0000,0000,0000,,Suzuha, hide!
 Dialogue: 0,0:07:54.64,0:07:56.26,Default,,0000,0000,0000,,Okey-dokey!
 Dialogue: 0,0:08:03.85,0:08:05.61,Default,,0000,0000,0000,,Come on in.
 Dialogue: 0,0:08:07.32,0:08:09.48,Default,,0000,0000,0000,,Hello!
-Dialogue: 0,0:08:11.32,0:08:15.12,Default,,0000,0000,0000,,A-Amane-shi? What brings you here?
+Dialogue: 0,0:08:11.32,0:08:15.12,Default,,0000,0000,0000,,M-Miss Amane? What brings you here? {Miss Amane for consistency with the WhyNot subs}
 Dialogue: 0,0:08:16.37,0:08:18.16,Default,,0000,0000,0000,,Hmm? Mayuri isn't around?
 Dialogue: 0,0:08:18.16,0:08:21.12,Default,,0000,0000,0000,,Mayushii? Not yet...
 Dialogue: 0,0:08:21.12,0:08:23.50,Default,,0000,0000,0000,,I think I got here a bit early.
@@ -176,12 +178,12 @@ Dialogue: 0,0:08:40.97,0:08:44.69,Default,,0000,0000,0000,,Mine? All my little s
 Dialogue: 0,0:08:44.69,0:08:47.77,Default,,0000,0000,0000,,Ah! Y-You must mean Suzuha!
 Dialogue: 0,0:08:47.77,0:08:49.44,Default,,0000,0000,0000,,Who else would I mean?
 Dialogue: 0,0:08:49.44,0:08:52.53,Default,,0000,0000,0000,,Uh, well... Nobody?
-Dialogue: 0,0:08:55.20,0:08:57.20,Default,,0000,0000,0000,,Too-too-roo!
-Dialogue: 0,0:08:58.24,0:08:59.74,Default,,0000,0000,0000,,Mayuri-{\i1}chan{\i}!
-Dialogue: 0,0:08:59.74,0:09:01.58,Default,,0000,0000,0000,,Too-too-roo, Yuki-{\i1}san{\i}!
-Dialogue: 0,0:09:01.58,0:09:02.79,Default,,0000,0000,0000,,Meow meow!
-Dialogue: 0,0:09:02.79,0:09:04.83,Default,,0000,0000,0000,,Faris-{\i1}san{\i} and Ruka-{\i1}san{\i} came too!
-Dialogue: 0,0:09:04.83,0:09:07.71,Default,,0000,0000,0000,,Faris-{\i1}tan{\i}!
+Dialogue: 0,0:08:55.20,0:08:57.20,Default,,0000,0000,0000,,Tutturu!
+Dialogue: 0,0:08:58.24,0:08:59.74,Default,,0000,0000,0000,,Mayuri!
+Dialogue: 0,0:08:59.74,0:09:01.58,Default,,0000,0000,0000,,Tutturu, Yuki!
+Dialogue: 0,0:09:01.58,0:09:02.79,Default,,0000,0000,0000,,Nyan nyan!
+Dialogue: 0,0:09:02.79,0:09:04.83,Default,,0000,0000,0000,,Faris and Luka came too!
+Dialogue: 0,0:09:04.83,0:09:07.71,Default,,0000,0000,0000,,Faris!
 Dialogue: 0,0:09:07.71,0:09:09.75,Default,,0000,0000,0000,,Huh? Ah...
 Dialogue: 0,0:09:11.84,0:09:14.67,Default,,0000,0000,0000,,This place hasn't changed a bit.
 Dialogue: 0,0:09:17.05,0:09:18.68,Default,,0000,0000,0000,,Okarin!
@@ -200,22 +202,22 @@ Dialogue: 0,0:09:44.79,0:09:46.92,Default,,0000,0000,0000,,We've got Dk Pepper t
 Dialogue: 0,0:09:46.92,0:09:49.29,Default,,0000,0000,0000,,Wait, Okarin! Where are you going?
 Dialogue: 0,0:09:49.29,0:09:51.34,Default,,0000,0000,0000,,Where? Just to the toilet...
 Dialogue: 0,0:09:51.34,0:09:52.88,Default,,0000,0000,0000,,Uh...
-Dialogue: 0,0:10:19.11,0:10:21.20,Default,,0000,0000,0000,,--Okarin?!\N--Okabe-{\i1}san{\i}!
-Dialogue: 0,0:10:25.54,0:10:28.12,Default,,0000,0000,0000,,Suzu-{\i1}san{\i}...
+Dialogue: 0,0:10:19.11,0:10:21.20,Default,,0000,0000,0000,,--Okarin?!\N--Okabe!
+Dialogue: 0,0:10:25.54,0:10:28.12,Default,,0000,0000,0000,,Suzu...
 Dialogue: 0,0:10:28.12,0:10:29.75,Default,,0000,0000,0000,,H-Hi there.
 Dialogue: 0,0:10:30.96,0:10:35.96,On Top,,0000,0000,0000,,"Missing Link of the Annihilator\N-Absolute Zero-"
 Dialogue: 0,0:10:38.88,0:10:40.39,Default,,0000,0000,0000,,Ta-da!
 Dialogue: 0,0:10:41.30,0:10:42.39,Default,,0000,0000,0000,,Very cute!
-Dialogue: 0,0:10:42.39,0:10:43.76,Default,,0000,0000,0000,,Me like, meow!
+Dialogue: 0,0:10:42.39,0:10:43.76,Default,,0000,0000,0000,,Me like, nya!
 Dialogue: 0,0:10:43.76,0:10:46.68,Default,,0000,0000,0000,,A feast for the eyes! I'll have seconds!
 Dialogue: 0,0:10:47.81,0:10:49.85,Default,,0000,0000,0000,,Hmm? Where's Okarin?
-Dialogue: 0,0:10:49.85,0:10:52.31,Default,,0000,0000,0000,,He went with Suzuha-{\i1}san{\i} to the roof.
+Dialogue: 0,0:10:49.85,0:10:52.31,Default,,0000,0000,0000,,He went with Suzuha to the roof.
 Dialogue: 0,0:10:52.31,0:10:55.23,Default,,0000,0000,0000,,They wanted to talk about something.
 Dialogue: 0,0:10:55.23,0:10:56.40,Default,,0000,0000,0000,,I see...
 Dialogue: 0,0:11:02.74,0:11:06.12,Default,,0000,0000,0000,,You didn't have to pretend\Nlike this in the first place.
 Dialogue: 0,0:11:06.12,0:11:10.54,Default,,0000,0000,0000,,Saying you're Daru's little sister\Nonly made yourself more suspicious.
 Dialogue: 0,0:11:10.54,0:11:15.00,Default,,0000,0000,0000,,Yeah, but I didn't think Mom\Nwould wanna get to know me so much.
-Dialogue: 0,0:11:15.00,0:11:17.55,Default,,0000,0000,0000,,Yuki-{\i1}san{\i} and Daru first met at...
+Dialogue: 0,0:11:15.00,0:11:17.55,Default,,0000,0000,0000,,Yuki and Daru first met at...
 Dialogue: 0,0:11:17.55,0:11:19.17,Default,,0000,0000,0000,,Summer ComiMa.
 Dialogue: 0,0:11:19.17,0:11:23.26,Default,,0000,0000,0000,,She was a cosplay friend of Big Sis Mayu,\Nbut in time, she started coming here.
 Dialogue: 0,0:11:24.72,0:11:26.56,Default,,0000,0000,0000,,Owowow...
@@ -239,7 +241,7 @@ Dialogue: 0,0:12:36.54,0:12:41.55,Default,,0000,0000,0000,,My mom tried to prote
 Dialogue: 0,0:12:45.76,0:12:49.39,Default,,0000,0000,0000,,I saw her get ripped\Nto shreds right before my eyes.
 Dialogue: 0,0:12:49.39,0:12:52.02,Default,,0000,0000,0000,,I was practically bathed in her blood.
 Dialogue: 0,0:12:55.56,0:12:58.31,Default,,0000,0000,0000,,Uncle Okarin...
-Dialogue: 0,0:12:58.31,0:13:03.32,Default,,0000,0000,0000,,All that lies ahead in this world line is hell.
+Dialogue: 0,0:12:58.31,0:13:03.32,Default,,0000,0000,0000,,All that lies ahead in this worldline is hell.
 Dialogue: 0,0:13:03.32,0:13:08.49,Default,,0000,0000,0000,,The conflict over time machines makes\Ncountry fight country and many people die.
 Dialogue: 0,0:13:08.49,0:13:11.04,Default,,0000,0000,0000,,It's a world of nothing but horror and despair.
 Dialogue: 0,0:13:11.04,0:13:14.87,Default,,0000,0000,0000,,The lives of 5.7 billion people\Nare on the line here.
@@ -249,18 +251,18 @@ Dialogue: 0,0:13:18.08,0:13:19.09,On Top,,0000,0000,0000,,"I failed. I failed. I
 Dialogue: 0,0:13:19.42,0:13:22.21,Default,,0000,0000,0000,,Uncle Okarin...
 Dialogue: 0,0:13:22.21,0:13:23.76,Default,,0000,0000,0000,,I can't...
 Dialogue: 0,0:13:23.76,0:13:24.72,Default,,0000,0000,0000,,Uncle!
-Dialogue: 0,0:13:24.72,0:13:29.05,Default,,0000,0000,0000,,I've drifted through so many\Nworld lines, I've lost count...
-Dialogue: 0,0:13:29.05,0:13:33.93,Default,,0000,0000,0000,,No matter the world line, I've witnessed\Ntime machines toy with everyone's fate.
+Dialogue: 0,0:13:24.72,0:13:29.05,Default,,0000,0000,0000,,I've drifted through so many\Nworldlines, I've lost count...
+Dialogue: 0,0:13:29.05,0:13:33.93,Default,,0000,0000,0000,,No matter the worldline, I've witnessed\Ntime machines toy with everyone's fate.
 Dialogue: 0,0:13:33.93,0:13:37.02,Default,,0000,0000,0000,,I've even seen you meet your doom.
 Dialogue: 0,0:13:37.02,0:13:40.31,Default,,0000,0000,0000,,And over and over, it never ends.
 Dialogue: 0,0:13:40.31,0:13:44.36,Default,,0000,0000,0000,,Believe me, I learned the\Nlimits of what someone can do.
 Dialogue: 0,0:13:44.36,0:13:47.45,Default,,0000,0000,0000,,No matter what I try, I'm powerless.
-Dialogue: 0,0:13:48.95,0:13:52.08,Default,,0000,0000,0000,,But you have changed world lines before.
+Dialogue: 0,0:13:48.95,0:13:52.08,Default,,0000,0000,0000,,But you have changed worldlines before.
 Dialogue: 0,0:13:52.08,0:13:54.33,Default,,0000,0000,0000,,You said it yourself.
 Dialogue: 0,0:13:54.33,0:13:55.62,Default,,0000,0000,0000,,Uncle...
 Dialogue: 0,0:13:55.62,0:13:56.54,Default,,0000,0000,0000,,In that case--
 Dialogue: 0,0:13:56.54,0:13:57.87,Default,,0000,0000,0000,,It's no use!
-Dialogue: 0,0:13:57.87,0:14:00.50,Default,,0000,0000,0000,,You can't just change\Nthe past to switch world lines!
+Dialogue: 0,0:13:57.87,0:14:00.50,Default,,0000,0000,0000,,You can't just change\Nthe past to switch worldlines!
 Dialogue: 0,0:14:00.50,0:14:03.50,Default,,0000,0000,0000,,It breaks the rules which govern our universe!
 Dialogue: 0,0:14:03.50,0:14:07.01,Default,,0000,0000,0000,,Humans like us can't just\Ntamper with the province of God!
 Dialogue: 0,0:14:07.01,0:14:09.43,Default,,0000,0000,0000,,The moment we start meddling,\Nwe get punished!
@@ -270,7 +272,7 @@ Dialogue: 0,0:14:21.61,0:14:25.53,Default,,0000,0000,0000,,There's still time.
 Dialogue: 0,0:14:25.53,0:14:27.90,Default,,0000,0000,0000,,I want you to reconsider.
 Dialogue: 0,0:14:27.90,0:14:29.24,Default,,0000,0000,0000,,I...
 Dialogue: 0,0:14:30.49,0:14:33.20,Default,,0000,0000,0000,,...have not given up.
-Dialogue: 0,0:14:34.04,0:14:37.50,Default,,0000,0000,0000,,In the end, I guess Suzu-{\i1}san{\i} didn't come back.
+Dialogue: 0,0:14:34.04,0:14:37.50,Default,,0000,0000,0000,,In the end, I guess Suzu didn't come back.
 Dialogue: 0,0:14:37.50,0:14:38.96,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:14:38.96,0:14:41.58,Default,,0000,0000,0000,,The two of you didn't fight, did you?
 Dialogue: 0,0:14:41.58,0:14:43.50,Default,,0000,0000,0000,,That's not what happened.
@@ -350,8 +352,8 @@ Dialogue: 0,0:19:36.34,0:19:39.42,Default,,0000,0000,0000,,Kiryu Moeka?!
 Dialogue: 0,0:19:41.84,0:19:43.51,Default,,0000,0000,0000,,Why?!
 Dialogue: 0,0:19:43.51,0:19:45.97,Default,,0000,0000,0000,,Why is Moeka here?!
 Dialogue: 0,0:19:45.97,0:19:48.43,Default,,0000,0000,0000,,No... Not again!
-Dialogue: 0,0:19:48.43,0:19:51.52,Default,,0000,0000,0000,,Calm down! This is a beta world line!
-Dialogue: 0,0:19:51.52,0:19:55.06,Default,,0000,0000,0000,,It's not like that other world line!
+Dialogue: 0,0:19:48.43,0:19:51.52,Default,,0000,0000,0000,,Calm down! This is a Beta worldline!
+Dialogue: 0,0:19:51.52,0:19:55.06,Default,,0000,0000,0000,,It's not like that other worldline!
 Dialogue: 0,0:19:55.06,0:19:56.61,Default,,0000,0000,0000,,It's not...
 Dialogue: 0,0:19:57.90,0:19:59.99,On Top,,0000,0000,0000,,"Artificial Intelligence Revolution"\N"An Analysis of Neural Pulse Signals in Relation\Nto Memories Stored in the Temporal Lobe"
 Dialogue: 0,0:20:05.57,0:20:08.74,Default,,0000,0000,0000,,Is that... the girl from earlier?

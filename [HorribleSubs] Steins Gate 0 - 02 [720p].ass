@@ -1,5 +1,7 @@
 ﻿[Script Info]
 Title: HorribleSubs
+; Subs edited by Woute and Davixxa for consistency
+; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 848
@@ -74,7 +76,7 @@ Dialogue: 0,0:05:19.27,0:05:21.90,Default,,0000,0000,0000,,I'm not cut out for t
 Dialogue: 0,0:05:25.24,0:05:28.24,Default,,0000,0000,0000,,It's you, from the reception desk...
 Dialogue: 0,0:05:28.24,0:05:29.49,Default,,0000,0000,0000,,Um...
 Dialogue: 0,0:05:29.49,0:05:31.58,Default,,0000,0000,0000,,I'm Okabe Rintaro.
-Dialogue: 0,0:05:31.58,0:05:33.87,Default,,0000,0000,0000,,You were Hiyajo-{\i1}san{\i}, right?
+Dialogue: 0,0:05:31.58,0:05:33.87,Default,,0000,0000,0000,,You were Hiyajo, right?
 Dialogue: 0,0:05:33.87,0:05:36.04,Default,,0000,0000,0000,,It's a strange name, isn't it?
 Dialogue: 0,0:05:36.04,0:05:38.33,Default,,0000,0000,0000,,Pretty common in Okinawa though.
 Dialogue: 0,0:05:38.33,0:05:39.67,Default,,0000,0000,0000,,Uh...
@@ -213,7 +215,7 @@ Dialogue: 0,0:13:31.81,0:13:33.60,Default,,0000,0000,0000,,Run while you still c
 Dialogue: 0,0:13:33.60,0:13:34.98,Default,,0000,0000,0000,,That's not very nice.
 Dialogue: 0,0:13:34.98,0:13:36.81,Default,,0000,0000,0000,,I'm just looking out for you.
 Dialogue: 0,0:13:36.81,0:13:40.94,Default,,0000,0000,0000,,In that case, you could\Nhave phrased it a little nicer.
-Dialogue: 0,0:13:40.94,0:13:44.74,Default,,0000,0000,0000,,Just like Kurisu.\NYou lab-obsessed girls are all so...
+Dialogue: 0,0:13:40.94,0:13:44.74,Default,,0000,0000,0000,,Just like Kurisu.\NYou experiment-loving girls are all so...
 Dialogue: 0,0:13:44.74,0:13:46.70,Default,,0000,0000,0000,,Uh, never mind.
 Dialogue: 0,0:13:46.70,0:13:50.62,Default,,0000,0000,0000,,People spending all their time\Non experiments forget how to be nice.
 Dialogue: 0,0:13:50.62,0:13:54.12,Default,,0000,0000,0000,,If I'm not mistaken,\Nthat sounds like slander to me.
@@ -226,7 +228,7 @@ Dialogue: 0,0:14:15.48,0:14:19.85,Default,,0000,0000,0000,,Right there... beside
 Dialogue: 0,0:14:19.85,0:14:22.44,Default,,0000,0000,0000,,With her voice...
 Dialogue: 0,0:14:22.44,0:14:24.15,Default,,0000,0000,0000,,With her looks...
 Dialogue: 0,0:14:26.78,0:14:27.86,Default,,0000,0000,0000,,Go ahead.
-Dialogue: 0,0:14:36.12,0:14:38.04,Default,,0000,0000,0000,,Okabe Rintaro-{\i1}san{\i}?
+Dialogue: 0,0:14:36.12,0:14:38.04,Default,,0000,0000,0000,,Okabe Rintaro?
 Dialogue: 0,0:14:38.04,0:14:41.17,Default,,0000,0000,0000,,Nice to meet you.
 Dialogue: 0,0:14:41.17,0:14:42.92,Default,,0000,0000,0000,,I'm Makise Kurisu.
 Dialogue: 0,0:14:42.92,0:14:44.38,Default,,0000,0000,0000,,It's a pleasure.
@@ -235,7 +237,7 @@ Dialogue: 0,0:14:51.55,0:14:53.89,Default,,0000,0000,0000,,This is Okabe Rintaro
 Dialogue: 0,0:14:53.89,0:14:56.60,Default,,0000,0000,0000,,We met after our seminar the other day.
 Dialogue: 0,0:14:56.60,0:15:00.52,Default,,0000,0000,0000,,He seemed very interested\Nin Amadeus, so we had him come.
 Dialogue: 0,0:15:00.52,0:15:05.32,Default,,0000,0000,0000,,Really? For you to do that,\Nhe must be something special.
-Dialogue: 0,0:15:05.32,0:15:09.45,Default,,0000,0000,0000,,Um, Okabe-{\i1}san{\i}?
+Dialogue: 0,0:15:05.32,0:15:09.45,Default,,0000,0000,0000,,Um, Okabe?
 Dialogue: 0,0:15:09.45,0:15:12.12,Default,,0000,0000,0000,,Are you a neuroscientist as well?
 Dialogue: 0,0:15:13.83,0:15:17.33,Default,,0000,0000,0000,,His major is different,\Nbut he's talented for sure.
 Dialogue: 0,0:15:17.33,0:15:19.79,Default,,0000,0000,0000,,Even the Professor took a liking to him.
@@ -253,7 +255,7 @@ Dialogue: 0,0:15:43.02,0:15:44.23,Default,,0000,0000,0000,,What did she say?
 Dialogue: 0,0:15:44.23,0:15:45.82,Default,,0000,0000,0000,,None of your business!
 Dialogue: 0,0:15:45.82,0:15:46.65,Default,,0000,0000,0000,,Right!
 Dialogue: 0,0:15:46.65,0:15:49.19,Default,,0000,0000,0000,,Don't say anything stupid, got it?
-Dialogue: 0,0:15:49.19,0:15:53.16,Default,,0000,0000,0000,,We didn't invite Okabe-{\i1}san{\i}\Nhere to talk about nonsense like that.
+Dialogue: 0,0:15:49.19,0:15:53.16,Default,,0000,0000,0000,,We didn't invite Okabe\Nhere to talk about nonsense like that.
 Dialogue: 0,0:15:53.16,0:15:55.41,Default,,0000,0000,0000,,The more you evade it,\Nthe more suspicious it is.
 Dialogue: 0,0:15:55.41,0:15:57.29,Default,,0000,0000,0000,,I'll infect you with a virus!
 Dialogue: 0,0:15:57.29,0:15:59.29,Default,,0000,0000,0000,,Just kidding! I'll say no more!
@@ -289,7 +291,7 @@ Dialogue: 0,0:17:13.65,0:17:15.57,Default,,0000,0000,0000,,Mm-hmm!
 Dialogue: 0,0:17:15.57,0:17:16.99,Default,,0000,0000,0000,,Well?
 Dialogue: 0,0:17:16.99,0:17:21.16,Default,,0000,0000,0000,,The answer she gave was somewhat\Ndifferent than when we spoke before...
 Dialogue: 0,0:17:21.16,0:17:22.54,Default,,0000,0000,0000,,Hmm...
-Dialogue: 0,0:17:22.54,0:17:26.71,Default,,0000,0000,0000,,Is it due to the differences\Nin the alpha and beta world lines?
+Dialogue: 0,0:17:22.54,0:17:26.71,Default,,0000,0000,0000,,Is it due to the differences\Nin the Alpha and Beta worldlines?
 Dialogue: 0,0:17:37.72,0:17:40.22,Default,,0000,0000,0000,,What awful pronunciation.
 Dialogue: 0,0:17:40.22,0:17:42.77,Default,,0000,0000,0000,,Shut your trap, Christina!
 Dialogue: 0,0:17:45.77,0:17:47.19,Default,,0000,0000,0000,,Christina?
@@ -324,7 +326,7 @@ Dialogue: 0,0:19:13.61,0:19:16.53,Default,,0000,0000,0000,,I knew this was going
 Dialogue: 0,0:19:16.53,0:19:17.99,Default,,0000,0000,0000,,Did you?
 Dialogue: 0,0:19:17.99,0:19:19.49,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:19:19.49,0:19:23.99,Default,,0000,0000,0000,,From the moment\NI found out he knew about Kurisu.
-Dialogue: 0,0:19:23.99,0:19:27.33,Default,,0000,0000,0000,,I hope we can meet again, Okabe Rintaro-{\i1}san{\i}.
+Dialogue: 0,0:19:23.99,0:19:27.33,Default,,0000,0000,0000,,I hope we can meet again, Okabe Rintaro.
 Dialogue: 0,0:19:29.58,0:19:33.88,Default,,0000,0000,0000,,There's somebody out there\Nwho knows a Kurisu that I don't...
 Dialogue: 0,0:19:33.88,0:19:37.88,Default,,0000,0000,0000,,Senpai? Senpai?
 Dialogue: 0,0:19:37.88,0:19:39.97,Default,,0000,0000,0000,,Shall I grab that for you?
@@ -340,21 +342,21 @@ Dialogue: 0,0:20:01.32,0:20:04.45,Default,,0000,0000,0000,,But this might the la
 Dialogue: 0,0:20:06.78,0:20:09.29,Default,,0000,0000,0000,,You're the one who needs\Nto learn some manners.
 Dialogue: 0,0:20:12.12,0:20:13.62,Default,,0000,0000,0000,,Operation?
 Dialogue: 0,0:20:13.62,0:20:14.38,Default,,0000,0000,0000,,Yup!
-Dialogue: 0,0:20:14.38,0:20:18.80,Default,,0000,0000,0000,,Daru-{\i1}kun{\i} and I thought of a big\Noperation to cheer up Suzu-{\i1}san{\i}!
+Dialogue: 0,0:20:14.38,0:20:18.80,Default,,0000,0000,0000,,Daru and I thought of a big\Noperation to cheer up Suzu!
 Dialogue: 0,0:20:18.80,0:20:21.88,Default,,0000,0000,0000,,Eh? You guys are putting something together?
-Dialogue: 0,0:20:21.88,0:20:28.39,Default,,0000,0000,0000,,To be honest, Mayushii is a little scared\Nof Suzu-{\i1}san{\i}, but she's a really nice person!
+Dialogue: 0,0:20:21.88,0:20:28.39,Default,,0000,0000,0000,,To be honest, Mayushii is a little scared\Nof Suzu, but she's a really nice person!
 Dialogue: 0,0:20:28.39,0:20:32.48,Default,,0000,0000,0000,,When Mayushii is half-asleep,\Nshe sneaks over and puts a blanket over me.
-Dialogue: 0,0:20:32.48,0:20:37.19,Default,,0000,0000,0000,,And she's always helping\Nwith Ruka-{\i1}kun{\i} and the others too.
+Dialogue: 0,0:20:32.48,0:20:37.19,Default,,0000,0000,0000,,And she's always helping\Nwith Luka and the others too.
 Dialogue: 0,0:20:37.19,0:20:38.23,Default,,0000,0000,0000,,Are you okay?
 Dialogue: 0,0:20:38.23,0:20:40.32,Default,,0000,0000,0000,,Y-Yeah.
-Dialogue: 0,0:20:40.32,0:20:42.40,Default,,0000,0000,0000,,So we're thinking of throwing Suzu-{\i1}san{\i}
+Dialogue: 0,0:20:40.32,0:20:42.40,Default,,0000,0000,0000,,So we're thinking of throwing Suzu
 Dialogue: 0,0:20:42.40,0:20:46.62,Default,,0000,0000,0000,,a big Christmas party as\Na present to help her cheer up!
 Dialogue: 0,0:20:46.62,0:20:47.91,Default,,0000,0000,0000,,A party, huh?
 Dialogue: 0,0:20:47.91,0:20:49.12,Default,,0000,0000,0000,,Can't come?
 Dialogue: 0,0:20:49.12,0:20:53.21,Default,,0000,0000,0000,,It's not that I can't,\Nbut I doubt Suzuha would like that.
 Dialogue: 0,0:20:53.21,0:20:55.17,Default,,0000,0000,0000,,I bet she'd be upset I came.
 Dialogue: 0,0:20:55.17,0:20:57.50,Default,,0000,0000,0000,,I don't think that she will.
-Dialogue: 0,0:20:57.50,0:21:02.01,Default,,0000,0000,0000,,Suzu-{\i1}san{\i} wants to patch things\Nup with you too, I'm sure.
+Dialogue: 0,0:20:57.50,0:21:02.01,Default,,0000,0000,0000,,Suzu wants to patch things\Nup with you too, I'm sure.
 Dialogue: 0,0:21:05.93,0:21:08.35,Default,,0000,0000,0000,,You should answer it.
 Dialogue: 0,0:21:08.35,0:21:10.72,Default,,0000,0000,0000,,Mayushii will wait for you.
 Dialogue: 0,0:21:10.72,0:21:12.18,Default,,0000,0000,0000,,Sorry.
