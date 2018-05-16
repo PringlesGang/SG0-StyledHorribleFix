@@ -1,5 +1,8 @@
 ﻿[Script Info]
-Title: HorribleSubs
+Title: HorribleSubs(Fix)
+; Subs edited by Woute and Davixxa for consistency
+; Fatima translation by Rigs
+; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 848
@@ -20,7 +23,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.62,0:00:02.96,Default,,0000,0000,0000,,All right. We're going to the store.
 Dialogue: 0,0:00:02.96,0:00:06.46,Default,,0000,0000,0000,,If you remember something\Nyou need, feel free to message us.
 Dialogue: 0,0:00:06.46,0:00:07.75,Default,,0000,0000,0000,,Okay.
-Dialogue: 0,0:00:11.92,0:00:14.22,Default,,0000,0000,0000,,You're fine with this, Mayuri-{\i1}chan{\i}?
+Dialogue: 0,0:00:11.92,0:00:14.22,Default,,0000,0000,0000,,You're fine with this, Mayuri?
 Dialogue: 0,0:00:16.51,0:00:19.60,Default,,0000,0000,0000,,Even if Mayushii stays, I won't be of any help.
 Dialogue: 0,0:00:22.14,0:00:23.98,Default,,0000,0000,0000,,That way's the long way to...
 Dialogue: 0,0:00:30.86,0:00:32.82,Default,,0000,0000,0000,,You lost your memories?!
@@ -28,61 +31,61 @@ Dialogue: 0,0:00:32.82,0:00:34.11,Default,,0000,0000,0000,,Yes...
 Dialogue: 0,0:00:34.11,0:00:38.62,Default,,0000,0000,0000,,So this whole time, you can't\Nremember anything that happened...
 Dialogue: 0,0:00:38.62,0:00:40.24,Default,,0000,0000,0000,,You're kidding...
 Dialogue: 0,0:00:40.24,0:00:44.75,Default,,0000,0000,0000,,Suzuha, why is it that\Nyou think she's Shiina Kagari?
-Dialogue: 0,0:00:44.75,0:00:47.71,Default,,0000,0000,0000,,I told you already! Because of that oopa!
+Dialogue: 0,0:00:44.75,0:00:47.71,Default,,0000,0000,0000,,I told you already! Because of that Upa!
 Dialogue: 0,0:00:47.71,0:00:50.30,Default,,0000,0000,0000,,It's something she got from her mom.
 Dialogue: 0,0:00:50.30,0:00:54.17,Default,,0000,0000,0000,,It was Kagari's charm...\NOne that she always cherished.
-Dialogue: 0,0:00:54.17,0:00:56.34,Default,,0000,0000,0000,,Where did you get that, Kana-{\i1}san{\i}?
+Dialogue: 0,0:00:54.17,0:00:56.34,Default,,0000,0000,0000,,Where did you get that, Kana?
 Dialogue: 0,0:00:56.34,0:00:57.68,Default,,0000,0000,0000,,I don't know...
 Dialogue: 0,0:00:57.68,0:01:03.73,Default,,0000,0000,0000,,When they found me collapsed and unconscious,\Nthis is the only thing I had with me.
 Dialogue: 0,0:01:03.73,0:01:05.27,Default,,0000,0000,0000,,Unconscious?
 Dialogue: 0,0:01:05.27,0:01:08.11,Default,,0000,0000,0000,,I was lying near the border of Chiba Prefecture
 Dialogue: 0,0:01:08.11,0:01:11.36,Default,,0000,0000,0000,,when a priest passing by\Nmust have stumbled across me.
-Dialogue: 0,0:01:11.36,0:01:13.94,Default,,0000,0000,0000,,So how did you end up at Rukako's?
+Dialogue: 0,0:01:11.36,0:01:13.94,Default,,0000,0000,0000,,So how did you end up at Lukako's?
 Dialogue: 0,0:01:13.94,0:01:19.16,Default,,0000,0000,0000,,They felt it wasn't right for a girl\Nto stay long at a practicing temple.
-Dialogue: 0,0:01:19.16,0:01:23.25,Default,,0000,0000,0000,,At Big Bro Ruka's? To think she was so close!
+Dialogue: 0,0:01:19.16,0:01:23.25,Default,,0000,0000,0000,,At Big Bro Luka's? To think she was so close!
 Dialogue: 0,0:01:23.25,0:01:27.79,Default,,0000,0000,0000,,Um, am I... Is my name actually Shiina Kagari?
 Dialogue: 0,0:01:27.79,0:01:31.38,Default,,0000,0000,0000,,Do the two of you know something about me?
 Dialogue: 0,0:01:31.38,0:01:32.00,Default,,0000,0000,0000,,I--
 Dialogue: 0,0:01:32.00,0:01:34.05,Default,,0000,0000,0000,,Wait. Calm down...
 Dialogue: 0,0:01:34.05,0:01:35.59,Default,,0000,0000,0000,,Sorry.
-Dialogue: 0,0:01:35.59,0:01:41.81,Default,,0000,0000,0000,,Kana-{\i1}san{\i}, does hearing the name\NShiina Kagari make you remember anything?
+Dialogue: 0,0:01:35.59,0:01:41.81,Default,,0000,0000,0000,,Kana, does hearing the name\NShiina Kagari make you remember anything?
 Dialogue: 0,0:01:41.81,0:01:44.52,Default,,0000,0000,0000,,I don't know...
 Dialogue: 0,0:01:44.52,0:01:49.23,Default,,0000,0000,0000,,But... In a way, it sounds very nostalgic.
 Dialogue: 0,0:01:49.23,0:01:51.57,Default,,0000,0000,0000,,Tell me, that person just now...
 Dialogue: 0,0:01:51.57,0:01:53.32,Default,,0000,0000,0000,,You mean Mayuri?
-Dialogue: 0,0:01:54.90,0:02:00.12,Default,,0000,0000,0000,,Mayuri-{\i1}san{\i}... was her name?
+Dialogue: 0,0:01:54.90,0:02:00.12,Default,,0000,0000,0000,,Mayuri... was her name?
 Dialogue: 0,0:02:00.12,0:02:01.91,Default,,0000,0000,0000,,Kagari...
 Dialogue: 0,0:02:01.91,0:02:06.33,Default,,0000,0000,0000,,Shiina Kagari...
 Dialogue: 0,0:02:06.33,0:02:08.37,Default,,0000,0000,0000,,Shiina Kagari.
 Dialogue: 0,0:02:08.37,0:02:13.71,Default,,0000,0000,0000,,In 2036... she was Mayuri's... daughter.
-Dialogue: 0,0:02:29.90,0:02:35.19,Default,,0000,0000,0000,,{\i1}This world is not even real at all{\i}
-Dialogue: 0,0:02:35.19,0:02:41.11,Default,,0000,0000,0000,,{\i1}It's just a vision pulled over our eyes{\i}
-Dialogue: 0,0:02:42.12,0:02:52.96,Default,,0000,0000,0000,,{\i1}At the point of infinity, a mundane cosmos{\i}\N{\i1}is overwriting all the values I know{\i}
-Dialogue: 0,0:02:52.96,0:03:02.68,Default,,0000,0000,0000,,{\i1}If some arrogant god thinks they've seized control{\i}\N{\i1}and keeps pulling strings at the speed of light{\i}
-Dialogue: 0,0:03:02.68,0:03:08.02,Default,,0000,0000,0000,,{\i1}Then I, just I alone{\i}
-Dialogue: 0,0:03:08.02,0:03:14.77,Default,,0000,0000,0000,,{\i1}I'm fine being that miracle,{\i}\N{\i1}that lethal minority{\i}
+Dialogue: 0,0:02:29.90,0:02:35.19,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
+Dialogue: 0,0:02:35.19,0:02:41.11,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
+Dialogue: 0,0:02:42.12,0:02:52.96,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
+Dialogue: 0,0:02:52.96,0:03:02.68,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
+Dialogue: 0,0:03:02.68,0:03:08.02,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
+Dialogue: 0,0:03:08.02,0:03:14.77,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
 Dialogue: 0,0:03:14.77,0:03:15.86,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
-Dialogue: 0,0:03:15.86,0:03:21.78,Default,,0000,0000,0000,,{\i1}If that moment, if that place was{\i}\N{\i1}something you thought was special to you{\i}
-Dialogue: 0,0:03:21.78,0:03:26.54,Default,,0000,0000,0000,,{\i1}The past doesn't have to be{\i}\N{\i1}memories that simply drift away{\i}
-Dialogue: 0,0:03:26.54,0:03:32.04,Default,,0000,0000,0000,,{\i1}Instead of the pain of being hurt,{\i}\N{\i1}everything about that precious scene will{\i}
-Dialogue: 0,0:03:32.04,0:03:37.59,Default,,0000,0000,0000,,{\i1}Become a light and give birth to zero{\i}
-Dialogue: 0,0:03:37.59,0:03:42.93,Default,,0000,0000,0000,,{\i1}There is no god. Wonderful new world.{\i}
-Dialogue: 0,0:03:45.14,0:03:47.60,Default,,0000,0000,0000,,So you're saying Kana-{\i1}san{\i}--I mean...
-Dialogue: 0,0:03:47.60,0:03:50.98,Default,,0000,0000,0000,,Kagari-{\i1}san{\i} is somebody\Nthat you know, Suzuha-{\i1}san{\i}?
+Dialogue: 0,0:03:15.86,0:03:21.78,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
+Dialogue: 0,0:03:21.78,0:03:26.54,Default,,0000,0000,0000,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
+Dialogue: 0,0:03:26.54,0:03:32.04,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
+Dialogue: 0,0:03:32.04,0:03:37.59,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
+Dialogue: 0,0:03:37.59,0:03:42.93,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
+Dialogue: 0,0:03:45.14,0:03:47.60,Default,,0000,0000,0000,,So you're saying Kana--I mean...
+Dialogue: 0,0:03:47.60,0:03:50.98,Default,,0000,0000,0000,,Kagari is somebody\Nthat you know, Suzuha?
 Dialogue: 0,0:03:50.98,0:03:54.15,Default,,0000,0000,0000,,W-Well, I suppose you could say that.
-Dialogue: 0,0:03:54.15,0:03:59.40,Default,,0000,0000,0000,,In that case, don't you know where\NKagari-{\i1}san{\i} lived, or somebody in her family?
+Dialogue: 0,0:03:54.15,0:03:59.40,Default,,0000,0000,0000,,In that case, don't you know where\NKagari lived, or somebody in her family?
 Dialogue: 0,0:03:59.40,0:04:02.15,Default,,0000,0000,0000,,Uh, well, actually...
 Dialogue: 0,0:04:02.15,0:04:06.16,Default,,0000,0000,0000,,Sh-She moved away when they were just kids.
 Dialogue: 0,0:04:06.16,0:04:08.70,Default,,0000,0000,0000,,Suzuha doesn't know anything after that.
 Dialogue: 0,0:04:08.70,0:04:10.20,Default,,0000,0000,0000,,I see...
 Dialogue: 0,0:04:10.20,0:04:14.25,Default,,0000,0000,0000,,Oh, but at least we found out your real name.
 Dialogue: 0,0:04:14.25,0:04:15.67,Default,,0000,0000,0000,,Hey, hey.
-Dialogue: 0,0:04:15.67,0:04:18.75,Default,,0000,0000,0000,,Kagari-{\i1}san{\i}'s name is Shiina Kagari, right?
+Dialogue: 0,0:04:15.67,0:04:18.75,Default,,0000,0000,0000,,Kagari's name is Shiina Kagari, right?
 Dialogue: 0,0:04:18.75,0:04:20.55,Default,,0000,0000,0000,,Y-Yes...
 Dialogue: 0,0:04:20.55,0:04:23.18,Default,,0000,0000,0000,,That means you're just like me!
 Dialogue: 0,0:04:23.18,0:04:25.97,Default,,0000,0000,0000,,Because Mayushii is Shiina Mayuri.
-Dialogue: 0,0:04:25.97,0:04:29.39,Default,,0000,0000,0000,,Shiina Mayuri-{\i1}san{\i}...
-Dialogue: 0,0:04:29.39,0:04:34.64,Default,,0000,0000,0000,,I heard from Ruka-{\i1}kun{\i},\Nbut is it true you have amnesia?
+Dialogue: 0,0:04:25.97,0:04:29.39,Default,,0000,0000,0000,,Shiina Mayuri...
+Dialogue: 0,0:04:29.39,0:04:34.64,Default,,0000,0000,0000,,I heard from Luka,\Nbut is it true you have amnesia?
 Dialogue: 0,0:04:34.64,0:04:35.52,Default,,0000,0000,0000,,Yes...
 Dialogue: 0,0:04:35.52,0:04:40.15,Default,,0000,0000,0000,,So... You don't even remember\Nanything about who you are?
 Dialogue: 0,0:04:40.15,0:04:42.32,Default,,0000,0000,0000,,Yes...
@@ -138,16 +141,16 @@ Dialogue: 0,0:07:20.39,0:07:23.27,Default,,0000,0000,0000,,Um, I'm sorry for eve
 Dialogue: 0,0:07:23.27,0:07:25.36,Default,,0000,0000,0000,,You shouldn't be!
 Dialogue: 0,0:07:25.36,0:07:29.07,Default,,0000,0000,0000,,Mayushii wants to help out too,\Nso say if you need something!
 Dialogue: 0,0:07:29.07,0:07:32.95,Default,,0000,0000,0000,,Yes, thank you.
-Dialogue: 0,0:07:32.95,0:07:35.33,Default,,0000,0000,0000,,Rukako, got a minute?
-Dialogue: 0,0:07:37.04,0:07:40.21,Default,,0000,0000,0000,,Try to keep Kagari-{\i1}san{\i} from going outside?
+Dialogue: 0,0:07:32.95,0:07:35.33,Default,,0000,0000,0000,,Lukako, got a minute?
+Dialogue: 0,0:07:37.04,0:07:40.21,Default,,0000,0000,0000,,Try to keep Kagari from going outside?
 Dialogue: 0,0:07:40.21,0:07:41.41,Default,,0000,0000,0000,,But, that's...
 Dialogue: 0,0:07:41.41,0:07:44.79,Default,,0000,0000,0000,,If she has to, make\Nsure someone goes with her.
 Dialogue: 0,0:07:44.79,0:07:48.13,Default,,0000,0000,0000,,As for why... I can't say yet.
-Dialogue: 0,0:07:48.13,0:07:51.30,Default,,0000,0000,0000,,If that's what you say, Okabe-{\i1}san{\i}...
+Dialogue: 0,0:07:48.13,0:07:51.30,Default,,0000,0000,0000,,If that's what you say, Okabe...
 Dialogue: 0,0:07:51.30,0:07:53.80,Default,,0000,0000,0000,,Sorry.
 Dialogue: 0,0:07:53.80,0:07:57.18,Default,,0000,0000,0000,,We still don't know\Nwho else was searching for Kagari.
 Dialogue: 0,0:07:57.18,0:08:02.10,Default,,0000,0000,0000,,And until we do, it's best if\Nwe take all the precautions we can.
-Dialogue: 0,0:08:03.98,0:08:07.98,Default,,0000,0000,0000,,In any case, it's great that\Nwe finally found Kagari-{\i1}tan{\i}.
+Dialogue: 0,0:08:03.98,0:08:07.98,Default,,0000,0000,0000,,In any case, it's great that\Nwe finally found Kagari.
 Dialogue: 0,0:08:07.98,0:08:10.15,Default,,0000,0000,0000,,Now you can relax for once.
 Dialogue: 0,0:08:10.15,0:08:13.03,Default,,0000,0000,0000,,Yeah, I guess...
 Dialogue: 0,0:08:14.03,0:08:17.33,Default,,0000,0000,0000,,Not exactly the relieved face I was expecting...
@@ -166,7 +169,7 @@ Dialogue: 0,0:08:58.12,0:09:02.12,Default,,0000,0000,0000,,You can't do somethin
 Dialogue: 0,0:09:02.12,0:09:04.75,Default,,0000,0000,0000,,I hear... a voice...
 Dialogue: 0,0:09:04.75,0:09:06.25,Default,,0000,0000,0000,,Kagari!
 Dialogue: 0,0:09:17.26,0:09:18.55,Default,,0000,0000,0000,,Suzuha...
-Dialogue: 0,0:09:19.05,0:09:24.06,On Top,,0000,0000,0000,,"Eclipse of Orbital Ordering -The Orbital Eclipse-"
+Dialogue: 0,0:09:19.05,0:09:24.06,On Top,,0000,0000,0000,,"Eclipse of Orbital Ordering - The Orbital Eclipse -"
 Dialogue: 0,0:09:26.02,0:09:27.73,Default,,0000,0000,0000,,Hey, Okarin...
 Dialogue: 0,0:09:26.69,0:09:28.86,On Top,,0000,0000,0000,,"New Year greetings"
 Dialogue: 0,0:09:27.73,0:09:31.32,Default,,0000,0000,0000,,Aren't we supposed to be going\Nto the shrine for New Year’s?
@@ -187,7 +190,7 @@ Dialogue: 0,0:10:09.65,0:10:11.27,Default,,0000,0000,0000,,You're so adorable!
 Dialogue: 0,0:10:11.27,0:10:13.90,Default,,0000,0000,0000,,Of course you are, you're my daughter!
 Dialogue: 0,0:10:15.32,0:10:17.45,Default,,0000,0000,0000,,Y-You're hurting me, Dad.
 Dialogue: 0,0:10:17.45,0:10:19.61,Default,,0000,0000,0000,,Good thing she looks nothing like--
-Dialogue: 0,0:10:19.61,0:10:25.41,Default,,0000,0000,0000,,Dad, I can't wait! I'm so excited\Nto see Big Sis Mayuri as a shrine maiden!
+Dialogue: 0,0:10:19.61,0:10:25.41,Default,,0000,0000,0000,,Dad, I can't wait! I'm so excited\Nto see Big Sis Mayuri as a shrine priestess!
 Dialogue: 0,0:10:25.41,0:10:26.54,Default,,0000,0000,0000,,Oh, yeah?
 Dialogue: 0,0:10:26.54,0:10:29.12,Default,,0000,0000,0000,,You listen to the girls and behave, all right?
 Dialogue: 0,0:10:29.12,0:10:30.42,Default,,0000,0000,0000,,'Kay!
@@ -203,25 +206,25 @@ Dialogue: 0,0:10:52.11,0:10:54.11,Default,,0000,0000,0000,,Oh, before that...
 Dialogue: 0,0:10:54.11,0:10:56.90,Default,,0000,0000,0000,,We're forgetting something important.
 Dialogue: 0,0:10:56.90,0:10:58.74,Default,,0000,0000,0000,,Happy...
 Dialogue: 0,0:10:58.74,0:11:01.82,Default,,0000,0000,0000,,New Year!
-Dialogue: 0,0:11:01.82,0:11:04.53,Default,,0000,0000,0000,,Can't wait to see Mayushii's\Nshrine maiden costume!
+Dialogue: 0,0:11:01.82,0:11:04.53,Default,,0000,0000,0000,,Can't wait to see Mayushii's\Nshrine priestess costume!
 Dialogue: 0,0:11:04.53,0:11:08.16,Default,,0000,0000,0000,,Silly! It's not a costume today,\Nit's her uniform!
 Dialogue: 0,0:11:08.16,0:11:09.71,Default,,0000,0000,0000,,Oh, right!
-Dialogue: 0,0:11:09.71,0:11:12.50,Default,,0000,0000,0000,,Isn't Suzuha-{\i1}san{\i} working there too?
+Dialogue: 0,0:11:09.71,0:11:12.50,Default,,0000,0000,0000,,Isn't Suzuha working there too?
 Dialogue: 0,0:11:12.50,0:11:13.96,Default,,0000,0000,0000,,That should be fun.
-Dialogue: 0,0:11:13.96,0:11:16.21,Default,,0000,0000,0000,,Having a shrine maiden sister is one thing...
+Dialogue: 0,0:11:13.96,0:11:16.21,Default,,0000,0000,0000,,Having a shrine priestess sister is one thing...
 Dialogue: 0,0:11:16.21,0:11:19.30,Default,,0000,0000,0000,,But if you've gone that far, might as\Nwell make her a nurse while you're at it
 Dialogue: 0,0:11:19.30,0:11:21.59,Default,,0000,0000,0000,,and push her {\i1}moe{\i} score through the roof.
-Dialogue: 0,0:11:21.59,0:11:24.93,Default,,0000,0000,0000,,The perverseness is strong with Hashida-{\i1}san{\i}.
+Dialogue: 0,0:11:21.59,0:11:24.93,Default,,0000,0000,0000,,The perverseness is strong with Hashida.
 Dialogue: 0,0:11:24.93,0:11:27.72,Default,,0000,0000,0000,,Hey... Sorry about this.
-Dialogue: 0,0:11:27.72,0:11:33.10,Default,,0000,0000,0000,,I know it was Mayuri's idea, but she\Ngot recruited to work as a shrine maiden.
+Dialogue: 0,0:11:27.72,0:11:33.10,Default,,0000,0000,0000,,I know it was Mayuri's idea, but she\Ngot recruited to work as a shrine priestess.
 Dialogue: 0,0:11:33.10,0:11:35.11,Default,,0000,0000,0000,,That doesn't bother me.
 Dialogue: 0,0:11:35.11,0:11:37.44,Default,,0000,0000,0000,,I wanted to talk to you anyways.
-Dialogue: 0,0:11:38.82,0:11:43.49,Default,,0000,0000,0000,,By the way, aren't you attending\Nan American university, Hiyajo-{\i1}san{\i}?
+Dialogue: 0,0:11:38.82,0:11:43.49,Default,,0000,0000,0000,,By the way, aren't you attending\Nan American university, Hiyajo?
 Dialogue: 0,0:11:43.49,0:11:44.95,Default,,0000,0000,0000,,Huh? Yeah...
 Dialogue: 0,0:11:44.95,0:11:46.95,Default,,0000,0000,0000,,Your research sounds really cool!
 Dialogue: 0,0:11:46.95,0:11:49.20,Default,,0000,0000,0000,,What was it again? Aye-ayes?
 Dialogue: 0,0:11:49.20,0:11:50.16,Default,,0000,0000,0000,,The lemur?
-Dialogue: 0,0:11:50.16,0:11:52.17,Default,,0000,0000,0000,,It's AI, Fubuki-{\i1}chan{\i}.
+Dialogue: 0,0:11:50.16,0:11:52.17,Default,,0000,0000,0000,,It's AI, Fubuki.
 Dialogue: 0,0:11:52.17,0:11:54.00,Default,,0000,0000,0000,,Yeah, yeah! That!
 Dialogue: 0,0:11:54.00,0:11:58.34,Default,,0000,0000,0000,,AI, as in you research\Nartificial intelligence, right?
 Dialogue: 0,0:11:58.34,0:12:01.26,Default,,0000,0000,0000,,I'm really interested in that, actually!
@@ -229,13 +232,13 @@ Dialogue: 0,0:12:04.93,0:12:06.93,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:12:06.93,0:12:10.02,Default,,0000,0000,0000,,You okay over there?
 Dialogue: 0,0:12:10.02,0:12:12.52,Default,,0000,0000,0000,,It's nothing... Let's go.
 Dialogue: 0,0:12:15.36,0:12:16.61,Default,,0000,0000,0000,,Ah!
-Dialogue: 0,0:12:16.61,0:12:19.61,Default,,0000,0000,0000,,Okarin! Over here, meow!
+Dialogue: 0,0:12:16.61,0:12:19.61,Default,,0000,0000,0000,,Okarin! Over here, nya!
 Dialogue: 0,0:12:19.61,0:12:22.57,Default,,0000,0000,0000,,Happy New Year!
 Dialogue: 0,0:12:22.57,0:12:25.82,Default,,0000,0000,0000,,Happy New Year!
 Dialogue: 0,0:12:25.82,0:12:27.95,Default,,0000,0000,0000,,Happy New meow!
-Dialogue: 0,0:12:27.95,0:12:31.33,Default,,0000,0000,0000,,Ooh! It's a shrine maiden paradise!
+Dialogue: 0,0:12:27.95,0:12:31.33,Default,,0000,0000,0000,,Ooh! It's a shrine priestess paradise!
 Dialogue: 0,0:12:31.33,0:12:33.29,Default,,0000,0000,0000,,Is this heaven?
-Dialogue: 0,0:12:35.79,0:12:38.00,Default,,0000,0000,0000,,Suzuha-{\i1}san{\i}, you're lovely!
+Dialogue: 0,0:12:35.79,0:12:38.00,Default,,0000,0000,0000,,Suzuha, you're lovely!
 Dialogue: 0,0:12:38.00,0:12:40.09,Default,,0000,0000,0000,,Th-Thank you.
 Dialogue: 0,0:12:40.09,0:12:43.63,Default,,0000,0000,0000,,It looks great on you, right?
 Dialogue: 0,0:12:45.01,0:12:46.93,Default,,0000,0000,0000,,Suzuha...
@@ -249,7 +252,7 @@ Dialogue: 0,0:13:14.96,0:13:16.87,Default,,0000,0000,0000,,W-Would you like to o
 Dialogue: 0,0:13:16.87,0:13:20.42,Default,,0000,0000,0000,,Or how about a fortune slip?
 Dialogue: 0,0:13:20.42,0:13:23.01,Default,,0000,0000,0000,,I can't... believe you.
 Dialogue: 0,0:13:23.01,0:13:25.38,Default,,0000,0000,0000,,Um, did I do something?
-Dialogue: 0,0:13:25.38,0:13:28.64,Default,,0000,0000,0000,,Ruka-{\i1}kun{\i} is as beautiful as ever.
+Dialogue: 0,0:13:25.38,0:13:28.64,Default,,0000,0000,0000,,Luka is as beautiful as ever.
 Dialogue: 0,0:13:28.64,0:13:30.60,Default,,0000,0000,0000,,Th-That's not--
 Dialogue: 0,0:13:30.60,0:13:32.60,Default,,0000,0000,0000,,I refuse to believe it.
 Dialogue: 0,0:13:32.60,0:13:34.10,Default,,0000,0000,0000,,How is that a boy?
@@ -261,7 +264,7 @@ Dialogue: 0,0:13:44.07,0:13:47.36,Default,,0000,0000,0000,,Eh?!
 Dialogue: 0,0:13:49.78,0:13:51.70,Default,,0000,0000,0000,,So... Is it good?
 Dialogue: 0,0:13:51.70,0:13:54.25,Default,,0000,0000,0000,,Yeah, you look great in it.
 Dialogue: 0,0:13:54.25,0:13:56.87,Default,,0000,0000,0000,,Really? Thank goodness!
-Dialogue: 0,0:13:56.87,0:14:01.00,Default,,0000,0000,0000,,Mayuri-{\i1}san{\i} didn't want to believe us\Nwhen we told her that a hundred times.
+Dialogue: 0,0:13:56.87,0:14:01.00,Default,,0000,0000,0000,,Mayuri didn't want to believe us\Nwhen we told her that a hundred times.
 Dialogue: 0,0:14:01.00,0:14:03.55,Default,,0000,0000,0000,,She kept worrying if you'd like it.
 Dialogue: 0,0:14:03.55,0:14:06.92,Default,,0000,0000,0000,,Y-You weren't supposed to say that.
 Dialogue: 0,0:14:06.92,0:14:08.13,Default,,0000,0000,0000,,Sorry.
@@ -271,7 +274,7 @@ Dialogue: 0,0:14:15.56,0:14:19.77,Default,,0000,0000,0000,,Don't say that! You l
 Dialogue: 0,0:14:19.77,0:14:22.11,Default,,0000,0000,0000,,Right, Okarin?
 Dialogue: 0,0:14:22.11,0:14:23.78,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:14:23.78,0:14:25.44,Default,,0000,0000,0000,,Looks pretty good.
-Dialogue: 0,0:14:31.95,0:14:34.24,Default,,0000,0000,0000,,Lucky you, meow!
+Dialogue: 0,0:14:31.95,0:14:34.24,Default,,0000,0000,0000,,Lucky you, nya!
 Dialogue: 0,0:14:33.70,0:14:35.79,On Top,,0000,0000,0000,,"Better fortune"
 Dialogue: 0,0:14:34.24,0:14:36.04,Default,,0000,0000,0000,,Ooh, I like it!
 Dialogue: 0,0:14:41.63,0:14:42.96,Default,,0000,0000,0000,,I was shocked.
@@ -292,9 +295,9 @@ Dialogue: 0,0:15:29.01,0:15:30.68,Default,,0000,0000,0000,,Professor?!
 Dialogue: 0,0:15:30.68,0:15:33.64,Default,,0000,0000,0000,,Happy New Year, Lintahlo!
 Dialogue: 0,0:15:33.64,0:15:37.27,Default,,0000,0000,0000,,I told them to come since\Nit's a special occasion.
 Dialogue: 0,0:15:37.27,0:15:38.72,Default,,0000,0000,0000,,Where are shrine maidens?!
-Dialogue: 0,0:15:38.72,0:15:41.19,Default,,0000,0000,0000,,Uh, famous shamans, where?!
+Dialogue: 0,0:15:38.72,0:15:41.19,Default,,0000,0000,0000,,Uh, famous shamans, where?!{Where are the Japanese shaman girls, Lintalho ?}
 Dialogue: 0,0:15:41.19,0:15:42.52,Default,,0000,0000,0000,,Shamans?
-Dialogue: 0,0:15:42.52,0:15:45.27,Default,,0000,0000,0000,,Oh, you mean the shrine maidens.
+Dialogue: 0,0:15:42.52,0:15:45.27,Default,,0000,0000,0000,,Oh, you mean the shrine priestesses.
 Dialogue: 0,0:15:45.27,0:15:47.19,Default,,0000,0000,0000,,They're all done for today.
 Dialogue: 0,0:15:47.19,0:15:51.15,Default,,0000,0000,0000,,We're all about to leave\Nsince they're done cleaning.
 Dialogue: 0,0:15:51.15,0:15:54.87,Default,,0000,0000,0000,,Holy Cow! That's why I said\Nwe should have come earlier!
@@ -302,7 +305,7 @@ Dialogue: 0,0:15:54.87,0:15:57.91,Default,,0000,0000,0000,,You're the one that c
 Dialogue: 0,0:15:57.91,0:16:00.75,Default,,0000,0000,0000,,Come on. Let's go visit the shrine.
 Dialogue: 0,0:16:00.75,0:16:04.63,On Top,,0000,0000,0000,,No! You've got to wash your hands here first!\NAnd don't walk in the middle of the path!
 Dialogue: 0,0:16:02.78,0:16:04.22,Default,,0000,0000,0000,,Okarin!
-Dialogue: 0,0:16:04.63,0:16:08.80,Default,,0000,0000,0000,,Ruka-{\i1}kun{\i}'s mom gave us\Na ton of New Year's food!
+Dialogue: 0,0:16:04.63,0:16:08.80,Default,,0000,0000,0000,,Luka's mom gave us\Na ton of New Year's food!
 Dialogue: 0,0:16:08.80,0:16:11.05,Default,,0000,0000,0000,,Sorry to keep you.
 Dialogue: 0,0:16:11.05,0:16:13.51,Default,,0000,0000,0000,,Rintaro! We'll see you later!
 Dialogue: 0,0:16:13.51,0:16:16.51,Default,,0000,0000,0000,,Eh? You're leaving already?
@@ -324,17 +327,17 @@ Dialogue: 0,0:16:59.97,0:17:01.97,Default,,0000,0000,0000,,Let's hear it one mor
 Dialogue: 0,0:17:01.97,0:17:04.81,Default,,0000,0000,0000,,Happy New Year, everyone!
 Dialogue: 0,0:17:04.81,0:17:07.77,Default,,0000,0000,0000,,Happy New Year!
 Dialogue: 0,0:17:07.77,0:17:09.90,Default,,0000,0000,0000,,Cheers!
-Dialogue: 0,0:17:09.90,0:17:12.99,Default,,0000,0000,0000,,Mm-mmm! This {\i1}zoni {\i}soup hits the spot!
-Dialogue: 0,0:17:12.99,0:17:16.20,Default,,0000,0000,0000,,It's from May Queen's New Year's menu, meow!
-Dialogue: 0,0:17:16.20,0:17:18.82,Default,,0000,0000,0000,,In other words, I'm tasting a bit of Faris-{\i1}tan{\i}?
-Dialogue: 0,0:17:18.82,0:17:22.12,Default,,0000,0000,0000,,Hashida-{\i1}san{\i}, you're such a pervert.
+Dialogue: 0,0:17:09.90,0:17:12.99,Default,,0000,0000,0000,,Mm-mmm! This {\i1}zoni{\i} soup hits the spot!
+Dialogue: 0,0:17:12.99,0:17:16.20,Default,,0000,0000,0000,,It's from MayQueen's New Year's menu, nya!
+Dialogue: 0,0:17:16.20,0:17:18.82,Default,,0000,0000,0000,,In other words, I'm tasting a bit of Faris?
+Dialogue: 0,0:17:18.82,0:17:22.12,Default,,0000,0000,0000,,Hashida, you're such a pervert.
 Dialogue: 0,0:17:22.12,0:17:25.62,Default,,0000,0000,0000,,These beans are delicious.\NThey seem packed with nutrition.
-Dialogue: 0,0:17:25.62,0:17:27.63,Default,,0000,0000,0000,,Help yourself, Nae-{\i1}chan{\i}!
+Dialogue: 0,0:17:25.62,0:17:27.63,Default,,0000,0000,0000,,Help yourself, Nae!
 Dialogue: 0,0:17:27.63,0:17:30.13,Default,,0000,0000,0000,,These {\i1}kinton{\i} are yummy too!
 Dialogue: 0,0:17:30.13,0:17:33.67,Default,,0000,0000,0000,,Th-There's no way I could eat all that...
 Dialogue: 0,0:17:35.22,0:17:38.22,Default,,0000,0000,0000,,It you don't eat up, you'll never get big!
 Dialogue: 0,0:17:39.80,0:17:40.93,Default,,0000,0000,0000,,Down the hatch!
-Dialogue: 0,0:17:40.93,0:17:43.93,Default,,0000,0000,0000,,Huh? Are we already out of tea, meow?
+Dialogue: 0,0:17:40.93,0:17:43.93,Default,,0000,0000,0000,,Huh? Are we already out of tea, nya?
 Dialogue: 0,0:17:43.93,0:17:47.02,Default,,0000,0000,0000,,Ah, we'll run to the store and buy some.
 Dialogue: 0,0:17:50.31,0:17:51.11,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:17:51.11,0:17:52.61,Default,,0000,0000,0000,,Ah, hello!
@@ -346,26 +349,26 @@ Dialogue: 0,0:17:59.53,0:18:01.78,Default,,0000,0000,0000,,Us two are just hitti
 Dialogue: 0,0:18:01.78,0:18:05.29,Default,,0000,0000,0000,,Yeah? In that case,\NI'll stop by and pick up Nae later.
 Dialogue: 0,0:18:05.29,0:18:09.17,Default,,0000,0000,0000,,Can you tell Okabe to let me\Nknow when your party is over?
 Dialogue: 0,0:18:09.17,0:18:11.04,Default,,0000,0000,0000,,Sure thing.
-Dialogue: 0,0:18:20.01,0:18:22.56,Default,,0000,0000,0000,,That's right, meow!
+Dialogue: 0,0:18:20.01,0:18:22.56,Default,,0000,0000,0000,,That's right, nya!
 Dialogue: 0,0:18:22.56,0:18:24.64,Default,,0000,0000,0000,,How about this one?
 Dialogue: 0,0:18:24.64,0:18:26.48,Default,,0000,0000,0000,,Hmm?
-Dialogue: 0,0:18:26.48,0:18:30.23,Default,,0000,0000,0000,,It's true, meow! I like, meow!
+Dialogue: 0,0:18:26.48,0:18:30.23,Default,,0000,0000,0000,,It's true, nya! I like, nya!
 Dialogue: 0,0:18:30.23,0:18:34.07,Default,,0000,0000,0000,,Ah, Senpai? Where in the world are...
 Dialogue: 0,0:18:34.07,0:18:36.90,Default,,0000,0000,0000,,Huh? Is that where I think it is?
 Dialogue: 0,0:18:36.90,0:18:40.91,Default,,0000,0000,0000,,Hey, what's that?
-Dialogue: 0,0:18:40.91,0:18:43.45,Default,,0000,0000,0000,,A friend of Maho's, meow?
+Dialogue: 0,0:18:40.91,0:18:43.45,Default,,0000,0000,0000,,A friend of Maho's, nya?
 Dialogue: 0,0:18:43.45,0:18:47.62,Default,,0000,0000,0000,,Ah, um... I'm...
-Dialogue: 0,0:18:47.62,0:18:49.58,Default,,0000,0000,0000,,A person from overseas, meow?
+Dialogue: 0,0:18:47.62,0:18:49.58,Default,,0000,0000,0000,,A person from overseas, nya?
 Dialogue: 0,0:18:49.58,0:18:54.42,Default,,0000,0000,0000,,I'm not a person, I'm artificial intelligence.\NThat is, an AI created by Maho.
 Dialogue: 0,0:18:54.42,0:18:55.17,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:18:55.17,0:18:56.59,Default,,0000,0000,0000,,AI?
 Dialogue: 0,0:18:56.59,0:18:58.59,Default,,0000,0000,0000,,Not a Lemur!
 Dialogue: 0,0:18:58.59,0:19:01.89,Default,,0000,0000,0000,,Seriously? Is that really AI?
 Dialogue: 0,0:19:04.97,0:19:06.22,Default,,0000,0000,0000,,I see...
-Dialogue: 0,0:19:06.22,0:19:09.19,Default,,0000,0000,0000,,You must all be members of Okabe-{\i1}san{\i}'s lab.
+Dialogue: 0,0:19:06.22,0:19:09.19,Default,,0000,0000,0000,,You must all be members of Okabe's lab.
 Dialogue: 0,0:19:09.19,0:19:11.94,Default,,0000,0000,0000,,Allow me to introduce myself.
 Dialogue: 0,0:19:11.94,0:19:18.49,Default,,0000,0000,0000,,I am Amadeus, an artificial intelligence\Nbased off the memories of Makise Kurisu.
-Dialogue: 0,0:19:19.61,0:19:23.20,Default,,0000,0000,0000,,Makise Kurisu-{\i1}san{\i}?
+Dialogue: 0,0:19:19.61,0:19:23.20,Default,,0000,0000,0000,,Makise Kurisu?
 Dialogue: 0,0:19:23.20,0:19:26.87,Default,,0000,0000,0000,,I take it all of you were\Nacquaintances of the original me?
 Dialogue: 0,0:19:26.87,0:19:29.50,Default,,0000,0000,0000,,Uh, actually it's more like...
 Dialogue: 0,0:19:29.50,0:19:32.71,Default,,0000,0000,0000,,I know about you from your article in {\i1}Sciency{\i}.
@@ -391,7 +394,7 @@ Dialogue: 0,0:20:44.11,0:20:48.16,Default,,0000,0000,0000,,And I have to keep pr
 Dialogue: 0,0:20:48.16,0:20:52.08,Default,,0000,0000,0000,,Suzuha... She may not be\Nconvinced at this point, but...
 Dialogue: 0,0:20:52.08,0:20:55.42,Default,,0000,0000,0000,,Right now, we know\Nabsolutely nothing about Kagari.
 Dialogue: 0,0:20:55.42,0:20:58.21,Default,,0000,0000,0000,,But, someday...
-Dialogue: 0,0:20:58.21,0:21:02.26,Default,,0000,0000,0000,,By the way, isn't Okabe-{\i1}san{\i}--
+Dialogue: 0,0:20:58.21,0:21:02.26,Default,,0000,0000,0000,,By the way, isn't Okabe--
 Dialogue: 0,0:21:02.26,0:21:03.72,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:21:03.72,0:21:04.84,Default,,0000,0000,0000,,What's wrong?
 Dialogue: 0,0:21:04.84,0:21:07.09,Default,,0000,0000,0000,,It cut off all of a sudden.
