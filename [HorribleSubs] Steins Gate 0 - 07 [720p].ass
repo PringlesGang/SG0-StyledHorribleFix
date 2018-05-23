@@ -1,5 +1,8 @@
 ﻿[Script Info]
-Title: HorribleSubs
+Title: HorribleSubs(Fix)
+; Subs edited by Woute and Davixxa for consistency
+; Fatima translation by Rigs
+; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 848
@@ -26,32 +29,32 @@ Dialogue: 0,0:00:31.82,0:00:34.86,Default,,0000,0000,0000,,Is this... some sort 
 Dialogue: 0,0:00:50.71,0:00:52.30,Default,,0000,0000,0000,,Don't tell me...
 Dialogue: 0,0:00:52.30,0:00:54.38,Default,,0000,0000,0000,,It was you after all?!
 Dialogue: 0,0:00:55.68,0:00:57.22,Default,,0000,0000,0000,,Kiryu Moeka!
-Dialogue: 0,0:01:14.95,0:01:20.24,Default,,0000,0000,0000,,{\i1}This world is not even real at all{\i}
-Dialogue: 0,0:01:20.24,0:01:26.16,Default,,0000,0000,0000,,{\i1}It's just a vision pulled over our eyes{\i}
-Dialogue: 0,0:01:27.17,0:01:38.01,Default,,0000,0000,0000,,{\i1}At the point of infinity, a mundane cosmos{\i}\N{\i1}is overwriting all the values I know{\i}
-Dialogue: 0,0:01:38.01,0:01:47.73,Default,,0000,0000,0000,,{\i1}If some arrogant god thinks they've seized control{\i}\N{\i1}and keeps pulling strings at the speed of light{\i}
-Dialogue: 0,0:01:47.73,0:01:53.07,Default,,0000,0000,0000,,{\i1}Then I, just I alone{\i}
-Dialogue: 0,0:01:53.07,0:01:59.82,Default,,0000,0000,0000,,{\i1}I'm fine being that miracle,{\i}\N{\i1}that lethal minority{\i}
+Dialogue: 0,0:01:14.95,0:01:20.24,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
+Dialogue: 0,0:01:20.24,0:01:26.16,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
+Dialogue: 0,0:01:27.17,0:01:38.01,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
+Dialogue: 0,0:01:38.01,0:01:47.73,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
+Dialogue: 0,0:01:47.73,0:01:53.07,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
+Dialogue: 0,0:01:53.07,0:01:59.82,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
 Dialogue: 0,0:01:59.82,0:02:00.91,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
-Dialogue: 0,0:02:00.91,0:02:06.83,Default,,0000,0000,0000,,{\i1}If that moment, if that place was{\i}\N{\i1}something you thought was special to you{\i}
-Dialogue: 0,0:02:06.83,0:02:11.59,Default,,0000,0000,0000,,{\i1}The past doesn't have to be{\i}\N{\i1}memories that simply drift away{\i}
-Dialogue: 0,0:02:11.59,0:02:17.09,Default,,0000,0000,0000,,{\i1}Instead of the pain of being hurt,{\i}\N{\i1}everything about that precious scene will{\i}
-Dialogue: 0,0:02:17.09,0:02:22.64,Default,,0000,0000,0000,,{\i1}Become a light and give birth to zero{\i}
-Dialogue: 0,0:02:22.64,0:02:27.98,Default,,0000,0000,0000,,{\i1}There is no god. Wonderful new world.{\i}
+Dialogue: 0,0:02:00.91,0:02:06.83,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
+Dialogue: 0,0:02:06.83,0:02:11.59,Default,,0000,0000,0000,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
+Dialogue: 0,0:02:11.59,0:02:17.09,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
+Dialogue: 0,0:02:17.09,0:02:22.64,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
+Dialogue: 0,0:02:22.64,0:02:27.98,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 0,0:02:43.08,0:02:44.41,Default,,0000,0000,0000,,Stay put!
 Dialogue: 0,0:02:46.91,0:02:48.83,Default,,0000,0000,0000,,K-6205.
 Dialogue: 0,0:02:48.83,0:02:49.96,Default,,0000,0000,0000,,Okay.
 Dialogue: 0,0:02:49.96,0:02:53.04,Default,,0000,0000,0000,,K-6205, secured.
-Dialogue: 0,0:02:54.17,0:02:55.80,Default,,0000,0000,0000,,Kagari-{\i1}san{\i}!
-Dialogue: 0,0:02:56.84,0:02:59.88,Default,,0000,0000,0000,,No! Help me, Mayuri-{\i1}san{\i}!
-Dialogue: 0,0:02:59.88,0:03:00.88,Default,,0000,0000,0000,,Kagari-{\i1}san{\i}!
+Dialogue: 0,0:02:54.17,0:02:55.80,Default,,0000,0000,0000,,Kagari!
+Dialogue: 0,0:02:56.84,0:02:59.88,Default,,0000,0000,0000,,No! Help me, Mayuri!
+Dialogue: 0,0:02:59.88,0:03:00.88,Default,,0000,0000,0000,,Kagari!
 Dialogue: 0,0:03:00.88,0:03:03.39,Default,,0000,0000,0000,,Don't do it! If you fight back...
 Dialogue: 0,0:03:06.18,0:03:09.06,Default,,0000,0000,0000,,Stop it! Let me go!
 Dialogue: 0,0:03:16.44,0:03:18.11,Default,,0000,0000,0000,,Hey!
 Dialogue: 0,0:03:22.95,0:03:25.78,Default,,0000,0000,0000,,I warned you to keep quiet on the 2nd floor!
 Dialogue: 0,0:03:25.78,0:03:27.24,Default,,0000,0000,0000,,D-Dad!
 Dialogue: 0,0:03:27.24,0:03:28.79,Default,,0000,0000,0000,,Mr. Braun!
-Dialogue: 0,0:03:37.88,0:03:39.34,Default,,0000,0000,0000,,Kagari-{\i1}san{\i}!
+Dialogue: 0,0:03:37.88,0:03:39.34,Default,,0000,0000,0000,,Kagari!
 Dialogue: 0,0:03:46.47,0:03:47.97,Default,,0000,0000,0000,,Get back here!
 Dialogue: 0,0:03:52.94,0:03:54.65,Default,,0000,0000,0000,,Get back here!
 Dialogue: 0,0:03:58.44,0:04:01.53,Default,,0000,0000,0000,,D-Daddy!
@@ -65,23 +68,23 @@ Dialogue: 0,0:04:22.76,0:04:26.39,Default,,0000,0000,0000,,What's the deal?\NWhy
 Dialogue: 0,0:04:26.39,0:04:28.60,Default,,0000,0000,0000,,Whoa! What the heck!? The TV!
 Dialogue: 0,0:04:28.60,0:04:30.81,Default,,0000,0000,0000,,Careful where you step!
 Dialogue: 0,0:04:30.81,0:04:32.89,Default,,0000,0000,0000,,Where's the broom and pan?
-Dialogue: 0,0:04:34.23,0:04:39.23,On Top,,0000,0000,0000,,"Eclipse of Vibronic Transition -Vibronic Transition-"
+Dialogue: 0,0:04:34.23,0:04:39.23,On Top,,0000,0000,0000,,"Eclipse of Vibronic Transition - Vibronic Transition -"
 Dialogue: 0,0:04:41.07,0:04:44.70,Default,,0000,0000,0000,,Looks like Mayuri's group\Ngot home safe and sound.
-Dialogue: 0,0:04:44.70,0:04:47.28,Default,,0000,0000,0000,,Maho-{\i1}tan{\i} said she made it back to her office.
+Dialogue: 0,0:04:44.70,0:04:47.28,Default,,0000,0000,0000,,Maho said she made it back to her office.
 Dialogue: 0,0:04:47.28,0:04:50.24,Default,,0000,0000,0000,,She's staying the night\Nat the institute just in case.
 Dialogue: 0,0:04:50.24,0:04:52.70,Default,,0000,0000,0000,,Good... That's a relief.
 Dialogue: 0,0:04:52.70,0:04:55.12,Default,,0000,0000,0000,,Hey, Okarin.
-Dialogue: 0,0:04:55.12,0:04:57.92,Default,,0000,0000,0000,,Those guys were after Kagari-{\i1}tan{\i}, weren't they?
+Dialogue: 0,0:04:55.12,0:04:57.92,Default,,0000,0000,0000,,Those guys were after Kagari, weren't they?
 Dialogue: 0,0:04:57.92,0:04:59.46,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:04:59.46,0:05:01.21,Default,,0000,0000,0000,,You know what it seems like?
-Dialogue: 0,0:05:01.21,0:05:06.51,Default,,0000,0000,0000,,That group probably knows\Nthat Kagari-{\i1}tan{\i} came from the future.
+Dialogue: 0,0:05:01.21,0:05:06.51,Default,,0000,0000,0000,,That group probably knows\Nthat Kagari came from the future.
 Dialogue: 0,0:05:06.51,0:05:08.64,Default,,0000,0000,0000,,Can't help but think...
 Dialogue: 0,0:05:08.64,0:05:13.48,Default,,0000,0000,0000,,This whole time she was missing,\Nmaybe something happened to her?
 Dialogue: 0,0:05:13.48,0:05:15.23,Default,,0000,0000,0000,,Seems that way.
 Dialogue: 0,0:05:15.23,0:05:17.27,Default,,0000,0000,0000,,SERN's Rounders...
 Dialogue: 0,0:05:17.27,0:05:23.36,Default,,0000,0000,0000,,In the past, that same organization attacked\Nand captured us for developing a time machine.
 Dialogue: 0,0:05:25.24,0:05:26.78,Default,,0000,0000,0000,,No, wait...
-Dialogue: 0,0:05:26.78,0:05:32.04,Default,,0000,0000,0000,,Even if the world line changed, Tennoji should\Nstill be the boss running things in Akihabara.
+Dialogue: 0,0:05:26.78,0:05:32.04,Default,,0000,0000,0000,,Even if the worldline changed, Tennouji should\Nstill be the boss running things in Akihabara.
 Dialogue: 0,0:05:32.04,0:05:35.66,Default,,0000,0000,0000,,If he's the enemy,\Nit's weird for him to help us.
 Dialogue: 0,0:05:35.66,0:05:40.04,Default,,0000,0000,0000,,Which means the one in the\Nmotorcycle suit wasn't Kiryu Moeka...
 Dialogue: 0,0:05:40.04,0:05:42.30,Default,,0000,0000,0000,,But someone else...
@@ -116,7 +119,7 @@ Dialogue: 0,0:07:23.31,0:07:25.82,Default,,0000,0000,0000,,What in the world is 
 Dialogue: 0,0:07:42.83,0:07:44.50,Default,,0000,0000,0000,,Hello?
 Dialogue: 0,0:07:44.50,0:07:47.75,Default,,0000,0000,0000,,Suzuha, it's me. How are things there?
 Dialogue: 0,0:07:47.75,0:07:52.30,Default,,0000,0000,0000,,The security here is a lot beefier\Nthan I thought... for a shrine.
-Dialogue: 0,0:07:52.30,0:07:55.14,Default,,0000,0000,0000,,Maybe Miss Ruka's dad is paranoid.
+Dialogue: 0,0:07:52.30,0:07:55.14,Default,,0000,0000,0000,,Maybe Luka's dad is paranoid.
 Dialogue: 0,0:07:55.14,0:07:58.39,Default,,0000,0000,0000,,I know they've had a system\Nin place for a while now.
 Dialogue: 0,0:07:58.39,0:08:01.64,Default,,0000,0000,0000,,They had problems with people\Ntrying to sneak in at night.
 Dialogue: 0,0:08:01.64,0:08:04.02,Default,,0000,0000,0000,,Even so, isn't it a bit over the top?
@@ -131,36 +134,36 @@ Dialogue: 0,0:08:31.42,0:08:33.88,Default,,0000,0000,0000,,Oh, welcome back!
 Dialogue: 0,0:08:33.88,0:08:35.01,Default,,0000,0000,0000,,How's Kagari?
 Dialogue: 0,0:08:35.01,0:08:39.76,Default,,0000,0000,0000,,Must be terribly frightened.\NShe only fell asleep just now.
 Dialogue: 0,0:08:39.76,0:08:41.68,Default,,0000,0000,0000,,I see.
-Dialogue: 0,0:08:42.48,0:08:46.06,Default,,0000,0000,0000,,I bet you're tired too, Big Bro Ruka.\NYou should go to bed.
+Dialogue: 0,0:08:42.48,0:08:46.06,Default,,0000,0000,0000,,I bet you're tired too, Big Bro Luka.\NYou should go to bed.
 Dialogue: 0,0:08:46.06,0:08:49.90,Default,,0000,0000,0000,,Security-wise, there's no problem,\Nso you don't need to worry.
-Dialogue: 0,0:08:53.07,0:08:55.70,Default,,0000,0000,0000,,Suzuha-{\i1}san{\i}, you're not sleeping?
+Dialogue: 0,0:08:53.07,0:08:55.70,Default,,0000,0000,0000,,Suzuha, you're not sleeping?
 Dialogue: 0,0:08:55.70,0:08:59.87,Default,,0000,0000,0000,,I'm fine just like this. If anything happens,\NI'll be ready to react.
 Dialogue: 0,0:08:59.87,0:09:03.58,Default,,0000,0000,0000,,S-Seriously? You'll never be rested like that.
 Dialogue: 0,0:09:03.58,0:09:06.71,Default,,0000,0000,0000,,It's okay, I'm used to it.
 Dialogue: 0,0:09:06.71,0:09:08.88,Default,,0000,0000,0000,,Mommy...
 Dialogue: 0,0:09:08.88,0:09:13.76,Default,,0000,0000,0000,,Mommy, don't leave me...
 Dialogue: 0,0:09:13.76,0:09:15.30,Default,,0000,0000,0000,,Mommy...
-Dialogue: 0,0:09:18.22,0:09:22.43,Default,,0000,0000,0000,,El Psy Congree...
+Dialogue: 0,0:09:18.22,0:09:22.43,Default,,0000,0000,0000,,El Psy Kongree...
 Dialogue: 0,0:09:22.43,0:09:26.90,Default,,0000,0000,0000,,Um, do you mind if I ask something?
 Dialogue: 0,0:09:31.32,0:09:32.78,Default,,0000,0000,0000,,What?
 Dialogue: 0,0:09:32.78,0:09:34.94,Default,,0000,0000,0000,,Well...
-Dialogue: 0,0:09:34.94,0:09:41.08,Default,,0000,0000,0000,,Why is it that when you talk about Okabe-{\i1}san{\i},\Nyou refer to him as Uncle Okarin?
-Dialogue: 0,0:09:41.08,0:09:45.91,Default,,0000,0000,0000,,Why is it that you call\NMayuri-{\i1}chan{\i}, Big Sis Mayu?
-Dialogue: 0,0:09:45.91,0:09:51.25,Default,,0000,0000,0000,,And Faris-{\i1}san{\i}, you're always\Ncalling Big Sis Rumi...
-Dialogue: 0,0:09:51.25,0:09:55.67,Default,,0000,0000,0000,,Even me... Why do you call me Big Bro Ruka?
-Dialogue: 0,0:09:59.39,0:10:03.77,Default,,0000,0000,0000,,Kagari-{\i1}san{\i} was saying\N"Mommy" just now, wasn't she?
+Dialogue: 0,0:09:34.94,0:09:41.08,Default,,0000,0000,0000,,Why is it that when you talk about Okabe,\Nyou refer to him as Uncle Okarin?
+Dialogue: 0,0:09:41.08,0:09:45.91,Default,,0000,0000,0000,,Why is it that you call\NMayuri, Big Sis Mayu?
+Dialogue: 0,0:09:45.91,0:09:51.25,Default,,0000,0000,0000,,And Faris, you're always\Ncalling Big Sis Rumi...
+Dialogue: 0,0:09:51.25,0:09:55.67,Default,,0000,0000,0000,,Even me... Why do you call me Big Bro Luka?
+Dialogue: 0,0:09:59.39,0:10:03.77,Default,,0000,0000,0000,,Kagari was saying\N"Mommy" just now, wasn't she?
 Dialogue: 0,0:10:03.77,0:10:08.73,Default,,0000,0000,0000,,But, right before she fell asleep,\Nshe said a name...
 Dialogue: 0,0:10:08.73,0:10:10.69,Default,,0000,0000,0000,,Mommy Mayuri...
-Dialogue: 0,0:10:12.94,0:10:16.07,Default,,0000,0000,0000,,That has to mean Mayuri-{\i1}chan{\i}, right?
+Dialogue: 0,0:10:12.94,0:10:16.07,Default,,0000,0000,0000,,That has to mean Mayuri, right?
 Dialogue: 0,0:10:16.07,0:10:17.95,Default,,0000,0000,0000,,Why did she say mommy?
 Dialogue: 0,0:10:22.16,0:10:24.83,Default,,0000,0000,0000,,It's better if you don't know.
 Dialogue: 0,0:10:24.83,0:10:29.79,Default,,0000,0000,0000,,Yet again, everyone's leaving\Nme out of the circle...
-Dialogue: 0,0:10:29.79,0:10:32.75,Default,,0000,0000,0000,,Okabe-{\i1}san{\i} and Mayuri-{\i1}chan{\i}\Nalways look so hurt...
-Dialogue: 0,0:10:32.75,0:10:36.26,Default,,0000,0000,0000,,Hashida-{\i1}san{\i} and Faris-{\i1}san{\i},\Neveryone's hiding something from me...
+Dialogue: 0,0:10:29.79,0:10:32.75,Default,,0000,0000,0000,,Okabe and Mayuri\Nalways look so hurt...
+Dialogue: 0,0:10:32.75,0:10:36.26,Default,,0000,0000,0000,,Hashida and Faris,\Neveryone's hiding something from me...
 Dialogue: 0,0:10:36.26,0:10:40.22,Default,,0000,0000,0000,,I know I probably can't be of any help, but...
 Dialogue: 0,0:10:40.22,0:10:41.85,Default,,0000,0000,0000,,Even so...
 Dialogue: 0,0:10:41.85,0:10:46.22,Default,,0000,0000,0000,,I care too! I want to share in their worries!
-Dialogue: 0,0:10:46.22,0:10:48.31,Default,,0000,0000,0000,,Big Bro Ruka...
+Dialogue: 0,0:10:46.22,0:10:48.31,Default,,0000,0000,0000,,Big Bro Luka...
 Dialogue: 0,0:10:48.31,0:10:51.44,Default,,0000,0000,0000,,Won't you please tell me?
 Dialogue: 0,0:10:54.57,0:10:57.15,Default,,0000,0000,0000,,The thing about Uncle Okarin...
 Dialogue: 0,0:10:57.15,0:11:02.87,Default,,0000,0000,0000,,You're the only one he won't tell...\NAnd I think I understand the reason now.
@@ -211,11 +214,11 @@ Dialogue: 0,0:13:35.02,0:13:38.40,Default,,0000,0000,0000,,Well, Okarin said to 
 Dialogue: 0,0:13:38.40,0:13:42.48,Default,,0000,0000,0000,,You're kidding me! They had guns, didn't they?
 Dialogue: 0,0:13:42.48,0:13:45.45,Default,,0000,0000,0000,,Anyways, he's got something to tell us.
 Dialogue: 0,0:13:45.45,0:13:47.36,Default,,0000,0000,0000,,You're going to the lab?
-Dialogue: 0,0:13:47.36,0:13:50.95,Default,,0000,0000,0000,,Hashida-{\i1}san{\i} said no one's stupid\Nenough to attack twice in a row.
+Dialogue: 0,0:13:47.36,0:13:50.95,Default,,0000,0000,0000,,Hashida said no one's stupid\Nenough to attack twice in a row.
 Dialogue: 0,0:13:50.95,0:13:55.33,Default,,0000,0000,0000,,The thing is... No, I wish I could come too...
 Dialogue: 0,0:13:55.33,0:13:57.25,Default,,0000,0000,0000,,What happened to your arm?
 Dialogue: 0,0:13:57.25,0:14:01.34,Default,,0000,0000,0000,,Uh... I tripped and fell over yesterday.
-Dialogue: 0,0:14:03.09,0:14:06.47,Default,,0000,0000,0000,,Time machines and world lines, eh?
+Dialogue: 0,0:14:03.09,0:14:06.47,Default,,0000,0000,0000,,Time machines and worldlines, eh?
 Dialogue: 0,0:14:06.47,0:14:09.80,Default,,0000,0000,0000,,It goes without saying that's hard to believe.
 Dialogue: 0,0:14:09.80,0:14:11.89,Default,,0000,0000,0000,,I told you that from the start.
 Dialogue: 0,0:14:11.89,0:14:14.68,Default,,0000,0000,0000,,You did, but...
@@ -270,12 +273,12 @@ Dialogue: 0,0:16:43.75,0:16:46.54,Default,,0000,0000,0000,,We're not loaded with
 Dialogue: 0,0:16:46.54,0:16:48.09,Default,,0000,0000,0000,,Dad!
 Dialogue: 0,0:16:48.96,0:16:51.67,Default,,0000,0000,0000,,Cheapskate.
 Dialogue: 0,0:16:51.67,0:16:54.51,Default,,0000,0000,0000,,Huh? If you've got a problem,\NI'm raising your rent!
-Dialogue: 0,0:16:54.51,0:16:58.26,Default,,0000,0000,0000,,N-No! Thank you very much, Tennoji-{\i1}san{\i}!
+Dialogue: 0,0:16:54.51,0:16:58.26,Default,,0000,0000,0000,,N-No! Thank you very much, Tennouji!
 Dialogue: 0,0:16:58.26,0:17:00.26,Default,,0000,0000,0000,,Hmph. So, Okabe.
 Dialogue: 0,0:17:00.26,0:17:03.81,Default,,0000,0000,0000,,You better hurry up and\Nfind out who those people were.
 Dialogue: 0,0:17:03.81,0:17:07.31,Default,,0000,0000,0000,,If you don't, we can't do nothing about them.
 Dialogue: 0,0:17:07.31,0:17:08.61,Default,,0000,0000,0000,,Understood.
-Dialogue: 0,0:17:10.23,0:17:13.53,Default,,0000,0000,0000,,So, you think that Kagari-{\i1}san{\i}\Ngot wrapped up in some sort of crime
+Dialogue: 0,0:17:10.23,0:17:13.53,Default,,0000,0000,0000,,So, you think that Kagari\Ngot wrapped up in some sort of crime
 Dialogue: 0,0:17:13.53,0:17:17.03,Default,,0000,0000,0000,,during the time she lost her memories?
 Dialogue: 0,0:17:17.03,0:17:18.16,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:17:18.16,0:17:21.45,Default,,0000,0000,0000,,In that case, why don't you contact the police?
@@ -284,28 +287,28 @@ Dialogue: 0,0:17:21.45,0:17:27.21,Default,,0000,0000,0000,,Well, you see... She'
 Dialogue: 0,0:17:26.71,0:17:33.46,On Top,,0000,0000,0000,,"Radio Center"\N"Morigori Electronics" "Forks Radio"
 Dialogue: 0,0:17:27.21,0:17:31.21,Default,,0000,0000,0000,,You never know! The police might\Nbe connected to the crime after all!
 Dialogue: 0,0:17:31.21,0:17:34.22,Default,,0000,0000,0000,,Sheesh! I don't know if I buy that...
-Dialogue: 0,0:17:33.46,0:17:36.18,On Top,,0000,0000,0000,,"Radio Building Akihabara"
+Dialogue: 0,0:17:33.46,0:17:36.18,On Top,,0000,0000,0000,,"Radio Kaikan Akihabara"
 Dialogue: 0,0:17:34.22,0:17:36.68,Default,,0000,0000,0000,,Uh, anyways...
 Dialogue: 0,0:17:36.68,0:17:38.39,Default,,0000,0000,0000,,They're only targeting Kagari.
 Dialogue: 0,0:17:38.39,0:17:43.39,Default,,0000,0000,0000,,Having said that, you should all\Nsteer clear of this area for the time being.
 Dialogue: 0,0:17:43.39,0:17:46.27,Default,,0000,0000,0000,,What? You're kidding...
-Dialogue: 0,0:17:46.27,0:17:51.02,Default,,0000,0000,0000,,But what about Kagari-{\i1}san{\i}?\NIf they're after her...
+Dialogue: 0,0:17:46.27,0:17:51.02,Default,,0000,0000,0000,,But what about Kagari?\NIf they're after her...
 Dialogue: 0,0:17:51.02,0:17:54.74,Default,,0000,0000,0000,,We've got two bodyguards on her.\NTwo people we can trust.
-Dialogue: 0,0:17:54.74,0:17:58.28,Default,,0000,0000,0000,,If it's Suzu-{\i1}san{\i} and Mr. Braun,\Nthey can handle it.
+Dialogue: 0,0:17:54.74,0:17:58.28,Default,,0000,0000,0000,,If it's Suzu and Mr. Braun,\Nthey can handle it.
 Dialogue: 0,0:17:58.28,0:18:01.16,Default,,0000,0000,0000,,Of course, we're doing research of our own too.
 Dialogue: 0,0:18:01.16,0:18:04.25,Default,,0000,0000,0000,,We'll find out who they are\Nand what they're after.
 Dialogue: 0,0:18:04.25,0:18:07.12,Default,,0000,0000,0000,,Yup. That's a job for yours truly.
 Dialogue: 0,0:18:07.12,0:18:11.46,Default,,0000,0000,0000,,Akiba's neighborhood watch promised\Nto keep an eye on the streets for me,
-Dialogue: 0,0:18:11.46,0:18:14.59,Default,,0000,0000,0000,,so if someone's up to no good,\Nwe should know it, meow.
+Dialogue: 0,0:18:11.46,0:18:14.59,Default,,0000,0000,0000,,so if someone's up to no good,\Nwe should know it, nya.
 Dialogue: 0,0:18:14.59,0:18:18.93,Default,,0000,0000,0000,,Um, is there anything I could be doing to help?
-Dialogue: 0,0:18:18.93,0:18:24.22,Default,,0000,0000,0000,,Kagari-{\i1}san{\i} is in trouble, and yet,\NI'm just sitting here doing nothing...
+Dialogue: 0,0:18:18.93,0:18:24.22,Default,,0000,0000,0000,,Kagari is in trouble, and yet,\NI'm just sitting here doing nothing...
 Dialogue: 0,0:18:24.22,0:18:27.31,Default,,0000,0000,0000,,Can Mayushii help somehow too?
-Dialogue: 0,0:18:27.31,0:18:30.65,Default,,0000,0000,0000,,Rukako, you already sheltered\NKagari-{\i1}san{\i} in your home.
+Dialogue: 0,0:18:27.31,0:18:30.65,Default,,0000,0000,0000,,Lukako, you already sheltered\NKagari in your home.
 Dialogue: 0,0:18:30.65,0:18:35.15,Default,,0000,0000,0000,,Mayuri, you've helped so much already.\NYou've done enough.
 Dialogue: 0,0:18:35.15,0:18:37.65,Default,,0000,0000,0000,,Is there anything the rest of us can do?
 Dialogue: 0,0:18:40.16,0:18:42.53,Default,,0000,0000,0000,,K-6205...
 Dialogue: 0,0:18:42.53,0:18:44.87,Default,,0000,0000,0000,,What's that mean?
-Dialogue: 0,0:18:44.87,0:18:46.70,Default,,0000,0000,0000,,Tennoji-{\i1}san{\i} was saying...
+Dialogue: 0,0:18:44.87,0:18:46.70,Default,,0000,0000,0000,,Tennouji was saying...
 Dialogue: 0,0:18:46.62,0:18:49.08,On Top,,0000,0000,0000,,"Another Earthquake in Russia"
 Dialogue: 0,0:18:50.08,0:18:53.50,Default,,0000,0000,0000,,Now that I think about it,\Nthose guys said something odd.
 Dialogue: 0,0:18:53.50,0:18:54.92,Default,,0000,0000,0000,,Something odd?
@@ -332,11 +335,11 @@ Dialogue: 0,0:19:51.52,0:19:55.15,On Top,,0000,0000,0000,,"{\i1}The Magic Flute{
 Dialogue: 0,0:19:57.15,0:19:59.11,Default,,0000,0000,0000,,Amadeus?
 Dialogue: 0,0:19:59.11,0:20:02.99,Default,,0000,0000,0000,,I wonder what's up?\NI can't connect to the Amadeus server...
 Dialogue: 0,0:20:03.28,0:20:04.53,On Top,,0000,0000,0000,,"Mayuri"\N"Daru"\N"Mayuri"\N "Mayuri"
-Dialogue: 0,0:20:04.53,0:20:05.03,On Top,,0000,0000,0000,,"Mayuri"\N"Rukako"\N"Hiyajo-{\i1}san{\i}"\N "Mayuri"
+Dialogue: 0,0:20:04.53,0:20:05.03,On Top,,0000,0000,0000,,"Mayuri"\N"Lukako"\N"Hiyajo"\N "Mayuri"
 Dialogue: 0,0:20:05.49,0:20:07.20,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:20:09.16,0:20:10.70,Default,,0000,0000,0000,,Hi, this is Hiyajo.
 Dialogue: 0,0:20:10.70,0:20:12.46,Default,,0000,0000,0000,,Hello? It's me.
-Dialogue: 0,0:20:12.46,0:20:15.25,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}? Did something happen again?
+Dialogue: 0,0:20:12.46,0:20:15.25,Default,,0000,0000,0000,,Okabe? Did something happen again?
 Dialogue: 0,0:20:15.25,0:20:17.34,Default,,0000,0000,0000,,No, I need to ask something.
 Dialogue: 0,0:20:17.34,0:20:20.67,Default,,0000,0000,0000,,Make it short. I'm kinda busy right now.
 Dialogue: 0,0:20:20.67,0:20:23.30,Default,,0000,0000,0000,,How's Amadeus? Any luck?
@@ -366,7 +369,7 @@ Dialogue: 0,0:22:21.46,0:22:27.68,Default,,0000,0000,0000,,{\i1}The eye cannot s
 Dialogue: 0,0:22:27.68,0:22:36.27,Default,,0000,0000,0000,,{\i1}Where do the people think they are walking{\i}
 Dialogue: 0,0:22:36.27,0:22:40.85,Default,,0000,0000,0000,,{\i1}The last game{\i}
 Dialogue: 0,0:23:08.13,0:23:11.68,Default,,0000,0000,0000,,Amadeus... it's gone.
-Dialogue: 0,0:23:11.68,0:23:13.93,Default,,0000,0000,0000,,The world line changed?!
+Dialogue: 0,0:23:11.68,0:23:13.93,Default,,0000,0000,0000,,The worldline changed?!
 Dialogue: 0,0:23:13.93,0:23:15.56,Default,,0000,0000,0000,,It changed?!
 Dialogue: 0,0:23:18.64,0:23:21.23,Default,,0000,0000,0000,,Is somebody there?
 Dialogue: 0,0:23:21.23,0:23:23.65,Default,,0000,0000,0000,,Daru? Mayuri?
