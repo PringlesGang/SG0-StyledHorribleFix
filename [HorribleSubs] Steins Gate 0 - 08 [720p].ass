@@ -1,7 +1,7 @@
 ﻿[Script Info]
 Title: HorribleSubs(Fix)
 ; Subs edited by Woute and Davixxa for consistency
-; Fatima translation by Rigs
+; Songs translation by Rigs
 ; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
@@ -253,7 +253,7 @@ Dialogue: 0,0:16:34.91,0:16:38.58,Default,,0000,0000,0000,,But, that all ends no
 Dialogue: 0,0:16:38.58,0:16:40.62,Default,,0000,0000,0000,,It has to end now.
 Dialogue: 0,0:16:40.62,0:16:45.12,Default,,0000,0000,0000,,At this rate, you'll be crushed by guilt.
 Dialogue: 0,0:16:45.12,0:16:47.13,Default,,0000,0000,0000,,It's the same there...
-Dialogue: 0,0:16:47.13,0:16:50.25,Default,,0000,0000,0000,,Even if I go to a Beta worldline...
+Dialogue: 0,0:16:47.13,0:16:50.25,Default,,0000,0000,0000,,Even if I go to a beta worldline...
 Dialogue: 0,0:16:50.25,0:16:52.67,Default,,0000,0000,0000,,That feeling doesn't change...
 Dialogue: 0,0:16:52.67,0:16:54.72,Default,,0000,0000,0000,,It's you I sacrifice, and I--
 Dialogue: 0,0:16:54.72,0:16:57.55,Default,,0000,0000,0000,,Get a hold of yourself, Okabe Rintaro!
@@ -310,12 +310,24 @@ Dialogue: 0,0:20:59.46,0:21:02.72,Default,,0000,0000,0000,,But instead, I lose h
 Dialogue: 0,0:21:02.72,0:21:06.84,Default,,0000,0000,0000,,Kurisu is gone, because I kill her...
 Dialogue: 0,0:21:06.84,0:21:10.18,Default,,0000,0000,0000,,My most... most precious...
 Dialogue: 0,0:21:19.86,0:21:21.94,Default,,0000,0000,0000,,Okabe?
-Dialogue: 0,0:21:47.97,0:21:49.47,On Top,,0000,0000,0000,,"Send message?"\N"Send | Cancel"
+Dialogue: 0,0:21:47.97,0:21:49.47,Default,,0000,0000,0000,,"Send message?"\N"Send | Cancel"
+Dialogue: 0,0:21:51.65,0:21:56.80,On Top,,0000,0000,0000,,{\i1}"You're always on my mind"{\i}
+Dialogue: 0,0:21:57.40,0:22:04.35,On Top,,0000,0000,0000,,{\i1}is a gentle lie that everyone knows{\i}
+Dialogue: 0,0:22:04.36,0:22:09.30,On Top,,0000,0000,0000,,{\i1}"I want to be with you forever"{\i}
+Dialogue: 0,0:22:09.35,0:22:17.80,On Top,,0000,0000,0000,,{\i1}is it love if that's what I feel?{\i}
+Dialogue: 0,0:22:18.50,0:22:23.45,On Top,,0000,0000,0000,,{\i1}From the miraculous, fated encounter{\i}
+Dialogue: 0,0:22:23.65,0:22:29.45,On Top,,0000,0000,0000,,{\i1}we head once more towards that place—{\i}
+Dialogue: 0,0:22:29.50,0:22:35.55,On Top,,0000,0000,0000,,{\i1}I stretch my hand to the twinkling stars in the night sky{\i}
+Dialogue: 0,0:22:35.60,0:22:42.25,On Top,,0000,0000,0000,,{\i1}Both the memories and warm days revive{\i}
+Dialogue: 0,0:22:42.30,0:22:48.40,On Top,,0000,0000,0000,,{\i1}Overflowing at that moment, at that place{\i}
+Dialogue: 0,0:22:48.50,0:22:55.20,On Top,,0000,0000,0000,,{\i1}Your words, the tears and laughter{\i}
+Dialogue: 0,0:22:55.60,0:23:01.75,On Top,,0000,0000,0000,,{\i1}Even if these memories are rewritten{\i}
+Dialogue: 0,0:23:02.00,0:23:13.60,On Top,,0000,0000,0000,,{\i1}They'll sway in my heart, just like déjà vu{\i}
 Dialogue: 0,0:21:58.19,0:22:00.98,Default,,0000,0000,0000,,I'm so glad I met you.
 Dialogue: 0,0:22:02.32,0:22:03.98,Default,,0000,0000,0000,,Kurisu?
-Dialogue: 0,0:22:02.94,0:22:04.19,On Top,,0000,0000,0000,,"Don't come in."\N"Send message?"
-Dialogue: 0,0:22:04.19,0:22:06.15,On Top,,0000,0000,0000,,"Goodbye"
-Dialogue: 0,0:22:06.15,0:22:07.36,On Top,,0000,0000,0000,,"Send message?"\N"Send | Cancel"
-Dialogue: 0,0:23:16.97,0:23:19.48,On Top,,0000,0000,0000,,"Inbox Received"\N"From: Okabe"\N"Don't come in."
+Dialogue: 0,0:22:02.94,0:22:04.19,Default,,0000,0000,0000,,"Don't come in."\N"Send message?"
+Dialogue: 0,0:22:04.19,0:22:06.15,Default,,0000,0000,0000,,"Goodbye"
+Dialogue: 0,0:22:06.15,0:22:07.36,Default,,0000,0000,0000,,"Send message?"\N"Send | Cancel"
+Dialogue: 0,0:23:16.97,0:23:19.48,Default,,0000,0000,0000,,"Inbox Received"\N"From: Okabe"\N"Don't come in."
 Dialogue: 0,0:23:23.61,0:23:25.73,Default,,0000,0000,0000,,Okabe!
 Dialogue: 0,0:23:25.73,0:23:29.07,Default,,0000,0000,0000,,I feel the same! I love--
