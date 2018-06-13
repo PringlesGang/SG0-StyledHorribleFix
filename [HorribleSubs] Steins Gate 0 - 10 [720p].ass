@@ -1,5 +1,8 @@
 ﻿[Script Info]
-Title: HorribleSubs
+Title: HorribleSubs(Fix)
+; Subs edited by Woute and Davixxa for consistency
+; Songs translation by Rigs
+; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 848
@@ -42,20 +45,20 @@ Dialogue: 0,0:01:28.63,0:01:32.63,Default,,0000,0000,0000,,Those two hold a very
 Dialogue: 0,0:01:37.05,0:01:39.76,Default,,0000,0000,0000,,I loved Kurisu...
 Dialogue: 0,0:01:44.64,0:01:47.52,Default,,0000,0000,0000,,I respected Kurisu...
 Dialogue: 0,0:01:47.52,0:01:49.81,Default,,0000,0000,0000,,I aspired to be like Kurisu...
-Dialogue: 0,0:01:52.19,0:01:56.07,On Top,,0000,0000,0000,,"Radio Building Akihabara"
+Dialogue: 0,0:01:52.19,0:01:56.07,On Top,,0000,0000,0000,,"Radio Kaikan Akihabara"
 Dialogue: 0,0:01:53.15,0:01:54.53,Default,,0000,0000,0000,,I...
-Dialogue: 0,0:02:11.92,0:02:17.22,Default,,0000,0000,0000,,{\i1}This world is not even real at all{\i}
-Dialogue: 0,0:02:17.22,0:02:23.14,Default,,0000,0000,0000,,{\i1}It's just a vision pulled over our eyes{\i}
-Dialogue: 0,0:02:24.14,0:02:34.98,Default,,0000,0000,0000,,{\i1}At the point of infinity, a mundane cosmos{\i}\N{\i1}is overwriting all the values I know{\i}
-Dialogue: 0,0:02:34.98,0:02:44.70,Default,,0000,0000,0000,,{\i1}If some arrogant god thinks they've seized control{\i}\N{\i1}and keeps pulling strings at the speed of light{\i}
-Dialogue: 0,0:02:44.70,0:02:50.04,Default,,0000,0000,0000,,{\i1}Then I, just I alone{\i}
-Dialogue: 0,0:02:50.04,0:02:56.80,Default,,0000,0000,0000,,{\i1}I'm fine being that miracle,{\i}\N{\i1}that lethal minority{\i}
+Dialogue: 0,0:02:11.92,0:02:17.22,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
+Dialogue: 0,0:02:17.22,0:02:23.14,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
+Dialogue: 0,0:02:24.14,0:02:34.98,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
+Dialogue: 0,0:02:34.98,0:02:44.70,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
+Dialogue: 0,0:02:44.70,0:02:50.04,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
+Dialogue: 0,0:02:50.04,0:02:56.80,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
 Dialogue: 0,0:02:56.80,0:02:57.88,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
-Dialogue: 0,0:02:57.88,0:03:03.80,Default,,0000,0000,0000,,{\i1}If that moment, if that place was{\i}\N{\i1}something you thought was special to you{\i}
-Dialogue: 0,0:03:03.80,0:03:08.56,Default,,0000,0000,0000,,{\i1}The past doesn't have to be{\i}\N{\i1}memories that simply drift away{\i}
-Dialogue: 0,0:03:08.56,0:03:14.06,Default,,0000,0000,0000,,{\i1}Instead of the pain of being hurt,{\i}\N{\i1}everything about that precious scene will{\i}
-Dialogue: 0,0:03:14.06,0:03:19.61,Default,,0000,0000,0000,,{\i1}Become a light and give birth to zero{\i}
-Dialogue: 0,0:03:19.61,0:03:24.95,Default,,0000,0000,0000,,{\i1}There is no god. Wonderful new world.{\i}
+Dialogue: 0,0:02:57.88,0:03:03.80,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
+Dialogue: 0,0:03:03.80,0:03:08.56,Default,,0000,0000,0000,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
+Dialogue: 0,0:03:08.56,0:03:14.06,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
+Dialogue: 0,0:03:14.06,0:03:19.61,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
+Dialogue: 0,0:03:19.61,0:03:24.95,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 0,0:03:25.99,0:03:27.95,On Top,,0000,0000,0000,,"Tokyo Denki University"
 Dialogue: 0,0:03:30.04,0:03:31.00,Default,,0000,0000,0000,,Hmm?
 Dialogue: 0,0:03:31.00,0:03:34.42,Default,,0000,0000,0000,,Global Brain Science\NOrganization Office Prep Room.
@@ -76,7 +79,7 @@ Dialogue: 0,0:04:15.92,0:04:17.46,Default,,0000,0000,0000,,Of course!
 Dialogue: 0,0:04:24.26,0:04:26.60,Default,,0000,0000,0000,,Long time no see, Senpai.
 Dialogue: 0,0:04:26.60,0:04:29.10,Default,,0000,0000,0000,,Well? No problems so far?
 Dialogue: 0,0:04:29.10,0:04:33.56,Default,,0000,0000,0000,,Nope. Not as far as I'm aware, at the least.
-Dialogue: 0,0:04:33.56,0:04:37.19,Default,,0000,0000,0000,,All right. I'll let Okabe-{\i1}san{\i} know we're good.
+Dialogue: 0,0:04:33.56,0:04:37.19,Default,,0000,0000,0000,,All right. I'll let Okabe know we're good.
 Dialogue: 0,0:04:37.19,0:04:42.94,Default,,0000,0000,0000,,Okay. Though even if you say I'm restored,\NI'm not sure he'll want to talk to me...
 Dialogue: 0,0:04:42.94,0:04:44.36,Default,,0000,0000,0000,,You think?
 Dialogue: 0,0:04:44.36,0:04:47.87,Default,,0000,0000,0000,,I'm sure he enjoys talking\Nto you a whole lot more.
@@ -86,11 +89,11 @@ Dialogue: 0,0:04:55.92,0:05:00.46,Default,,0000,0000,0000,,After lengthy observa
 Dialogue: 0,0:05:00.46,0:05:05.63,Default,,0000,0000,0000,,How so? You're just letting delusions\Nof love run amok in your head.
 Dialogue: 0,0:05:10.64,0:05:13.43,Default,,0000,0000,0000,,I sure missed you two going at it.
 Dialogue: 0,0:05:13.43,0:05:16.44,Default,,0000,0000,0000,,Well, shall we get our meeting started?
-Dialogue: 0,0:05:16.19,0:05:21.19,On Top,,0000,0000,0000,,"Pandora of Provable Existence -Forbidden Cubicle-"
+Dialogue: 0,0:05:16.19,0:05:21.19,On Top,,0000,0000,0000,,"Pandora of Provable Existence - Forbidden Cubicle -"
 Dialogue: 0,0:05:16.44,0:05:17.98,Default,,0000,0000,0000,,Sure!
 Dialogue: 0,0:05:22.28,0:05:24.57,Default,,0000,0000,0000,,What the hell is this?
 Dialogue: 0,0:05:32.41,0:05:35.71,Default,,0000,0000,0000,,This room's unbelievable!
-Dialogue: 0,0:05:35.71,0:05:39.00,Default,,0000,0000,0000,,Oh, Okabe-{\i1}san{\i}? You're here early.
+Dialogue: 0,0:05:35.71,0:05:39.00,Default,,0000,0000,0000,,Oh, Okabe? You're here early.
 Dialogue: 0,0:05:41.34,0:05:43.84,On Top,,0000,0000,0000,,"Why are you here?"\N"Sheesh! I told you once already ><"\N"I was asked to be Dr. Hiyajo's bodyguard~"
 Dialogue: 0,0:05:47.76,0:05:50.18,Default,,0000,0000,0000,,Where the hell did the room go?
 Dialogue: 0,0:05:50.18,0:05:52.68,Default,,0000,0000,0000,,It's worse than it was a few days ago.
@@ -107,7 +110,7 @@ Dialogue: 0,0:06:25.84,0:06:28.01,Default,,0000,0000,0000,,I've been thinking...
 Dialogue: 0,0:06:28.01,0:06:32.97,Default,,0000,0000,0000,,It's about time I moved forward.
 Dialogue: 0,0:06:32.97,0:06:38.94,Default,,0000,0000,0000,,I wonder why Faris told me to bring\NMayuri along when I came?
 Dialogue: 0,0:06:38.94,0:06:41.81,Default,,0000,0000,0000,,Because Mayushii has a brilliant mind!
-Dialogue: 0,0:06:41.81,0:06:46.82,Default,,0000,0000,0000,,I think I get Faris-{\i1}chan{\i}!\NShe must've wanted this room to be cleaned!
+Dialogue: 0,0:06:41.81,0:06:46.82,Default,,0000,0000,0000,,I think I get Faris!\NShe must've wanted this room to be cleaned!
 Dialogue: 0,0:06:46.82,0:06:49.11,Default,,0000,0000,0000,,And if you're here, it'll get cleaned?
 Dialogue: 0,0:06:49.11,0:06:54.70,Default,,0000,0000,0000,,More like, if Mayushii comes over,\Nshe'll think to bring that person along!
 Dialogue: 0,0:06:54.70,0:06:56.37,Default,,0000,0000,0000,,That person?
@@ -119,7 +122,7 @@ Dialogue: 0,0:07:18.48,0:07:21.48,Default,,0000,0000,0000,,All you're good for i
 Dialogue: 0,0:07:21.48,0:07:24.61,Default,,0000,0000,0000,,You're the lowest life form on Earth!
 Dialogue: 0,0:07:24.61,0:07:26.02,Default,,0000,0000,0000,,Do you understand?!
 Dialogue: 0,0:07:27.65,0:07:29.19,Default,,0000,0000,0000,,What the hell is this?
-Dialogue: 0,0:07:29.19,0:07:34.07,Default,,0000,0000,0000,,When it comes to cleaning,\NNae-{\i1}chan{\i}'s personality changes a little.
+Dialogue: 0,0:07:29.19,0:07:34.07,Default,,0000,0000,0000,,When it comes to cleaning,\NNae's personality changes a little.
 Dialogue: 0,0:07:34.07,0:07:35.87,Default,,0000,0000,0000,,That's putting it lightly...
 Dialogue: 0,0:07:35.87,0:07:40.71,Default,,0000,0000,0000,,But when cleaning's over, maybe she'll\Nopen up and act all mushy and sweet!
 Dialogue: 0,0:07:40.71,0:07:42.54,Default,,0000,0000,0000,,Why the hell are you here?
@@ -134,10 +137,10 @@ Dialogue: 0,0:08:00.31,0:08:03.81,Default,,0000,0000,0000,,Now go sweep up and d
 Dialogue: 0,0:08:03.81,0:08:06.69,Default,,0000,0000,0000,,Miss Nae! Yes, ma'am! Miss Nae!
 Dialogue: 0,0:08:08.07,0:08:10.69,Default,,0000,0000,0000,,He's enjoying every second of this...
 Dialogue: 0,0:08:10.69,0:08:13.20,Default,,0000,0000,0000,,What exactly are we doing here?
-Dialogue: 0,0:08:13.20,0:08:17.33,Default,,0000,0000,0000,,Until we're done, Hiyajo-{\i1}san{\i}\Nand Kiryu-{\i1}san{\i} are supposed to leave.
+Dialogue: 0,0:08:13.20,0:08:17.33,Default,,0000,0000,0000,,Until we're done, Hiyajo\Nand Kiryu are supposed to leave.
 Dialogue: 0,0:08:17.33,0:08:18.54,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:08:18.54,0:08:20.25,Default,,0000,0000,0000,,No one told me.
-Dialogue: 0,0:08:20.25,0:08:23.58,Default,,0000,0000,0000,,Orders from the homeowner. Can't refuse.
+Dialogue: 0,0:08:20.25,0:08:23.58,Default,,0000,0000,0000,,Orders from the honyaner. Can't refuse.
 Dialogue: 0,0:08:24.96,0:08:25.75,Default,,0000,0000,0000,,--Not nearly good enough, Mr. Smileybear!
 Dialogue: 0,0:08:25.75,0:08:27.38,Default,,0000,0000,0000,,--Well? Did you figure out anything new?\N--Not nearly good enough, Mr. Smileybear!
 Dialogue: 0,0:08:27.38,0:08:28.50,Default,,0000,0000,0000,,--Well? Did you figure out anything new?\N--It's not?
@@ -162,9 +165,9 @@ Dialogue: 0,0:09:16.55,0:09:20.51,Default,,0000,0000,0000,,Like the movie, right
 Dialogue: 0,0:09:20.51,0:09:24.23,Default,,0000,0000,0000,,Salieri had a promising future as a musician,
 Dialogue: 0,0:09:24.23,0:09:28.65,Default,,0000,0000,0000,,but he grew envious of Mozart's talents\Nand was driven into despair.
 Dialogue: 0,0:09:28.65,0:09:33.74,Default,,0000,0000,0000,,In the end, the hounding and\Npressure from Salieri led to his demise.
-Dialogue: 0,0:09:35.99,0:09:37.61,Default,,0000,0000,0000,,Hiyajo-{\i1}san{\i}...
+Dialogue: 0,0:09:35.99,0:09:37.61,Default,,0000,0000,0000,,Hiyajo...
 Dialogue: 0,0:09:37.61,0:09:42.45,Default,,0000,0000,0000,,Don't worry. I don't believe\Nthat's the case myself, but...
-Dialogue: 0,0:09:48.37,0:09:50.38,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}?
+Dialogue: 0,0:09:48.37,0:09:50.38,Default,,0000,0000,0000,,Okabe?
 Dialogue: 0,0:09:50.38,0:09:52.09,Default,,0000,0000,0000,,It's been a while.
 Dialogue: 0,0:09:52.09,0:09:54.01,Default,,0000,0000,0000,,You haven't changed a bit.
 Dialogue: 0,0:09:54.01,0:09:55.34,Default,,0000,0000,0000,,Same goes for you.
@@ -178,39 +181,39 @@ Dialogue: 0,0:10:15.99,0:10:18.32,Default,,0000,0000,0000,,Okarin! Sorry to keep
 Dialogue: 0,0:10:18.32,0:10:20.24,Default,,0000,0000,0000,,She fell asleep, huh?
 Dialogue: 0,0:10:20.24,0:10:24.79,Default,,0000,0000,0000,,Yup! Being Sergeant Clean\Nmust take it all out of her.
 Dialogue: 0,0:10:24.79,0:10:26.29,Default,,0000,0000,0000,,Want me to carry her?
-Dialogue: 0,0:10:26.29,0:10:30.54,Default,,0000,0000,0000,,Sure, if you want to eat a full-powered\Nstraight right from Mr. Tennoji.
+Dialogue: 0,0:10:26.29,0:10:30.54,Default,,0000,0000,0000,,Sure, if you want to eat a full-powered\Nstraight right from Mr. Tennouji.
 Dialogue: 0,0:10:30.54,0:10:34.25,Default,,0000,0000,0000,,Full-powered straight right! Huff huff...
 Dialogue: 0,0:10:34.25,0:10:38.38,Default,,0000,0000,0000,,All that drill training\Nmust've scrambled his head...
 Dialogue: 0,0:10:38.38,0:10:42.05,Default,,0000,0000,0000,,So... If you can't find something\Nyou need, let me know!
-Dialogue: 0,0:10:42.05,0:10:45.31,Default,,0000,0000,0000,,All right. Where are Faris-{\i1}san{\i} and Kiryu-{\i1}san{\i}?
+Dialogue: 0,0:10:42.05,0:10:45.31,Default,,0000,0000,0000,,All right. Where are Faris and Kiryu?
 Dialogue: 0,0:10:45.31,0:10:47.64,Default,,0000,0000,0000,,They said they'll be right back.
 Dialogue: 0,0:10:49.98,0:10:51.10,Default,,0000,0000,0000,,Kyouma!
 Dialogue: 0,0:10:51.10,0:10:53.36,Default,,0000,0000,0000,,I said don't call me that.
 Dialogue: 0,0:10:53.36,0:10:54.19,Default,,0000,0000,0000,,We're back.
 Dialogue: 0,0:10:54.19,0:10:56.82,Default,,0000,0000,0000,,Yeah... What's with the bag?
 Dialogue: 0,0:10:56.82,0:11:00.15,Default,,0000,0000,0000,,She said she wanted to shop.
-Dialogue: 0,0:11:00.15,0:11:04.37,Default,,0000,0000,0000,,Sorry, but tonight is no boys allowed!\NNot even Kyouma, meow!
+Dialogue: 0,0:11:00.15,0:11:04.37,Default,,0000,0000,0000,,Sorry, but tonight is no boys allowed!\NNot even Kyouma, nya!
 Dialogue: 0,0:11:04.37,0:11:06.12,Default,,0000,0000,0000,,No boys allowed?
-Dialogue: 0,0:11:06.12,0:11:09.37,Default,,0000,0000,0000,,Yup, meow! The operation\Nin store for tonight is...
+Dialogue: 0,0:11:06.12,0:11:09.37,Default,,0000,0000,0000,,Yup, nya! The operation\Nin store for tonight is...
 Dialogue: 0,0:11:10.46,0:11:11.58,Default,,0000,0000,0000,,Meow!
 Dialogue: 0,0:11:11.58,0:11:14.63,Default,,0000,0000,0000,,The All-Night Cinderella Girls Secret Party!
-Dialogue: 0,0:11:14.63,0:11:18.59,Default,,0000,0000,0000,,So sleepy someone slips secrets, meow!
-Dialogue: 0,0:11:21.97,0:11:26.06,Default,,0000,0000,0000,,What's wrong, you two?\NWhere's your excitement, meow?
-Dialogue: 0,0:11:26.06,0:11:30.48,Default,,0000,0000,0000,,Come on! I even picked out some pricey\Nice cream and cake for us, meow!
+Dialogue: 0,0:11:14.63,0:11:18.59,Default,,0000,0000,0000,,So sleepy someone slips secrets, nya!
+Dialogue: 0,0:11:21.97,0:11:26.06,Default,,0000,0000,0000,,What's wrong, you two?\NWhere's your excitement, nya?
+Dialogue: 0,0:11:26.06,0:11:30.48,Default,,0000,0000,0000,,Come on! I even picked out some pricey\Nice cream and cake for us, nya!
 Dialogue: 0,0:11:30.48,0:11:32.60,Default,,0000,0000,0000,,Well, all right...
-Dialogue: 0,0:11:33.56,0:11:35.61,Default,,0000,0000,0000,,The thing about Maho-meow is,
-Dialogue: 0,0:11:35.61,0:11:39.19,Default,,0000,0000,0000,,she's cute like a doll so\Neverything looks good on her, meow.
+Dialogue: 0,0:11:33.56,0:11:35.61,Default,,0000,0000,0000,,The thing about Maho-nya is,
+Dialogue: 0,0:11:35.61,0:11:39.19,Default,,0000,0000,0000,,she's cute like a doll so\Neverything looks good on her, nya.
 Dialogue: 0,0:11:39.19,0:11:41.36,Default,,0000,0000,0000,,Quit calling me that.
 Dialogue: 0,0:11:42.16,0:11:43.07,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:11:43.07,0:11:44.20,Default,,0000,0000,0000,,Kiryu-{\i1}san{\i}?
-Dialogue: 0,0:11:44.20,0:11:45.95,Default,,0000,0000,0000,,Moe-meow finally laughed, meow!
+Dialogue: 0,0:11:43.07,0:11:44.20,Default,,0000,0000,0000,,Kiryu?
+Dialogue: 0,0:11:44.20,0:11:45.95,Default,,0000,0000,0000,,Moe-nya finally laughed, nya!
 Dialogue: 0,0:11:45.95,0:11:48.16,Default,,0000,0000,0000,,S-Stop it...
-Dialogue: 0,0:11:48.16,0:11:50.37,Default,,0000,0000,0000,,Wh-What incredible boobs, meow!
-Dialogue: 0,0:11:50.37,0:11:54.63,Default,,0000,0000,0000,,These are just begging to be tickled, meow!
+Dialogue: 0,0:11:48.16,0:11:50.37,Default,,0000,0000,0000,,Wh-What incredible boobs, nya!
+Dialogue: 0,0:11:50.37,0:11:54.63,Default,,0000,0000,0000,,These are just begging to be tickled, nya!
 Dialogue: 0,0:11:54.63,0:11:56.21,Default,,0000,0000,0000,,Stop it!
-Dialogue: 0,0:11:56.21,0:11:58.67,Default,,0000,0000,0000,,Uh-oh! This is making me feel naughty, meow!
+Dialogue: 0,0:11:56.21,0:11:58.67,Default,,0000,0000,0000,,Uh-oh! This is making me feel naughty, nya!
 Dialogue: 0,0:11:58.67,0:12:02.30,Default,,0000,0000,0000,,--N-No, stop! Ah! S-Stop!\N--I think she likes it!
-Dialogue: 0,0:12:04.30,0:12:06.35,Default,,0000,0000,0000,,I'm getting some juice, meow.
+Dialogue: 0,0:12:04.30,0:12:06.35,Default,,0000,0000,0000,,I'm getting some juice, nya.
 Dialogue: 0,0:12:09.10,0:12:10.89,Default,,0000,0000,0000,,What the heck...
 Dialogue: 0,0:12:15.56,0:12:17.15,Default,,0000,0000,0000,,What are you writing?
 Dialogue: 0,0:12:17.15,0:12:19.48,Default,,0000,0000,0000,,A memo... for my novel.
@@ -222,7 +225,7 @@ Dialogue: 0,0:12:34.17,0:12:35.42,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:12:35.42,0:12:37.92,Default,,0000,0000,0000,,You can't be replaced,\Nso don't belittle yourself.
 Dialogue: 0,0:12:37.92,0:12:43.72,Default,,0000,0000,0000,,If you compare yourself to others and\Nlive your whole life feeling inferior, that's so...
 Dialogue: 0,0:12:47.30,0:12:49.01,Default,,0000,0000,0000,,Never mind...
-Dialogue: 0,0:12:56.48,0:12:58.27,Default,,0000,0000,0000,,I think she likes it, meow...
+Dialogue: 0,0:12:56.48,0:12:58.27,Default,,0000,0000,0000,,I think she likes it, nya...
 Dialogue: 0,0:12:58.27,0:13:00.78,Default,,0000,0000,0000,,S-Stop...
 Dialogue: 0,0:13:03.49,0:13:07.12,Default,,0000,0000,0000,,A lot has happened since then...
 Dialogue: 0,0:13:07.12,0:13:11.08,Default,,0000,0000,0000,,It's about time I moved forward.
@@ -232,7 +235,7 @@ Dialogue: 0,0:13:28.01,0:13:31.51,Default,,0000,0000,0000,,Is this an IFX008 ima
 Dialogue: 0,0:13:31.51,0:13:33.14,Default,,0000,0000,0000,,What's it doing here?!
 Dialogue: 0,0:13:33.14,0:13:34.56,Default,,0000,0000,0000,,Y-Yeah...
 Dialogue: 0,0:13:34.56,0:13:37.56,Default,,0000,0000,0000,,Who knew Akihabara had places like this?!
-Dialogue: 0,0:13:37.56,0:13:40.11,Default,,0000,0000,0000,,This is the true Maho-{\i1}senpai{\i}.
+Dialogue: 0,0:13:37.56,0:13:40.11,Default,,0000,0000,0000,,This is the true Maho.
 Dialogue: 0,0:13:40.11,0:13:43.69,Default,,0000,0000,0000,,Who would've thought\Nshe's so obsessed with parts?
 Dialogue: 0,0:13:43.69,0:13:45.74,Default,,0000,0000,0000,,I love putting things together.
 Dialogue: 0,0:13:45.74,0:13:49.82,Default,,0000,0000,0000,,When I was little, I made\NJapanese plastic models all the time.
@@ -260,8 +263,8 @@ Dialogue: 0,0:14:45.46,0:14:50.01,Default,,0000,0000,0000,,Kurisu did? She had o
 Dialogue: 0,0:14:50.01,0:14:51.84,Default,,0000,0000,0000,,Senpai! Say no more!
 Dialogue: 0,0:14:51.84,0:14:54.22,Default,,0000,0000,0000,,That's a closet @channeler for you...
 Dialogue: 0,0:14:54.22,0:14:58.43,Default,,0000,0000,0000,,Wh-What are you talking about?\NWhat's an @channeler?
-Dialogue: 0,0:14:58.43,0:14:59.02,Default,,0000,0000,0000,,Never gonna...
-Dialogue: 0,0:14:59.02,0:15:00.48,Default,,0000,0000,0000,,...give you up.
+Dialogue: 0,0:14:58.43,0:14:59.02,Default,,0000,0000,0000,,Nullpo...
+Dialogue: 0,0:14:59.02,0:15:00.48,Default,,0000,0000,0000,,Gah!
 Dialogue: 0,0:15:02.27,0:15:04.07,Default,,0000,0000,0000,,Okabe!
 Dialogue: 0,0:15:04.07,0:15:06.82,Default,,0000,0000,0000,,You deserved it.
 Dialogue: 0,0:15:06.82,0:15:09.11,Default,,0000,0000,0000,,Care if I give it a shot?
@@ -274,7 +277,7 @@ Dialogue: 0,0:15:28.46,0:15:31.76,Default,,0000,0000,0000,,Next time I'll get it
 Dialogue: 0,0:15:31.76,0:15:34.18,Default,,0000,0000,0000,,She's totally suckered in...
 Dialogue: 0,0:15:34.18,0:15:36.43,Default,,0000,0000,0000,,This is no time to be saying that!
 Dialogue: 0,0:15:36.43,0:15:37.18,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:15:37.18,0:15:40.89,Default,,0000,0000,0000,,This is where you prove\Nyou're a man, Okabe-{\i1}san{\i}!
+Dialogue: 0,0:15:37.18,0:15:40.89,Default,,0000,0000,0000,,This is where you prove\Nyou're a man, Okabe!
 Dialogue: 0,0:15:40.89,0:15:43.77,Default,,0000,0000,0000,,M-Me?!
 Dialogue: 0,0:15:43.77,0:15:45.86,Default,,0000,0000,0000,,Good! With this much I should be able...
 Dialogue: 0,0:15:45.86,0:15:47.11,Default,,0000,0000,0000,,Huh?
@@ -298,7 +301,7 @@ Dialogue: 0,0:16:44.17,0:16:46.75,Default,,0000,0000,0000,,I might've got a bit 
 Dialogue: 0,0:16:48.84,0:16:52.22,Default,,0000,0000,0000,,What should we do next?\NGrab a bite or something?
 Dialogue: 0,0:16:52.22,0:16:56.34,Default,,0000,0000,0000,,No... It's already getting pretty late.
 Dialogue: 0,0:16:58.68,0:17:04.14,Default,,0000,0000,0000,,But there's somewhere I have to visit\Nbefore I go back to America...
-Dialogue: 0,0:17:04.35,0:17:13.82,On Top,,0000,0000,0000,,"Radio Building Akihabara"
+Dialogue: 0,0:17:04.35,0:17:13.82,On Top,,0000,0000,0000,,"Radio Kaikan Akihabara"
 Dialogue: 0,0:17:05.94,0:17:07.40,Default,,0000,0000,0000,,This place, huh?
 Dialogue: 0,0:17:07.40,0:17:11.86,Default,,0000,0000,0000,,Yeah... The place where\NMakise Kurisu lost her life.
 Dialogue: 0,0:17:11.86,0:17:14.36,Default,,0000,0000,0000,,The last place she was...
@@ -326,9 +329,9 @@ Dialogue: 0,0:18:58.42,0:19:00.68,Default,,0000,0000,0000,,What makes you so sur
 Dialogue: 0,0:19:00.68,0:19:03.47,Default,,0000,0000,0000,,I discussed it with Kurisu.
 Dialogue: 0,0:19:03.47,0:19:04.93,Default,,0000,0000,0000,,I see...
 Dialogue: 0,0:19:04.93,0:19:06.68,Default,,0000,0000,0000,,With Kurisu...
-Dialogue: 0,0:19:09.44,0:19:10.90,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}?
-Dialogue: 0,0:19:10.90,0:19:12.61,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}!
-Dialogue: 0,0:19:15.94,0:19:18.61,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}?
+Dialogue: 0,0:19:09.44,0:19:10.90,Default,,0000,0000,0000,,Okabe?
+Dialogue: 0,0:19:10.90,0:19:12.61,Default,,0000,0000,0000,,Okabe!
+Dialogue: 0,0:19:15.94,0:19:18.61,Default,,0000,0000,0000,,Okabe?
 Dialogue: 0,0:19:18.61,0:19:19.95,Default,,0000,0000,0000,,Sorry...
 Dialogue: 0,0:19:19.95,0:19:24.83,Default,,0000,0000,0000,,I'm sorry. It's my fault for lacking delicacy.
 Dialogue: 0,0:19:24.83,0:19:26.79,Default,,0000,0000,0000,,You cared for Kurisu so much that...
@@ -345,7 +348,7 @@ Dialogue: 0,0:20:01.36,0:20:03.57,Default,,0000,0000,0000,,I'm sorry.
 Dialogue: 0,0:20:03.57,0:20:05.12,Default,,0000,0000,0000,,I understand.
 Dialogue: 0,0:20:05.12,0:20:08.74,Default,,0000,0000,0000,,I can tell something went on\Nyou don't want to talk about.
 Dialogue: 0,0:20:08.74,0:20:10.79,Default,,0000,0000,0000,,That's enough for me.
-Dialogue: 0,0:20:10.79,0:20:12.71,Default,,0000,0000,0000,,Hiyajo-{\i1}san{\i}...
+Dialogue: 0,0:20:10.79,0:20:12.71,Default,,0000,0000,0000,,Hiyajo...
 Dialogue: 0,0:20:16.46,0:20:20.67,Default,,0000,0000,0000,,Every time I see you,\NI think the same thing...
 Dialogue: 0,0:20:20.67,0:20:24.43,Default,,0000,0000,0000,,Why do you always look so sad?
 Dialogue: 0,0:20:24.43,0:20:27.39,Default,,0000,0000,0000,,It's the same thing\Nwhen you talk about Kurisu.
