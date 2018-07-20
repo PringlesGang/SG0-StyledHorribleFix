@@ -50,17 +50,19 @@ Dialogue: 0,0:01:42.26,0:01:44.56,Default,,0000,0000,0000,,Summer's not far off.
 Dialogue: 0,0:01:44.56,0:01:46.35,Default,,0000,0000,0000,,That's true.
 Dialogue: 0,0:01:51.57,0:01:53.36,Default,,0000,0000,0000,,Summer's coming.
 Dialogue: 0,0:01:53.36,0:01:54.48,Default,,0000,0000,0000,,Yeah.
-#Dialogue: 0,0:02:11.88,0:02:17.18,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
-#Dialogue: 0,0:02:17.18,0:02:23.10,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
-#Dialogue: 0,0:02:24.10,0:02:34.95,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-#Dialogue: 0,0:02:34.95,0:02:44.67,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
-#Dialogue: 0,0:02:44.67,0:02:50.00,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
-#Dialogue: 0,0:02:50.00,0:02:56.76,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
+Dialogue: 0,0:02:11.88,0:02:17.18,Default,,0000,0000,0000,,{\i1}This is a life of fantasy,{\i}
+Dialogue: 0,0:02:17.18,0:02:23.10,Default,,0000,0000,0000,,{\i1}Unaffected still by illusions.{\i}
+Dialogue: 0,0:02:24.10,0:02:34.95,Default,,0000,0000,0000,,{\i1}Worldlines without end{\i}\N{\i1}are all deceived by an antimony paradox{\i}
+Dialogue: 0,0:02:34.95,0:02:44.67,Default,,0000,0000,0000,,{\i1}If I can dominate these emotions,{\i}\N{\i1}orbital ordering replacing even common sense,{\i}
+Dialogue: 0,0:02:44.67,0:02:46.85,Default,,0000,0000,0000,,{\i1}Then my suffering{\i}
+Dialogue: 0,0:02:46.95,0:02:50.00,Default,,0000,0000,0000,,{\i1}alone{\i}
+Dialogue: 0,0:02:50.00,0:02:56.76,Default,,0000,0000,0000,,{\i1}is the gap to cross in this algorithm{\i}
 Dialogue: 0,0:02:56.76,0:02:57.85,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
-#Dialogue: 0,0:02:57.85,0:03:03.77,Default,,0000,0000,0000,,{\i1}If that moment, if that place was{\i}\N{\i1}something you thought was special to you{\i}
-#Dialogue: 0,0:03:03.77,0:03:08.52,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
-#Dialogue: 0,0:03:08.52,0:03:14.03,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
-#Dialogue: 0,0:03:14.03,0:03:19.58,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
+Dialogue: 0,0:02:57.85,0:03:00.60,Default,,0000,0000,0000,,{\i1}Signs of love, words of love...{\i}
+Dialogue: 0,0:03:00.70,0:03:03.77,Default,,0000,0000,0000,,{\i1}The memories flow back with total clarity{\i}
+Dialogue: 0,0:03:03.77,0:03:08.52,Default,,0000,0000,0000,,{\i1}Never again will I forsake what lies beyond,{\i}
+Dialogue: 0,0:03:08.52,0:03:14.03,Default,,0000,0000,0000,,{\i1}I want always to be by your side, hand-in-hand,{\i}
+Dialogue: 0,0:03:14.03,0:03:19.58,Default,,0000,0000,0000,,{\i1}As this quantum entanglement forms Zero{\i}
 Dialogue: 0,0:03:19.58,0:02:24.91,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 0,0:03:32.33,0:03:35.00,Default,,0000,0000,0000,,Yo, Maho. What's up?
 Dialogue: 0,0:03:35.00,0:03:35.88,Default,,0000,0000,0000,,Morning.
