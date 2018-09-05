@@ -1,6 +1,8 @@
 ﻿[Script Info]
-Title: HorribleSubs
-ScriptType: v4.00+
+Title: HorribleSubs(Fix)
+; Subs edited by Woute and Davixxa for consistency
+; Songs translation by Rigs
+; https://bitbucket.org/Woote/horriblefix/overview
 WrapStyle: 0
 PlayResX: 848
 PlayResY: 480
@@ -21,9 +23,9 @@ Dialogue: 0,0:00:08.34,0:00:09.25,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:00:09.25,0:00:10.63,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:00:13.34,0:00:15.39,Default,,0000,0000,0000,,Okabe.
 Dialogue: 0,0:00:17.93,0:00:19.18,Default,,0000,0000,0000,,Okarin.
-Dialogue: 0,0:00:19.18,0:00:20.56,Default,,0000,0000,0000,,Okabe-{\i1}san{\i}.
+Dialogue: 0,0:00:19.18,0:00:20.56,Default,,0000,0000,0000,,Okabe.
 Dialogue: 0,0:00:20.56,0:00:21.81,Default,,0000,0000,0000,,Kyouma!
-Dialogue: 0,0:00:21.81,0:00:23.27,Default,,0000,0000,0000,,Okabe-{\i1}kun{\i}.
+Dialogue: 0,0:00:21.81,0:00:23.27,Default,,0000,0000,0000,,Okabe.
 Dialogue: 0,0:00:23.27,0:00:25.60,Default,,0000,0000,0000,,Uncle Okarin.
 Dialogue: 0,0:00:25.60,0:00:28.07,Default,,0000,0000,0000,,Good, everyone's here.
 Dialogue: 0,0:00:28.07,0:00:32.90,Default,,0000,0000,0000,,As of now, the 65536th\Nround table meeting will...
@@ -172,22 +174,22 @@ Dialogue: 0,0:11:53.75,0:11:55.08,Default,,0000,0000,0000,,Contact?
 Dialogue: 0,0:11:55.08,0:11:56.38,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:11:56.38,0:11:58.63,Default,,0000,0000,0000,,You've been out for 11 years.
 Dialogue: 0,0:11:58.63,0:12:01.80,Default,,0000,0000,0000,,The lab members have been\Nwaiting long for this day.
-Dialogue: 0,0:12:02.01,0:12:07.01,On Top,,0000,0000,0000,,"Rinascimento of the Unwavering Promise\N-Promised Rinascimento-"
+Dialogue: 0,0:12:02.01,0:12:07.01,On Top,,0000,0000,0000,,Rinascimento of the Unwavering Promise\N- Promised Rinascimento -
 Dialogue: 0,0:12:09.60,0:12:12.19,Default,,0000,0000,0000,,No issues here.
 Dialogue: 0,0:12:12.19,0:12:14.48,Default,,0000,0000,0000,,Fine here.
 Dialogue: 0,0:12:14.48,0:12:17.32,Default,,0000,0000,0000,,This is the place, right?
-Dialogue: 0,0:12:17.32,0:12:21.57,Default,,0000,0000,0000,,Should be, meow.\NWe'll pick up the stuff like usual.
+Dialogue: 0,0:12:17.32,0:12:21.57,Default,,0000,0000,0000,,Should be, nya.\NWe'll pick up the stuff like usual.
 Dialogue: 0,0:12:21.57,0:12:24.70,Default,,0000,0000,0000,,This is Barrel Titor. Report in.
-Dialogue: 0,0:12:24.70,0:12:27.53,Default,,0000,0000,0000,,Cheshire Cat here. What's up, meow?
+Dialogue: 0,0:12:24.70,0:12:27.53,Default,,0000,0000,0000,,Cheshire Cat here. What's up, nya?
 Dialogue: 0,0:12:27.53,0:12:29.83,Default,,0000,0000,0000,,Is Warrior with you?
-Dialogue: 0,0:12:29.83,0:12:31.16,Default,,0000,0000,0000,,Yeah, meow.
+Dialogue: 0,0:12:29.83,0:12:31.16,Default,,0000,0000,0000,,Yeah, nya.
 Dialogue: 0,0:12:31.16,0:12:33.83,Default,,0000,0000,0000,,I need the both of you to listen up.
 Dialogue: 0,0:12:33.83,0:12:34.96,Default,,0000,0000,0000,,Mmm?
 Dialogue: 0,0:12:36.63,0:12:38.67,Default,,0000,0000,0000,,Okarin has woken.
 Dialogue: 0,0:12:38.67,0:12:40.46,Default,,0000,0000,0000,,Eh?!
 Dialogue: 0,0:12:40.46,0:12:42.88,Default,,0000,0000,0000,,Are you serious?
 Dialogue: 0,0:12:42.88,0:12:44.13,Default,,0000,0000,0000,,That was...
-Dialogue: 0,0:12:44.13,0:12:46.89,Default,,0000,0000,0000,,Ruka and Faris-{\i1}san{\i}.
+Dialogue: 0,0:12:44.13,0:12:46.89,Default,,0000,0000,0000,,Luka and Faris.
 Dialogue: 0,0:12:46.89,0:12:51.06,Default,,0000,0000,0000,,They're the ones who cared\Nfor you this whole time.
 Dialogue: 0,0:12:51.06,0:12:52.56,Default,,0000,0000,0000,,So that's how it was...
 Dialogue: 0,0:12:52.56,0:12:54.52,Default,,0000,0000,0000,,Wait a sec.
@@ -197,56 +199,56 @@ Dialogue: 0,0:13:00.98,0:13:01.82,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:13:01.82,0:13:04.32,Default,,0000,0000,0000,,Meow? Are you sure about that?
 Dialogue: 0,0:13:04.32,0:13:08.41,Default,,0000,0000,0000,,We got a message late last night\Nsaying to be here today...
 Dialogue: 0,0:13:13.54,0:13:15.00,Default,,0000,0000,0000,,It's a trap.
-Dialogue: 0,0:13:15.00,0:13:17.29,Default,,0000,0000,0000,,Big Bro Ruka! Big Sis--
+Dialogue: 0,0:13:15.00,0:13:17.29,Default,,0000,0000,0000,,Big Bro Luka! Big Sis--
 Dialogue: 0,0:13:18.71,0:13:19.59,Default,,0000,0000,0000,,Dad!
 Dialogue: 0,0:13:19.59,0:13:20.92,Default,,0000,0000,0000,,Okey-dokey!
 Dialogue: 0,0:13:26.47,0:13:28.85,Default,,0000,0000,0000,,Hold on! I'm coming too!
 Dialogue: 0,0:13:28.85,0:13:31.51,Default,,0000,0000,0000,,But, with the shape that you're in...
 Dialogue: 0,0:13:31.51,0:13:32.81,Default,,0000,0000,0000,,Please!
 Dialogue: 0,0:13:38.06,0:13:39.56,Default,,0000,0000,0000,,Thanks.
-Dialogue: 0,0:13:46.70,0:13:49.70,Default,,0000,0000,0000,,Not good, meow! We'll be wiped out, meow!
+Dialogue: 0,0:13:46.70,0:13:49.70,Default,,0000,0000,0000,,Not good, nya! We'll be wiped out, nya!
 Dialogue: 0,0:13:51.95,0:13:53.87,Default,,0000,0000,0000,,I'll hold them off.
-Dialogue: 0,0:13:55.04,0:13:58.50,Default,,0000,0000,0000,,Everyone go with Faris-{\i1}san{\i}\Nand bring back reinforcements.
+Dialogue: 0,0:13:55.04,0:13:58.50,Default,,0000,0000,0000,,Everyone go with Faris\Nand bring back reinforcements.
 Dialogue: 0,0:13:58.50,0:13:59.21,Default,,0000,0000,0000,,Eh?
-Dialogue: 0,0:13:59.21,0:14:02.63,Default,,0000,0000,0000,,That's insane, meow!\NThere's no way, Ruka-meow!
+Dialogue: 0,0:13:59.21,0:14:02.63,Default,,0000,0000,0000,,That's insane, nya!\NThere's no way, Luka-nya!
 Dialogue: 0,0:14:02.63,0:14:04.92,Default,,0000,0000,0000,,I'll be fine.
-Dialogue: 0,0:14:04.92,0:14:09.05,Default,,0000,0000,0000,,There's no way I'll die before\Nseeing Okabe-{\i1}san{\i} again.
-Dialogue: 0,0:14:09.05,0:14:10.35,Default,,0000,0000,0000,,Ruka-meow...
+Dialogue: 0,0:14:04.92,0:14:09.05,Default,,0000,0000,0000,,There's no way I'll die before\Nseeing Okabe again.
+Dialogue: 0,0:14:09.05,0:14:10.35,Default,,0000,0000,0000,,Luka-nya...
 Dialogue: 0,0:14:17.31,0:14:18.81,Default,,0000,0000,0000,,Let's go!
 Dialogue: 0,0:14:18.81,0:14:20.06,Default,,0000,0000,0000,,But...
-Dialogue: 0,0:14:20.81,0:14:22.57,Default,,0000,0000,0000,,Hang in there, Ruka-meow!
+Dialogue: 0,0:14:20.81,0:14:22.57,Default,,0000,0000,0000,,Hang in there, Luka-nya!
 Dialogue: 0,0:14:41.25,0:14:42.84,Default,,0000,0000,0000,,Suzuha! 12 o'clock!
-Dialogue: 0,0:14:43.84,0:14:45.17,Default,,0000,0000,0000,,Faris-{\i1}san{\i}!
-Dialogue: 0,0:14:48.09,0:14:50.55,Default,,0000,0000,0000,,Suzu-meow! Daru-meow!
+Dialogue: 0,0:14:43.84,0:14:45.17,Default,,0000,0000,0000,,Faris!
+Dialogue: 0,0:14:48.09,0:14:50.55,Default,,0000,0000,0000,,Suzu-nya! Daru-nya!
 Dialogue: 0,0:14:50.55,0:14:52.01,Default,,0000,0000,0000,,Faris!
 Dialogue: 0,0:14:54.51,0:14:56.39,Default,,0000,0000,0000,,Kyou... ma.
 Dialogue: 0,0:15:00.90,0:15:02.31,Default,,0000,0000,0000,,Kyouma...
 Dialogue: 0,0:15:04.07,0:15:05.82,Default,,0000,0000,0000,,Kyouma!
 Dialogue: 0,0:15:05.82,0:15:08.19,Default,,0000,0000,0000,,Kyouma! Kyouma! You're awake!
 Dialogue: 0,0:15:08.19,0:15:09.99,Default,,0000,0000,0000,,Sorry to worry you.
-Dialogue: 0,0:15:09.99,0:15:11.74,Default,,0000,0000,0000,,Big Bro Ruka?
-Dialogue: 0,0:15:11.74,0:15:14.58,Default,,0000,0000,0000,,That's right! Ruka-meow's in trouble!
+Dialogue: 0,0:15:09.99,0:15:11.74,Default,,0000,0000,0000,,Big Bro Luka?
+Dialogue: 0,0:15:11.74,0:15:14.58,Default,,0000,0000,0000,,That's right! Luka-nya's in trouble!
 Dialogue: 0,0:15:14.58,0:15:16.74,Default,,0000,0000,0000,,He stayed back to let us escape.
 Dialogue: 0,0:15:16.74,0:15:18.00,Default,,0000,0000,0000,,Eh?!
 Dialogue: 0,0:15:25.80,0:15:28.13,Default,,0000,0000,0000,,I can't hear any combat.
 Dialogue: 0,0:15:37.27,0:15:39.31,Default,,0000,0000,0000,,This way! Found him!
-Dialogue: 0,0:15:39.31,0:15:40.27,Default,,0000,0000,0000,,Big Bro Ruka!
-Dialogue: 0,0:15:40.27,0:15:41.69,Default,,0000,0000,0000,,Ruka-meow!
-Dialogue: 0,0:15:59.16,0:16:00.79,Default,,0000,0000,0000,,Rukako...
-Dialogue: 0,0:16:05.17,0:16:07.88,Default,,0000,0000,0000,,Ruka... ko?
-Dialogue: 0,0:16:11.01,0:16:12.80,Default,,0000,0000,0000,,Rukako!
-Dialogue: 0,0:16:19.77,0:16:22.39,Default,,0000,0000,0000,,Kyouma-{\i1}san{\i}?
-Dialogue: 0,0:16:22.39,0:16:25.27,Default,,0000,0000,0000,,It's me! Rukako!
+Dialogue: 0,0:15:39.31,0:15:40.27,Default,,0000,0000,0000,,Big Bro Luka!
+Dialogue: 0,0:15:40.27,0:15:41.69,Default,,0000,0000,0000,,Luka-nya!
+Dialogue: 0,0:15:59.16,0:16:00.79,Default,,0000,0000,0000,,Lukako...
+Dialogue: 0,0:16:05.17,0:16:07.88,Default,,0000,0000,0000,,Luka... ko?
+Dialogue: 0,0:16:11.01,0:16:12.80,Default,,0000,0000,0000,,Lukako!
+Dialogue: 0,0:16:19.77,0:16:22.39,Default,,0000,0000,0000,,Kyouma?
+Dialogue: 0,0:16:22.39,0:16:25.27,Default,,0000,0000,0000,,It's me! Lukako!
 Dialogue: 0,0:16:25.27,0:16:28.32,Default,,0000,0000,0000,,That name you call me...
-Dialogue: 0,0:16:28.32,0:16:31.78,Default,,0000,0000,0000,,It's really you, Kyouma-{\i1}san{\i}...
-Dialogue: 0,0:16:31.78,0:16:33.70,Default,,0000,0000,0000,,Rukako!
+Dialogue: 0,0:16:28.32,0:16:31.78,Default,,0000,0000,0000,,It's really you, Kyouma...
+Dialogue: 0,0:16:31.78,0:16:33.70,Default,,0000,0000,0000,,Lukako!
 Dialogue: 0,0:16:33.70,0:16:35.45,Default,,0000,0000,0000,,Thank goodness.
-Dialogue: 0,0:16:35.45,0:16:38.20,Default,,0000,0000,0000,,Now that you're back, Kyouma-{\i1}san{\i}...
+Dialogue: 0,0:16:35.45,0:16:38.20,Default,,0000,0000,0000,,Now that you're back, Kyouma...
 Dialogue: 0,0:16:38.20,0:16:41.25,Default,,0000,0000,0000,,...I can rest... assured now.
 Dialogue: 0,0:16:41.25,0:16:42.91,Default,,0000,0000,0000,,What are you...?
-Dialogue: 0,0:16:44.00,0:16:47.34,Default,,0000,0000,0000,,Hey, Kyouma-{\i1}san{\i}.
+Dialogue: 0,0:16:44.00,0:16:47.34,Default,,0000,0000,0000,,Hey, Kyouma.
 Dialogue: 0,0:16:47.34,0:16:51.05,Default,,0000,0000,0000,,I... did it.
-Dialogue: 0,0:16:51.05,0:16:54.30,Default,,0000,0000,0000,,You taught me, Kyouma-{\i1}san{\i}...
+Dialogue: 0,0:16:51.05,0:16:54.30,Default,,0000,0000,0000,,You taught me, Kyouma...
 Dialogue: 0,0:16:54.30,0:16:58.05,Default,,0000,0000,0000,,The Seishin Zanma sword-fighting style...
 Dialogue: 0,0:16:58.05,0:17:01.56,Default,,0000,0000,0000,,I protected them... with it.
 Dialogue: 0,0:17:01.56,0:17:06.40,Default,,0000,0000,0000,,Do you think... I'm finally... a lab member now?
@@ -255,18 +257,18 @@ Dialogue: 0,0:17:11.11,0:17:14.74,Default,,0000,0000,0000,,...of being everyone'
 Dialogue: 0,0:17:14.74,0:17:16.24,Default,,0000,0000,0000,,You idiot...
 Dialogue: 0,0:17:16.24,0:17:20.95,Default,,0000,0000,0000,,You were, from the very start... always!
 Dialogue: 0,0:17:20.95,0:17:24.29,Default,,0000,0000,0000,,You were always... our comrade!
-Dialogue: 0,0:17:24.29,0:17:27.96,Default,,0000,0000,0000,,Lab member 006!
+Dialogue: 0,0:17:24.29,0:17:27.96,Default,,0000,0000,0000,,Lab Mem 006!
 Dialogue: 0,0:17:27.96,0:17:31.46,Default,,0000,0000,0000,,I see... Heh...
 Dialogue: 0,0:17:31.46,0:17:33.51,Default,,0000,0000,0000,,I'm so glad...
 Dialogue: 0,0:17:33.51,0:17:35.34,Default,,0000,0000,0000,,With this...
-Dialogue: 0,0:17:35.34,0:17:38.84,Default,,0000,0000,0000,,I can face Mayuri-{\i1}chan{\i}... and be proud...
-Dialogue: 0,0:17:41.76,0:17:43.31,Default,,0000,0000,0000,,Rukako!
+Dialogue: 0,0:17:35.34,0:17:38.84,Default,,0000,0000,0000,,I can face Mayuri... and be proud...
+Dialogue: 0,0:17:41.76,0:17:43.31,Default,,0000,0000,0000,,Lukako!
 Dialogue: 0,0:17:46.06,0:17:47.94,Default,,0000,0000,0000,,That's a relief.
-Dialogue: 0,0:17:50.19,0:17:54.28,Default,,0000,0000,0000,,Ruka wanted to see you more than anything.
+Dialogue: 0,0:17:50.19,0:17:54.28,Default,,0000,0000,0000,,Luka wanted to see you more than anything.
 Dialogue: 0,0:17:54.28,0:17:58.24,Default,,0000,0000,0000,,He was waiting for the day you woke up.
 Dialogue: 0,0:17:58.24,0:18:01.87,Default,,0000,0000,0000,,In the end... his wish came true.
-Dialogue: 0,0:18:42.12,0:18:44.54,Default,,0000,0000,0000,,It's been a while, Okabe-{\i1}san{\i}.
-Dialogue: 0,0:18:47.62,0:18:49.50,Default,,0000,0000,0000,,Hiyajo-{\i1}san{\i}...
+Dialogue: 0,0:18:42.12,0:18:44.54,Default,,0000,0000,0000,,It's been a while, Okabe.
+Dialogue: 0,0:18:47.62,0:18:49.50,Default,,0000,0000,0000,,Hiyajo...
 Dialogue: 0,0:18:54.59,0:18:56.51,Default,,0000,0000,0000,,Sorry it's not very strong.
 Dialogue: 0,0:18:56.51,0:18:58.72,Default,,0000,0000,0000,,We're always low on everything.
 Dialogue: 0,0:18:58.72,0:19:00.26,Default,,0000,0000,0000,,Right.
@@ -275,7 +277,7 @@ Dialogue: 0,0:19:05.68,0:19:09.77,Default,,0000,0000,0000,,You mean how I look l
 Dialogue: 0,0:19:09.77,0:19:14.57,Default,,0000,0000,0000,,Well, when you get to my age,\Nit might be a compliment.
 Dialogue: 0,0:19:14.57,0:19:17.07,Default,,0000,0000,0000,,Does it seem like we're all so cold?
 Dialogue: 0,0:19:17.07,0:19:17.99,Default,,0000,0000,0000,,Eh?
-Dialogue: 0,0:19:17.99,0:19:25.58,Default,,0000,0000,0000,,Urushibara-{\i1}san{\i} just died, and yet\Neveryone's so calm about it... don't you think?
+Dialogue: 0,0:19:17.99,0:19:25.58,Default,,0000,0000,0000,,Urushibara just died, and yet\Neveryone's so calm about it... don't you think?
 Dialogue: 0,0:19:25.58,0:19:26.83,Default,,0000,0000,0000,,No...
 Dialogue: 0,0:19:26.83,0:19:28.25,Default,,0000,0000,0000,,That day...
 Dialogue: 0,0:19:28.25,0:19:34.84,Default,,0000,0000,0000,,From July 7th, 2011 till now,\Nso many people have died.
@@ -285,15 +287,15 @@ Dialogue: 0,0:19:42.43,0:19:44.97,Default,,0000,0000,0000,,We can't just sit and
 Dialogue: 0,0:19:46.47,0:19:48.93,Default,,0000,0000,0000,,That's what our reality has become.
 Dialogue: 0,0:19:52.06,0:19:53.81,Default,,0000,0000,0000,,I thought I knew...
 Dialogue: 0,0:19:55.77,0:19:59.61,Default,,0000,0000,0000,,Suzuha told me time and time again.
-Dialogue: 0,0:19:59.61,0:20:05.74,Default,,0000,0000,0000,,That down the world line I chose,\Nthis kind of future was waiting.
+Dialogue: 0,0:19:59.61,0:20:05.74,Default,,0000,0000,0000,,That down the worldline I chose,\Nthis kind of future was waiting.
 Dialogue: 0,0:20:05.74,0:20:08.16,Default,,0000,0000,0000,,I thought I understood.
 Dialogue: 0,0:20:09.29,0:20:13.50,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:20:13.50,0:20:16.59,Default,,0000,0000,0000,,I was only telling myself I understood!
 Dialogue: 0,0:20:16.59,0:20:21.51,Default,,0000,0000,0000,,I was only telling myself!\NJust running away from the truth!
 Dialogue: 0,0:20:21.51,0:20:26.39,Default,,0000,0000,0000,,Even after I watched Kurisu die,\NI lose Mayuri and Suzuha too!
 Dialogue: 0,0:20:26.39,0:20:27.85,Default,,0000,0000,0000,,And Kagari!
-Dialogue: 0,0:20:27.85,0:20:30.27,Default,,0000,0000,0000,,And Yuki-{\i1}san{\i}!
-Dialogue: 0,0:20:30.27,0:20:32.48,Default,,0000,0000,0000,,And Rukako!
+Dialogue: 0,0:20:27.85,0:20:30.27,Default,,0000,0000,0000,,And Yuki!
+Dialogue: 0,0:20:30.27,0:20:32.48,Default,,0000,0000,0000,,And Lukako!
 Dialogue: 0,0:20:32.48,0:20:37.11,Default,,0000,0000,0000,,In the end, I didn't understand a damn thing!
 Dialogue: 0,0:20:37.11,0:20:40.44,Default,,0000,0000,0000,,Eleven years ago...
 Dialogue: 0,0:20:40.44,0:20:44.86,Default,,0000,0000,0000,,Eleven years ago,\Nyou always said the same thing.
@@ -311,7 +313,7 @@ Dialogue: 0,0:21:16.73,0:21:20.86,Default,,0000,0000,0000,,Countless... failed f
 Dialogue: 0,0:21:22.74,0:21:24.45,Default,,0000,0000,0000,,Past...
 Dialogue: 0,0:21:24.45,0:21:26.28,Default,,0000,0000,0000,,Future...
 Dialogue: 0,0:21:26.28,0:21:28.28,Default,,0000,0000,0000,,The world...
-Dialogue: 0,0:21:28.28,0:21:31.12,Default,,0000,0000,0000,,Hiyajo-{\i1}san{\i}. Daru.
+Dialogue: 0,0:21:28.28,0:21:31.12,Default,,0000,0000,0000,,Hiyajo. Daru.
 Dialogue: 0,0:21:31.12,0:21:34.58,Default,,0000,0000,0000,,Right now, my memories are from 2011.
 Dialogue: 0,0:21:34.58,0:21:36.92,Default,,0000,0000,0000,,Because using the time leap machine...
 Dialogue: 0,0:21:36.92,0:21:42.09,Default,,0000,0000,0000,,...you successfully rewrote\Nmy memories from now, in 2036?
