@@ -1,5 +1,8 @@
 ﻿[Script Info]
-Title: HorribleSubs
+Title: HorribleSubs(Fix)
+; Subs edited by Woute and Davixxa for consistency
+; Songs translation by Rigs
+; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 848
@@ -19,7 +22,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:00:25.94,0:00:31.78,Default,,0000,0000,0000,,Basically, no matter how much you time leap,\Nthe time machine keeps getting destroyed?
 Dialogue: 0,0:00:31.78,0:00:32.74,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:00:32.74,0:00:37.95,Default,,0000,0000,0000,,Can't you rush to the Radio Building\Nand stop Mayushii before she hops in?
+Dialogue: 0,0:00:32.74,0:00:37.95,Default,,0000,0000,0000,,Can't you rush to Radikan\Nand stop Mayushii before she hops in?
 Dialogue: 0,0:00:37.95,0:00:43.00,Default,,0000,0000,0000,,Of course... And that even might\Nsave Mayushii and Suzuha.
 Dialogue: 0,0:00:43.00,0:00:47.42,Default,,0000,0000,0000,,However, there's a strong chance\Nthat makes things unpredictable.
 Dialogue: 0,0:00:47.42,0:00:48.79,Default,,0000,0000,0000,,What do you mean?
@@ -48,7 +51,7 @@ Dialogue: 0,0:02:14.80,0:02:18.01,Default,,0000,0000,0000,,...giving up is not a
 Dialogue: 0,0:02:18.01,0:02:19.76,Default,,0000,0000,0000,,But you'll have my full support.
 Dialogue: 0,0:02:22.22,0:02:23.76,Default,,0000,0000,0000,,What's so funny?
 Dialogue: 0,0:02:23.76,0:02:27.68,Default,,0000,0000,0000,,Nothing. It's just, no matter\Nthe time I find myself in,
-Dialogue: 0,0:02:27.68,0:02:32.73,Default,,0000,0000,0000,,all of you lab members,\Nyou really never change at all.
+Dialogue: 0,0:02:27.68,0:02:32.73,Default,,0000,0000,0000,,all of you lab mems,\Nyou really never change at all.
 Dialogue: 0,0:02:32.73,0:02:33.82,Default,,0000,0000,0000,,Heh...
 Dialogue: 0,0:02:33.82,0:02:35.23,Default,,0000,0000,0000,,Heh?
 Dialogue: 0,0:02:39.03,0:02:44.20,Default,,0000,0000,0000,,You fool! This was all a mere act\Nto throw the Organization off my trail!
@@ -82,7 +85,7 @@ Dialogue: 0,0:03:33.08,0:03:37.34,Default,,0000,0000,0000,,Long have I known whi
 Dialogue: 0,0:03:37.34,0:03:39.80,Default,,0000,0000,0000,,And they've begun to move.
 Dialogue: 0,0:03:41.63,0:03:43.01,Default,,0000,0000,0000,,Senpai...
 Dialogue: 0,0:03:43.01,0:03:43.97,Default,,0000,0000,0000,,What?
-Dialogue: 0,0:03:43.97,0:03:46.18,Default,,0000,0000,0000,,Did Okabe-{\i1}san{\i} hit his head on something?
+Dialogue: 0,0:03:43.97,0:03:46.18,Default,,0000,0000,0000,,Did Okabe hit his head on something?
 Dialogue: 0,0:03:46.18,0:03:48.43,Default,,0000,0000,0000,,Or has he been traumatized by--
 Dialogue: 0,0:03:48.43,0:03:50.14,Default,,0000,0000,0000,,Silence, Christina!
 Dialogue: 0,0:03:50.14,0:03:51.60,Default,,0000,0000,0000,,Don't call me that!
@@ -97,7 +100,7 @@ Dialogue: 0,0:04:08.70,0:04:11.91,Default,,0000,0000,0000,,and he's delusional a
 Dialogue: 0,0:04:11.91,0:04:16.96,Default,,0000,0000,0000,,But, that's exactly why his absurd logic\Ncan overcome the impossible.
 Dialogue: 0,0:04:16.96,0:04:17.63,Default,,0000,0000,0000,,Daru...
 Dialogue: 0,0:04:17.63,0:04:21.17,Default,,0000,0000,0000,,Now explain why you stepped\Noutside looking all gloomy
-Dialogue: 0,0:04:21.17,0:04:24.05,Default,,0000,0000,0000,,but came back with\NMaho-{\i1}tan{\i} and a new attitude?
+Dialogue: 0,0:04:21.17,0:04:24.05,Default,,0000,0000,0000,,but came back with\NMaho and a new attitude?
 Dialogue: 0,0:04:24.05,0:04:27.22,Default,,0000,0000,0000,,What happened? What'd you two do, Okarin?!
 Dialogue: 0,0:04:27.22,0:04:29.31,Default,,0000,0000,0000,,--Eh? Huh? Uh... Eh?\N--A smooch? A smoochy?!
 Dialogue: 0,0:04:29.31,0:04:31.81,Default,,0000,0000,0000,,Even though you have Mayushii?! I'm jealous!
@@ -144,7 +147,7 @@ Dialogue: 0,0:05:58.48,0:06:00.94,Default,,0000,0000,0000,,Do you have some sort
 Dialogue: 0,0:06:02.61,0:06:03.44,Default,,0000,0000,0000,,Nope.
 Dialogue: 0,0:06:03.44,0:06:04.61,Default,,0000,0000,0000,,What?!
 Dialogue: 0,0:06:04.61,0:06:08.24,Default,,0000,0000,0000,,You've been talking all this time\Nand haven't thought of anything?
-Dialogue: 0,0:06:08.24,0:06:10.03,Default,,0000,0000,0000,,Yeah, yeah. Herp derp.
+Dialogue: 0,0:06:08.24,0:06:10.03,Default,,0000,0000,0000,,Yeah, yeah. LOL.
 Dialogue: 0,0:06:10.03,0:06:10.99,Default,,0000,0000,0000,,What's that?
 Dialogue: 0,0:06:10.99,0:06:12.28,Default,,0000,0000,0000,,Shaddap!
 Dialogue: 0,0:06:12.28,0:06:18.83,Default,,0000,0000,0000,,Leskinen and DURPA were thwarted by\Nmy exceptional wits and masterful plan!
@@ -158,7 +161,7 @@ Dialogue: 0,0:06:40.19,0:06:43.15,On Top,,0000,0000,0000,,"Foreign Intel"
 Dialogue: 0,0:06:40.60,0:06:43.19,Default,,0000,0000,0000,,In this case, Russia is...
 Dialogue: 0,0:06:43.19,0:06:44.65,Default,,0000,0000,0000,,Whoa!
 Dialogue: 0,0:06:44.65,0:06:48.03,Default,,0000,0000,0000,,Russ... ia... is...
-Dialogue: 0,0:06:49.99,0:06:53.95,Default,,0000,0000,0000,,It's here! The promised pose\Nof Maho-{\i1}tan{\i} we all hoped for!
+Dialogue: 0,0:06:49.99,0:06:53.95,Default,,0000,0000,0000,,It's here! The promised pose\Nof Maho we all hoped for!
 Dialogue: 0,0:06:53.95,0:06:55.29,Default,,0000,0000,0000,,Says who?!
 Dialogue: 0,0:06:55.29,0:06:57.20,Default,,0000,0000,0000,,It must be done.
 Dialogue: 0,0:06:57.20,0:06:58.79,Default,,0000,0000,0000,,--Here.\N--Eh?
@@ -168,14 +171,14 @@ Dialogue: 0,0:07:09.05,0:07:11.97,Default,,0000,0000,0000,,know that we have a t
 Dialogue: 0,0:07:11.97,0:07:15.22,Default,,0000,0000,0000,,For the Americans, it's because of Leskinen.
 Dialogue: 0,0:07:15.22,0:07:17.47,Default,,0000,0000,0000,,The future Leskinen used Kagari
 Dialogue: 0,0:07:17.47,0:07:20.56,Default,,0000,0000,0000,,to tell the current Leskinen\Nabout the time machine.
-Dialogue: 0,0:07:20.56,0:07:25.19,Default,,0000,0000,0000,,But, Kagari-{\i1}san{\i} would have\Nmet the professor years ago.
+Dialogue: 0,0:07:20.56,0:07:25.19,Default,,0000,0000,0000,,But, Kagari would have\Nmet the professor years ago.
 Dialogue: 0,0:07:25.19,0:07:27.53,Default,,0000,0000,0000,,Why didn't he make his move then?
 Dialogue: 0,0:07:27.53,0:07:28.94,Default,,0000,0000,0000,,Nothing could be changed.
 Dialogue: 0,0:07:28.94,0:07:29.74,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:07:29.74,0:07:31.95,Default,,0000,0000,0000,,It's like a time paradox.
 Dialogue: 0,0:07:31.95,0:07:34.24,Default,,0000,0000,0000,,If his actions defied history,
-Dialogue: 0,0:07:34.24,0:07:38.79,Default,,0000,0000,0000,,world line convergence\Nwould correct anything he does.
-Dialogue: 0,0:07:38.79,0:07:40.00,Default,,0000,0000,0000,,World line...
+Dialogue: 0,0:07:34.24,0:07:38.79,Default,,0000,0000,0000,,worldline convergence\Nwould correct anything he does.
+Dialogue: 0,0:07:38.79,0:07:40.00,Default,,0000,0000,0000,,Worldline...
 Dialogue: 0,0:07:40.00,0:07:43.71,Default,,0000,0000,0000,,However, Leskinen's plan\Nwas to use that to his advantage.
 Dialogue: 0,0:07:43.71,0:07:45.29,Default,,0000,0000,0000,,I see...
 Dialogue: 0,0:07:45.29,0:07:49.96,Default,,0000,0000,0000,,Essentially, in the future, on July 7th, 2011,
@@ -215,7 +218,7 @@ Dialogue: 0,0:09:32.73,0:09:35.86,Default,,0000,0000,0000,,Inside of me are all 
 Dialogue: 0,0:09:35.86,0:09:38.74,Default,,0000,0000,0000,,I have her thought patterns as well.
 Dialogue: 0,0:09:38.74,0:09:44.08,Default,,0000,0000,0000,,If someone was making a time machine,\Nthey'd want me for sure.
 Dialogue: 0,0:09:44.08,0:09:45.33,Default,,0000,0000,0000,,That time...
-Dialogue: 0,0:09:45.33,0:09:49.46,Default,,0000,0000,0000,,...when Amadeus was taken over,\Nthe world line changed.
+Dialogue: 0,0:09:45.33,0:09:49.46,Default,,0000,0000,0000,,...when Amadeus was taken over,\Nthe worldline changed.
 Dialogue: 0,0:09:49.46,0:09:50.38,Default,,0000,0000,0000,,What's up?
 Dialogue: 0,0:09:50.38,0:09:52.71,Default,,0000,0000,0000,,If we went back before Russia's involved,
 Dialogue: 0,0:09:52.71,0:09:54.88,Default,,0000,0000,0000,,could we somehow protect Amadeus?
@@ -228,9 +231,9 @@ Dialogue: 0,0:10:07.64,0:10:11.19,Default,,0000,0000,0000,,Around spring of last
 Dialogue: 0,0:10:11.19,0:10:13.02,Default,,0000,0000,0000,,If I time leap back to then--
 Dialogue: 0,0:10:13.02,0:10:14.69,Default,,0000,0000,0000,,C-Can you even?
 Dialogue: 0,0:10:14.69,0:10:17.32,Default,,0000,0000,0000,,Last spring, it wasn't...
-Dialogue: 0,0:10:17.32,0:10:22.66,Default,,0000,0000,0000,,For starters, your Phone Microwave\Nwasn't even finished until last summer.
+Dialogue: 0,0:10:17.32,0:10:22.66,Default,,0000,0000,0000,,For starters, your PhoneWave\Nwasn't even finished until last summer.
 Dialogue: 0,0:10:22.66,0:10:26.62,Default,,0000,0000,0000,,No matter what, you can't go back that far.
-Dialogue: 0,0:10:26.62,0:10:29.04,Default,,0000,0000,0000,,In that case, D-mail! Daru!
+Dialogue: 0,0:10:26.62,0:10:29.04,Default,,0000,0000,0000,,In that case, D-Mail! Daru!
 Dialogue: 0,0:10:29.04,0:10:30.75,Default,,0000,0000,0000,,You sure about that?
 Dialogue: 0,0:10:30.75,0:10:33.59,Default,,0000,0000,0000,,You were always against the idea...
 Dialogue: 0,0:10:33.59,0:10:37.17,Default,,0000,0000,0000,,True... SERN will catch on if we use that.
@@ -239,12 +242,12 @@ Dialogue: 0,0:10:42.85,0:10:46.22,Default,,0000,0000,0000,,We'll just have to lo
 Dialogue: 0,0:10:46.22,0:10:51.15,Default,,0000,0000,0000,,Um, sorry for not mentioning it earlier,\Nbut I've got something to say...
 Dialogue: 0,0:10:52.94,0:10:54.15,Default,,0000,0000,0000,,D-RINE?
 Dialogue: 0,0:10:54.15,0:10:55.28,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:10:55.28,0:10:59.70,Default,,0000,0000,0000,,Using the same principles as D-mail,\NI made it sendable over RINE.
+Dialogue: 0,0:10:55.28,0:10:59.70,Default,,0000,0000,0000,,Using the same principles as D-Mail,\NI made it sendable over RINE.
 Dialogue: 0,0:10:59.70,0:11:02.24,Default,,0000,0000,0000,,Can it be sent without being caught by SERN?!
 Dialogue: 0,0:11:02.24,0:11:03.58,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:11:03.58,0:11:10.16,Default,,0000,0000,0000,,Thing is, RINE was still in beta last spring\Nand I was the only one with it installed.
 Dialogue: 0,0:11:10.16,0:11:12.83,Default,,0000,0000,0000,,I think last New Year's might be our limit.
-Dialogue: 0,0:11:12.83,0:11:16.84,Default,,0000,0000,0000,,So, we can't send it\Nto anyone but Hashida-{\i1}san{\i}.
+Dialogue: 0,0:11:12.83,0:11:16.84,Default,,0000,0000,0000,,So, we can't send it\Nto anyone but Hashida.
 Dialogue: 0,0:11:16.84,0:11:17.96,Default,,0000,0000,0000,,Will it work?
 Dialogue: 0,0:11:17.96,0:11:19.38,Default,,0000,0000,0000,,It's possible.
 Dialogue: 0,0:11:19.38,0:11:22.93,Default,,0000,0000,0000,,You'll get a message from\Nyour future self saying to safeguard
@@ -267,7 +270,7 @@ Dialogue: 0,0:12:02.26,0:12:07.72,Default,,0000,0000,0000,,If it's all wiped out
 Dialogue: 0,0:12:07.72,0:12:12.19,Default,,0000,0000,0000,,But, that means you'll...
 Dialogue: 0,0:12:12.19,0:12:13.52,Default,,0000,0000,0000,,In other words...
 Dialogue: 0,0:12:13.52,0:12:17.02,Default,,0000,0000,0000,,Make it so Amadeus... never happened?
-Dialogue: 0,0:12:18.02,0:12:23.03,On Top,,0000,0000,0000,,Rinascimento of Projection\N-Project Amadeus-"
+Dialogue: 0,0:12:18.02,0:12:23.03,On Top,,0000,0000,0000,,Rinascimento of Projection\N- Project Amadeus -
 Dialogue: 0,0:12:30.58,0:12:32.04,Default,,0000,0000,0000,,What's going on?
 Dialogue: 0,0:12:32.04,0:12:34.29,Default,,0000,0000,0000,,No use in asking me...
 Dialogue: 0,0:12:34.29,0:12:39.13,Default,,0000,0000,0000,,At this rate, the time machine\Nwill get destroyed again tomorrow.
@@ -276,11 +279,11 @@ Dialogue: 0,0:12:41.71,0:12:45.80,Default,,0000,0000,0000,,Then, isn't it obviou
 Dialogue: 0,0:12:45.80,0:12:48.18,Default,,0000,0000,0000,,It is, but...
 Dialogue: 0,0:12:48.18,0:12:50.52,Default,,0000,0000,0000,,I think I understand his side.
 Dialogue: 0,0:12:50.52,0:12:53.31,Default,,0000,0000,0000,,And... I'm sure you do too.
-Dialogue: 0,0:12:55.19,0:12:57.90,Default,,0000,0000,0000,,I think... Okabe-{\i1}san{\i}...
+Dialogue: 0,0:12:55.19,0:12:57.90,Default,,0000,0000,0000,,I think... Okabe...
 Dialogue: 0,0:13:14.08,0:13:14.87,Default,,0000,0000,0000,,What's up?
 Dialogue: 0,0:13:14.87,0:13:17.13,Default,,0000,0000,0000,,Just passing along a message.
 Dialogue: 0,0:13:17.13,0:13:19.59,Default,,0000,0000,0000,,Amadeus wants to talk to you.
-Dialogue: 0,0:13:25.59,0:13:27.68,On Top,,0000,0000,0000,,"From: Hiyajo-{\i1}san{\i}"\N"To: Okabe Rintaro"\N"Subject: (No Subject)"
+Dialogue: 0,0:13:25.59,0:13:27.68,On Top,,0000,0000,0000,,"From: Hiyajo"\N"To: Okabe Rintaro"\N"Subject: (No Subject)"
 Dialogue: 0,0:13:46.90,0:13:48.82,Default,,0000,0000,0000,,H-Hello...
 Dialogue: 0,0:13:48.82,0:13:50.49,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:13:50.49,0:13:54.25,Default,,0000,0000,0000,,It feels like ages since I've been outside.
@@ -336,10 +339,10 @@ Dialogue: 0,0:16:54.47,0:16:57.30,Default,,0000,0000,0000,,Okabe Rintaro.
 Dialogue: 0,0:16:57.30,0:17:03.35,Default,,0000,0000,0000,,I can understand if you're sentimental\Nand don't want to erase me.
 Dialogue: 0,0:17:03.35,0:17:06.77,Default,,0000,0000,0000,,It makes me happy, honestly.
 Dialogue: 0,0:17:06.77,0:17:07.77,Default,,0000,0000,0000,,In that case--
-Dialogue: 0,0:17:07.77,0:17:12.36,Default,,0000,0000,0000,,But, you spoke of the Steins Gate world line.
+Dialogue: 0,0:17:07.77,0:17:12.36,Default,,0000,0000,0000,,But, you spoke of the Steins Gate worldline.
 Dialogue: 0,0:17:12.36,0:17:14.57,Default,,0000,0000,0000,,The life of Shiina Mayuri...
 Dialogue: 0,0:17:14.57,0:17:19.12,Default,,0000,0000,0000,,Plus, the life of the original me...
-Dialogue: 0,0:17:19.12,0:17:24.66,Default,,0000,0000,0000,,A world line where both lives\Ncan be saved is right in front of you.
+Dialogue: 0,0:17:19.12,0:17:24.66,Default,,0000,0000,0000,,A worldline where both lives\Ncan be saved is right in front of you.
 Dialogue: 0,0:17:24.66,0:17:28.50,Default,,0000,0000,0000,,I've said it many times,\Nbut I'm no more than a program.
 Dialogue: 0,0:17:28.50,0:17:29.38,Default,,0000,0000,0000,,Even if you--
 Dialogue: 0,0:17:29.38,0:17:31.30,Default,,0000,0000,0000,,I understand that!
@@ -357,7 +360,7 @@ Dialogue: 0,0:18:04.66,0:18:09.38,Default,,0000,0000,0000,,That choosing Mayuri 
 Dialogue: 0,0:18:09.38,0:18:10.92,Default,,0000,0000,0000,,I can imagine.
 Dialogue: 0,0:18:10.92,0:18:17.68,Default,,0000,0000,0000,,My pride won't allow\Na sacrifice to be made for me.
 Dialogue: 0,0:18:17.68,0:18:20.76,Default,,0000,0000,0000,,You know what you have to do, don't you?
-Dialogue: 0,0:18:20.76,0:18:24.47,Default,,0000,0000,0000,,Save Shiina-{\i1}san{\i} and Suzuha-{\i1}san{\i},\Nand don't allow the war to start by--
+Dialogue: 0,0:18:20.76,0:18:24.47,Default,,0000,0000,0000,,Save Shiina and Suzuha,\Nand don't allow the war to start by--
 Dialogue: 0,0:18:24.47,0:18:27.73,Default,,0000,0000,0000,,But then you...!
 Dialogue: 0,0:18:27.73,0:18:29.60,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:18:29.60,0:18:33.61,Default,,0000,0000,0000,,It'll be like you never existed.
@@ -367,7 +370,7 @@ Dialogue: 0,0:18:42.24,0:18:47.75,Default,,0000,0000,0000,,But, you'll remember 
 Dialogue: 0,0:18:47.75,0:18:50.00,Default,,0000,0000,0000,,And what if I fail?
 Dialogue: 0,0:18:50.00,0:18:52.17,Default,,0000,0000,0000,,What if I can't find it?
 Dialogue: 0,0:18:52.17,0:18:55.59,Default,,0000,0000,0000,,Isn't that how you acted before now?
-Dialogue: 0,0:18:55.59,0:19:02.05,Default,,0000,0000,0000,,But you regretted that and decided\Nto time leap 3,000 times to come fix it all.
+Dialogue: 0,0:18:55.59,0:19:02.05,Default,,0000,0000,0000,,But you regretted that and decided\Nto time leap 3000 times to come fix it all.
 Dialogue: 0,0:19:08.23,0:19:13.77,Default,,0000,0000,0000,,Since the original me died,\NI've often asked myself...
 Dialogue: 0,0:19:13.77,0:19:18.07,Default,,0000,0000,0000,,What exactly is my existence?
 Dialogue: 0,0:19:18.07,0:19:21.16,Default,,0000,0000,0000,,For what purpose do I exist?
@@ -390,7 +393,7 @@ Dialogue: 0,0:20:36.52,0:20:38.15,Default,,0000,0000,0000,,Ready, Senpai?
 Dialogue: 0,0:20:40.11,0:20:41.15,Default,,0000,0000,0000,,You sure?
 Dialogue: 0,0:20:41.15,0:20:42.36,Default,,0000,0000,0000,,Yes.
 Dialogue: 0,0:20:43.70,0:20:47.91,On Top,,0000,0000,0000,,"Break into the servers of Viktor Chondria\NUniversity's Brain Science Institute and destroy\Nall the data concerning the Amadeus AI. Open the door with the attached key below."
-Dialogue: 0,0:20:44.03,0:20:50.66,Default,,0000,0000,0000,,Okay. All that's left is to send\NMaho-{\i1}tan{\i}'s attachment to the past me.
+Dialogue: 0,0:20:44.03,0:20:50.66,Default,,0000,0000,0000,,Okay. All that's left is to send\NMaho's attachment to the past me.
 Dialogue: 0,0:20:55.71,0:20:59.34,Default,,0000,0000,0000,,Amadeus... Ready input for control code.
 Dialogue: 0,0:21:01.38,0:21:06.26,Default,,0000,0000,0000,,{\i1}Der alte... würfelt nicht.{\i}
 Dialogue: 0,0:21:10.64,0:21:13.48,Default,,0000,0000,0000,,Control code received.
@@ -400,7 +403,7 @@ Dialogue: 0,0:21:21.36,0:21:24.99,Default,,0000,0000,0000,,Transfer selected pat
 Dialogue: 0,0:21:24.99,0:21:31.20,Default,,0000,0000,0000,,Modify to commence\Nprocessing upon system reset.
 Dialogue: 0,0:21:31.20,0:21:33.66,Default,,0000,0000,0000,,Command confirmed.
 Dialogue: 0,0:21:33.66,0:21:40.04,Default,,0000,0000,0000,,Executing command from Hiyajo Maho,\Ntop-level administrator.
-Dialogue: 0,0:21:40.04,0:21:41.50,Default,,0000,0000,0000,,Hiyajo-{\i1}san{\i}...
+Dialogue: 0,0:21:40.04,0:21:41.50,Default,,0000,0000,0000,,Hiyajo...
 Dialogue: 0,0:21:41.50,0:21:43.34,Default,,0000,0000,0000,,Senpai!
 Dialogue: 0,0:21:43.34,0:21:45.42,Default,,0000,0000,0000,,Do your best and don't give up!
 Dialogue: 0,0:21:45.42,0:21:48.05,Default,,0000,0000,0000,,The possibilities are endless!
