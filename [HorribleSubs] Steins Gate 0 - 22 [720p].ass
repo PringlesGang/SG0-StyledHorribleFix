@@ -1,0 +1,436 @@
+﻿[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:25.94,0:00:31.78,Default,,0000,0000,0000,,Basically, no matter how much you time leap,\Nthe time machine keeps getting destroyed?
+Dialogue: 0,0:00:31.78,0:00:32.74,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:00:32.74,0:00:37.95,Default,,0000,0000,0000,,Can't you rush to the Radio Building\Nand stop Mayushii before she hops in?
+Dialogue: 0,0:00:37.95,0:00:43.00,Default,,0000,0000,0000,,Of course... And that even might\Nsave Mayushii and Suzuha.
+Dialogue: 0,0:00:43.00,0:00:47.42,Default,,0000,0000,0000,,However, there's a strong chance\Nthat makes things unpredictable.
+Dialogue: 0,0:00:47.42,0:00:48.79,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:00:48.79,0:00:53.42,Default,,0000,0000,0000,,I don't know if the time machine's\Ndestruction is a convergence or not.
+Dialogue: 0,0:00:53.42,0:00:58.89,Default,,0000,0000,0000,,Though, there's no mistaking it's\Na major element for starting WWIII.
+Dialogue: 0,0:00:58.89,0:01:00.39,Default,,0000,0000,0000,,So, it's highly likely.
+Dialogue: 0,0:01:05.39,0:01:07.23,Default,,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:01:07.23,0:01:11.15,Default,,0000,0000,0000,,To get some fresh air and think.
+Dialogue: 0,0:01:11.15,0:01:13.44,Default,,0000,0000,0000,,Okarin.
+Dialogue: 0,0:01:13.44,0:01:17.32,Default,,0000,0000,0000,,You time leaped over and over\Nfrom the future to get here, right?
+Dialogue: 0,0:01:18.28,0:01:18.99,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:01:18.99,0:01:21.66,Default,,0000,0000,0000,,In that case, what's the future you like?
+Dialogue: 0,0:01:21.66,0:01:26.75,Default,,0000,0000,0000,,How you are right now?\NNot all delusional like a maniac?
+Dialogue: 0,0:01:35.22,0:01:37.26,Default,,0000,0000,0000,,Delusional?
+Dialogue: 0,0:01:37.26,0:01:40.85,Default,,0000,0000,0000,,I always thought he'd come back someday...
+Dialogue: 0,0:01:46.44,0:01:51.32,Default,,0000,0000,0000,,I decided... to never give up, yet...
+Dialogue: 0,0:01:51.32,0:01:54.03,Default,,0000,0000,0000,,When it comes down to it...
+Dialogue: 0,0:01:54.03,0:01:55.99,Default,,0000,0000,0000,,Get a hold of yourself...
+Dialogue: 0,0:01:55.99,0:01:59.11,Default,,0000,0000,0000,,...Okabe Rintaro.
+Dialogue: 0,0:01:59.11,0:02:01.53,Default,,0000,0000,0000,,[Kurisu]?
+Dialogue: 0,0:02:01.53,0:02:05.20,Default,,0000,0000,0000,,Oh yeah... The Professor hasn't taken her yet.
+Dialogue: 0,0:02:05.20,0:02:07.25,Default,,0000,0000,0000,,Didn't you see the future?
+Dialogue: 0,0:02:07.25,0:02:11.46,Default,,0000,0000,0000,,Plus... didn't you come back to change it?
+Dialogue: 0,0:02:11.46,0:02:14.80,Default,,0000,0000,0000,,If you're a scientist,\Nas long as the chance isn't 0...
+Dialogue: 0,0:02:14.80,0:02:18.01,Default,,0000,0000,0000,,...giving up is not an option.
+Dialogue: 0,0:02:18.01,0:02:19.76,Default,,0000,0000,0000,,But you'll have my full support.
+Dialogue: 0,0:02:22.22,0:02:23.76,Default,,0000,0000,0000,,What's so funny?
+Dialogue: 0,0:02:23.76,0:02:27.68,Default,,0000,0000,0000,,Nothing. It's just, no matter\Nthe time I find myself in,
+Dialogue: 0,0:02:27.68,0:02:32.73,Default,,0000,0000,0000,,all of you lab members,\Nyou really never change at all.
+Dialogue: 0,0:02:32.73,0:02:33.82,Default,,0000,0000,0000,,Heh...
+Dialogue: 0,0:02:33.82,0:02:35.23,Default,,0000,0000,0000,,Heh?
+Dialogue: 0,0:02:39.03,0:02:44.20,Default,,0000,0000,0000,,You fool! This was all a mere act\Nto throw the Organization off my trail!
+Dialogue: 0,0:02:44.20,0:02:44.79,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:44.79,0:02:47.29,Default,,0000,0000,0000,,Assistant one... and two!
+Dialogue: 0,0:02:47.29,0:02:48.21,Default,,0000,0000,0000,,Assistant?
+Dialogue: 0,0:02:48.21,0:02:51.00,Default,,0000,0000,0000,,We've got a meeting to start.
+Dialogue: 0,0:02:51.00,0:02:52.58,Default,,0000,0000,0000,,You best follow me.
+Dialogue: 0,0:02:54.09,0:02:55.88,Default,,0000,0000,0000,,What in the world was that?
+Dialogue: 0,0:02:55.88,0:02:57.13,Default,,0000,0000,0000,,Who knows?
+Dialogue: 0,0:02:57.13,0:02:59.84,Default,,0000,0000,0000,,Hurry up, you experiment-loving kids!
+Dialogue: 0,0:02:59.84,0:03:01.26,Default,,0000,0000,0000,,Wha...?
+Dialogue: 0,0:03:01.26,0:03:06.64,Default,,0000,0000,0000,,In other words, there are\Ntwo large factors that stir up WWIII.
+Dialogue: 0,0:03:06.52,0:03:07.35,On Top,,0000,0000,0000,,"America"\N"Stratfor"
+Dialogue: 0,0:03:06.64,0:03:09.98,Default,,0000,0000,0000,,America and Russia, plus...
+Dialogue: 0,0:03:07.35,0:03:08.64,On Top,,0000,0000,0000,,"Russia"
+Dialogue: 0,0:03:09.98,0:03:11.90,Default,,0000,0000,0000,,...the time machine.
+Dialogue: 0,0:03:10.39,0:03:11.77,On Top,,0000,0000,0000,,"Time machine"
+Dialogue: 0,0:03:11.90,0:03:13.56,Default,,0000,0000,0000,,You said that earlier.
+Dialogue: 0,0:03:13.56,0:03:15.98,Default,,0000,0000,0000,,The organizations responsible are...
+Dialogue: 0,0:03:15.98,0:03:18.36,Default,,0000,0000,0000,,...Stratfor with Leskinen...
+Dialogue: 0,0:03:15.98,0:03:19.03,On Top,,0000,0000,0000,,"America"\N"Stratfor"\N"Leskinen"
+Dialogue: 0,0:03:18.36,0:03:21.32,Default,,0000,0000,0000,,...and another American faction, DURPA.
+Dialogue: 0,0:03:19.03,0:03:21.15,On Top,,0000,0000,0000,,"DURPA"
+Dialogue: 0,0:03:21.32,0:03:25.45,Default,,0000,0000,0000,,There's also Russian intelligence,\Nso that makes three organizations.
+Dialogue: 0,0:03:25.45,0:03:27.29,Default,,0000,0000,0000,,Isn't this a bit far-fetched?
+Dialogue: 0,0:03:27.29,0:03:29.87,Default,,0000,0000,0000,,It's like the Organization\Nyou used to rant about.
+Dialogue: 0,0:03:29.87,0:03:31.29,Default,,0000,0000,0000,,Precisely.
+Dialogue: 0,0:03:31.29,0:03:33.08,Default,,0000,0000,0000,,I happen to be a genius.
+Dialogue: 0,0:03:33.08,0:03:37.34,Default,,0000,0000,0000,,Long have I known which countries\Nplunge our world into chaos.
+Dialogue: 0,0:03:37.34,0:03:39.80,Default,,0000,0000,0000,,And they've begun to move.
+Dialogue: 0,0:03:41.63,0:03:43.01,Default,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:03:43.01,0:03:43.97,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:43.97,0:03:46.18,Default,,0000,0000,0000,,Did Okabe-{\i1}san{\i} hit his head on something?
+Dialogue: 0,0:03:46.18,0:03:48.43,Default,,0000,0000,0000,,Or has he been traumatized by--
+Dialogue: 0,0:03:48.43,0:03:50.14,Default,,0000,0000,0000,,Silence, Christina!
+Dialogue: 0,0:03:50.14,0:03:51.60,Default,,0000,0000,0000,,Don't call me that!
+Dialogue: 0,0:03:51.60,0:03:54.31,Default,,0000,0000,0000,,Aren't you embarrassed to talk like that?
+Dialogue: 0,0:03:54.86,0:03:56.98,Default,,0000,0000,0000,,You don't think I am?
+Dialogue: 0,0:03:56.98,0:03:59.28,Default,,0000,0000,0000,,How can this not be embarrassing?
+Dialogue: 0,0:03:59.28,0:04:00.94,Default,,0000,0000,0000,,I think it's great.
+Dialogue: 0,0:04:00.94,0:04:01.99,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:04:01.99,0:04:06.83,Default,,0000,0000,0000,,The Okarin that I know is\Nso obnoxious and annoying, it's unreal.
+Dialogue: 0,0:04:06.83,0:04:08.70,Default,,0000,0000,0000,,He argues no matter what you say,
+Dialogue: 0,0:04:08.70,0:04:11.91,Default,,0000,0000,0000,,and he's delusional all the way to the bone.
+Dialogue: 0,0:04:11.91,0:04:16.96,Default,,0000,0000,0000,,But, that's exactly why his absurd logic\Ncan overcome the impossible.
+Dialogue: 0,0:04:16.96,0:04:17.63,Default,,0000,0000,0000,,Daru...
+Dialogue: 0,0:04:17.63,0:04:21.17,Default,,0000,0000,0000,,Now explain why you stepped\Noutside looking all gloomy
+Dialogue: 0,0:04:21.17,0:04:24.05,Default,,0000,0000,0000,,but came back with\NMaho-{\i1}tan{\i} and a new attitude?
+Dialogue: 0,0:04:24.05,0:04:27.22,Default,,0000,0000,0000,,What happened? What'd you two do, Okarin?!
+Dialogue: 0,0:04:27.22,0:04:29.31,Default,,0000,0000,0000,,--Eh? Huh? Uh... Eh?\N--A smooch? A smoochy?!
+Dialogue: 0,0:04:29.31,0:04:31.81,Default,,0000,0000,0000,,Even though you have Mayushii?! I'm jealous!
+Dialogue: 0,0:04:31.81,0:04:33.77,Default,,0000,0000,0000,,--Nothing happened between us!\N--You smooched?! She smooched you?!
+Dialogue: 0,0:04:33.77,0:04:34.81,Default,,0000,0000,0000,,--Besides, Daru... You're forgetting\Nthe most important thing.\N--You smooched?! She smooched you?!
+Dialogue: 0,0:04:34.81,0:04:37.19,Default,,0000,0000,0000,,--Besides, Daru... You're forgetting\Nthe most important thing.\N--Huh? Huh?!
+Dialogue: 0,0:04:37.19,0:04:38.73,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:04:38.73,0:04:41.07,Default,,0000,0000,0000,,I'm not Okabe Rintaro...
+Dialogue: 0,0:04:41.07,0:04:43.11,Default,,0000,0000,0000,,My name is... whoosh!
+Dialogue: 0,0:04:43.11,0:04:45.70,Default,,0000,0000,0000,,Hou... ou... in!
+Dialogue: 0,0:04:45.70,0:04:47.49,Default,,0000,0000,0000,,Kyouma!
+Dialogue: 0,0:04:48.74,0:04:52.95,Default,,0000,0000,0000,,Behold! This is the true form\Nof a mad scientist!
+Dialogue: 0,0:04:52.95,0:04:55.79,Default,,0000,0000,0000,,Peel your eyes and\Nburn my glory into your mind!
+Dialogue: 0,0:04:55.79,0:04:57.08,Default,,0000,0000,0000,,Is he okay?
+Dialogue: 0,0:04:57.08,0:04:58.42,Default,,0000,0000,0000,,It's me.
+Dialogue: 0,0:04:58.42,0:05:01.63,Default,,0000,0000,0000,,The final stage of the plan is closing in.
+Dialogue: 0,0:05:01.63,0:05:05.84,Default,,0000,0000,0000,,Once it begins, all the intel in\Nthe world doesn't stand a chance.
+Dialogue: 0,0:05:05.84,0:05:07.84,Default,,0000,0000,0000,,Mm-hmm. Yeah, I know.
+Dialogue: 0,0:05:07.84,0:05:09.43,Default,,0000,0000,0000,,Who's he talking to?
+Dialogue: 0,0:05:09.43,0:05:12.27,Default,,0000,0000,0000,,Enough already. Hurry up and get on with it.
+Dialogue: 0,0:05:12.27,0:05:15.35,Default,,0000,0000,0000,,You should have said so from the start.
+Dialogue: 0,0:05:15.35,0:05:17.15,Default,,0000,0000,0000,,Loli Girl.
+Dialogue: 0,0:05:17.15,0:05:18.77,Default,,0000,0000,0000,,Like I was saying...
+Dialogue: 0,0:05:18.77,0:05:22.65,Default,,0000,0000,0000,,These three organizations\Nare after the time machine.
+Dialogue: 0,0:05:21.98,0:05:24.07,On Top,,0000,0000,0000,,"Stratfor"\N"Leskinen"
+Dialogue: 0,0:05:22.65,0:05:24.28,Default,,0000,0000,0000,,All the previous failures
+Dialogue: 0,0:05:24.07,0:05:25.82,On Top,,0000,0000,0000,,"DURPA"
+Dialogue: 0,0:05:24.28,0:05:28.07,Default,,0000,0000,0000,,were caused by these\Nthree organizations interfering.
+Dialogue: 0,0:05:25.82,0:05:26.45,On Top,,0000,0000,0000,,"Time Machine"
+Dialogue: 0,0:05:26.45,0:05:27.91,On Top,,0000,0000,0000,,"Russia"\N"Foreign Intel"
+Dialogue: 0,0:05:28.07,0:05:31.83,Default,,0000,0000,0000,,However, that's not to\Nsay they can't be dealt with.
+Dialogue: 0,0:05:31.83,0:05:36.21,Default,,0000,0000,0000,,So the time machine's destruction\Nisn't necessarily a convergence?
+Dialogue: 0,0:05:36.21,0:05:39.54,Default,,0000,0000,0000,,Basically, we let them board the time machine,
+Dialogue: 0,0:05:39.54,0:05:42.42,Default,,0000,0000,0000,,but it's that exact moment\Nthey leave for the past
+Dialogue: 0,0:05:42.42,0:05:44.88,Default,,0000,0000,0000,,that we can't allow interference.
+Dialogue: 0,0:05:44.88,0:05:48.97,Default,,0000,0000,0000,,Still, we've foiled Stratfor and Leskinen.
+Dialogue: 0,0:05:45.59,0:05:49.84,On Top,,0000,0000,0000,,"Stratfor"\N"Leskinen"
+Dialogue: 0,0:05:48.97,0:05:54.56,Default,,0000,0000,0000,,Likewise, we've managed to put\Na halt on DURPA and their soldiers.
+Dialogue: 0,0:05:49.84,0:05:52.31,On Top,,0000,0000,0000,,"DURPA"
+Dialogue: 0,0:05:54.56,0:05:56.02,Default,,0000,0000,0000,,In other words...
+Dialogue: 0,0:05:56.02,0:05:57.64,Default,,0000,0000,0000,,Only Russia's left.
+Dialogue: 0,0:05:57.64,0:05:58.48,Default,,0000,0000,0000,,Mmm.
+Dialogue: 0,0:05:58.48,0:06:00.94,Default,,0000,0000,0000,,Do you have some sort of plan then?
+Dialogue: 0,0:06:02.61,0:06:03.44,Default,,0000,0000,0000,,Nope.
+Dialogue: 0,0:06:03.44,0:06:04.61,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:06:04.61,0:06:08.24,Default,,0000,0000,0000,,You've been talking all this time\Nand haven't thought of anything?
+Dialogue: 0,0:06:08.24,0:06:10.03,Default,,0000,0000,0000,,Yeah, yeah. Herp derp.
+Dialogue: 0,0:06:10.03,0:06:10.99,Default,,0000,0000,0000,,What's that?
+Dialogue: 0,0:06:10.99,0:06:12.28,Default,,0000,0000,0000,,Shaddap!
+Dialogue: 0,0:06:12.28,0:06:18.83,Default,,0000,0000,0000,,Leskinen and DURPA were thwarted by\Nmy exceptional wits and masterful plan!
+Dialogue: 0,0:06:18.83,0:06:23.00,Default,,0000,0000,0000,,What have you done? Can't you come\Nup with a single plan of your own?
+Dialogue: 0,0:06:23.00,0:06:25.59,Default,,0000,0000,0000,,Didn't know anything till just now.
+Dialogue: 0,0:06:25.59,0:06:27.09,Default,,0000,0000,0000,,Ah...
+Dialogue: 0,0:06:27.09,0:06:28.80,Default,,0000,0000,0000,,So be it...
+Dialogue: 0,0:06:30.84,0:06:34.89,Default,,0000,0000,0000,,In times like this, you've got\Nto look into why things happen.
+Dialogue: 0,0:06:34.89,0:06:40.60,Default,,0000,0000,0000,,Find out what they're trying to do\Nand establish a chain of causality.
+Dialogue: 0,0:06:40.19,0:06:43.15,On Top,,0000,0000,0000,,"Foreign Intel"
+Dialogue: 0,0:06:40.60,0:06:43.19,Default,,0000,0000,0000,,In this case, Russia is...
+Dialogue: 0,0:06:43.19,0:06:44.65,Default,,0000,0000,0000,,Whoa!
+Dialogue: 0,0:06:44.65,0:06:48.03,Default,,0000,0000,0000,,Russ... ia... is...
+Dialogue: 0,0:06:49.99,0:06:53.95,Default,,0000,0000,0000,,It's here! The promised pose\Nof Maho-{\i1}tan{\i} we all hoped for!
+Dialogue: 0,0:06:53.95,0:06:55.29,Default,,0000,0000,0000,,Says who?!
+Dialogue: 0,0:06:55.29,0:06:57.20,Default,,0000,0000,0000,,It must be done.
+Dialogue: 0,0:06:57.20,0:06:58.79,Default,,0000,0000,0000,,--Here.\N--Eh?
+Dialogue: 0,0:06:58.79,0:07:00.58,Default,,0000,0000,0000,,Go ahead. Draw.
+Dialogue: 0,0:07:05.71,0:07:09.05,Default,,0000,0000,0000,,First of all, how do the American\Nand Russian organizations
+Dialogue: 0,0:07:09.05,0:07:11.97,Default,,0000,0000,0000,,know that we have a time machine here?
+Dialogue: 0,0:07:11.97,0:07:15.22,Default,,0000,0000,0000,,For the Americans, it's because of Leskinen.
+Dialogue: 0,0:07:15.22,0:07:17.47,Default,,0000,0000,0000,,The future Leskinen used Kagari
+Dialogue: 0,0:07:17.47,0:07:20.56,Default,,0000,0000,0000,,to tell the current Leskinen\Nabout the time machine.
+Dialogue: 0,0:07:20.56,0:07:25.19,Default,,0000,0000,0000,,But, Kagari-{\i1}san{\i} would have\Nmet the professor years ago.
+Dialogue: 0,0:07:25.19,0:07:27.53,Default,,0000,0000,0000,,Why didn't he make his move then?
+Dialogue: 0,0:07:27.53,0:07:28.94,Default,,0000,0000,0000,,Nothing could be changed.
+Dialogue: 0,0:07:28.94,0:07:29.74,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:29.74,0:07:31.95,Default,,0000,0000,0000,,It's like a time paradox.
+Dialogue: 0,0:07:31.95,0:07:34.24,Default,,0000,0000,0000,,If his actions defied history,
+Dialogue: 0,0:07:34.24,0:07:38.79,Default,,0000,0000,0000,,world line convergence\Nwould correct anything he does.
+Dialogue: 0,0:07:38.79,0:07:40.00,Default,,0000,0000,0000,,World line...
+Dialogue: 0,0:07:40.00,0:07:43.71,Default,,0000,0000,0000,,However, Leskinen's plan\Nwas to use that to his advantage.
+Dialogue: 0,0:07:43.71,0:07:45.29,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:07:45.29,0:07:49.96,Default,,0000,0000,0000,,Essentially, in the future, on July 7th, 2011,
+Dialogue: 0,0:07:49.96,0:07:54.09,Default,,0000,0000,0000,,the conflict over the\Ntime machine boiled over.
+Dialogue: 0,0:07:54.09,0:07:57.14,Default,,0000,0000,0000,,On July 7th, the time machine was destroyed.
+Dialogue: 0,0:07:57.14,0:08:02.44,Default,,0000,0000,0000,,Which means, he thought\Nhe could snatch it on that exact day.
+Dialogue: 0,0:08:02.44,0:08:05.69,Default,,0000,0000,0000,,Where did DURPA get their info from?
+Dialogue: 0,0:08:05.69,0:08:08.02,Default,,0000,0000,0000,,It's the same country, so...
+Dialogue: 0,0:08:08.02,0:08:10.11,Default,,0000,0000,0000,,It's just Russia to think about...
+Dialogue: 0,0:08:10.11,0:08:12.78,Default,,0000,0000,0000,,Did they steal info from the Americans?
+Dialogue: 0,0:08:12.78,0:08:17.99,Default,,0000,0000,0000,,If the professor heard\Nabout WWIII from his future self,
+Dialogue: 0,0:08:17.99,0:08:20.66,Default,,0000,0000,0000,,I'm sure that info would've been guarded.
+Dialogue: 0,0:08:20.66,0:08:23.79,Default,,0000,0000,0000,,They wouldn't want Russia\Nto know more than anyone.
+Dialogue: 0,0:08:25.83,0:08:28.42,Default,,0000,0000,0000,,Daru, you've gotta look something up.
+Dialogue: 0,0:08:28.42,0:08:30.30,Default,,0000,0000,0000,,All right, but what?
+Dialogue: 0,0:08:30.30,0:08:33.43,Default,,0000,0000,0000,,I want you to search for Dr. Nakabachi.
+Dialogue: 0,0:08:35.64,0:08:38.22,Default,,0000,0000,0000,,Talk about a close call!
+Dialogue: 0,0:08:38.22,0:08:40.43,Default,,0000,0000,0000,,If this hadn't set off the metal detectors,
+Dialogue: 0,0:08:40.43,0:08:44.48,Default,,0000,0000,0000,,--my paper would've burned up!\N--I knew it. Dr. Nakabachi defected to Russia.
+Dialogue: 0,0:08:44.48,0:08:45.52,Default,,0000,0000,0000,,Daddy...
+Dialogue: 0,0:08:45.52,0:08:46.27,Default,,0000,0000,0000,,Daddy?
+Dialogue: 0,0:08:46.27,0:08:48.65,Default,,0000,0000,0000,,Let's save that for later.
+Dialogue: 0,0:08:48.65,0:08:51.78,Default,,0000,0000,0000,,Dr. Nakabachi took the time machine theory
+Dialogue: 0,0:08:51.78,0:08:54.53,Default,,0000,0000,0000,,and defected to Russia with it.
+Dialogue: 0,0:08:54.53,0:08:58.20,Default,,0000,0000,0000,,But the thing is, Russia\Nhasn't developed anything yet.
+Dialogue: 0,0:08:58.20,0:08:59.41,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:08:59.41,0:09:03.08,Default,,0000,0000,0000,,Because if they completed one,\Nthere wouldn't be conflict.
+Dialogue: 0,0:09:03.08,0:09:05.21,Default,,0000,0000,0000,,Half a year ago when we were attacked,
+Dialogue: 0,0:09:05.21,0:09:08.25,Default,,0000,0000,0000,,Kurisu's PC was destroyed by the Russians.
+Dialogue: 0,0:09:08.25,0:09:12.76,Default,,0000,0000,0000,,They had made a connection\Nbetween Nakabachi's theory and Kurisu
+Dialogue: 0,0:09:12.76,0:09:15.59,Default,,0000,0000,0000,,and didn't want another faction to get it.
+Dialogue: 0,0:09:19.55,0:09:23.35,Default,,0000,0000,0000,,Is there anything else\Nleft of hers that we know of?
+Dialogue: 0,0:09:23.35,0:09:25.10,Default,,0000,0000,0000,,Her notes or her work...
+Dialogue: 0,0:09:25.10,0:09:26.90,Default,,0000,0000,0000,,Her knowledge...
+Dialogue: 0,0:09:29.23,0:09:32.73,Default,,0000,0000,0000,,I guess that's how it is, huh?
+Dialogue: 0,0:09:32.73,0:09:35.86,Default,,0000,0000,0000,,Inside of me are all Makise Kurisu's memories.
+Dialogue: 0,0:09:35.86,0:09:38.74,Default,,0000,0000,0000,,I have her thought patterns as well.
+Dialogue: 0,0:09:38.74,0:09:44.08,Default,,0000,0000,0000,,If someone was making a time machine,\Nthey'd want me for sure.
+Dialogue: 0,0:09:44.08,0:09:45.33,Default,,0000,0000,0000,,That time...
+Dialogue: 0,0:09:45.33,0:09:49.46,Default,,0000,0000,0000,,...when Amadeus was taken over,\Nthe world line changed.
+Dialogue: 0,0:09:49.46,0:09:50.38,Default,,0000,0000,0000,,What's up?
+Dialogue: 0,0:09:50.38,0:09:52.71,Default,,0000,0000,0000,,If we went back before Russia's involved,
+Dialogue: 0,0:09:52.71,0:09:54.88,Default,,0000,0000,0000,,could we somehow protect Amadeus?
+Dialogue: 0,0:09:54.88,0:09:57.80,Default,,0000,0000,0000,,Before they're involved, meaning when?
+Dialogue: 0,0:09:57.80,0:09:59.47,Default,,0000,0000,0000,,I don't know for sure.
+Dialogue: 0,0:09:59.47,0:10:01.55,Default,,0000,0000,0000,,It has to be as early as possible.
+Dialogue: 0,0:10:01.55,0:10:04.52,Default,,0000,0000,0000,,When did you first take Kurisu's memory data?
+Dialogue: 0,0:10:04.52,0:10:07.64,Default,,0000,0000,0000,,It was before Kurisu left for Japan, so...
+Dialogue: 0,0:10:07.64,0:10:11.19,Default,,0000,0000,0000,,Around spring of last year, I think.
+Dialogue: 0,0:10:11.19,0:10:13.02,Default,,0000,0000,0000,,If I time leap back to then--
+Dialogue: 0,0:10:13.02,0:10:14.69,Default,,0000,0000,0000,,C-Can you even?
+Dialogue: 0,0:10:14.69,0:10:17.32,Default,,0000,0000,0000,,Last spring, it wasn't...
+Dialogue: 0,0:10:17.32,0:10:22.66,Default,,0000,0000,0000,,For starters, your Phone Microwave\Nwasn't even finished until last summer.
+Dialogue: 0,0:10:22.66,0:10:26.62,Default,,0000,0000,0000,,No matter what, you can't go back that far.
+Dialogue: 0,0:10:26.62,0:10:29.04,Default,,0000,0000,0000,,In that case, D-mail! Daru!
+Dialogue: 0,0:10:29.04,0:10:30.75,Default,,0000,0000,0000,,You sure about that?
+Dialogue: 0,0:10:30.75,0:10:33.59,Default,,0000,0000,0000,,You were always against the idea...
+Dialogue: 0,0:10:33.59,0:10:37.17,Default,,0000,0000,0000,,True... SERN will catch on if we use that.
+Dialogue: 0,0:10:37.17,0:10:38.80,Default,,0000,0000,0000,,Which leads to...
+Dialogue: 0,0:10:42.85,0:10:46.22,Default,,0000,0000,0000,,We'll just have to look for another method.
+Dialogue: 0,0:10:46.22,0:10:51.15,Default,,0000,0000,0000,,Um, sorry for not mentioning it earlier,\Nbut I've got something to say...
+Dialogue: 0,0:10:52.94,0:10:54.15,Default,,0000,0000,0000,,D-RINE?
+Dialogue: 0,0:10:54.15,0:10:55.28,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:10:55.28,0:10:59.70,Default,,0000,0000,0000,,Using the same principles as D-mail,\NI made it sendable over RINE.
+Dialogue: 0,0:10:59.70,0:11:02.24,Default,,0000,0000,0000,,Can it be sent without being caught by SERN?!
+Dialogue: 0,0:11:02.24,0:11:03.58,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:11:03.58,0:11:10.16,Default,,0000,0000,0000,,Thing is, RINE was still in beta last spring\Nand I was the only one with it installed.
+Dialogue: 0,0:11:10.16,0:11:12.83,Default,,0000,0000,0000,,I think last New Year's might be our limit.
+Dialogue: 0,0:11:12.83,0:11:16.84,Default,,0000,0000,0000,,So, we can't send it\Nto anyone but Hashida-{\i1}san{\i}.
+Dialogue: 0,0:11:16.84,0:11:17.96,Default,,0000,0000,0000,,Will it work?
+Dialogue: 0,0:11:17.96,0:11:19.38,Default,,0000,0000,0000,,It's possible.
+Dialogue: 0,0:11:19.38,0:11:22.93,Default,,0000,0000,0000,,You'll get a message from\Nyour future self saying to safeguard
+Dialogue: 0,0:11:22.93,0:11:25.76,Default,,0000,0000,0000,,Makise Kurisu's memory data in VCU.
+Dialogue: 0,0:11:25.76,0:11:28.27,Default,,0000,0000,0000,,And if it's you, you'll follow it.
+Dialogue: 0,0:11:28.27,0:11:31.19,Default,,0000,0000,0000,,If you see it though, you'll lose your shit.
+Dialogue: 0,0:11:31.19,0:11:32.69,Default,,0000,0000,0000,,Wait.
+Dialogue: 0,0:11:32.69,0:11:35.94,Default,,0000,0000,0000,,That won't be enough\Nto stop the info from leaking.
+Dialogue: 0,0:11:35.94,0:11:37.86,Default,,0000,0000,0000,,You're up against a huge nation.
+Dialogue: 0,0:11:37.86,0:11:40.86,Default,,0000,0000,0000,,They'll come after it\Nfor as long as there's access.
+Dialogue: 0,0:11:40.86,0:11:44.16,Default,,0000,0000,0000,,They'll probably copy and distribute it too.
+Dialogue: 0,0:11:44.16,0:11:45.78,Default,,0000,0000,0000,,That's a good point...
+Dialogue: 0,0:11:45.78,0:11:48.08,Default,,0000,0000,0000,,Then what do we do?
+Dialogue: 0,0:11:48.08,0:11:49.83,Default,,0000,0000,0000,,You have to wipe it out.
+Dialogue: 0,0:11:49.83,0:11:54.58,Default,,0000,0000,0000,,You have to access Kurisu's memory\Ndata right after the original backup
+Dialogue: 0,0:11:54.58,0:11:59.01,Default,,0000,0000,0000,,and self-destruct the system,\Nso it can't be recovered.
+Dialogue: 0,0:11:59.01,0:11:59.88,Default,,0000,0000,0000,,[Kurisu]?!
+Dialogue: 0,0:11:59.88,0:12:02.26,Default,,0000,0000,0000,,That's the only way, Senpai.
+Dialogue: 0,0:12:02.26,0:12:07.72,Default,,0000,0000,0000,,If it's all wiped out at spring last year,\Nthere's no way to rebuild Amadeus.
+Dialogue: 0,0:12:07.72,0:12:12.19,Default,,0000,0000,0000,,But, that means you'll...
+Dialogue: 0,0:12:12.19,0:12:13.52,Default,,0000,0000,0000,,In other words...
+Dialogue: 0,0:12:13.52,0:12:17.02,Default,,0000,0000,0000,,Make it so Amadeus... never happened?
+Dialogue: 0,0:12:18.02,0:12:23.03,On Top,,0000,0000,0000,,Rinascimento of Projection\N-Project Amadeus-"
+Dialogue: 0,0:12:30.58,0:12:32.04,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:12:32.04,0:12:34.29,Default,,0000,0000,0000,,No use in asking me...
+Dialogue: 0,0:12:34.29,0:12:39.13,Default,,0000,0000,0000,,At this rate, the time machine\Nwill get destroyed again tomorrow.
+Dialogue: 0,0:12:39.13,0:12:41.71,Default,,0000,0000,0000,,That's seeming pretty likely.
+Dialogue: 0,0:12:41.71,0:12:45.80,Default,,0000,0000,0000,,Then, isn't it obvious what has to be done?
+Dialogue: 0,0:12:45.80,0:12:48.18,Default,,0000,0000,0000,,It is, but...
+Dialogue: 0,0:12:48.18,0:12:50.52,Default,,0000,0000,0000,,I think I understand his side.
+Dialogue: 0,0:12:50.52,0:12:53.31,Default,,0000,0000,0000,,And... I'm sure you do too.
+Dialogue: 0,0:12:55.19,0:12:57.90,Default,,0000,0000,0000,,I think... Okabe-{\i1}san{\i}...
+Dialogue: 0,0:13:14.08,0:13:14.87,Default,,0000,0000,0000,,What's up?
+Dialogue: 0,0:13:14.87,0:13:17.13,Default,,0000,0000,0000,,Just passing along a message.
+Dialogue: 0,0:13:17.13,0:13:19.59,Default,,0000,0000,0000,,Amadeus wants to talk to you.
+Dialogue: 0,0:13:25.59,0:13:27.68,On Top,,0000,0000,0000,,"From: Hiyajo-{\i1}san{\i}"\N"To: Okabe Rintaro"\N"Subject: (No Subject)"
+Dialogue: 0,0:13:46.90,0:13:48.82,Default,,0000,0000,0000,,H-Hello...
+Dialogue: 0,0:13:48.82,0:13:50.49,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:13:50.49,0:13:54.25,Default,,0000,0000,0000,,It feels like ages since I've been outside.
+Dialogue: 0,0:13:54.25,0:13:56.41,Default,,0000,0000,0000,,Could you show me the view?
+Dialogue: 0,0:13:56.41,0:13:58.88,Default,,0000,0000,0000,,Not much of a view to speak of, but...
+Dialogue: 0,0:14:01.75,0:14:05.34,Default,,0000,0000,0000,,Wow... To think there's a place like this!
+Dialogue: 0,0:14:05.34,0:14:07.38,Default,,0000,0000,0000,,First time out at night?
+Dialogue: 0,0:14:07.38,0:14:08.84,Default,,0000,0000,0000,,You have to ask?
+Dialogue: 0,0:14:08.84,0:14:12.14,Default,,0000,0000,0000,,If only I had legs,\NI could walk around all I want.
+Dialogue: 0,0:14:16.14,0:14:17.81,Default,,0000,0000,0000,,But I'm a program.
+Dialogue: 0,0:14:23.40,0:14:26.44,Default,,0000,0000,0000,,If you're actually hesitant to erase me,
+Dialogue: 0,0:14:26.44,0:14:29.86,Default,,0000,0000,0000,,that speaks volumes\Nabout Amadeus as a program.
+Dialogue: 0,0:14:29.86,0:14:32.12,Default,,0000,0000,0000,,To influence somebody's heart,
+Dialogue: 0,0:14:32.12,0:14:35.70,Default,,0000,0000,0000,,that means I must be AI comparable to a human.
+Dialogue: 0,0:14:37.41,0:14:39.17,Default,,0000,0000,0000,,You'll disappear...
+Dialogue: 0,0:14:39.17,0:14:42.04,Default,,0000,0000,0000,,I knew you were hung up on that.
+Dialogue: 0,0:14:45.25,0:14:50.05,Default,,0000,0000,0000,,Since we're outside anyways,\Ncould you show me around some more?
+Dialogue: 0,0:14:54.06,0:14:56.60,Default,,0000,0000,0000,,Everything's so different than daytime.
+Dialogue: 0,0:14:56.60,0:14:59.52,Default,,0000,0000,0000,,Well, yeah.
+Dialogue: 0,0:14:59.52,0:15:02.11,Default,,0000,0000,0000,,Are other cities like this?
+Dialogue: 0,0:15:02.11,0:15:04.94,Default,,0000,0000,0000,,No, it depends on the place.
+Dialogue: 0,0:15:04.94,0:15:08.86,Default,,0000,0000,0000,,Shinjuku and Shibuya\Nare bustling even at night.
+Dialogue: 0,0:15:08.86,0:15:12.37,Default,,0000,0000,0000,,But around Ginza,\NI bet it's even quieter than here.
+Dialogue: 0,0:15:12.37,0:15:14.70,Default,,0000,0000,0000,,Really? You think?
+Dialogue: 0,0:15:20.46,0:15:21.83,Default,,0000,0000,0000,,Which way now?
+Dialogue: 0,0:15:21.83,0:15:24.13,Default,,0000,0000,0000,,Let's see... Oh!
+Dialogue: 0,0:15:24.13,0:15:26.21,Default,,0000,0000,0000,,Take me up there!
+Dialogue: 0,0:15:26.21,0:15:27.46,Default,,0000,0000,0000,,All right.
+Dialogue: 0,0:15:28.38,0:15:32.09,Default,,0000,0000,0000,,Remember walking around like this before?
+Dialogue: 0,0:15:32.09,0:15:34.05,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:34.05,0:15:38.18,Default,,0000,0000,0000,,By the way, what happened\Nto your funny voice?
+Dialogue: 0,0:15:38.18,0:15:40.52,Default,,0000,0000,0000,,Mwahahaha and all that.
+Dialogue: 0,0:15:40.52,0:15:44.52,Default,,0000,0000,0000,,You like it when I talk that way, Assistant?
+Dialogue: 0,0:15:44.52,0:15:48.03,Default,,0000,0000,0000,,Please, don't. I'll want to make fun of you.
+Dialogue: 0,0:15:53.99,0:15:56.74,Default,,0000,0000,0000,,What a neat place...
+Dialogue: 0,0:15:56.74,0:15:58.24,Default,,0000,0000,0000,,You like it?
+Dialogue: 0,0:15:58.24,0:15:59.58,Default,,0000,0000,0000,,Very.
+Dialogue: 0,0:15:59.58,0:16:03.88,Default,,0000,0000,0000,,It's all so disorderly here,\Nwith no rules or anything.
+Dialogue: 0,0:16:05.13,0:16:07.50,Default,,0000,0000,0000,,The world that I exist in...
+Dialogue: 0,0:16:07.50,0:16:10.88,Default,,0000,0000,0000,,...everything has a reason and purpose.
+Dialogue: 0,0:16:10.88,0:16:13.59,Default,,0000,0000,0000,,Things which have no purpose are erased.
+Dialogue: 0,0:16:13.59,0:16:18.60,Default,,0000,0000,0000,,Waste is trimmed\Nso things can be made more efficient.
+Dialogue: 0,0:16:18.60,0:16:23.77,Default,,0000,0000,0000,,But the world I see before me now,\Nyou could say it's chaotic.
+Dialogue: 0,0:16:23.77,0:16:25.81,Default,,0000,0000,0000,,Useless things are kept around,
+Dialogue: 0,0:16:25.81,0:16:29.90,Default,,0000,0000,0000,,and actions utterly wasteful\Nhappen on a daily basis.
+Dialogue: 0,0:16:29.90,0:16:34.70,Default,,0000,0000,0000,,You can know the right choice\Nto make, and yet choose wrong.
+Dialogue: 0,0:16:34.70,0:16:39.66,Default,,0000,0000,0000,,But that brings forth chance,\Nensuring meaning for the irrelevant.
+Dialogue: 0,0:16:39.66,0:16:44.92,Default,,0000,0000,0000,,It's all jumbled together,\Nallowing miraculous things to occur.
+Dialogue: 0,0:16:44.92,0:16:47.38,Default,,0000,0000,0000,,Encounters ensue...
+Dialogue: 0,0:16:47.38,0:16:52.05,Default,,0000,0000,0000,,A program like me can't\Neven begin to touch such a world.
+Dialogue: 0,0:16:52.05,0:16:54.47,Default,,0000,0000,0000,,[Kurisu]...
+Dialogue: 0,0:16:54.47,0:16:57.30,Default,,0000,0000,0000,,Okabe Rintaro.
+Dialogue: 0,0:16:57.30,0:17:03.35,Default,,0000,0000,0000,,I can understand if you're sentimental\Nand don't want to erase me.
+Dialogue: 0,0:17:03.35,0:17:06.77,Default,,0000,0000,0000,,It makes me happy, honestly.
+Dialogue: 0,0:17:06.77,0:17:07.77,Default,,0000,0000,0000,,In that case--
+Dialogue: 0,0:17:07.77,0:17:12.36,Default,,0000,0000,0000,,But, you spoke of the Steins Gate world line.
+Dialogue: 0,0:17:12.36,0:17:14.57,Default,,0000,0000,0000,,The life of Shiina Mayuri...
+Dialogue: 0,0:17:14.57,0:17:19.12,Default,,0000,0000,0000,,Plus, the life of the original me...
+Dialogue: 0,0:17:19.12,0:17:24.66,Default,,0000,0000,0000,,A world line where both lives\Ncan be saved is right in front of you.
+Dialogue: 0,0:17:24.66,0:17:28.50,Default,,0000,0000,0000,,I've said it many times,\Nbut I'm no more than a program.
+Dialogue: 0,0:17:28.50,0:17:29.38,Default,,0000,0000,0000,,Even if you--
+Dialogue: 0,0:17:29.38,0:17:31.30,Default,,0000,0000,0000,,I understand that!
+Dialogue: 0,0:17:31.30,0:17:32.38,Default,,0000,0000,0000,,Then why?
+Dialogue: 0,0:17:36.34,0:17:38.97,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:17:38.97,0:17:41.81,Default,,0000,0000,0000,,Back then, I killed the original you.
+Dialogue: 0,0:17:41.81,0:17:43.68,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:17:43.68,0:17:48.81,Default,,0000,0000,0000,,In that situation, I could only\Nsave either Mayuri or Kurisu.
+Dialogue: 0,0:17:48.81,0:17:51.94,Default,,0000,0000,0000,,I chose Mayuri, and then...
+Dialogue: 0,0:17:51.94,0:17:55.49,Default,,0000,0000,0000,,...I gave up trying to save you.
+Dialogue: 0,0:17:55.49,0:17:58.78,Default,,0000,0000,0000,,And I agreed with it?
+Dialogue: 0,0:17:58.78,0:18:00.03,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:18:00.03,0:18:04.66,Default,,0000,0000,0000,,You told me over and over\Nthat decision wasn't wrong.
+Dialogue: 0,0:18:04.66,0:18:09.38,Default,,0000,0000,0000,,That choosing Mayuri was the right choice.
+Dialogue: 0,0:18:09.38,0:18:10.92,Default,,0000,0000,0000,,I can imagine.
+Dialogue: 0,0:18:10.92,0:18:17.68,Default,,0000,0000,0000,,My pride won't allow\Na sacrifice to be made for me.
+Dialogue: 0,0:18:17.68,0:18:20.76,Default,,0000,0000,0000,,You know what you have to do, don't you?
+Dialogue: 0,0:18:20.76,0:18:24.47,Default,,0000,0000,0000,,Save Shiina-{\i1}san{\i} and Suzuha-{\i1}san{\i},\Nand don't allow the war to start by--
+Dialogue: 0,0:18:24.47,0:18:27.73,Default,,0000,0000,0000,,But then you...!
+Dialogue: 0,0:18:27.73,0:18:29.60,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:18:29.60,0:18:33.61,Default,,0000,0000,0000,,It'll be like you never existed.
+Dialogue: 0,0:18:33.61,0:18:36.07,Default,,0000,0000,0000,,You won't just be gone.
+Dialogue: 0,0:18:36.07,0:18:40.16,Default,,0000,0000,0000,,No one will... even remember you existed...
+Dialogue: 0,0:18:42.24,0:18:47.75,Default,,0000,0000,0000,,But, you'll remember me, won't you?
+Dialogue: 0,0:18:47.75,0:18:50.00,Default,,0000,0000,0000,,And what if I fail?
+Dialogue: 0,0:18:50.00,0:18:52.17,Default,,0000,0000,0000,,What if I can't find it?
+Dialogue: 0,0:18:52.17,0:18:55.59,Default,,0000,0000,0000,,Isn't that how you acted before now?
+Dialogue: 0,0:18:55.59,0:19:02.05,Default,,0000,0000,0000,,But you regretted that and decided\Nto time leap 3,000 times to come fix it all.
+Dialogue: 0,0:19:08.23,0:19:13.77,Default,,0000,0000,0000,,Since the original me died,\NI've often asked myself...
+Dialogue: 0,0:19:13.77,0:19:18.07,Default,,0000,0000,0000,,What exactly is my existence?
+Dialogue: 0,0:19:18.07,0:19:21.16,Default,,0000,0000,0000,,For what purpose do I exist?
+Dialogue: 0,0:19:21.16,0:19:28.54,Default,,0000,0000,0000,,Though now, there's not much joy\Nin existing as the spark that starts WWIII.
+Dialogue: 0,0:19:28.54,0:19:31.83,Default,,0000,0000,0000,,Is that my only reason for being?
+Dialogue: 0,0:19:33.21,0:19:38.21,Default,,0000,0000,0000,,But, if it's within my power\Nto save the original Kurisu...
+Dialogue: 0,0:19:38.21,0:19:40.59,Default,,0000,0000,0000,,If it's to save this beautiful world...
+Dialogue: 0,0:19:40.59,0:19:43.68,Default,,0000,0000,0000,,If that can be the reason I exist...
+Dialogue: 0,0:19:43.68,0:19:49.10,Default,,0000,0000,0000,,Don't you think that's more logical...\Nand even romantic?
+Dialogue: 0,0:19:49.10,0:19:51.06,Default,,0000,0000,0000,,[Kurisu]...
+Dialogue: 0,0:19:51.06,0:19:52.77,Default,,0000,0000,0000,,Show me the sky.
+Dialogue: 0,0:20:01.74,0:20:04.12,Default,,0000,0000,0000,,It's so bright, don't you think?
+Dialogue: 0,0:20:04.12,0:20:05.49,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:20:05.49,0:20:11.50,Default,,0000,0000,0000,,All of you live in a world more\Nbeautiful than you even know.
+Dialogue: 0,0:20:11.50,0:20:17.96,Default,,0000,0000,0000,,As time flows, chaos and chance\Nmake miracles, and certainties are shaped.
+Dialogue: 0,0:20:17.96,0:20:19.26,Default,,0000,0000,0000,,In this world...
+Dialogue: 0,0:20:22.80,0:20:23.93,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:20:34.48,0:20:36.52,Default,,0000,0000,0000,,I'm done setting up.
+Dialogue: 0,0:20:36.52,0:20:38.15,Default,,0000,0000,0000,,Ready, Senpai?
+Dialogue: 0,0:20:40.11,0:20:41.15,Default,,0000,0000,0000,,You sure?
+Dialogue: 0,0:20:41.15,0:20:42.36,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:20:43.70,0:20:47.91,On Top,,0000,0000,0000,,"Break into the servers of Viktor Chondria\NUniversity's Brain Science Institute and destroy\Nall the data concerning the Amadeus AI. Open the door with the attached key below."
+Dialogue: 0,0:20:44.03,0:20:50.66,Default,,0000,0000,0000,,Okay. All that's left is to send\NMaho-{\i1}tan{\i}'s attachment to the past me.
+Dialogue: 0,0:20:55.71,0:20:59.34,Default,,0000,0000,0000,,Amadeus... Ready input for control code.
+Dialogue: 0,0:21:01.38,0:21:06.26,Default,,0000,0000,0000,,{\i1}Der alte... würfelt nicht.{\i}
+Dialogue: 0,0:21:10.64,0:21:13.48,Default,,0000,0000,0000,,Control code received.
+Dialogue: 0,0:21:13.48,0:21:16.69,Default,,0000,0000,0000,,System transitioning to emergency mode.
+Dialogue: 0,0:21:16.69,0:21:21.36,Default,,0000,0000,0000,,Run command from Hiyajo Maho,\Ntop-level administrator.
+Dialogue: 0,0:21:21.36,0:21:24.99,Default,,0000,0000,0000,,Transfer selected patch\Nprogram to designated file.
+Dialogue: 0,0:21:24.99,0:21:31.20,Default,,0000,0000,0000,,Modify to commence\Nprocessing upon system reset.
+Dialogue: 0,0:21:31.20,0:21:33.66,Default,,0000,0000,0000,,Command confirmed.
+Dialogue: 0,0:21:33.66,0:21:40.04,Default,,0000,0000,0000,,Executing command from Hiyajo Maho,\Ntop-level administrator.
+Dialogue: 0,0:21:40.04,0:21:41.50,Default,,0000,0000,0000,,Hiyajo-{\i1}san{\i}...
+Dialogue: 0,0:21:41.50,0:21:43.34,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:21:43.34,0:21:45.42,Default,,0000,0000,0000,,Do your best and don't give up!
+Dialogue: 0,0:21:45.42,0:21:48.05,Default,,0000,0000,0000,,The possibilities are endless!
+Dialogue: 0,0:21:48.05,0:21:50.89,Default,,0000,0000,0000,,I know you better than anyone, Senpai.
+Dialogue: 0,0:21:50.89,0:21:54.23,Default,,0000,0000,0000,,That's why I can say this with confidence...
+Dialogue: 0,0:21:54.23,0:21:57.52,Default,,0000,0000,0000,,You'll surpass my research\Nby leaps and bounds
+Dialogue: 0,0:21:57.52,0:22:01.11,Default,,0000,0000,0000,,and accomplish things\NI could never dream of!
+Dialogue: 0,0:22:01.11,0:22:05.07,Default,,0000,0000,0000,,And someday, we'll reach\Nthe world we should be in!
+Dialogue: 0,0:22:05.07,0:22:08.61,Default,,0000,0000,0000,,I know we can! We'll get there!
+Dialogue: 0,0:22:11.87,0:22:12.99,Default,,0000,0000,0000,,Amadeus!
+Dialogue: 0,0:22:12.99,0:22:17.41,Default,,0000,0000,0000,,Someday, I swear! On that\Npromised day where time intersects...!
+Dialogue: 0,0:22:14.16,0:22:19.63,On Top,,0000,0000,0000,,{\i1}Precious memories are{\i}
+Dialogue: 0,0:22:17.41,0:22:21.04,Default,,0000,0000,0000,,Without a doubt, we will reach that place!
+Dialogue: 0,0:22:19.63,0:22:24.96,On Top,,0000,0000,0000,,{\i1}Completely negated by some other theory{\i}
+Dialogue: 0,0:22:21.04,0:22:23.17,Default,,0000,0000,0000,,And we will meet again!
+Dialogue: 0,0:22:24.96,0:22:30.55,On Top,,0000,0000,0000,,{\i1}The event horizon too{\i}
+Dialogue: 0,0:22:25.17,0:22:26.59,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:22:26.59,0:22:30.01,Default,,0000,0000,0000,,Take care of Hououin Kyouma for me!
+Dialogue: 0,0:22:30.55,0:22:35.43,On Top,,0000,0000,0000,,{\i1}Even that encompassing all is overwritten{\i}
+Dialogue: 0,0:22:33.81,0:22:35.06,Default,,0000,0000,0000,,[Kurisu]!
+Dialogue: 0,0:22:35.43,0:22:36.93,DefaultLow,,0000,0000,0000,,"Break into the servers of Viktor Chondria\NUniversity's Brain Science Institute and destroy all the data concerning the Amadeus AI. Open the door with the attached key below."
+Dialogue: 0,0:22:35.43,0:22:40.73,On Top,,0000,0000,0000,,{\i1}Fragments of love I closed up in a box{\i}
+Dialogue: 0,0:22:38.14,0:22:39.98,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:22:40.73,0:22:46.15,On Top,,0000,0000,0000,,{\i1}Are so close yet so far,{\i}\N{\i1}at the end of this dimension{\i}
+Dialogue: 0,0:22:46.15,0:22:52.16,On Top,,0000,0000,0000,,{\i1}The process of change seems so innocent{\i}
+Dialogue: 0,0:22:52.16,0:22:54.79,On Top,,0000,0000,0000,,{\i1}But that's a fiction that can trick even God{\i}
+Dialogue: 0,0:22:54.79,0:22:57.87,On Top,,0000,0000,0000,,{\i1}To the promised place{\i}
+Dialogue: 0,0:22:57.87,0:23:01.50,On Top,,0000,0000,0000,,{\i1}Soon now, the clock will chime out loud{\i}
+Dialogue: 0,0:23:01.50,0:23:04.63,On Top,,0000,0000,0000,,{\i1}The gate of zero will open{\i}
+Dialogue: 0,0:23:04.63,0:23:08.80,On Top,,0000,0000,0000,,{\i1}We'll be engulfed by a brilliant light{\i}
+Dialogue: 0,0:23:08.80,0:23:15.18,On Top,,0000,0000,0000,,{\i1}Miracles will be rewritten as fate,{\i}\N{\i1}laughter will flow{\i}
+Dialogue: 0,0:23:15.18,0:23:17.85,On Top,,0000,0000,0000,,{\i1}At that moment, at that place{\i}
+Dialogue: 0,0:23:17.85,0:23:29.61,On Top,,0000,0000,0000,,{\i1}Your "time" will once again begin{\i}
