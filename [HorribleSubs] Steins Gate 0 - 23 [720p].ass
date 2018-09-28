@@ -304,7 +304,8 @@ Dialogue: 0,0:15:39.60,0:15:43.56,Default,,0000,0000,0000,,I knew this would hap
 Dialogue: 0,0:15:43.56,0:15:45.57,Default,,0000,0000,0000,,I'm tired...
 Dialogue: 0,0:15:45.57,0:15:47.28,Default,,0000,0000,0000,,I've had enough...
 Dialogue: 0,0:16:04.67,0:16:09.88,On Top,,0000,0000,0000,,{\i1}For you, billions and billions of heartbeats{\i}
-Dialogue: 0,0:16:09.88,0:16:15.89,On Top,,0000,0000,0000,,{\i1}are nothing at all; just the blink of an eye{\i}
+Dialogue: 0,0:16:09.88,0:16:15.89,On Top,,0000,0000,0000,,{\i1}are nothing at all, just the blink of an eye{\i}
+Dialogue: 0,0:16:09.88,0:16:15.89,On Top,,0000,0000,0120,,Stardust of Intersected Coordinates\N- Milky-way Crossing -
 Dialogue: 0,0:16:12.43,0:16:14.09,Default,,0000,0000,0000,,Greetings...
 Dialogue: 0,0:16:14.09,0:16:16.43,Default,,0000,0000,0000,,...me from 15 years ago.
 Dialogue: 0,0:16:15.89,0:16:16.55,On Top,,0000,0000,0000,,{\i1}are nothing at all; just the blink of an eye{\i}
@@ -409,18 +410,3 @@ Dialogue: 0,0:21:06.76,0:21:08.97,Default,,0000,0000,0000,,This is the epigraph 
 Dialogue: 0,0:23:14.35,0:23:15.64,Default,,0000,0000,0000,,Suzu!
 Dialogue: 0,0:23:17.27,0:23:18.52,Default,,0000,0000,0000,,Mmm!
 Dialogue: 0,0:23:25.61,0:23:28.90,Default,,0000,0000,0000,,Sorry to keep you waiting, you two!
-										
- 
- 
-
-
-
-  
-  
-  
- 
- 
-
-
-     
-   										
