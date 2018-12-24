@@ -1,0 +1,472 @@
+﻿[Script Info]
+Title: HorribleSubs(Fix)
+; Subs edited by Woute and Davixxa for consistency
+; Songs translation by Rigs
+; https://bitbucket.org/Woote/horriblefix/overview
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 848
+PlayResY: 480
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,1
+Style: OS,Open Sans Semibold,33,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,1,1,20,0
+Style: On Top,Open Sans Semibold,36,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,1,0,0,0,100,100,0,0,1,2,1,8,27,27,29,0
+Style: Italics,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,1,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+Style: DefaultLow,Open Sans Semibold,36,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,0,0,28,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.12,0:00:01.91,On Top,,0000,0000,0000,,"Please"\N"Global Brain Science Organization Office\NPrep Room. A fundraising plea by Leskinen. If everyone who read this donated just one dollar, I could eat a can of oden.
+Dialogue: 0,0:00:01.91,0:00:03.75,On Top,,0000,0000,0000,,This lab of ours may be small,\Nbut our operation requires many cans of oden.\NOden cans are very special as they can be eaten by anyone. Please donate to our cause with a dollar or can of oden."
+Dialogue: 0,0:00:02.92,0:00:04.75,Default,,0000,0000,0000,,For crying out loud...
+Dialogue: 0,0:00:07.38,0:00:12.42,Default,,0000,0000,0000,,So much for things settling down\Nafter the New Year's thief fiasco...
+Dialogue: 0,0:00:16.80,0:00:18.81,Default,,0000,0000,0000,,This is a stickup, Maho!
+Dialogue: 0,0:00:19.89,0:00:21.73,Default,,0000,0000,0000,,What in the world is that?
+Dialogue: 0,0:00:21.73,0:00:23.02,Default,,0000,0000,0000,,You like it?
+Dialogue: 0,0:00:23.02,0:00:25.90,Default,,0000,0000,0000,,A hobby shop was selling these in Akihabara.
+Dialogue: 0,0:00:25.90,0:00:28.82,Default,,0000,0000,0000,,It's a toy gun for the festival.
+Dialogue: 0,0:00:26.36,0:00:31.53,On Top,,0000,0000,0000,,"Setsubun"
+Dialogue: 0,0:00:28.82,0:00:31.61,Default,,0000,0000,0000,,You can shoot a bunch of beans with this thing.
+Dialogue: 0,0:00:31.61,0:00:35.78,Default,,0000,0000,0000,,"Cast the demons out\Nand rake the bucks in!", was it?
+Dialogue: 0,0:00:35.78,0:00:38.28,Default,,0000,0000,0000,,It's "Bring the luck in!", Professor.
+Dialogue: 0,0:00:38.28,0:00:41.66,Default,,0000,0000,0000,,Anyways, shouldn't we be\Npreparing to go back home?
+Dialogue: 0,0:00:41.66,0:00:44.00,Default,,0000,0000,0000,,Please stop buying junk we don't need.
+Dialogue: 0,0:00:44.00,0:00:46.12,Default,,0000,0000,0000,,Reyes is gonna get mad.
+Dialogue: 0,0:00:46.12,0:00:48.84,Default,,0000,0000,0000,,I suppose we did borrow this office...
+Dialogue: 0,0:00:48.84,0:00:51.55,Default,,0000,0000,0000,,We should leave it cleaner than we found it.
+Dialogue: 0,0:00:51.55,0:00:54.84,Default,,0000,0000,0000,,Still, we've got plenty\Nof time to pack things up.
+Dialogue: 0,0:00:54.84,0:00:58.85,Default,,0000,0000,0000,,But while we're here,\Nwe oughta honor the festivals of Japan...
+Dialogue: 0,0:00:58.85,0:01:01.72,Default,,0000,0000,0000,,...and play around as is tradition!
+Dialogue: 0,0:01:01.72,0:01:03.56,Default,,0000,0000,0000,,Haven't you heard the saying?
+Dialogue: 0,0:01:03.56,0:01:06.94,Default,,0000,0000,0000,,When the cat's away, the mice will play.
+Dialogue: 0,0:01:09.73,0:01:11.53,Default,,0000,0000,0000,,Setsubun, huh?
+Dialogue: 0,0:01:11.53,0:01:13.86,Default,,0000,0000,0000,,It's already that time of year...
+Dialogue: 0,0:01:18.32,0:01:20.45,Default,,0000,0000,0000,,Valentine's, huh?
+Dialogue: 0,0:01:36.88,0:01:42.18,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
+Dialogue: 0,0:01:42.18,0:01:48.10,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
+Dialogue: 0,0:01:49.10,0:01:59.95,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
+Dialogue: 0,0:01:59.95,0:02:09.67,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
+Dialogue: 0,0:02:09.67,0:02:15.01,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
+Dialogue: 0,0:02:15.01,0:02:21.76,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
+Dialogue: 0,0:02:21.76,0:02:22.85,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
+Dialogue: 0,0:02:22.85,0:02:28.77,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
+Dialogue: 0,0:02:28.77,0:02:33.52,Default,,0000,0000,0000,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
+Dialogue: 0,0:02:33.52,0:02:39.03,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
+Dialogue: 0,0:02:39.03,0:02:44.58,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
+Dialogue: 0,0:02:44.58,0:02:49.92,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
+Dialogue: 0,0:02:51.04,0:02:53.21,On Top,,0000,0000,0000,,"Television"\N"CRT Workshop"
+Dialogue: 0,0:02:52.00,0:02:54.67,Default,,0000,0000,0000,,See you later, Boss. Take care.
+Dialogue: 0,0:02:54.67,0:02:56.17,Default,,0000,0000,0000,,Have a good day.
+Dialogue: 0,0:02:56.17,0:02:57.96,Default,,0000,0000,0000,,Yeah... Hold up.
+Dialogue: 0,0:02:57.96,0:02:59.34,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:02:58.67,0:03:01.13,On Top,,0000,0000,0000,,"Pay"
+Dialogue: 0,0:02:59.34,0:03:01.47,Default,,0000,0000,0000,,Your payment for last month.
+Dialogue: 0,0:03:01.47,0:03:03.60,Default,,0000,0000,0000,,B-But I...
+Dialogue: 0,0:03:03.60,0:03:06.56,Default,,0000,0000,0000,,You're protecting me, so I...
+Dialogue: 0,0:03:06.56,0:03:09.23,Default,,0000,0000,0000,,This and that are separate things.
+Dialogue: 0,0:03:09.23,0:03:10.14,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:03:10.14,0:03:11.27,Default,,0000,0000,0000,,Just take it.
+Dialogue: 0,0:03:11.27,0:03:12.06,Default,,0000,0000,0000,,Wha--
+Dialogue: 0,0:03:12.06,0:03:14.73,Default,,0000,0000,0000,,Bet there's not much in it anyways.
+Dialogue: 0,0:03:14.73,0:03:16.53,Default,,0000,0000,0000,,Oho?
+Dialogue: 0,0:03:16.53,0:03:19.24,Default,,0000,0000,0000,,Sounds to me like you're\Nfine with working for free!
+Dialogue: 0,0:03:19.24,0:03:20.45,Default,,0000,0000,0000,,Whoops!
+Dialogue: 0,0:03:20.45,0:03:21.91,Default,,0000,0000,0000,,Thanks a bunch!
+Dialogue: 0,0:03:21.91,0:03:24.03,Default,,0000,0000,0000,,Good grief...
+Dialogue: 0,0:03:24.03,0:03:25.62,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:03:25.49,0:03:28.12,On Top,,0000,0000,0000,,"Pay"
+Dialogue: 0,0:03:30.71,0:03:32.50,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:03:35.46,0:03:37.96,Default,,0000,0000,0000,,You seem happy today.
+Dialogue: 0,0:03:37.96,0:03:40.97,Default,,0000,0000,0000,,This is my first time getting paid for work.
+Dialogue: 0,0:03:40.97,0:03:43.72,Default,,0000,0000,0000,,Have you decided what you'll use it on?
+Dialogue: 0,0:03:43.72,0:03:45.01,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:03:45.01,0:03:47.81,Default,,0000,0000,0000,,I still haven't made up my mind yet...
+Dialogue: 0,0:03:50.35,0:03:53.02,Default,,0000,0000,0000,,This bakery has the tastiest cakes.
+Dialogue: 0,0:03:53.02,0:03:56.36,Default,,0000,0000,0000,,Uh... N-No, it's not like I...
+Dialogue: 0,0:03:58.15,0:03:59.73,Default,,0000,0000,0000,,What's up, Kagari?
+Dialogue: 0,0:03:59.73,0:04:01.03,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:04:00.82,0:04:03.57,On Top,,0000,0000,0000,,"Happy Valentine's Event Begins!"
+Dialogue: 0,0:04:01.03,0:04:03.61,Default,,0000,0000,0000,,What exactly is this about?
+Dialogue: 0,0:04:05.32,0:04:07.12,Default,,0000,0000,0000,,Valentine's Day?
+Dialogue: 0,0:04:07.12,0:04:08.29,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:04:08.29,0:04:11.16,Default,,0000,0000,0000,,It's a special day where\Npeople convey their feelings...
+Dialogue: 0,0:04:11.16,0:04:14.12,Default,,0000,0000,0000,,...by giving chocolate to the ones they love.
+Dialogue: 0,0:04:14.12,0:04:16.71,Default,,0000,0000,0000,,To the ones they love...
+Dialogue: 0,0:04:16.71,0:04:18.80,Default,,0000,0000,0000,,Back when I was little...
+Dialogue: 0,0:04:18.80,0:04:22.88,Default,,0000,0000,0000,,...my mom used to search\Nfor ingredients to make us some.
+Dialogue: 0,0:04:28.85,0:04:31.60,Default,,0000,0000,0000,,How wonderful!
+Dialogue: 0,0:04:31.60,0:04:35.69,Default,,0000,0000,0000,,To put your feelings into\Na present for the ones you love!
+Dialogue: 0,0:04:35.69,0:04:38.65,Default,,0000,0000,0000,,That's such a lovely tradition!
+Dialogue: 0,0:04:38.65,0:04:40.53,Default,,0000,0000,0000,,K-Kagari?
+Dialogue: 0,0:04:40.53,0:04:43.49,Default,,0000,0000,0000,,Um, could it be that Kagari...
+Dialogue: 0,0:04:43.49,0:04:47.03,Default,,0000,0000,0000,,...has somebody in mind that she likes?
+Dialogue: 0,0:04:47.03,0:04:49.78,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:49.78,0:04:52.33,Default,,0000,0000,0000,,So? You'll give him some, right?
+Dialogue: 0,0:04:52.33,0:04:54.58,Default,,0000,0000,0000,,Would you give it a rest already?
+Dialogue: 0,0:04:54.58,0:04:56.67,Default,,0000,0000,0000,,I told you it's not happening.
+Dialogue: 0,0:04:56.67,0:04:58.63,Default,,0000,0000,0000,,But why not?!
+Dialogue: 0,0:04:58.63,0:05:01.00,Default,,0000,0000,0000,,You're leaving soon, you know!
+Dialogue: 0,0:05:01.00,0:05:03.67,Default,,0000,0000,0000,,Convey your feelings before you go!
+Dialogue: 0,0:05:03.67,0:05:06.84,Default,,0000,0000,0000,,I'm telling you,\NOkabe isn't like that to me!
+Dialogue: 0,0:05:06.84,0:05:09.93,Default,,0000,0000,0000,,Keep saying that and you'll regret it.
+Dialogue: 0,0:05:09.93,0:05:14.94,Default,,0000,0000,0000,,Better to give and regret it than\Nto regret not giving anything at all.
+Dialogue: 0,0:05:17.35,0:05:18.69,Default,,0000,0000,0000,,Senpai?
+Dialogue: 0,0:05:20.52,0:05:21.82,Default,,0000,0000,0000,,Senpai?
+Dialogue: 0,0:05:22.73,0:05:24.19,Default,,0000,0000,0000,,Senpai?
+Dialogue: 0,0:05:26.66,0:05:30.37,Default,,0000,0000,0000,,There's really nobody?
+Dialogue: 0,0:05:30.37,0:05:35.71,Default,,0000,0000,0000,,I told you already, there's nobody!
+Dialogue: 0,0:05:35.71,0:05:38.00,Default,,0000,0000,0000,,Besides, this is America...
+Dialogue: 0,0:05:38.00,0:05:41.96,Default,,0000,0000,0000,,It's the guys who give valentines\Nto the girls they like here.
+Dialogue: 0,0:05:41.96,0:05:46.30,Default,,0000,0000,0000,,But, for a girl to share their\Nsecret feelings for someone...
+Dialogue: 0,0:05:46.30,0:05:48.51,Default,,0000,0000,0000,,Don't you think it's romantic?
+Dialogue: 0,0:05:48.51,0:05:51.35,Default,,0000,0000,0000,,Romance is silly to a scientist.
+Dialogue: 0,0:05:51.35,0:05:54.72,Default,,0000,0000,0000,,"To be a scientist is to be a true romantic."
+Dialogue: 0,0:05:54.72,0:05:56.43,Default,,0000,0000,0000,,Don't you know the saying?
+Dialogue: 0,0:05:56.43,0:05:58.48,Default,,0000,0000,0000,,Whose quote is that?
+Dialogue: 0,0:05:58.48,0:06:00.86,Default,,0000,0000,0000,,It's mine.
+Dialogue: 0,0:06:00.86,0:06:03.86,Default,,0000,0000,0000,,In that case, what about you?
+Dialogue: 0,0:06:03.86,0:06:07.82,Default,,0000,0000,0000,,You're a genius girl with\Ntheories begging to be published.
+Dialogue: 0,0:06:07.82,0:06:10.91,Default,,0000,0000,0000,,There's a horde of men after you.
+Dialogue: 0,0:06:15.20,0:06:20.21,Default,,0000,0000,0000,,Several gentlemen have approached\Nme during my stay in America...
+Dialogue: 0,0:06:20.21,0:06:25.34,Default,,0000,0000,0000,,But after five or so minutes, they all run away.
+Dialogue: 0,0:06:25.34,0:06:29.18,Default,,0000,0000,0000,,Pathetic how they back down\Nafter losing an argument.
+Dialogue: 0,0:06:29.18,0:06:31.14,Default,,0000,0000,0000,,Besides...
+Dialogue: 0,0:06:31.14,0:06:34.51,Default,,0000,0000,0000,,There's already someone I have in mind.
+Dialogue: 0,0:06:34.51,0:06:35.81,Default,,0000,0000,0000,,You're kidding!
+Dialogue: 0,0:06:37.39,0:06:38.52,Default,,0000,0000,0000,,Anyways...
+Dialogue: 0,0:06:38.52,0:06:42.94,Default,,0000,0000,0000,,Better to give and regret it than\Nto regret not giving anything at all.
+Dialogue: 0,0:06:42.94,0:06:44.65,Default,,0000,0000,0000,,Sheesh...
+Dialogue: 0,0:06:46.65,0:06:49.24,Default,,0000,0000,0000,,What's the matter, spacing out like that?
+Dialogue: 0,0:06:49.24,0:06:50.95,Default,,0000,0000,0000,,It's nothing.
+Dialogue: 0,0:06:50.95,0:06:53.37,Default,,0000,0000,0000,,Anyways, this conversation is over.
+Dialogue: 0,0:06:53.37,0:06:54.41,Default,,0000,0000,0000,,E-Eh?
+Dialogue: 0,0:06:54.41,0:06:56.70,Default,,0000,0000,0000,,Don't eh me. I'm powering off.
+Dialogue: 0,0:06:56.70,0:06:59.08,Default,,0000,0000,0000,,I overheard what you said there, nya.
+Dialogue: 0,0:06:59.08,0:07:00.29,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:01.33,0:07:05.55,Default,,0000,0000,0000,,To think Maho had that\Nsomeone special in her life, nya!
+Dialogue: 0,0:07:05.55,0:07:07.17,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:07.17,0:07:10.80,Default,,0000,0000,0000,,Your true feelings...\Npoured with love into chocolate!
+Dialogue: 0,0:07:10.80,0:07:13.26,Default,,0000,0000,0000,,Reach out... to her beloved!
+Dialogue: 0,0:07:13.26,0:07:15.60,Default,,0000,0000,0000,,Hey now! Who were you listening to?!
+Dialogue: 0,0:07:15.60,0:07:17.89,Default,,0000,0000,0000,,I never said anything like that!
+Dialogue: 0,0:07:17.89,0:07:20.85,Default,,0000,0000,0000,,But I possess the Eye of the sky god Horus!
+Dialogue: 0,0:07:20.85,0:07:22.85,Default,,0000,0000,0000,,I see right through you, nya!
+Dialogue: 0,0:07:22.85,0:07:25.02,Default,,0000,0000,0000,,No, I'm telling you...
+Dialogue: 0,0:07:25.02,0:07:26.40,Default,,0000,0000,0000,,Chocolate...
+Dialogue: 0,0:07:26.40,0:07:27.11,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:27.11,0:07:29.07,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:07:29.07,0:07:30.57,Default,,0000,0000,0000,,Nya, nya, nya!
+Dialogue: 0,0:07:33.99,0:07:34.99,Default,,0000,0000,0000,,Morning.
+Dialogue: 0,0:07:34.99,0:07:38.91,Default,,0000,0000,0000,,Kiryu?! H-How long have you been there?
+Dialogue: 0,0:07:38.91,0:07:40.21,Default,,0000,0000,0000,,The whole time.
+Dialogue: 0,0:07:40.21,0:07:43.04,Default,,0000,0000,0000,,So that whole conversation...
+Dialogue: 0,0:07:43.04,0:07:45.59,Default,,0000,0000,0000,,I'm giving... chocolate.
+Dialogue: 0,0:07:45.59,0:07:46.84,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:07:46.84,0:07:48.34,Default,,0000,0000,0000,,Me too.
+Dialogue: 0,0:07:48.34,0:07:50.42,Default,,0000,0000,0000,,I'm giving chocolate.
+Dialogue: 0,0:07:51.88,0:07:53.59,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:07:53.59,0:07:55.26,Default,,0000,0000,0000,,Does that mean you...
+Dialogue: 0,0:07:55.26,0:07:59.22,Default,,0000,0000,0000,,Moe-nya has someone\Nshe wants to give chocolate to, nya!
+Dialogue: 0,0:08:00.93,0:08:02.19,Default,,0000,0000,0000,,What a surprise.
+Dialogue: 0,0:08:02.19,0:08:06.11,Default,,0000,0000,0000,,I-I never thought\NKiryu had someone like that...
+Dialogue: 0,0:08:06.11,0:08:08.02,Default,,0000,0000,0000,,Who is it then?
+Dialogue: 0,0:08:08.02,0:08:09.19,Default,,0000,0000,0000,,Secret.
+Dialogue: 0,0:08:09.19,0:08:10.57,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:08:13.82,0:08:17.24,Default,,0000,0000,0000,,Um... This goes like... huh?
+Dialogue: 0,0:08:17.24,0:08:19.83,Default,,0000,0000,0000,,No, no... Not that way.
+Dialogue: 0,0:08:19.83,0:08:22.62,Default,,0000,0000,0000,,Huh? Huh?
+Dialogue: 0,0:08:22.62,0:08:26.04,Default,,0000,0000,0000,,Kagari has someone she likes...
+Dialogue: 0,0:08:26.04,0:08:27.25,Default,,0000,0000,0000,,I'm back!
+Dialogue: 0,0:08:27.25,0:08:29.84,Default,,0000,0000,0000,,Oh! Welcome home, Dad!
+Dialogue: 0,0:08:29.84,0:08:32.67,Default,,0000,0000,0000,,Ah, Nae! Have you been a good girl?
+Dialogue: 0,0:08:32.67,0:08:36.09,Default,,0000,0000,0000,,Yup! I'm playing with Big Sis Kagari!
+Dialogue: 0,0:08:36.09,0:08:38.60,Default,,0000,0000,0000,,You are? That's great!
+Dialogue: 0,0:08:38.60,0:08:41.60,Default,,0000,0000,0000,,Hey, guess what? Know what Big Sis did?
+Dialogue: 0,0:08:41.60,0:08:43.18,Default,,0000,0000,0000,,Don't! Nae!
+Dialogue: 0,0:08:43.18,0:08:45.98,Default,,0000,0000,0000,,Big Sis is just so clumsy!
+Dialogue: 0,0:08:45.98,0:08:48.86,Default,,0000,0000,0000,,Jeez! Why did you tell him that?!
+Dialogue: 0,0:08:48.86,0:08:50.28,Default,,0000,0000,0000,,Because!
+Dialogue: 0,0:08:50.28,0:08:52.65,Default,,0000,0000,0000,,Nothing to worry about.
+Dialogue: 0,0:08:52.65,0:08:54.61,Default,,0000,0000,0000,,I knew that well enough.
+Dialogue: 0,0:08:54.61,0:08:56.91,Default,,0000,0000,0000,,Aww, not you too!
+Dialogue: 0,0:09:00.45,0:09:02.79,Default,,0000,0000,0000,,It can't be...!
+Dialogue: 0,0:09:02.79,0:09:04.21,Default,,0000,0000,0000,,Boss!
+Dialogue: 0,0:09:04.21,0:09:07.42,Default,,0000,0000,0000,,I... I think I love you!
+Dialogue: 0,0:09:07.42,0:09:09.25,Default,,0000,0000,0000,,You can't! No, you can't!
+Dialogue: 0,0:09:09.25,0:09:13.01,Default,,0000,0000,0000,,I have to be Nae's father before being a man!
+Dialogue: 0,0:09:14.17,0:09:16.47,Default,,0000,0000,0000,,In that case, I...
+Dialogue: 0,0:09:16.47,0:09:18.85,Default,,0000,0000,0000,,I'll be Nae's mother starting today!
+Dialogue: 0,0:09:18.85,0:09:20.26,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:09:21.72,0:09:24.77,Default,,0000,0000,0000,,No... There's no way that's happening...
+Dialogue: 0,0:09:24.77,0:09:25.85,Default,,0000,0000,0000,,What's happening?
+Dialogue: 0,0:09:25.85,0:09:28.61,Default,,0000,0000,0000,,Eh? Uh, no! I...
+Dialogue: 0,0:09:28.61,0:09:30.61,Default,,0000,0000,0000,,--Huh?\N--Talking to myself!
+Dialogue: 0,0:09:30.61,0:09:33.65,Default,,0000,0000,0000,,Um, I think I'll go clean up outside!
+Dialogue: 0,0:09:33.65,0:09:35.28,Default,,0000,0000,0000,,Hello.
+Dialogue: 0,0:09:35.28,0:09:36.32,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:36.32,0:09:38.99,Default,,0000,0000,0000,,Oh, it's just Okabe. What's up?
+Dialogue: 0,0:09:38.99,0:09:41.79,Default,,0000,0000,0000,,Find a lead about the attackers or something?
+Dialogue: 0,0:09:41.79,0:09:44.54,Default,,0000,0000,0000,,No, that's not why I came...
+Dialogue: 0,0:09:44.54,0:09:46.29,Default,,0000,0000,0000,,Okarin!
+Dialogue: 0,0:09:46.29,0:09:48.67,Default,,0000,0000,0000,,What brings you here today?
+Dialogue: 0,0:09:48.67,0:09:50.17,Default,,0000,0000,0000,,Came to see how it's going.
+Dialogue: 0,0:09:50.17,0:09:53.09,Default,,0000,0000,0000,,Huh? To check up on me?
+Dialogue: 0,0:09:53.09,0:09:55.34,Default,,0000,0000,0000,,Yeah... You seem good.
+Dialogue: 0,0:09:55.34,0:09:58.22,Default,,0000,0000,0000,,Thanks for going out of your way.
+Dialogue: 0,0:09:58.22,0:09:59.80,Default,,0000,0000,0000,,You must be cold.
+Dialogue: 0,0:09:59.80,0:10:01.72,Default,,0000,0000,0000,,No, I'm fine.
+Dialogue: 0,0:10:01.72,0:10:05.35,Default,,0000,0000,0000,,Anyways, I've got a message\Nfor you from Mayuri.
+Dialogue: 0,0:10:05.35,0:10:09.15,Default,,0000,0000,0000,,She said... Let's pick out\Na phone for you together.
+Dialogue: 0,0:10:09.15,0:10:11.15,Default,,0000,0000,0000,,Mayuri said that?!
+Dialogue: 0,0:10:11.15,0:10:13.82,Default,,0000,0000,0000,,What are they talking about?
+Dialogue: 0,0:10:13.82,0:10:15.74,Default,,0000,0000,0000,,It can't be...!
+Dialogue: 0,0:10:15.74,0:10:17.45,Default,,0000,0000,0000,,It's so cold, and you...
+Dialogue: 0,0:10:17.45,0:10:18.78,Default,,0000,0000,0000,,I'm okay.
+Dialogue: 0,0:10:18.78,0:10:22.12,Default,,0000,0000,0000,,You say that, but... Your cheeks are so red.
+Dialogue: 0,0:10:22.12,0:10:23.08,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:10:23.08,0:10:24.62,Default,,0000,0000,0000,,Cheeks?
+Dialogue: 0,0:10:25.79,0:10:26.58,Default,,0000,0000,0000,,Ah, I'm so sorry!
+Dialogue: 0,0:10:26.58,0:10:28.83,Default,,0000,0000,0000,,--Kagari... I-It's okay...\N--They just... looked so cold!
+Dialogue: 0,0:10:28.83,0:10:30.71,Default,,0000,0000,0000,,It's okay, Kagari...
+Dialogue: 0,0:10:30.71,0:10:31.88,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:10:31.88,0:10:33.42,Default,,0000,0000,0000,,Anything but that!
+Dialogue: 0,0:10:33.42,0:10:38.47,Default,,0000,0000,0000,,If it turns out like that, future\NBig Sis Mayu would hate me forever!
+Dialogue: 0,0:10:38.47,0:10:41.09,Default,,0000,0000,0000,,What in the world should I do?
+Dialogue: 0,0:10:42.93,0:10:45.35,Default,,0000,0000,0000,,Thanks for all the help, nya!
+Dialogue: 0,0:10:45.35,0:10:46.64,Default,,0000,0000,0000,,Don't mention it!
+Dialogue: 0,0:10:46.64,0:10:49.23,Default,,0000,0000,0000,,Mayushii and Faris are good friends!
+Dialogue: 0,0:10:49.23,0:10:52.65,Default,,0000,0000,0000,,Any friend of Mayushii is a friend of ours!
+Dialogue: 0,0:10:52.65,0:10:53.94,Default,,0000,0000,0000,,Glad to hear it!
+Dialogue: 0,0:10:53.94,0:10:57.32,Default,,0000,0000,0000,,Besides, making costumes is fun!
+Dialogue: 0,0:10:57.32,0:11:00.36,Default,,0000,0000,0000,,By the way, are you going handmade, Mayushii?
+Dialogue: 0,0:11:00.36,0:11:01.36,Default,,0000,0000,0000,,Yup!
+Dialogue: 0,0:11:01.36,0:11:05.58,Default,,0000,0000,0000,,The customers will love it\Neven more with handmade costumes.
+Dialogue: 0,0:11:05.58,0:11:08.79,Default,,0000,0000,0000,,C'mon! I'm not talking about the café costumes!
+Dialogue: 0,0:11:08.79,0:11:10.00,Default,,0000,0000,0000,,Chocolate!
+Dialogue: 0,0:11:10.00,0:11:12.33,Default,,0000,0000,0000,,You'll give some to Okarin, right?
+Dialogue: 0,0:11:12.33,0:11:14.75,Default,,0000,0000,0000,,Ah... Yeah!
+Dialogue: 0,0:11:14.75,0:11:18.46,Default,,0000,0000,0000,,But Mayushii isn't very good at cooking though.
+Dialogue: 0,0:11:18.46,0:11:19.80,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:11:19.80,0:11:23.18,Default,,0000,0000,0000,,In that case... How's this?
+Dialogue: 0,0:11:23.18,0:11:25.05,Default,,0000,0000,0000,,Will you please...
+Dialogue: 0,0:11:25.05,0:11:26.18,Default,,0000,0000,0000,,...eat Mayushii?
+Dialogue: 0,0:11:26.18,0:11:28.39,Default,,0000,0000,0000,,Tutturu!
+Dialogue: 0,0:11:28.39,0:11:29.93,Default,,0000,0000,0000,,You know?!
+Dialogue: 0,0:11:30.98,0:11:34.56,Default,,0000,0000,0000,,Fubuki, you're\Nsounding a lot like Daru.
+Dialogue: 0,0:11:34.56,0:11:36.15,Default,,0000,0000,0000,,You're kidding...
+Dialogue: 0,0:11:36.15,0:11:36.65,Default,,0000,0000,0000,,--That's the one thing...
+Dialogue: 0,0:11:36.65,0:11:37.65,Default,,0000,0000,0000,,--But if you put your whole\Nheart into making them...\N--That's the one thing...
+Dialogue: 0,0:11:37.65,0:11:39.94,Default,,0000,0000,0000,,--But if you put your whole\Nheart into making them...\N--...I never wanted to hear...
+Dialogue: 0,0:11:39.94,0:11:43.03,Default,,0000,0000,0000,,--...I'm sure Okarin will be incredibly happy.\N--...I never wanted to hear...
+Dialogue: 0,0:11:43.03,0:11:45.66,Default,,0000,0000,0000,,Hmm, I don't know...
+Dialogue: 0,0:11:48.70,0:11:51.37,Default,,0000,0000,0000,,Faris?
+Dialogue: 0,0:11:51.37,0:11:53.71,Default,,0000,0000,0000,,Leave it to Faris, nya!
+Dialogue: 0,0:11:54.04,0:11:59.00,On Top,,0000,0000,0000,,"Valentine's of Crystal Polymorphism\N- Bittersweet Intermedio -"
+Dialogue: 0,0:12:01.30,0:12:03.43,On Top,,0000,0000,0000,,"Soft Wheat Flour" "Whole Milk"\N"Whipping Cream"
+Dialogue: 0,0:12:06.51,0:12:11.85,Default,,0000,0000,0000,,As of now, the 36th round table chocolate\Nmeeting will commence, nya!
+Dialogue: 0,0:12:11.85,0:12:12.94,Default,,0000,0000,0000,,Round table...
+Dialogue: 0,0:12:12.94,0:12:14.65,Default,,0000,0000,0000,,...chocolate meeting?
+Dialogue: 0,0:12:14.65,0:12:18.73,Default,,0000,0000,0000,,In other words, we'll all be\Nmaking handmade chocolate!
+Dialogue: 0,0:12:18.73,0:12:21.99,Default,,0000,0000,0000,,Incredible! You've done this 36 times!
+Dialogue: 0,0:12:21.99,0:12:25.41,On Top,,0000,0000,0000,,No... That's too many if it's once a year...
+Dialogue: 0,0:12:23.40,0:12:28.32,Default,,0000,0000,0000,,I know they told me to come,\Nbut what the heck am I doing here?
+Dialogue: 0,0:12:25.41,0:12:28.33,On Top,,0000,0000,0000,,And there's no round table to be seen...
+Dialogue: 0,0:12:28.33,0:12:32.21,Default,,0000,0000,0000,,I'm curious about Kagari,\Nbut this is ridiculous!
+Dialogue: 0,0:12:28.33,0:12:32.21,On Top,,0000,0000,0000,,But still, that brings back memories!
+Dialogue: 0,0:12:32.21,0:12:33.58,Default,,0000,0000,0000,,I'm leaving.
+Dialogue: 0,0:12:33.58,0:12:35.33,Default,,0000,0000,0000,,You sure, nya?
+Dialogue: 0,0:12:35.33,0:12:39.05,Default,,0000,0000,0000,,Leave and no yummy chocolates\Nfor you to eat, nya.
+Dialogue: 0,0:12:39.05,0:12:41.38,Default,,0000,0000,0000,,None of that matters to me.
+Dialogue: 0,0:12:41.38,0:12:43.97,Default,,0000,0000,0000,,Yuki is coming, nya.
+Dialogue: 0,0:12:43.97,0:12:45.72,Default,,0000,0000,0000,,I-If you insist!
+Dialogue: 0,0:12:45.72,0:12:49.51,Default,,0000,0000,0000,,Besides, chocolate's a good source\Nof energy in emergencies...
+Dialogue: 0,0:12:49.51,0:12:53.94,Default,,0000,0000,0000,,That settles it then!\NLet's all get making chocolate, nya!
+Dialogue: 0,0:12:53.94,0:12:55.60,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:12:57.15,0:12:59.11,On Top,,0000,0000,0000,,"Whole Milk"
+Dialogue: 0,0:13:02.49,0:13:05.91,Default,,0000,0000,0000,,Hey... Who are you giving chocolate to, Nae?
+Dialogue: 0,0:13:05.91,0:13:07.41,Default,,0000,0000,0000,,My dad!
+Dialogue: 0,0:13:07.41,0:13:12.00,Default,,0000,0000,0000,,Really? Sure you're not\Ngiving some to a guy in your class?
+Dialogue: 0,0:13:12.00,0:13:14.50,Default,,0000,0000,0000,,I-I'm not.
+Dialogue: 0,0:13:14.50,0:13:16.42,Default,,0000,0000,0000,,What about Big Sis Kagari?
+Dialogue: 0,0:13:16.42,0:13:19.84,Default,,0000,0000,0000,,Me? I'm...
+Dialogue: 0,0:13:19.84,0:13:20.84,Default,,0000,0000,0000,,It's a secret.
+Dialogue: 0,0:13:20.84,0:13:21.84,Default,,0000,0000,0000,,Tsk!
+Dialogue: 0,0:13:21.84,0:13:26.22,Default,,0000,0000,0000,,Hey, no fair! Tell me!
+Dialogue: 0,0:13:26.22,0:13:28.09,Default,,0000,0000,0000,,It's going well, nya.
+Dialogue: 0,0:13:28.09,0:13:32.77,Default,,0000,0000,0000,,If we hand out all these girls' yummy\Nhandmade chocolate at the café...
+Dialogue: 0,0:13:32.77,0:13:35.52,Default,,0000,0000,0000,,It'll be the best advertisement ever, nya!
+Dialogue: 0,0:13:37.73,0:13:39.11,Default,,0000,0000,0000,,What are you doing, nya?
+Dialogue: 0,0:13:39.11,0:13:43.53,Default,,0000,0000,0000,,Shh! Quiet or I'll screw up!
+Dialogue: 0,0:13:43.53,0:13:45.90,Default,,0000,0000,0000,,Argh! Failed again!
+Dialogue: 0,0:13:45.90,0:13:48.07,Default,,0000,0000,0000,,You don't have to be that precise...
+Dialogue: 0,0:13:48.07,0:13:51.74,Default,,0000,0000,0000,,Baking is a chemical reaction!\NIt's an exact science!
+Dialogue: 0,0:13:51.74,0:13:53.75,Default,,0000,0000,0000,,Ny-nya!
+Dialogue: 0,0:13:53.75,0:13:55.79,Default,,0000,0000,0000,,Hmm? Sniff, sniff...
+Dialogue: 0,0:13:55.79,0:13:57.42,Default,,0000,0000,0000,,Smells like smoke, nya.
+Dialogue: 0,0:14:01.13,0:14:02.67,Default,,0000,0000,0000,,Nya!
+Dialogue: 0,0:14:02.67,0:14:04.67,Default,,0000,0000,0000,,I wonder why this happened?
+Dialogue: 0,0:14:04.67,0:14:07.88,Default,,0000,0000,0000,,Stop thinking and put it out! Hot, hot, hot!
+Dialogue: 0,0:14:12.39,0:14:14.47,Default,,0000,0000,0000,,Now what, nya?!
+Dialogue: 0,0:14:14.47,0:14:16.68,Default,,0000,0000,0000,,Your microwave... broke.
+Dialogue: 0,0:14:18.60,0:14:21.81,Default,,0000,0000,0000,,You can't be putting foil in there, nya!
+Dialogue: 0,0:14:21.81,0:14:22.65,Default,,0000,0000,0000,,Nya?!
+Dialogue: 0,0:14:22.65,0:14:23.73,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:14:23.73,0:14:24.90,Default,,0000,0000,0000,,Ny-a!
+Dialogue: 0,0:14:24.90,0:14:27.40,Default,,0000,0000,0000,,H-Hold up, everyone! Stop!
+Dialogue: 0,0:14:27.40,0:14:30.78,Default,,0000,0000,0000,,The recipe! Follow the recipe, nya!
+Dialogue: 0,0:14:30.78,0:14:32.99,Default,,0000,0000,0000,,Ny-a!
+Dialogue: 0,0:14:33.66,0:14:34.91,On Top,,0000,0000,0000,,"Light"   "Microwave"\N"Grill"          "Oven"
+Dialogue: 0,0:14:36.66,0:14:38.54,Default,,0000,0000,0000,,H-How strange...
+Dialogue: 0,0:14:38.54,0:14:43.88,Default,,0000,0000,0000,,With this many girls, you'd expect someone\Nto know what they're doing, nya...
+Dialogue: 0,0:14:45.96,0:14:47.55,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:14:49.80,0:14:52.85,Default,,0000,0000,0000,,Sorry for coming so late.
+Dialogue: 0,0:14:52.85,0:14:55.68,Default,,0000,0000,0000,,M-My saviors...
+Dialogue: 0,0:14:55.35,0:15:00.27,On Top,,0000,0000,0000,,"On"\N"Tare"
+Dialogue: 0,0:14:55.68,0:14:58.68,Default,,0000,0000,0000,,Yuki-nya! Luka-nya!
+Dialogue: 0,0:14:58.68,0:15:01.19,Default,,0000,0000,0000,,Faris?!
+Dialogue: 0,0:15:01.19,0:15:02.98,Default,,0000,0000,0000,,H-Here...
+Dialogue: 0,0:15:02.98,0:15:05.94,Default,,0000,0000,0000,,I don't know if they came out well, but...
+Dialogue: 0,0:15:05.94,0:15:08.61,Default,,0000,0000,0000,,D-Don't you worry about that!
+Dialogue: 0,0:15:08.61,0:15:11.45,Default,,0000,0000,0000,,I guarantee they're gonna taste good!
+Dialogue: 0,0:15:11.45,0:15:12.91,Default,,0000,0000,0000,,Hey, Daru.
+Dialogue: 0,0:15:12.91,0:15:16.04,Default,,0000,0000,0000,,Hate to bug you in the middle of it, but...
+Dialogue: 0,0:15:16.04,0:15:20.71,Default,,0000,0000,0000,,Could you stop talking to\Nthe characters when you play?
+Dialogue: 0,0:15:20.71,0:15:22.08,Default,,0000,0000,0000,,Sorry 'bout that.
+Dialogue: 0,0:15:25.96,0:15:28.21,Default,,0000,0000,0000,,It's so peaceful...
+Dialogue: 0,0:15:28.21,0:15:30.59,Default,,0000,0000,0000,,If only it could last...
+Dialogue: 0,0:15:30.59,0:15:32.01,Default,,0000,0000,0000,,Forever...
+Dialogue: 0,0:15:34.05,0:15:35.64,Default,,0000,0000,0000,,Ooh!
+Dialogue: 0,0:15:35.64,0:15:39.93,Default,,0000,0000,0000,,I see now! It's the heat\Nof the water that melts it!
+Dialogue: 0,0:15:39.93,0:15:43.56,Default,,0000,0000,0000,,It'll burn if you heat it directly.
+Dialogue: 0,0:15:43.56,0:15:45.31,Default,,0000,0000,0000,,Yeah, we know!
+Dialogue: 0,0:15:48.65,0:15:51.53,Default,,0000,0000,0000,,Um... Is this good?
+Dialogue: 0,0:15:51.53,0:15:54.99,Default,,0000,0000,0000,,Yes, you did a very good job.
+Dialogue: 0,0:15:54.99,0:15:57.54,Default,,0000,0000,0000,,Th-Thank you.
+Dialogue: 0,0:15:57.54,0:16:01.00,Default,,0000,0000,0000,,Looks like things are going smooth, nya.
+Dialogue: 0,0:16:01.00,0:16:03.83,Default,,0000,0000,0000,,Poor Faris is exhausted, nya...
+Dialogue: 0,0:16:03.83,0:16:07.80,Default,,0000,0000,0000,,All of a sudden, I'm sleepy, nya...
+Dialogue: 0,0:16:07.80,0:16:10.72,Default,,0000,0000,0000,,Ahh! I'm so sorry, Luka!
+Dialogue: 0,0:16:10.72,0:16:12.13,Default,,0000,0000,0000,,I-It's okay.
+Dialogue: 0,0:16:12.13,0:16:17.35,Default,,0000,0000,0000,,Oh no! If we don't\Nwash your clothes, it'll stain!
+Dialogue: 0,0:16:17.35,0:16:18.97,Default,,0000,0000,0000,,No, it's all right.
+Dialogue: 0,0:16:18.97,0:16:22.44,Default,,0000,0000,0000,,No, it's not. Oil has to be washed out quickly.
+Dialogue: 0,0:16:22.44,0:16:25.44,Default,,0000,0000,0000,,B-But I don't have a change of clothes...
+Dialogue: 0,0:16:26.65,0:16:28.15,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:16:28.15,0:16:29.40,Default,,0000,0000,0000,,Eh?!
+Dialogue: 0,0:16:29.40,0:16:31.03,Default,,0000,0000,0000,,Ehhh?!
+Dialogue: 0,0:16:32.78,0:16:35.32,Default,,0000,0000,0000,,Th-This is incredible...
+Dialogue: 0,0:16:35.32,0:16:37.91,Default,,0000,0000,0000,,Wh-Why do I have to...
+Dialogue: 0,0:16:37.91,0:16:40.75,Default,,0000,0000,0000,,...wear these clothes?
+Dialogue: 0,0:16:40.75,0:16:44.46,Default,,0000,0000,0000,,They're just a replacement\Nuntil your clothes dry, but...
+Dialogue: 0,0:16:44.46,0:16:47.71,Default,,0000,0000,0000,,Even us girls seem to be mesmerized...
+Dialogue: 0,0:16:47.71,0:16:50.76,Default,,0000,0000,0000,,Big Sis did this... to Big Bro?
+Dialogue: 0,0:16:50.76,0:16:51.88,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:51.88,0:16:55.22,Default,,0000,0000,0000,,Hurry! Give me different clothes please!
+Dialogue: 0,0:17:08.31,0:17:09.57,Default,,0000,0000,0000,,Good.
+Dialogue: 0,0:17:11.03,0:17:14.07,Default,,0000,0000,0000,,Woohoo! They're all done!
+Dialogue: 0,0:17:14.07,0:17:16.11,Default,,0000,0000,0000,,Think we did pretty good, yeah?
+Dialogue: 0,0:17:17.99,0:17:21.49,Default,,0000,0000,0000,,Hey, are we hanging onto these till Valentine's?
+Dialogue: 0,0:17:21.49,0:17:25.62,Default,,0000,0000,0000,,It's chocolate,\Nso it'll last just fine in the fridge.
+Dialogue: 0,0:17:25.62,0:17:31.50,Default,,0000,0000,0000,,I'll write down the recipe for people\Nwho want to make their own, so feel free.
+Dialogue: 0,0:17:31.50,0:17:32.42,Default,,0000,0000,0000,,Well?
+Dialogue: 0,0:17:32.42,0:17:33.71,Default,,0000,0000,0000,,Uh...
+Dialogue: 0,0:17:33.71,0:17:35.22,Default,,0000,0000,0000,,Delicious.
+Dialogue: 0,0:17:37.30,0:17:41.39,Default,,0000,0000,0000,,Hmm? What's wrong, Faris?
+Dialogue: 0,0:17:41.39,0:17:43.60,Default,,0000,0000,0000,,I've burned out...
+Dialogue: 0,0:17:43.60,0:17:47.65,Default,,0000,0000,0000,,Into pure white...
+Dialogue: 0,0:17:47.65,0:17:49.27,Default,,0000,0000,0000,,Can't have that, Big Sis!
+Dialogue: 0,0:17:49.27,0:17:50.36,Default,,0000,0000,0000,,Nya?
+Dialogue: 0,0:17:50.36,0:17:54.61,Default,,0000,0000,0000,,The round table meeting doesn't end\Ntill the messy kitchen is all cleaned up.
+Dialogue: 0,0:17:54.61,0:17:55.78,Default,,0000,0000,0000,,Nya?
+Dialogue: 0,0:17:57.82,0:18:03.08,Default,,0000,0000,0000,,Listen up! I'll work you girls till you\Ncan eat peanuts through your belly button!
+Dialogue: 0,0:18:03.08,0:18:04.41,Default,,0000,0000,0000,,Are you ready?!
+Dialogue: 0,0:18:04.41,0:18:06.66,Default,,0000,0000,0000,,Miss Nae! Yes, ma'am! Miss Nae!
+Dialogue: 0,0:18:06.66,0:18:08.00,Default,,0000,0000,0000,,I can't hear you!
+Dialogue: 0,0:18:08.00,0:18:10.88,Default,,0000,0000,0000,,Answer me before stuffing\Nyour face with chocolate!
+Dialogue: 0,0:18:10.88,0:18:14.09,Default,,0000,0000,0000,,Miss Nae! Yes, ma'am! Miss Nae!
+Dialogue: 0,0:18:14.09,0:18:16.05,Default,,0000,0000,0000,,Miss Nae was something else...
+Dialogue: 0,0:18:16.05,0:18:18.30,Default,,0000,0000,0000,,Yes, Miss Nae... Miss Nae...
+Dialogue: 0,0:18:19.72,0:18:21.64,Default,,0000,0000,0000,,Eh? For real?
+Dialogue: 0,0:18:21.64,0:18:23.47,Default,,0000,0000,0000,,Kagari and Okarin?
+Dialogue: 0,0:18:23.47,0:18:24.89,Default,,0000,0000,0000,,Maybe...
+Dialogue: 0,0:18:24.89,0:18:27.64,Default,,0000,0000,0000,,Well that could be a disaster...
+Dialogue: 0,0:18:27.64,0:18:30.65,Default,,0000,0000,0000,,With Kagari being\NMayushii's daughter and all...
+Dialogue: 0,0:18:30.65,0:18:33.52,Default,,0000,0000,0000,,Mom and daughter all to himself! I'm so jealous!
+Dialogue: 0,0:18:33.52,0:18:34.90,Default,,0000,0000,0000,,Dad...
+Dialogue: 0,0:18:34.90,0:18:38.45,Default,,0000,0000,0000,,Yeah... Well, joking aside...
+Dialogue: 0,0:18:38.45,0:18:41.99,Default,,0000,0000,0000,,Kagari from the future\Nand someone from the past...
+Dialogue: 0,0:18:41.99,0:18:46.25,Default,,0000,0000,0000,,...might have a high chance\Nof causing a paradox.
+Dialogue: 0,0:18:46.25,0:18:50.12,Default,,0000,0000,0000,,This could be... dangerous.
+Dialogue: 0,0:18:50.12,0:18:52.54,Default,,0000,0000,0000,,--Hey, Kaga--\N--I'm so happy.
+Dialogue: 0,0:18:52.54,0:18:53.59,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:18:53.59,0:18:58.47,Default,,0000,0000,0000,,Making chocolate and\Nlaughing with everyone today...
+Dialogue: 0,0:18:58.47,0:19:01.14,Default,,0000,0000,0000,,I don't remember the past, but...
+Dialogue: 0,0:19:01.14,0:19:03.93,Default,,0000,0000,0000,,I'm happier now than I've ever been.
+Dialogue: 0,0:19:03.93,0:19:06.10,Default,,0000,0000,0000,,Or so I believe.
+Dialogue: 0,0:19:06.10,0:19:10.69,Default,,0000,0000,0000,,Kagari...
+Dialogue: 0,0:19:10.69,0:19:14.15,Default,,0000,0000,0000,,I really hope they like my chocolate...
+Dialogue: 0,0:19:18.94,0:19:23.41,Default,,0000,0000,0000,,We'll all be wearing\Nspecial costumes for you, Master!
+Dialogue: 0,0:19:20.53,0:19:23.07,On Top,,0000,0000,0000,,"Special Event"\N"MayQueen+Nyan²"
+Dialogue: 0,0:19:23.41,0:19:26.20,Default,,0000,0000,0000,,It's Valentine's Day!
+Dialogue: 0,0:19:26.20,0:19:28.87,Default,,0000,0000,0000,,We're doing a special service today!
+Dialogue: 0,0:19:28.87,0:19:33.46,Default,,0000,0000,0000,,Special handmade chocolates\Nbrought to you by MayQueen maids!
+Dialogue: 0,0:19:33.46,0:19:34.84,Default,,0000,0000,0000,,Ooh!
+Dialogue: 0,0:19:36.21,0:19:37.13,Default,,0000,0000,0000,,Here.
+Dialogue: 0,0:19:37.13,0:19:38.84,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:19:38.84,0:19:40.76,Default,,0000,0000,0000,,I'm so touched!
+Dialogue: 0,0:19:43.01,0:19:45.43,Default,,0000,0000,0000,,Everyone's loving it, nya!
+Dialogue: 0,0:19:48.35,0:19:51.39,Default,,0000,0000,0000,,Too bad this is only a one-time thing...
+Dialogue: 0,0:19:51.39,0:19:55.44,Default,,0000,0000,0000,,No way I'm going through\Nthat next year... Sniff, sniff...
+Dialogue: 0,0:19:57.61,0:19:58.94,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:19:59.99,0:20:03.28,Default,,0000,0000,0000,,I wonder if everyone gave out their chocolates?
+Dialogue: 0,0:20:10.16,0:20:12.12,On Top,,0000,0000,0000,,"Thanks for everything"
+Dialogue: 0,0:20:17.09,0:20:19.55,On Top,,0000,0000,0000,,"To Okarin:\NGet along with Mommy Mayuri!"
+Dialogue: 0,0:20:19.55,0:20:21.38,On Top,,0000,0000,0000,,"To Luka: Thanks for everything"\N"To Daru: Only game 30 minutes a day!"
+Dialogue: 0,0:20:21.05,0:20:24.64,Default,,0000,0000,0000,,These were with the things Kagari left behind?
+Dialogue: 0,0:20:24.64,0:20:25.80,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:20:25.80,0:20:27.85,Default,,0000,0000,0000,,And not just for you two either...
+Dialogue: 0,0:20:27.85,0:20:32.06,Default,,0000,0000,0000,,She left one for me, my father,\Nand even the owner downstairs.
+Dialogue: 0,0:20:31.43,0:20:34.65,On Top,,0000,0000,0000,,"To my kind mommy: Thank you always"
+Dialogue: 0,0:20:32.06,0:20:36.40,Default,,0000,0000,0000,,And to think... She was looking\Nforward to Valentine's so much...
+Dialogue: 0,0:20:36.40,0:20:40.19,Default,,0000,0000,0000,,I'm sure... she'll come back to us, right?
+Dialogue: 0,0:20:46.91,0:20:50.54,Default,,0000,0000,0000,,I really hope they like my chocolate...
+Dialogue: 0,0:20:56.13,0:20:58.25,Default,,0000,0000,0000,,Tastes pretty good.
+Dialogue: 0,0:20:58.25,0:20:59.50,Default,,0000,0000,0000,,Dummy...
+Dialogue: 0,0:21:03.80,0:21:09.43,Default,,0000,0000,0000,,{\i1}Vibration unreachable emotion{\i}
+Dialogue: 0,0:21:09.43,0:21:15.69,Default,,0000,0000,0000,,{\i1}Hello Amadeus, I'm waiting for your call{\i}
+Dialogue: 0,0:21:15.69,0:21:21.90,Default,,0000,0000,0000,,{\i1}This place, as if all is layered{\i}
+Dialogue: 0,0:21:21.90,0:21:29.41,Default,,0000,0000,0000,,{\i1}Is a multitude, The world in the world{\i}
+Dialogue: 0,0:21:29.41,0:21:35.16,Default,,0000,0000,0000,,{\i1}Time is irreversible,{\i}\N{\i1}and yet those unknown sectors{\i}
+Dialogue: 0,0:21:35.16,0:21:41.30,Default,,0000,0000,0000,,{\i1}Fly past flash-forward, why? Vision of a kiss{\i}
+Dialogue: 0,0:21:41.30,0:21:46.55,Default,,0000,0000,0000,,{\i1}So incredibly close, an outrageous distance{\i}
+Dialogue: 0,0:21:47.43,0:21:54.14,Default,,0000,0000,0000,,{\i1}Overlapping logos,{\i}\N{\i1}infinite 0 or 1, I'm right here{\i}
+Dialogue: 0,0:21:54.64,0:22:01.23,Default,,0000,0000,0000,,{\i1}Tell you my feelings I keep inside,{\i}\N{\i1}through solitude I carried them{\i}
+Dialogue: 0,0:22:01.23,0:22:07.11,Default,,0000,0000,0000,,{\i1}Innumerable infinite universes{\i}
+Dialogue: 0,0:22:07.11,0:22:13.58,Default,,0000,0000,0000,,{\i1}Which is why, just for now,{\i}\N{\i1}for your tomorrow, for your sake{\i}
+Dialogue: 0,0:22:13.58,0:22:23.00,Default,,0000,0000,0000,,{\i1}Please, don't repeat the{\i}\N{\i1}desecration of the celestial God{\i}
+Dialogue: 0,0:22:23.00,0:22:26.05,Default,,0000,0000,0000,,{\i1}There is inside world-line{\i}
+Dialogue: 0,0:22:26.05,0:22:30.09,Default,,0000,0000,0000,,{\i1}There is inside world-layer{\i}
+Dialogue: 0,0:22:33.18,0:22:38.19,Default,,0000,0000,0000,,And? You came back to America\Nwithout giving your chocolate?
+Dialogue: 0,0:22:38.19,0:22:39.60,Default,,0000,0000,0000,,Unbelievable...
+Dialogue: 0,0:22:39.60,0:22:42.36,Default,,0000,0000,0000,,Sure, you had to fly back\Nbefore Valentine's, but...
+Dialogue: 0,0:22:42.36,0:22:44.36,Default,,0000,0000,0000,,Could've mailed it or done it beforehand--
+Dialogue: 0,0:22:44.36,0:22:45.61,Default,,0000,0000,0000,,I did give it out.
+Dialogue: 0,0:22:45.61,0:22:46.40,Default,,0000,0000,0000,,Eh?
+Dialogue: 0,0:22:46.40,0:22:49.91,Default,,0000,0000,0000,,B-By giving it out,\Nyou mean your chocolate, right?
+Dialogue: 0,0:22:49.91,0:22:51.16,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:22:51.16,0:22:53.33,Default,,0000,0000,0000,,U-Uh, wait!
+Dialogue: 0,0:22:53.33,0:22:56.25,Default,,0000,0000,0000,,Well? Were they happy with it?
+Dialogue: 0,0:22:56.25,0:22:59.00,Default,,0000,0000,0000,,Dunno... I wonder...
+Dialogue: 0,0:22:59.00,0:23:01.88,Default,,0000,0000,0000,,I was a bit late handing it over...
+Dialogue: 0,0:23:01.88,0:23:04.67,Default,,0000,0000,0000,,Eh? Late?
+Dialogue: 0,0:23:04.67,0:23:07.01,Default,,0000,0000,0000,,W-Wait, Senpai!
+Dialogue: 0,0:23:08.84,0:23:10.68,Default,,0000,0000,0000,,For me?
+Dialogue: 0,0:23:10.68,0:23:15.89,Default,,0000,0000,0000,,It seems in Japan lately, people are\Ngiving their chocolate to special friends.
+Dialogue: 0,0:23:15.89,0:23:18.68,Default,,0000,0000,0000,,But I... didn't make any for you...
+Dialogue: 0,0:23:18.68,0:23:21.31,Default,,0000,0000,0000,,In that case, there's always next year.
+Dialogue: 0,0:23:25.07,0:23:26.44,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:23:28.24,0:23:30.24,On Top,,0000,0000,0000,,"Radio Kaikan"
