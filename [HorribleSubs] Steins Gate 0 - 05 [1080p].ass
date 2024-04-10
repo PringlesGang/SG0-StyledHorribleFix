@@ -97,7 +97,7 @@ Dialogue: 0,0:04:30.14,0:04:31.64,Default,,0000,0000,0000,,Don't forget your sea
 Dialogue: 0,0:04:31.64,0:04:34.23,Default,,0000,0000,0000,,Right!
 Dialogue: 0,0:04:34.23,0:04:35.15,Default,,0000,0000,0000,,Ready?
 Dialogue: 0,0:04:35.15,0:04:36.06,Default,,0000,0000,0000,,Yup!
-Dialogue: 0,0:04:36.06,0:04:39.07,Default,,0000,0000,0000,,--Off we go!\N--Off we go!
+Dialogue: 0,0:04:36.06,0:04:39.07,Default,,0000,0000,0000,,—Off we go!\N—Off we go!
 Dialogue: 0,0:04:42.19,0:04:43.90,Default,,0000,0000,0000,,So? Who was that?
 Dialogue: 0,0:04:43.90,0:04:44.74,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:04:44.74,0:04:46.82,Default,,0000,0000,0000,,You know that person, don't you?
@@ -105,7 +105,7 @@ Dialogue: 0,0:04:48.24,0:04:50.24,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:04:50.24,0:04:52.37,Default,,0000,0000,0000,,What makes you think that?
 Dialogue: 0,0:04:52.37,0:04:54.04,Default,,0000,0000,0000,,You made it obvious.
 Dialogue: 0,0:04:54.04,0:04:56.04,Default,,0000,0000,0000,,You know her, Okarin?
-Dialogue: 0,0:04:58.38,0:04:59.79,Default,,0000,0000,0000,,No, I d--
+Dialogue: 0,0:04:58.38,0:04:59.79,Default,,0000,0000,0000,,No, I d—
 Dialogue: 0,0:04:59.79,0:05:01.63,Default,,0000,0000,0000,,What about in the Alpha worldline?
 Dialogue: 0,0:05:07.97,0:05:09.43,Default,,0000,0000,0000,,All right.
 Dialogue: 0,0:05:09.43,0:05:13.89,Default,,0000,0000,0000,,I won't pry any deeper,\Nbut I'll stay on guard from my end.
@@ -182,7 +182,7 @@ Dialogue: 0,0:09:07.25,0:09:10.50,Default,,0000,0000,0000,,I'm going to stop by 
 Dialogue: 0,0:10:25.54,0:10:28.04,Default,,0000,0000,0000,,Please, pick up!
 Dialogue: 0,0:10:29.04,0:10:30.54,Default,,0000,0000,0000,,Hello?! Okabe?!
 Dialogue: 0,0:10:30.54,0:10:31.33,Default,,0000,0000,0000,,Hiyajo?
-Dialogue: 0,0:10:31.33,0:10:34.67,Default,,0000,0000,0000,,Right now, I'm running towards the lab, but--
+Dialogue: 0,0:10:31.33,0:10:34.67,Default,,0000,0000,0000,,Right now, I'm running towards the lab, but—
 Dialogue: 0,0:10:34.67,0:10:37.42,Default,,0000,0000,0000,,Hiyajo? Hiyajo?!
 Dialogue: 0,0:10:39.34,0:10:40.93,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:10:42.05,0:10:43.56,Default,,0000,0000,0000,,Hiyajo?!
@@ -255,7 +255,7 @@ Dialogue: 0,0:14:06.47,0:14:08.55,Default,,0000,0000,0000,,You're not obligated 
 Dialogue: 0,0:14:08.55,0:14:10.51,Default,,0000,0000,0000,,You're not even getting paid.
 Dialogue: 0,0:14:18.64,0:14:20.23,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:14:20.23,0:14:25.74,Default,,0000,0000,0000,,I had no idea... that Kurisu had\Nsuch a large presence in your life.
-Dialogue: 0,0:14:25.74,0:14:28.07,Default,,0000,0000,0000,,I told you already, Kurisu wasn't--
+Dialogue: 0,0:14:25.74,0:14:28.07,Default,,0000,0000,0000,,I told you already, Kurisu wasn't—
 Dialogue: 0,0:14:28.07,0:14:30.20,Default,,0000,0000,0000,,I can tell by watching you.
 Dialogue: 0,0:14:30.20,0:14:32.45,Default,,0000,0000,0000,,Her presence was huge...
 Dialogue: 0,0:14:32.45,0:14:37.00,Default,,0000,0000,0000,,What you're doing... is projecting\Nyour feelings for Kurisu onto Amadeus.
@@ -300,8 +300,8 @@ Dialogue: 0,0:16:18.31,0:16:20.98,Default,,0000,0000,0000,,Ooh!
 Dialogue: 0,0:16:25.56,0:16:27.36,Default,,0000,0000,0000,,It's snowing!
 Dialogue: 0,0:16:27.36,0:16:29.53,Default,,0000,0000,0000,,I wonder if it'll stick?!
 Dialogue: 0,0:16:29.53,0:16:31.49,Default,,0000,0000,0000,,Time goes on.
-Dialogue: 0,0:16:31.49,0:16:32.07,Default,,0000,0000,0000,,--Wow! This is wonderful!
-Dialogue: 0,0:16:32.07,0:16:35.28,Default,,0000,0000,0000,,--The time that I chose...\N--Wow! This is wonderful!
+Dialogue: 0,0:16:31.49,0:16:32.07,Default,,0000,0000,0000,,—Wow! This is wonderful!
+Dialogue: 0,0:16:32.07,0:16:35.28,Default,,0000,0000,0000,,—The time that I chose...\N—Wow! This is wonderful!
 Dialogue: 0,0:16:35.28,0:16:38.53,Default,,0000,0000,0000,,Okarin! I'm gonna get going!
 Dialogue: 0,0:16:37.95,0:16:43.41,On Top,,0000,0000,0000,,"Television CRT Workshop"
 Dialogue: 0,0:16:38.53,0:16:41.95,Default,,0000,0000,0000,,O-Okay.
@@ -321,7 +321,7 @@ Dialogue: 0,0:17:27.04,0:17:29.63,Default,,0000,0000,0000,,It's open.
 Dialogue: 0,0:17:29.63,0:17:31.50,Default,,0000,0000,0000,,Thank goodness, you're here.
 Dialogue: 0,0:17:31.50,0:17:32.67,Default,,0000,0000,0000,,Sorry...
 Dialogue: 0,0:17:32.67,0:17:35.80,Default,,0000,0000,0000,,If it's about earlier, I totally forgot.
-Dialogue: 0,0:17:35.80,0:17:38.72,Default,,0000,0000,0000,,--I tried to call you just now.\N--Huh? You're right!
+Dialogue: 0,0:17:35.80,0:17:38.72,Default,,0000,0000,0000,,—I tried to call you just now.\N—Huh? You're right!
 Dialogue: 0,0:17:38.72,0:17:41.81,Default,,0000,0000,0000,,I'm the one who's sorry for not noticing.
 Dialogue: 0,0:17:41.81,0:17:43.22,Default,,0000,0000,0000,,Don't worry about it.
 Dialogue: 0,0:17:43.22,0:17:44.93,Default,,0000,0000,0000,,You wanted to talk with me?

@@ -67,7 +67,7 @@ Dialogue: 0,0:03:01.97,0:03:05.47,On Top,,0000,0000,0000,,Rinascimento of Image 
 Dialogue: 0,0:03:36.38,0:03:38.92,Default,,0000,0000,0000,,Okabe? You're awake?
 Dialogue: 0,0:03:39.80,0:03:42.30,Default,,0000,0000,0000,,Okabe, don't move so quickly.
 Dialogue: 0,0:03:42.30,0:03:46.10,Default,,0000,0000,0000,,For the past 11 years,\Nyou've been out cold in a coma.
-Dialogue: 0,0:03:46.10,0:03:47.14,Default,,0000,0000,0000,,You shouldn't be--
+Dialogue: 0,0:03:46.10,0:03:47.14,Default,,0000,0000,0000,,You shouldn't be—
 Dialogue: 0,0:03:47.14,0:03:48.31,Default,,0000,0000,0000,,Listen to me...
 Dialogue: 0,0:03:48.31,0:03:49.56,Default,,0000,0000,0000,,Hmm?
 Dialogue: 0,0:03:49.56,0:03:53.31,Default,,0000,0000,0000,,I time leaped here\Nfrom two weeks in the future.
@@ -111,7 +111,7 @@ Dialogue: 0,0:06:04.40,0:06:06.90,Default,,0000,0000,0000,,There's no such thing
 Dialogue: 0,0:06:06.90,0:06:08.45,Default,,0000,0000,0000,,Never give up.
 Dialogue: 0,0:06:08.45,0:06:10.78,Default,,0000,0000,0000,,A path will open for sure.
 Dialogue: 0,0:06:20.17,0:06:22.50,Default,,0000,0000,0000,,Okabe? You're awake?
-Dialogue: 0,0:06:22.50,0:06:25.30,Default,,0000,0000,0000,,--You say, "Don't move so quickly."\N--Don't move--
+Dialogue: 0,0:06:22.50,0:06:25.30,Default,,0000,0000,0000,,—You say, "Don't move so quickly."\N—Don't move—
 Dialogue: 0,0:06:25.30,0:06:30.05,Default,,0000,0000,0000,,And that "For the past 11 years,\Nyou've been out cold in a coma."
 Dialogue: 0,0:06:31.47,0:06:32.89,Default,,0000,0000,0000,,You...
 Dialogue: 0,0:06:41.23,0:06:44.52,Default,,0000,0000,0000,,You won't be able to\Nleap like you have till now.
@@ -200,7 +200,7 @@ Dialogue: 0,0:11:07.25,0:11:10.29,Default,,0000,0000,0000,,It might be enough to
 Dialogue: 0,0:11:08.79,0:11:16.25,On Top,,0000,0000,0000,,{\i1}must have its limits, an absolute boundary{\i}
 Dialogue: 0,0:11:10.29,0:11:11.71,Default,,0000,0000,0000,,Also...
 Dialogue: 0,0:11:11.71,0:11:13.50,Default,,0000,0000,0000,,Use them as decoys?!
-Dialogue: 0,0:11:13.50,0:11:14.63,Default,,0000,0000,0000,,I refuse to--
+Dialogue: 0,0:11:13.50,0:11:14.63,Default,,0000,0000,0000,,I refuse to—
 Dialogue: 0,0:11:14.63,0:11:16.80,Default,,0000,0000,0000,,Calm down!
 Dialogue: 0,0:11:16.25,0:11:20.09,On Top,,0000,0000,0000,,{\i1}It's sheer coincidence resulting from ignorance{\i}
 Dialogue: 0,0:11:16.80,0:11:21.18,Default,,0000,0000,0000,,You came here from 2036,\Ntime leaping the entire way.
@@ -222,7 +222,7 @@ Dialogue: 0,0:11:35.69,0:11:40.53,On Top,,0000,0000,0000,,{\i1}leaps into unfath
 Dialogue: 0,0:11:37.90,0:11:42.66,Default,,0000,0000,0000,,Kyouma should run straight for Akiba\Nand get to the time leap machine, nya!
 Dialogue: 0,0:11:40.53,0:11:41.45,On Top,,0000,0000,0000,,{\i1}Open the eyes{\i}
 Dialogue: 0,0:11:41.45,0:11:47.16,On Top,,0000,0000,0000,,{\i1}Once again, the universe{\i}\N{\i1}hides logic without order{\i}
-Dialogue: 0,0:11:42.66,0:11:44.49,Default,,0000,0000,0000,,It's too dangerous! You can't--
+Dialogue: 0,0:11:42.66,0:11:44.49,Default,,0000,0000,0000,,It's too dangerous! You can't—
 Dialogue: 0,0:11:44.49,0:11:46.16,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:11:46.16,0:11:49.33,Default,,0000,0000,0000,,This is where you've gotta believe in us, dude.
 Dialogue: 0,0:11:47.16,0:11:52.87,On Top,,0000,0000,0000,,{\i1}in which individual points{\i}\N{\i1}said to be comprise infinity{\i}
@@ -235,7 +235,7 @@ Dialogue: 0,0:12:00.17,0:12:03.72,Default,,0000,0000,0000,,Teams 1 and 2, head f
 Dialogue: 0,0:12:03.72,0:12:06.26,Default,,0000,0000,0000,,Our priority is capturing the target.
 Dialogue: 0,0:12:06.26,0:12:09.31,Default,,0000,0000,0000,,Ignore the rest of Valkyrie if needed.
 Dialogue: 0,0:12:08.72,0:12:11.89,On Top,,0000,0000,0000,,{\i1}0 is the past, 1 is the future{\i}
-Dialogue: 0,0:12:09.31,0:12:10.56,Default,,0000,0000,0000,,As long as Okabe Rintaro--
+Dialogue: 0,0:12:09.31,0:12:10.56,Default,,0000,0000,0000,,As long as Okabe Rintaro—
 Dialogue: 0,0:12:10.56,0:12:12.10,Default,,0000,0000,0000,,Target acquired!
 Dialogue: 0,0:12:12.10,0:12:14.15,Default,,0000,0000,0000,,Wait, this is...?
 Dialogue: 0,0:12:14.15,0:12:15.27,Default,,0000,0000,0000,,What's wrong?
@@ -272,10 +272,10 @@ Dialogue: 0,0:13:14.50,0:13:18.50,Default,,0000,0000,0000,,I will!
 Dialogue: 0,0:13:37.90,0:13:38.81,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:13:38.81,0:13:42.36,Default,,0000,0000,0000,,What's going on?
 Dialogue: 0,0:13:42.36,0:13:43.28,Default,,0000,0000,0000,,Daru...
-Dialogue: 0,0:13:43.28,0:13:45.82,Default,,0000,0000,0000,,--Huh?\N--Hiyajo.
+Dialogue: 0,0:13:43.28,0:13:45.82,Default,,0000,0000,0000,,—Huh?\N—Hiyajo.
 Dialogue: 0,0:13:45.82,0:13:47.53,Default,,0000,0000,0000,,Punch me!
 Dialogue: 0,0:13:47.53,0:13:48.95,Default,,0000,0000,0000,,Eh? A-Again?
-Dialogue: 0,0:13:48.95,0:13:51.99,Default,,0000,0000,0000,,--Wh-What are you talking--\N--No need to hold back.
+Dialogue: 0,0:13:48.95,0:13:51.99,Default,,0000,0000,0000,,—Wh-What are you talking—\N—No need to hold back.
 Dialogue: 0,0:13:51.99,0:13:55.29,Default,,0000,0000,0000,,Think of all the anger\Nyou've pent up because of me.
 Dialogue: 0,0:13:55.29,0:13:56.83,Default,,0000,0000,0000,,Your feelings for Suzuha...
 Dialogue: 0,0:13:56.83,0:13:59.21,Default,,0000,0000,0000,,Take it all and punch me with it!
@@ -292,8 +292,8 @@ Dialogue: 0,0:14:31.03,0:14:32.03,Default,,0000,0000,0000,,Uh...
 Dialogue: 0,0:14:32.03,0:14:33.66,Default,,0000,0000,0000,,Okabe!
 Dialogue: 0,0:14:38.16,0:14:40.17,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:14:40.17,0:14:42.50,Default,,0000,0000,0000,,That did the trick...
-Dialogue: 0,0:14:42.50,0:14:45.63,Default,,0000,0000,0000,,--I expected no less a slug\Nfrom my favorite right arm...
-Dialogue: 0,0:14:45.63,0:14:47.76,Default,,0000,0000,0000,,--Eh?!\N--I expected no less a slug\Nfrom my favorite right arm...
+Dialogue: 0,0:14:42.50,0:14:45.63,Default,,0000,0000,0000,,—I expected no less a slug\Nfrom my favorite right arm...
+Dialogue: 0,0:14:45.63,0:14:47.76,Default,,0000,0000,0000,,—Eh?!\N—I expected no less a slug\Nfrom my favorite right arm...
 Dialogue: 0,0:14:47.76,0:14:51.18,Default,,0000,0000,0000,,I... have time leaped back from the future.
 Dialogue: 0,0:14:51.18,0:14:52.39,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:14:52.39,0:14:53.68,Default,,0000,0000,0000,,Okarin?
@@ -312,12 +312,12 @@ Dialogue: 0,0:15:46.73,0:15:49.44,Default,,0000,0000,0000,,The mad scientist...
 Dialogue: 0,0:15:51.53,0:15:53.78,Default,,0000,0000,0000,,...Hououin...
 Dialogue: 0,0:15:53.78,0:15:55.62,Default,,0000,0000,0000,,...Kyouma!
 Dialogue: 0,0:15:58.24,0:16:00.54,Default,,0000,0000,0000,,O-Okabe...?
-Dialogue: 0,0:16:00.54,0:16:02.21,Default,,0000,0000,0000,,--Okarin!\N--Eh?!
+Dialogue: 0,0:16:00.54,0:16:02.21,Default,,0000,0000,0000,,—Okarin!\N—Eh?!
 Dialogue: 0,0:16:02.21,0:16:03.96,Default,,0000,0000,0000,,You, the Loli!
-Dialogue: 0,0:16:03.96,0:16:05.63,Default,,0000,0000,0000,,--Huh?\N--Yes, you!
+Dialogue: 0,0:16:03.96,0:16:05.63,Default,,0000,0000,0000,,—Huh?\N—Yes, you!
 Dialogue: 0,0:16:05.63,0:16:08.09,Default,,0000,0000,0000,,Who else here is a Loli but you?!
 Dialogue: 0,0:16:08.09,0:16:11.13,Default,,0000,0000,0000,,Bring my lab coat! At once!
-Dialogue: 0,0:16:11.13,0:16:13.38,Default,,0000,0000,0000,,--Wh-What the heck?\N--Aha!
+Dialogue: 0,0:16:11.13,0:16:13.38,Default,,0000,0000,0000,,—Wh-What the heck?\N—Aha!
 Dialogue: 0,0:16:13.38,0:16:15.85,Default,,0000,0000,0000,,Behold my sacred, silvery armor!
 Dialogue: 0,0:16:15.85,0:16:21.39,Default,,0000,0000,0000,,The moment my hands slide through\Nthese sleeves, I truly awake from my slumber!
 Dialogue: 0,0:16:24.94,0:16:27.69,Default,,0000,0000,0000,,Um, Hashida? What's this?
@@ -326,7 +326,7 @@ Dialogue: 0,0:16:30.32,0:16:31.19,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:16:31.19,0:16:35.99,Default,,0000,0000,0000,,When he's nutty and nonsensical...\Nand has out-of-control delusions!
 Dialogue: 0,0:16:35.99,0:16:38.66,Default,,0000,0000,0000,,He's back to our leader, Okarin!
 Dialogue: 0,0:16:38.66,0:16:40.83,Default,,0000,0000,0000,,You both complete time leap machine.
-Dialogue: 0,0:16:40.83,0:16:43.62,Default,,0000,0000,0000,,--Eh?\N--My being here is proof of that.
+Dialogue: 0,0:16:40.83,0:16:43.62,Default,,0000,0000,0000,,—Eh?\N—My being here is proof of that.
 Dialogue: 0,0:16:43.62,0:16:44.37,Default,,0000,0000,0000,,Loli!
 Dialogue: 0,0:16:44.37,0:16:45.83,Default,,0000,0000,0000,,Don't call me that!
 Dialogue: 0,0:16:45.83,0:16:50.92,Default,,0000,0000,0000,,As of today, I grant thee\Nthe title of Lab Member 009!
@@ -337,17 +337,17 @@ Dialogue: 0,0:16:59.85,0:17:02.52,Default,,0000,0000,0000,,As of now, I call a r
 Dialogue: 0,0:17:02.52,0:17:05.65,Default,,0000,0000,0000,,Summon all lab mems immediately!
 Dialogue: 0,0:17:05.65,0:17:07.27,Default,,0000,0000,0000,,What's going on, nya?
 Dialogue: 0,0:17:07.27,0:17:08.65,Default,,0000,0000,0000,,Who knows...?
-Dialogue: 0,0:17:08.65,0:17:12.28,Default,,0000,0000,0000,,Um... Could you explain\Nwhy we're here today, Okabe--
+Dialogue: 0,0:17:08.65,0:17:12.28,Default,,0000,0000,0000,,Um... Could you explain\Nwhy we're here today, Okabe—
 Dialogue: 0,0:17:12.28,0:17:14.03,Default,,0000,0000,0000,,It's Kyouma!
 Dialogue: 0,0:17:15.57,0:17:18.45,Default,,0000,0000,0000,,A new operation is about to commence.
 Dialogue: 0,0:17:18.45,0:17:21.79,Default,,0000,0000,0000,,For it to succeed,\Nall lab mems must do their part.
 Dialogue: 0,0:17:21.79,0:17:23.75,Default,,0000,0000,0000,,Where's Mayuri and Suzuha?
 Dialogue: 0,0:17:23.75,0:17:26.37,Default,,0000,0000,0000,,Moe-nya sent a message that she's busy, nya.
-Dialogue: 0,0:17:26.37,0:17:28.04,Default,,0000,0000,0000,,Uh, Shiina and--
+Dialogue: 0,0:17:26.37,0:17:28.04,Default,,0000,0000,0000,,Uh, Shiina and—
 Dialogue: 0,0:17:28.04,0:17:29.59,Default,,0000,0000,0000,,Never fear.
 Dialogue: 0,0:17:29.59,0:17:31.96,Default,,0000,0000,0000,,It's all within expectation.
 Dialogue: 0,0:17:31.96,0:17:34.59,Default,,0000,0000,0000,,Nevertheless, the operation will continue.
-Dialogue: 0,0:17:34.59,0:17:40.60,Default,,0000,0000,0000,,--Oh! So the red star I saw\Nyesterday in the western sky was...\N--I hereby name it... Operation Vega!
+Dialogue: 0,0:17:34.59,0:17:40.60,Default,,0000,0000,0000,,—Oh! So the red star I saw\Nyesterday in the western sky was...\N—I hereby name it... Operation Vega!
 Dialogue: 0,0:17:41.72,0:17:44.10,Default,,0000,0000,0000,,Recover Amadeus' data?
 Dialogue: 0,0:17:44.10,0:17:46.73,Default,,0000,0000,0000,,Yes, confirm if you must.
 Dialogue: 0,0:17:46.73,0:17:51.32,Default,,0000,0000,0000,,She's already left messages on @channel\Nand Leskinen has taken her away.
@@ -427,7 +427,7 @@ Dialogue: 0,0:21:28.41,0:21:30.45,Default,,0000,0000,0000,,Lintahlo...
 Dialogue: 0,0:21:30.45,0:21:32.29,Default,,0000,0000,0000,,Uncle Okarin?
 Dialogue: 0,0:21:32.29,0:21:34.00,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:21:38.79,0:21:42.76,Default,,0000,0000,0000,,How is it that you're here, Lintahlo?
-Dialogue: 0,0:21:42.76,0:21:43.38,Default,,0000,0000,0000,,Who told--
+Dialogue: 0,0:21:42.76,0:21:43.38,Default,,0000,0000,0000,,Who told—
 Dialogue: 0,0:21:43.38,0:21:45.67,Default,,0000,0000,0000,,Kagari won't be coming.
 Dialogue: 0,0:21:52.97,0:21:57.10,Default,,0000,0000,0000,,Because... we've already restrained her.
 Dialogue: 0,0:21:57.10,0:22:02.94,Default,,0000,0000,0000,,You may not have realized it, but we've\Ntaken measures around Radikan.
@@ -438,7 +438,7 @@ Dialogue: 0,0:22:05.65,0:22:11.58,On Top,,0000,0000,0000,,{\i1}Nothing more than
 Dialogue: 0,0:22:08.61,0:22:11.87,Default,,0000,0000,0000,,...I'm afraid to say all\Nyour schemes have been foiled.
 Dialogue: 0,0:22:11.87,0:22:15.12,Default,,0000,0000,0000,,Lintahlo, what are you...?
 Dialogue: 0,0:22:12.58,0:22:23.42,On Top,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-Dialogue: 0,0:22:15.12,0:22:17.37,Default,,0000,0000,0000,,What do you think you're--
+Dialogue: 0,0:22:15.12,0:22:17.37,Default,,0000,0000,0000,,What do you think you're—
 Dialogue: 0,0:22:21.00,0:22:23.34,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:22:23.34,0:22:27.05,Default,,0000,0000,0000,,Lab Member 002... Shiina Mayuri!
 Dialogue: 0,0:22:23.42,0:22:33.14,On Top,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
