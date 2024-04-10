@@ -1,11 +1,13 @@
 ﻿[Script Info]
-Title: HorribleSubs(Fix)
+Title: HorribleSubs(StyledFix)
 ; Subs edited by Woute and Davixxa for consistency
-; Songs translation by Rigs
+; Subs styled by PringlesGang
+; Fatima translation by Rigs
 ; https://bitbucket.org/Woote/horriblefix/overview
+ScriptType: v4.00+
 WrapStyle: 0
-PlayResX: 848
-PlayResY: 480
+PlayResX: 1920
+PlayResY: 1080
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
