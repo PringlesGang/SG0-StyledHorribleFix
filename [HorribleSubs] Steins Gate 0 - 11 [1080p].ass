@@ -19,13 +19,13 @@ Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:00:03.46,0:00:06.92,Default,,0000,0000,0000,,Are you sure this is the place?
-Dialogue: 0,0:00:04.67,0:00:06.92,On Top,,0000,0000,0000,,"CosplayMedia@Akihabara"\N"We're open!"\N"Come on in!"
+Dialogue: 0,0:00:04.67,0:00:06.92,On Top,,0000,0000,0000,,“CosplayMedia@Akihabara”\N“We're open!”\N“Come on in!”
 Dialogue: 0,0:00:06.92,0:00:09.17,Default,,0000,0000,0000,,Without a doubt.
 Dialogue: 0,0:00:09.17,0:00:12.51,Default,,0000,0000,0000,,But this is the first time I've been here too.
 Dialogue: 0,0:00:16.85,0:00:22.48,Default,,0000,0000,0000,,They said they see us. We're to enter\Nnear the maid uniform on the right.
 Dialogue: 0,0:00:27.86,0:00:30.32,Default,,0000,0000,0000,,It's like a secret passage.
 Dialogue: 0,0:00:33.99,0:00:35.61,Default,,0000,0000,0000,,This must be it.
-Dialogue: 0,0:00:34.82,0:00:37.28,On Top,,0000,0000,0000,,"Keep it clean"
+Dialogue: 0,0:00:34.82,0:00:37.28,On Top,,0000,0000,0000,,“Keep it clean”
 Dialogue: 0,0:00:39.99,0:00:42.50,Default,,0000,0000,0000,,Daru?! What are you doing here?
 Dialogue: 0,0:00:42.50,0:00:45.46,Default,,0000,0000,0000,,That's my line, dude.
 Dialogue: 0,0:00:45.46,0:00:48.50,Default,,0000,0000,0000,,To think you're the one who was analyzing it...
@@ -33,7 +33,7 @@ Dialogue: 0,0:00:48.50,0:00:51.13,Default,,0000,0000,0000,,And that Maho made th
 Dialogue: 0,0:00:51.13,0:00:53.22,Default,,0000,0000,0000,,Even I never saw it coming!
 Dialogue: 0,0:00:53.22,0:00:55.88,Default,,0000,0000,0000,,Could you please stop calling me that?
 Dialogue: 0,0:00:55.88,0:00:57.84,Default,,0000,0000,0000,,It feels insulting to me.
-Dialogue: 0,0:00:56.43,0:01:00.31,On Top,,0000,0000,0000,,"@channel"
+Dialogue: 0,0:00:56.43,0:01:00.31,On Top,,0000,0000,0000,,“@channel”
 Dialogue: 0,0:00:57.84,0:01:00.56,Default,,0000,0000,0000,,Why? It's so cute!
 Dialogue: 0,0:01:00.56,0:01:04.60,Default,,0000,0000,0000,,So much for keeping\Nthis part-time job a secret...
 Dialogue: 0,0:01:04.60,0:01:08.11,Default,,0000,0000,0000,,I had no idea you did stuff like this too.
@@ -52,7 +52,7 @@ Dialogue: 0,0:02:28.77,0:02:33.52,Default,,0000,0000,0000,,{\i1}Then you shouldn
 Dialogue: 0,0:02:33.52,0:02:39.03,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
 Dialogue: 0,0:02:39.03,0:02:44.58,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
 Dialogue: 0,0:02:44.58,0:02:49.92,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:02:51.04,0:02:56.00,On Top,,0000,0000,0000,,"Pandora of Forgotten Existence - Sealed Reliquary -"
+Dialogue: 0,0:02:51.04,0:02:56.00,On Top,,0000,0000,0000,,“Pandora of Forgotten Existence - Sealed Reliquary -”
 Dialogue: 0,0:02:55.05,0:03:00.63,Default,,0000,0000,0000,,So, you two were in contact this whole time\Nwithout knowing who each other were?
 Dialogue: 0,0:03:00.63,0:03:05.64,Default,,0000,0000,0000,,I had heard about a computer guru\NI could trust who did analysis on the side.
 Dialogue: 0,0:03:05.64,0:03:08.81,Default,,0000,0000,0000,,Except, they wouldn't meet face-to-face.
@@ -99,8 +99,8 @@ Dialogue: 0,0:05:11.43,0:05:17.69,Default,,0000,0000,0000,,Yeah... We talked abo
 Dialogue: 0,0:05:21.15,0:05:25.03,Default,,0000,0000,0000,,Kagari, you really like\Nthat commercial, don't you?
 Dialogue: 0,0:05:25.82,0:05:27.20,Default,,0000,0000,0000,,Huh? Yeah...
 Dialogue: 0,0:05:27.20,0:05:31.54,Default,,0000,0000,0000,,Clear Kouhi! Now with\N50% less sugar! On sale now!
-Dialogue: 0,0:05:28.62,0:05:29.62,On Top,,0000,0000,0000,,"Wow! 50% Less!"
-Dialogue: 0,0:05:29.62,0:05:31.08,On Top,,0000,0000,0000,,"Kouhi"\N"50% Less Sugar"
+Dialogue: 0,0:05:28.62,0:05:29.62,On Top,,0000,0000,0000,,“Wow! 50% Less!”
+Dialogue: 0,0:05:29.62,0:05:31.08,On Top,,0000,0000,0000,,“Kouhi”\N“50% Less Sugar”
 Dialogue: 0,0:05:44.21,0:05:45.72,Default,,0000,0000,0000,,No way...
 Dialogue: 0,0:05:45.72,0:05:48.34,Default,,0000,0000,0000,,So, you don't believe it?
 Dialogue: 0,0:05:48.34,0:05:51.76,Default,,0000,0000,0000,,It's less that I don't believe it\Nand more that it boggles my mind.
@@ -159,7 +159,7 @@ Dialogue: 0,0:08:41.98,0:08:44.10,Default,,0000,0000,0000,,Quiet, or they'll hea
 Dialogue: 0,0:08:47.15,0:08:49.73,Default,,0000,0000,0000,,This way.
 Dialogue: 0,0:08:49.73,0:08:51.78,Default,,0000,0000,0000,,I can't believe it's come to this...
 Dialogue: 0,0:08:51.78,0:08:54.99,Default,,0000,0000,0000,,That was one of my favorite hideouts too!
-Dialogue: 0,0:08:58.24,0:08:59.83,On Top,,0000,0000,0000,,"Gigacan"
+Dialogue: 0,0:08:58.24,0:08:59.83,On Top,,0000,0000,0000,,“Gigacan”
 Dialogue: 0,0:09:09.42,0:09:10.59,Default,,0000,0000,0000,,Where are we?
 Dialogue: 0,0:09:10.59,0:09:12.63,Default,,0000,0000,0000,,Behind that last building.
 Dialogue: 0,0:09:12.63,0:09:15.13,Default,,0000,0000,0000,,If we got this far...
@@ -189,7 +189,7 @@ Dialogue: 0,0:10:23.41,0:10:25.16,Default,,0000,0000,0000,,Well?
 Dialogue: 0,0:10:31.33,0:10:33.21,Default,,0000,0000,0000,,Let her go first!
 Dialogue: 0,0:10:49.89,0:10:51.60,Default,,0000,0000,0000,,Get down!
 Dialogue: 0,0:11:19.17,0:11:25.60,Default,,0000,0000,0000,,Nearby residents reported possible gunfire\Nto the police, and upon further investigation—
-Dialogue: 0,0:11:21.13,0:11:24.35,On Top,,0000,0000,0000,,"Gunfire in Akihabara"
+Dialogue: 0,0:11:21.13,0:11:24.35,On Top,,0000,0000,0000,,“Gunfire in Akihabara”
 Dialogue: 0,0:11:25.60,0:11:27.93,Default,,0000,0000,0000,,Are you okay, Hiyajo?
 Dialogue: 0,0:11:27.93,0:11:32.10,Default,,0000,0000,0000,,Yeah, but are you sure about\Nnot going to the hospital?
 Dialogue: 0,0:11:32.10,0:11:36.23,Default,,0000,0000,0000,,They'll ask how I got hurt. Besides...

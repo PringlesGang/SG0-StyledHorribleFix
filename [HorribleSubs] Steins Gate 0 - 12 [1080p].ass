@@ -55,7 +55,7 @@ Dialogue: 0,0:02:03.29,0:02:05.20,Default,,0000,0000,0000,,Yup! Good, good!
 Dialogue: 0,0:02:05.20,0:02:10.96,Default,,0000,0000,0000,,♪ The laughing voice of the star I love. ♪
 Dialogue: 0,0:02:10.96,0:02:16.97,Default,,0000,0000,0000,,♪ The laughing voice of the star I love. ♪
 Dialogue: 0,0:02:16.97,0:02:22.39,Default,,0000,0000,0000,,♪ Shining bright in the sky above... ♪
-Dialogue: 0,0:02:20.01,0:02:25.01,On Top,,0000,0000,0000,,"Mother Goose of Mutual Recursion\N- Recursive Mother Goose -"
+Dialogue: 0,0:02:20.01,0:02:25.01,On Top,,0000,0000,0000,,“Mother Goose of Mutual Recursion\N- Recursive Mother Goose -”
 Dialogue: 0,0:02:22.39,0:02:24.47,Default,,0000,0000,0000,,♪ Shining bright in the sky above... ♪
 Dialogue: 0,0:02:40.91,0:02:46.20,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
 Dialogue: 0,0:02:46.20,0:02:52.13,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
@@ -86,9 +86,9 @@ Dialogue: 0,0:04:35.77,0:04:40.98,Default,,0000,0000,0000,,—Nope! It's super t
 Dialogue: 0,0:04:40.98,0:04:44.99,Default,,0000,0000,0000,,Thank you. I think I will.
 Dialogue: 0,0:04:44.99,0:04:47.20,Default,,0000,0000,0000,,You're very welcome!
 Dialogue: 0,0:04:47.20,0:04:48.74,Default,,0000,0000,0000,,Want some, Daru?
-Dialogue: 0,0:04:48.41,0:04:49.87,On Top,,0000,0000,0000,,"Date.com"\N"to take your date"\N"we recommend"
+Dialogue: 0,0:04:48.41,0:04:49.87,On Top,,0000,0000,0000,,“Date.com”\N“to take your date”\N“we recommend”
 Dialogue: 0,0:04:48.74,0:04:50.16,Default,,0000,0000,0000,,Sure, I'll eat some.
-Dialogue: 0,0:04:49.87,0:04:53.37,On Top,,0000,0000,0000,,"Akihabara Picks"
+Dialogue: 0,0:04:49.87,0:04:53.37,On Top,,0000,0000,0000,,“Akihabara Picks”
 Dialogue: 0,0:04:50.16,0:04:53.21,Default,,0000,0000,0000,,All right! Gimme just a minute!
 Dialogue: 0,0:04:54.87,0:05:00.46,Default,,0000,0000,0000,,♪ I'm searching for only one thing... ♪
 Dialogue: 0,0:05:00.46,0:05:06.13,Default,,0000,0000,0000,,♪ The laughing voice of the star I love. ♪
@@ -217,9 +217,9 @@ Dialogue: 0,0:11:31.52,0:11:33.81,Default,,0000,0000,0000,,I'm about to head int
 Dialogue: 0,0:11:34.86,0:11:35.94,Default,,0000,0000,0000,,Battle?
 Dialogue: 0,0:11:35.94,0:11:39.36,Default,,0000,0000,0000,,That's what she said, nya.
 Dialogue: 0,0:11:39.36,0:11:41.07,Default,,0000,0000,0000,,Don't tell me...
-Dialogue: 0,0:11:42.07,0:11:43.70,On Top,,0000,0000,0000,,"Recruiting Warriors!"    "Monster Plate!!"
-Dialogue: 0,0:11:43.70,0:11:46.28,On Top,,0000,0000,0000,,"Eating Contest!!"
-Dialogue: 0,0:11:50.66,0:11:53.12,On Top,,0000,0000,0000,,"GoGo Curry"
+Dialogue: 0,0:11:42.07,0:11:43.70,On Top,,0000,0000,0000,,“Recruiting Warriors!”    “Monster Plate!!”
+Dialogue: 0,0:11:43.70,0:11:46.28,On Top,,0000,0000,0000,,“Eating Contest!!”
+Dialogue: 0,0:11:50.66,0:11:53.12,On Top,,0000,0000,0000,,“GoGo Curry”
 Dialogue: 0,0:11:51.92,0:11:54.17,Default,,0000,0000,0000,,Incredible... Can you believe it?
 Dialogue: 0,0:12:08.89,0:12:12.14,Default,,0000,0000,0000,,This month's eating contest winner is...
 Dialogue: 0,0:12:12.14,0:12:17.02,Default,,0000,0000,0000,,Our first three-time winner,\NThe Silent Slaughterer!
@@ -304,7 +304,7 @@ Dialogue: 0,0:15:59.91,0:16:04.13,Default,,0000,0000,0000,,I can't believe the l
 Dialogue: 0,0:16:04.13,0:16:07.04,Default,,0000,0000,0000,,In class, we all just use\Neveryone's first names.
 Dialogue: 0,0:16:07.04,0:16:10.26,Default,,0000,0000,0000,,Well? What did your mother have to say?
 Dialogue: 0,0:16:10.26,0:16:11.72,Default,,0000,0000,0000,,That's...
-Dialogue: 0,0:16:11.63,0:16:25.35,On Top,,0000,0000,0000,,"Okabe Green Grocer"
+Dialogue: 0,0:16:11.63,0:16:25.35,On Top,,0000,0000,0000,,“Okabe Green Grocer”
 Dialogue: 0,0:16:11.72,0:16:13.18,Default,,0000,0000,0000,,From you!
 Dialogue: 0,0:16:13.18,0:16:13.76,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:16:13.76,0:16:16.30,Default,,0000,0000,0000,,I'm telling you, you're the one who sang it!
@@ -317,7 +317,7 @@ Dialogue: 0,0:16:33.20,0:16:36.16,Default,,0000,0000,0000,,I'm a macho psycholog
 Dialogue: 0,0:16:37.83,0:16:38.45,Default,,0000,0000,0000,,Stop it.
 Dialogue: 0,0:16:38.45,0:16:42.96,Default,,0000,0000,0000,,Anyways, that's what you used\Nto sing all the time in the bath.
 Dialogue: 0,0:16:42.96,0:16:44.08,Default,,0000,0000,0000,,I did?
-Dialogue: 0,0:16:43.87,0:16:47.34,On Top,,0000,0000,0000,,"Akemi"
+Dialogue: 0,0:16:43.87,0:16:47.34,On Top,,0000,0000,0000,,“Akemi”
 Dialogue: 0,0:16:44.08,0:16:47.59,Default,,0000,0000,0000,,That's right! And because of you,\NI can't forget it!
 Dialogue: 0,0:16:47.59,0:16:51.05,Default,,0000,0000,0000,,Um, what exactly does this mean?
 Dialogue: 0,0:16:51.05,0:16:52.59,Default,,0000,0000,0000,,I don't know.

@@ -18,18 +18,18 @@ Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:05.54,0:00:08.00,On Top,,0000,0000,0000,,"Kinomoto Coffee"\N"Yuzuriha"\N"Pastas" "Espresso"
-Dialogue: 0,0:00:14.43,0:00:15.68,On Top,,0000,0000,0000,,"Tutturu~\NWhere are you, Okarin?'
-Dialogue: 0,0:00:20.18,0:00:22.10,On Top,,0000,0000,0000,,"Aha, the usual cafe~\NOmw~"
+Dialogue: 0,0:00:05.54,0:00:08.00,On Top,,0000,0000,0000,,“Kinomoto Coffee”\N“Yuzuriha”\N“Pastas” “Espresso”
+Dialogue: 0,0:00:14.43,0:00:15.68,On Top,,0000,0000,0000,,“Tutturu~\NWhere are you, Okarin?”
+Dialogue: 0,0:00:20.18,0:00:22.10,On Top,,0000,0000,0000,,“Aha, the usual cafe~\NOmw~”
 Dialogue: 0,0:00:32.36,0:00:35.20,Default,,0000,0000,0000,,Suzuha!
 Dialogue: 0,0:00:35.20,0:00:36.95,Default,,0000,0000,0000,,Dad...
 Dialogue: 0,0:00:36.95,0:00:41.25,Default,,0000,0000,0000,,Why in the world are you\Nstill out in this downpour?!
 Dialogue: 0,0:00:41.25,0:00:45.08,Default,,0000,0000,0000,,It's been several months\Nsince Kagari vanished...
 Dialogue: 0,0:00:45.08,0:00:50.05,Default,,0000,0000,0000,,We tried to track down her whereabouts\Nusing all possible means, but...
 Dialogue: 0,0:00:51.88,0:00:56.43,Default,,0000,0000,0000,,In the end, we just couldn't locate her.
-Dialogue: 0,0:00:56.43,0:00:58.14,On Top,,0000,0000,0000,,"I went back to the place again"\N"Can't get in"\N"Why not?"
+Dialogue: 0,0:00:56.43,0:00:58.14,On Top,,0000,0000,0000,,“I went back to the place again”\N“Can't get in”\N“Why not?”
 Dialogue: 0,0:00:56.43,0:00:59.14,Default,,0000,0000,0000,,And the facility Moeka and I found...
-Dialogue: 0,0:00:58.14,0:01:00.43,On Top,,0000,0000,0000,,"File attachment"
+Dialogue: 0,0:00:58.14,0:01:00.43,On Top,,0000,0000,0000,,“File attachment”
 Dialogue: 0,0:00:59.14,0:01:02.14,Default,,0000,0000,0000,,We never found out exactly what it was for.
 Dialogue: 0,0:01:04.52,0:01:07.35,Default,,0000,0000,0000,,She was... brainwashed?
 Dialogue: 0,0:01:07.35,0:01:11.40,Default,,0000,0000,0000,,We don't have definitive proof though.
@@ -92,7 +92,7 @@ Dialogue: 0,0:04:49.03,0:04:50.79,Default,,0000,0000,0000,,I'm hanging up.
 Dialogue: 0,0:04:53.75,0:04:56.96,Default,,0000,0000,0000,,Salieri can't compose the songs Mozart did...
 Dialogue: 0,0:05:03.30,0:05:04.51,Default,,0000,0000,0000,,Hmm?
 Dialogue: 0,0:05:10.26,0:05:13.68,Default,,0000,0000,0000,,Was I... talking to them looking like this?!
-Dialogue: 0,0:05:14.02,0:05:19.02,On Top,,0000,0000,0000,,"Recognition of the Elastic Limit\N- Presage or Recognize -"
+Dialogue: 0,0:05:14.02,0:05:19.02,On Top,,0000,0000,0000,,“Recognition of the Elastic Limit\N- Presage or Recognize -”
 Dialogue: 0,0:05:20.61,0:05:23.94,Default,,0000,0000,0000,,I wonder... Do you think this is okay?
 Dialogue: 0,0:05:23.94,0:05:26.24,Default,,0000,0000,0000,,If Okarin finds out, he'll be furious.
 Dialogue: 0,0:05:26.24,0:05:28.03,Default,,0000,0000,0000,,Would you rather convince him?
@@ -100,7 +100,7 @@ Dialogue: 0,0:05:28.03,0:05:32.29,Default,,0000,0000,0000,,Impossible! He'll scr
 Dialogue: 0,0:05:32.29,0:05:34.45,Default,,0000,0000,0000,,See?
 Dialogue: 0,0:05:34.45,0:05:36.04,Default,,0000,0000,0000,,But, you know...
 Dialogue: 0,0:05:36.04,0:05:39.17,Default,,0000,0000,0000,,Okarin's always looks dead\Nserious when he says it...
-Dialogue: 0,0:05:39.17,0:05:42.75,Default,,0000,0000,0000,,"Don't even think about changing the future."
+Dialogue: 0,0:05:39.17,0:05:42.75,Default,,0000,0000,0000,,“Don't even think about changing the future.”
 Dialogue: 0,0:05:42.75,0:05:46.72,Default,,0000,0000,0000,,I've gotta imagine he's got\Na good reason for saying that.
 Dialogue: 0,0:05:46.72,0:05:50.76,Default,,0000,0000,0000,,True, I can understand where he's coming from.
 Dialogue: 0,0:05:50.76,0:05:56.10,Default,,0000,0000,0000,,But, is letting World War III and\Nthis worldline happen the right choice?
@@ -113,7 +113,7 @@ Dialogue: 0,0:06:14.91,0:06:17.58,Default,,0000,0000,0000,,So why has he given u
 Dialogue: 0,0:06:17.58,0:06:20.38,Default,,0000,0000,0000,,Why won't he at least try?!
 Dialogue: 0,0:06:20.38,0:06:22.71,Default,,0000,0000,0000,,Why?!
 Dialogue: 0,0:06:22.71,0:06:25.42,Default,,0000,0000,0000,,I don't think he's given up yet.
-Dialogue: 0,0:06:25.42,0:06:32.14,Default,,0000,0000,0000,,I think, someday Okarin's going to be\Nreborn and go all "Mwahahahaha!" like before.
+Dialogue: 0,0:06:25.42,0:06:32.14,Default,,0000,0000,0000,,I think, someday Okarin's going to be\Nreborn and go all “Mwahahahaha!” like before.
 Dialogue: 0,0:06:32.14,0:06:35.85,Default,,0000,0000,0000,,You've been saying that for over half a year.
 Dialogue: 0,0:06:35.85,0:06:37.98,Default,,0000,0000,0000,,Well, that's...
 Dialogue: 0,0:06:41.48,0:06:43.90,Default,,0000,0000,0000,,We can't count on Uncle Okarin.
@@ -134,7 +134,7 @@ Dialogue: 0,0:07:26.15,0:07:28.86,Default,,0000,0000,0000,,I-I will not let you 
 Dialogue: 0,0:07:28.86,0:07:30.78,Default,,0000,0000,0000,,See you later, Dad.
 Dialogue: 0,0:07:30.78,0:07:33.74,Default,,0000,0000,0000,,R-Right! I'll do my best!
 Dialogue: 0,0:07:37.45,0:07:39.04,Default,,0000,0000,0000,,Isn't that...
-Dialogue: 0,0:07:43.71,0:07:46.21,On Top,,0000,0000,0000,,"AH Tokyo General Hospital"
+Dialogue: 0,0:07:43.71,0:07:46.21,On Top,,0000,0000,0000,,“AH Tokyo General Hospital”
 Dialogue: 0,0:07:50.63,0:07:51.84,Default,,0000,0000,0000,,Oh!
 Dialogue: 0,0:07:51.84,0:07:53.13,Default,,0000,0000,0000,,Ah...
 Dialogue: 0,0:07:53.13,0:07:55.43,Default,,0000,0000,0000,,Mayushii! Okarin!
@@ -194,7 +194,7 @@ Dialogue: 0,0:10:15.90,0:10:18.99,Default,,0000,0000,0000,,they sent the memory 
 Dialogue: 0,0:10:20.82,0:10:25.20,Default,,0000,0000,0000,,Considering the places she's\Naffiliated with capable of that...
 Dialogue: 0,0:10:25.20,0:10:30.38,Default,,0000,0000,0000,,But, make one wrong move\Nand you'd be disgracing the dead.
 Dialogue: 0,0:10:30.38,0:10:34.71,Default,,0000,0000,0000,,One wrong move and\Nthis will turn out nearly the same.
-Dialogue: 0,0:10:36.46,0:10:38.05,On Top,,0000,0000,0000,,"One new message"\N"Professor Leskinen"
+Dialogue: 0,0:10:36.46,0:10:38.05,On Top,,0000,0000,0000,,“One new message”\N“Professor Leskinen”
 Dialogue: 0,0:10:37.17,0:10:39.47,Default,,0000,0000,0000,,Professor?
 Dialogue: 0,0:10:39.47,0:10:42.89,Default,,0000,0000,0000,,Eh? Okabe?
 Dialogue: 0,0:10:42.89,0:10:45.39,Default,,0000,0000,0000,,What the heck?
@@ -222,8 +222,8 @@ Dialogue: 0,0:11:50.41,0:11:53.25,Default,,0000,0000,0000,,That's a silly questi
 Dialogue: 0,0:11:53.25,0:11:54.83,Default,,0000,0000,0000,,Isn't it obvious?
 Dialogue: 0,0:11:54.83,0:11:56.59,Default,,0000,0000,0000,,However...
 Dialogue: 0,0:11:56.59,0:11:59.76,Default,,0000,0000,0000,,The one who makes it all possible says this...
-Dialogue: 0,0:11:59.76,0:12:06.18,Default,,0000,0000,0000,,"Time machines are the work of the devil.\NThey must never be made."
-Dialogue: 0,0:12:08.10,0:12:10.06,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:11:59.76,0:12:06.18,Default,,0000,0000,0000,,“Time machines are the work of the devil.\NThey must never be made.”
+Dialogue: 0,0:12:08.10,0:12:10.06,Default,,0000,0000,0000,,I see..”
 Dialogue: 0,0:12:10.06,0:12:12.73,Default,,0000,0000,0000,,I might just hesitate...
 Dialogue: 0,0:12:12.73,0:12:17.07,Default,,0000,0000,0000,,After all, who knows what happens\Nwhen you interfere with the past?
 Dialogue: 0,0:12:17.07,0:12:22.40,Default,,0000,0000,0000,,What would even become of us in the present?\NWe haven't the slightest idea.
@@ -234,9 +234,9 @@ Dialogue: 0,0:12:29.41,0:12:32.62,Default,,0000,0000,0000,,Using it or not would
 Dialogue: 0,0:12:39.09,0:12:42.34,Default,,0000,0000,0000,,She dropped this half a year ago?
 Dialogue: 0,0:12:42.34,0:12:44.59,Default,,0000,0000,0000,,No, that can't be...
 Dialogue: 0,0:12:44.59,0:12:47.18,Default,,0000,0000,0000,,She came... here.
-Dialogue: 0,0:12:48.72,0:12:50.22,On Top,,0000,0000,0000,,"Miss Fubuki is A-OK"
-Dialogue: 0,0:12:50.22,0:12:50.72,On Top,,0000,0000,0000,,"Good to hear\NAnd how about Mom?"
-Dialogue: 0,0:12:50.72,0:12:52.43,On Top,,0000,0000,0000,,"Good to hear\NAnd how about Mom?"\N"Coming home"
+Dialogue: 0,0:12:48.72,0:12:50.22,On Top,,0000,0000,0000,,“Miss Fubuki is A-OK”
+Dialogue: 0,0:12:50.22,0:12:50.72,On Top,,0000,0000,0000,,“Good to hear\NAnd how about Mom?”
+Dialogue: 0,0:12:50.72,0:12:52.43,On Top,,0000,0000,0000,,“Good to hear\NAnd how about Mom?”\N“Coming home”
 Dialogue: 0,0:12:55.44,0:12:58.48,Default,,0000,0000,0000,,I think I'll go rinse myself off.
 Dialogue: 0,0:13:31.60,0:13:32.85,Default,,0000,0000,0000,,Don't move.
 Dialogue: 0,0:13:33.89,0:13:37.27,Default,,0000,0000,0000,,If you try anything funny, I'll shoot.

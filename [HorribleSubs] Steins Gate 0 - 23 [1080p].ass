@@ -26,7 +26,7 @@ Dialogue: 0,0:00:24.14,0:00:26.81,Default,,0000,0000,0000,,Have you given up tal
 Dialogue: 0,0:00:27.94,0:00:32.44,Default,,0000,0000,0000,,Due to our D-RINE, Amadeus was lost, but...
 Dialogue: 0,0:00:32.44,0:00:37.62,Default,,0000,0000,0000,,...we still meet Hiyajo,\Nbut apparently for different reasons.
 Dialogue: 0,0:00:37.62,0:00:40.20,Default,,0000,0000,0000,,Even as worldlines change...
-Dialogue: 0,0:00:39.62,0:00:42.62,On Top,,0000,0000,0000,,"Yesterday"
+Dialogue: 0,0:00:39.62,0:00:42.62,On Top,,0000,0000,0000,,“Yesterday”
 Dialogue: 0,0:00:40.20,0:00:43.83,Default,,0000,0000,0000,,...that fate which links us,\Nthose connections...
 Dialogue: 0,0:00:43.83,0:00:46.75,Default,,0000,0000,0000,,Do they change to bring us together as well?
 Dialogue: 0,0:00:49.38,0:00:50.63,Default,,0000,0000,0000,,Mayuri?
@@ -180,8 +180,8 @@ Dialogue: 0,0:08:55.45,0:08:57.87,Default,,0000,0000,0000,,This time...
 Dialogue: 0,0:08:57.87,0:08:59.37,Default,,0000,0000,0000,,There's nothing to fear!
 Dialogue: 0,0:09:00.33,0:09:01.87,Default,,0000,0000,0000,,This is it!
 Dialogue: 0,0:09:01.87,0:09:03.62,Default,,0000,0000,0000,,This instant!
-Dialogue: 0,0:09:20.35,0:09:25.56,On Top,,0000,0000,0000,,"Radio Kaikan"\N"Akihabara"
-Dialogue: 0,0:09:33.32,0:09:36.78,On Top,,0000,0000,0000,,"1 new RINE message"
+Dialogue: 0,0:09:20.35,0:09:25.56,On Top,,0000,0000,0000,,“Radio Kaikan”\N“Akihabara”
+Dialogue: 0,0:09:33.32,0:09:36.78,On Top,,0000,0000,0000,,“1 new RINE message”
 Dialogue: 0,0:09:37.86,0:09:40.07,Default,,0000,0000,0000,,Listen well, you fools!
 Dialogue: 0,0:09:40.07,0:09:42.49,Default,,0000,0000,0000,,Schrödinger's box has opened!
 Dialogue: 0,0:09:42.49,0:09:47.62,Default,,0000,0000,0000,,The time machine you bastards\Nsought to obtain no longer exists!
@@ -197,7 +197,7 @@ Dialogue: 0,0:10:15.03,0:10:20.03,On Top,,0000,0000,0000,,Arc-light of the Point
 Dialogue: 0,0:10:20.53,0:10:22.70,Default,,0000,0000,0000,,Eh? Huh?!
 Dialogue: 0,0:10:22.70,0:10:25.75,Default,,0000,0000,0000,,Th-There's two time machines?!
 Dialogue: 0,0:10:27.91,0:10:30.04,Default,,0000,0000,0000,,Uh, it's from me!
-Dialogue: 0,0:10:28.41,0:10:29.62,On Top,,0000,0000,0000,,"Incoming Call"\N"Mayuri"
+Dialogue: 0,0:10:28.41,0:10:29.62,On Top,,0000,0000,0000,,“Incoming Call”\N“Mayuri”
 Dialogue: 0,0:10:30.04,0:10:31.29,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:10:31.29,0:10:33.00,Default,,0000,0000,0000,,Wh...
 Dialogue: 0,0:10:33.00,0:10:35.26,Default,,0000,0000,0000,,What the heck?
@@ -235,7 +235,7 @@ Dialogue: 0,0:12:09.97,0:12:11.98,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:12:11.98,0:12:14.48,Default,,0000,0000,0000,,I'm sure it does.
 Dialogue: 0,0:12:14.48,0:12:18.07,Default,,0000,0000,0000,,The second one's gone too...
 Dialogue: 0,0:12:18.07,0:12:20.69,Default,,0000,0000,0000,,Who was that call even from?
-Dialogue: 0,0:12:20.69,0:12:22.82,On Top,,0000,0000,0000,,"Incoming Calls"\N"Mayuri"\N"Lukako"\N "Daru"
+Dialogue: 0,0:12:20.69,0:12:22.82,On Top,,0000,0000,0000,,“Incoming Calls”\N“Mayuri”\N“Lukako”\N “Daru”
 Dialogue: 0,0:12:24.07,0:12:26.12,Default,,0000,0000,0000,,I'm sorry, Big Sis Mayu.
 Dialogue: 0,0:12:26.12,0:12:28.70,Default,,0000,0000,0000,,It's looking hopeless.
 Dialogue: 0,0:12:28.70,0:12:31.75,Default,,0000,0000,0000,,Yeah, there's no fuel, right?
@@ -273,9 +273,9 @@ Dialogue: 0,0:14:28.91,0:14:30.36,Default,,0000,0000,0000,,It's Okarin's phone.
 Dialogue: 0,0:14:30.36,0:14:31.45,Default,,0000,0000,0000,,An e-mail?
 Dialogue: 0,0:14:31.45,0:14:32.37,Default,,0000,0000,0000,,Open it.
 Dialogue: 0,0:14:32.37,0:14:34.41,Default,,0000,0000,0000,,—But...\N—Just do it.
-Dialogue: 0,0:14:35.04,0:14:35.54,On Top,,0000,0000,0000,,"You have new messages"
-Dialogue: 0,0:14:35.54,0:14:36.16,On Top,,0000,0000,0000,,"Inbox"
-Dialogue: 0,0:14:36.16,0:14:40.21,On Top,,0000,0000,0000,,"Subject: (No subject)"\N"Turn on the news..."
+Dialogue: 0,0:14:35.04,0:14:35.54,On Top,,0000,0000,0000,,“You have new messages”
+Dialogue: 0,0:14:35.54,0:14:36.16,On Top,,0000,0000,0000,,“Inbox”
+Dialogue: 0,0:14:36.16,0:14:40.21,On Top,,0000,0000,0000,,“Subject: (No subject)”\N“Turn on the news...”
 Dialogue: 0,0:14:37.04,0:14:38.92,Default,,0000,0000,0000,,Turn on the news...
 Dialogue: 0,0:14:38.92,0:14:41.21,Default,,0000,0000,0000,,The news?
 Dialogue: 0,0:14:41.21,0:14:45.42,Default,,0000,0000,0000,,Despite a fire in the cargo bay,\Nthe airplane carrying Dr. Nakabachi...
@@ -283,7 +283,7 @@ Dialogue: 0,0:14:45.42,0:14:48.97,Default,,0000,0000,0000,,...managed to land in
 Dialogue: 0,0:14:48.97,0:14:52.01,Default,,0000,0000,0000,,—Oh! That's Mayushii's Metal Upa!\N—WTF?!
 Dialogue: 0,0:14:52.01,0:14:53.51,Default,,0000,0000,0000,,What's it doing in Russia?
 Dialogue: 0,0:14:53.51,0:14:56.85,Default,,0000,0000,0000,,That paper is the start of it all...
-Dialogue: 0,0:14:56.35,0:15:02.56,On Top,,0000,0000,0000,,"Mayushii's"
+Dialogue: 0,0:14:56.35,0:15:02.56,On Top,,0000,0000,0000,,“Mayushii's”
 Dialogue: 0,0:14:56.85,0:15:02.81,Default,,0000,0000,0000,,This pits the world's superpowers in\Nan intense race to develop a time machine.
 Dialogue: 0,0:15:02.81,0:15:06.61,Default,,0000,0000,0000,,Ultimately, it leads to world war.
 Dialogue: 0,0:15:06.61,0:15:09.65,Default,,0000,0000,0000,,The lives of 5.7 billion people are at stake.
@@ -313,13 +313,13 @@ Dialogue: 0,0:16:19.35,0:16:23.14,Default,,0000,0000,0000,,then that means you'v
 Dialogue: 0,0:16:21.77,0:16:27.69,On Top,,0000,0000,0000,,{\i1}inevitability won't allow for{\i}\N{\i1}even a speck of a miscalculation{\i}
 Dialogue: 0,0:16:23.14,0:16:25.77,Default,,0000,0000,0000,,It must've been painful for you.
 Dialogue: 0,0:16:25.77,0:16:30.23,Default,,0000,0000,0000,,But that pain also gave me determination.
-Dialogue: 0,0:16:27.69,0:16:33.82,On Top,,0000,0000,0000,,{\i1}Our dreams and futures that{\i}\N{\i1}form and expand into "infinity"{\i}
+Dialogue: 0,0:16:27.69,0:16:33.82,On Top,,0000,0000,0000,,{\i1}Our dreams and futures that{\i}\N{\i1}form and expand into “infinity”{\i}
 Dialogue: 0,0:16:30.23,0:16:34.82,Default,,0000,0000,0000,,So I couldn't afford to undo it.
 Dialogue: 0,0:16:33.82,0:16:39.66,On Top,,0000,0000,0000,,{\i1}allow us the right to be vain,{\i}
 Dialogue: 0,0:16:34.82,0:16:38.28,Default,,0000,0000,0000,,Now we can move to the real focus of our plan.
 Dialogue: 0,0:16:38.28,0:16:42.21,Default,,0000,0000,0000,,The plan is this: save\NMakise Kurisu and enter Steins Gate.
-Dialogue: 0,0:16:39.66,0:16:45.88,On Top,,0000,0000,0000,,{\i1}while{\i} {\i1}the{\i} {\i1}two{\i} {\i1}hands{\i}\N{\i1}point{\i} {\i1}out{\i} {\i1}what{\i} {\i1}is{\i} {\i1}"finite"{\i}
-Dialogue: 0,0:16:44.00,0:16:48.84,Default,,0000,0000,0000,,I was also the one who named\Nthe target worldline "Steins Gate."
+Dialogue: 0,0:16:39.66,0:16:45.88,On Top,,0000,0000,0000,,{\i1}while{\i} {\i1}the{\i} {\i1}two{\i} {\i1}hands{\i}\N{\i1}point{\i} {\i1}out{\i} {\i1}what{\i} {\i1}is{\i} {\i1}“finite”{\i}
+Dialogue: 0,0:16:44.00,0:16:48.84,Default,,0000,0000,0000,,I was also the one who named\Nthe target worldline “Steins Gate.”
 Dialogue: 0,0:16:45.88,0:16:50.46,On Top,,0000,0000,0000,,{\i1}All of which leads to a cruel{\i}\N{\i1}contract and choice to make{\i}
 Dialogue: 0,0:16:48.84,0:16:53.17,Default,,0000,0000,0000,,I'm sure you know the reason for that name too.
 Dialogue: 0,0:16:50.46,0:16:52.72,On Top,,0000,0000,0000,,{\i1}Hacking to the Gate{\i}
@@ -368,7 +368,7 @@ Dialogue: 0,0:18:34.69,0:18:37.53,Default,,0000,0000,0000,,Disappearing from thi
 Dialogue: 0,0:18:37.53,0:18:40.95,Default,,0000,0000,0000,,...essentially the same as dying, is it not?
 Dialogue: 0,0:18:40.95,0:18:43.37,Default,,0000,0000,0000,,That's some crazy positive thinking.
 Dialogue: 0,0:18:43.37,0:18:46.79,Default,,0000,0000,0000,,Though, it holds up as a theory, right?
-Dialogue: 0,0:18:47.46,0:18:50.67,On Top,,0000,0000,0000,,"Mad Scientist: Trick world.\NConnect all\NPotentials."
+Dialogue: 0,0:18:47.46,0:18:50.67,On Top,,0000,0000,0000,,“Mad Scientist: Trick world.\NConnect all\NPotentials.”
 Dialogue: 0,0:18:48.66,0:18:51.79,Default,,0000,0000,0000,,The world can be deceived.
 Dialogue: 0,0:18:51.79,0:18:55.67,Default,,0000,0000,0000,,My friends, thank you\Nfor following me till today!
 Dialogue: 0,0:18:55.67,0:18:59.01,Default,,0000,0000,0000,,As you know, on that day in 2011...

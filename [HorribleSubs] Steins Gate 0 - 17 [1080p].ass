@@ -19,7 +19,7 @@ Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:00:08.88,0:00:13.55,Default,,0000,0000,0000,,Hey, Suzuha! Is lovely, my daughter, there?!
-Dialogue: 0,0:00:13.55,0:00:16.97,Default,,0000,0000,0000,,What's this about "lovely, my daughter"?
+Dialogue: 0,0:00:13.55,0:00:16.97,Default,,0000,0000,0000,,What's this about “lovely, my daughter”?
 Dialogue: 0,0:00:16.97,0:00:19.93,Default,,0000,0000,0000,,It means you're my beloved daughter.
 Dialogue: 0,0:00:19.93,0:00:22.39,Default,,0000,0000,0000,,That's not what I'm talking about!
 Dialogue: 0,0:00:22.39,0:00:24.60,Default,,0000,0000,0000,,What? You having problems?
@@ -154,7 +154,7 @@ Dialogue: 0,0:08:58.53,0:09:00.16,Default,,0000,0000,0000,,Are you fine with thi
 Dialogue: 0,0:09:00.16,0:09:04.66,Default,,0000,0000,0000,,That's right... You're Suzu's\Nfather, aren't you?
 Dialogue: 0,0:09:04.66,0:09:07.67,Default,,0000,0000,0000,,I don't like this! You have to stop her!
 Dialogue: 0,0:09:07.67,0:09:10.34,Default,,0000,0000,0000,,I'm... not stopping her.
-Dialogue: 0,0:09:13.17,0:09:14.76,On Top,,0000,0000,0000,,"Think we can meet today?\NThere's so much I want to talk about."\N"Sorry about yesterday."
+Dialogue: 0,0:09:13.17,0:09:14.76,On Top,,0000,0000,0000,,“Think we can meet today?\NThere's so much I want to talk about.”\N“Sorry about yesterday.”
 Dialogue: 0,0:09:15.26,0:09:16.93,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:09:19.76,0:09:20.89,Default,,0000,0000,0000,,Mayuri?
 Dialogue: 0,0:09:20.89,0:09:22.22,Default,,0000,0000,0000,,Hello?
@@ -169,7 +169,7 @@ Dialogue: 0,0:09:40.87,0:09:43.95,Default,,0000,0000,0000,,You tried to find out
 Dialogue: 0,0:09:43.95,0:09:46.12,Default,,0000,0000,0000,,It's better that you don't know.
 Dialogue: 0,0:09:46.12,0:09:48.08,Default,,0000,0000,0000,,The time we have is—
 Dialogue: 0,0:09:51.80,0:09:53.25,Default,,0000,0000,0000,,What's wrong?
-Dialogue: 0,0:09:52.96,0:09:54.17,On Top,,0000,0000,0000,,"No Signal"
+Dialogue: 0,0:09:52.96,0:09:54.17,On Top,,0000,0000,0000,,“No Signal”
 Dialogue: 0,0:09:55.92,0:09:57.97,Default,,0000,0000,0000,,This whole past year...
 Dialogue: 0,0:09:59.01,0:10:02.22,Default,,0000,0000,0000,,I always kept thinking to myself...
 Dialogue: 0,0:10:02.22,0:10:08.44,Default,,0000,0000,0000,,Why did the me 25 years from now\Nsend Suzuha back to this era?
@@ -212,8 +212,8 @@ Dialogue: 0,0:12:26.16,0:12:27.49,Default,,0000,0000,0000,,Mmm.
 Dialogue: 0,0:12:31.91,0:12:33.46,Default,,0000,0000,0000,,Mmm!
 Dialogue: 0,0:12:33.46,0:12:36.17,Default,,0000,0000,0000,,Daru... Maho...
 Dialogue: 0,0:12:38.59,0:12:43.34,Default,,0000,0000,0000,,For today only,\NMayushii will stop being a hostage!
-Dialogue: 0,0:12:43.97,0:12:48.89,On Top,,0000,0000,0000,,"Altair of the Hyperbolic Plane\N- Beltrami Pseudosphere -"
-Dialogue: 0,0:12:50.35,0:12:52.31,On Top,,0000,0000,0000,,"Taito Chuo Chiyoda Bunkyo Shinjuku Minato"
+Dialogue: 0,0:12:43.97,0:12:48.89,On Top,,0000,0000,0000,,“Altair of the Hyperbolic Plane\N- Beltrami Pseudosphere -”
+Dialogue: 0,0:12:50.35,0:12:52.31,On Top,,0000,0000,0000,,“Taito Chuo Chiyoda Bunkyo Shinjuku Minato”
 Dialogue: 0,0:12:58.69,0:13:02.03,Default,,0000,0000,0000,,What's going on? All the carriers are out...
 Dialogue: 0,0:13:02.03,0:13:07.53,Default,,0000,0000,0000,,Today is double sevens day!\NOrihime will greet you in a miniskirt!
 Dialogue: 0,0:13:07.53,0:13:08.70,Default,,0000,0000,0000,,Mayuri!
@@ -228,22 +228,22 @@ Dialogue: 0,0:13:31.47,0:13:32.89,Default,,0000,0000,0000,,The net works, right?
 Dialogue: 0,0:13:32.89,0:13:39.15,Default,,0000,0000,0000,,Y-Yeah... But it must be covered-up or something\N'cuz none of the sites are talking about it.
 Dialogue: 0,0:13:39.15,0:13:44.61,Default,,0000,0000,0000,,And, well... I connected to @channel,\Nbut the occult board got hacked or something.
 Dialogue: 0,0:13:44.61,0:13:46.49,Default,,0000,0000,0000,,Hacked?!
-Dialogue: 0,0:13:45.40,0:13:48.11,On Top,,0000,0000,0000,,"Attention Salieri's Neighbor (1000)"\N"Attention Salieri's Neighbor (1000)"
+Dialogue: 0,0:13:45.40,0:13:48.11,On Top,,0000,0000,0000,,“Attention Salieri's Neighbor (1000)”\N“Attention Salieri's Neighbor (1000)”
 Dialogue: 0,0:13:46.49,0:13:48.87,Default,,0000,0000,0000,,This post is...
-Dialogue: 0,0:13:48.87,0:13:54.83,Default,,0000,0000,0000,,"It appears that we twins will be\Ntemporarily driven from the place we belong."
-Dialogue: 0,0:13:52.37,0:13:54.83,On Top,,0000,0000,0000,,"002 KuriGohan and Kamehameha"\N"It appears that we twins will be temporarily\Ndriven from the place we belong. Which is why we may not be able to come back here anymore."
-Dialogue: 0,0:13:54.83,0:13:57.21,On Top,,0000,0000,0000,,"003 KuriGohan and Kamehameha"\N"Our Father and God has at last discovered\Nhow to unveil our most sacred domains. Furthermore, we are 'good' children who cannot lie to our Father."
-Dialogue: 0,0:13:54.83,0:14:00.00,Default,,0000,0000,0000,,"Our Father and God has at last discovered\Nhow to unveil our most sacred domains."
-Dialogue: 0,0:13:57.21,0:13:59.50,On Top,,0000,0000,0000,,"004 KuriGohan and Kamehameha"\N"Thus, we may tell Father the secrets of\Nmanipulating time and where they're at. I deeply regret not being able to hold onto them tighter."
-Dialogue: 0,0:13:59.50,0:14:01.84,On Top,,0000,0000,0000,,"005 KuriGohan and Kamehameha"\N"I thought we could become good friends\Nwith you, but I think this is goodbye. So, please convey this message to the one I respect most."
-Dialogue: 0,0:14:00.00,0:14:05.55,Default,,0000,0000,0000,,"Thus, we may tell Father the secrets of\Nmanipulating time and where they're at."
-Dialogue: 0,0:14:01.84,0:14:04.51,On Top,,0000,0000,0000,,"006 KuriGohan and Kamehameha"\N"I always considered myself to be\Nthe very definition of mediocre. However, you were the person I always strove to be, and you... You are the true Amadeus."
+Dialogue: 0,0:13:48.87,0:13:54.83,Default,,0000,0000,0000,,“It appears that we twins will be\Ntemporarily driven from the place we belong.”
+Dialogue: 0,0:13:52.37,0:13:54.83,On Top,,0000,0000,0000,,“002 KuriGohan and Kamehameha”\N“It appears that we twins will be temporarily\Ndriven from the place we belong. Which is why we may not be able to come back here anymore.”
+Dialogue: 0,0:13:54.83,0:13:57.21,On Top,,0000,0000,0000,,“003 KuriGohan and Kamehameha”\N“Our Father and God has at last discovered\Nhow to unveil our most sacred domains. Furthermore, we are ‘good’ children who cannot lie to our Father.”
+Dialogue: 0,0:13:54.83,0:14:00.00,Default,,0000,0000,0000,,“Our Father and God has at last discovered\Nhow to unveil our most sacred domains.”
+Dialogue: 0,0:13:57.21,0:13:59.50,On Top,,0000,0000,0000,,“004 KuriGohan and Kamehameha”\N“Thus, we may tell Father the secrets of\Nmanipulating time and where they're at. I deeply regret not being able to hold onto them tighter.”
+Dialogue: 0,0:13:59.50,0:14:01.84,On Top,,0000,0000,0000,,“005 KuriGohan and Kamehameha”\N“I thought we could become good friends\Nwith you, but I think this is goodbye. So, please convey this message to the one I respect most.”
+Dialogue: 0,0:14:00.00,0:14:05.55,Default,,0000,0000,0000,,“Thus, we may tell Father the secrets of\Nmanipulating time and where they're at.”
+Dialogue: 0,0:14:01.84,0:14:04.51,On Top,,0000,0000,0000,,“006 KuriGohan and Kamehameha”\N“I always considered myself to be\Nthe very definition of mediocre. However, you were the person I always strove to be, and you... You are the true Amadeus.”
 Dialogue: 0,0:14:05.55,0:14:07.05,Default,,0000,0000,0000,,Our Father and God?
 Dialogue: 0,0:14:07.05,0:14:09.68,Default,,0000,0000,0000,,Yeah... Look!
-Dialogue: 0,0:14:09.68,0:14:13.22,Default,,0000,0000,0000,,"Please convey this message\Nto the one I respect most."
-Dialogue: 0,0:14:13.22,0:14:17.60,Default,,0000,0000,0000,,"I always considered myself to be\Nthe very definition of mediocre.
-Dialogue: 0,0:14:17.60,0:14:22.98,Default,,0000,0000,0000,,However, you were the person\NI always strove to be, and you...
-Dialogue: 0,0:14:22.98,0:14:25.53,Default,,0000,0000,0000,,You are the true Amadeus."
+Dialogue: 0,0:14:09.68,0:14:13.22,Default,,0000,0000,0000,,“Please convey this message\Nto the one I respect most.”
+Dialogue: 0,0:14:13.22,0:14:17.60,Default,,0000,0000,0000,,“I always considered myself to be\Nthe very definition of mediocre.
+Dialogue: 0,0:14:17.60,0:14:22.98,Default,,0000,0000,0000,,“However, you were the person\NI always strove to be, and you...
+Dialogue: 0,0:14:22.98,0:14:25.53,Default,,0000,0000,0000,,“You are the true Amadeus.”
 Dialogue: 0,0:14:25.53,0:14:27.45,Default,,0000,0000,0000,,Any idea who did this?
 Dialogue: 0,0:14:27.45,0:14:31.07,Default,,0000,0000,0000,,Without a doubt. Amadeus [Kurisu] wrote this.
 Dialogue: 0,0:14:31.07,0:14:32.78,Default,,0000,0000,0000,,Seriously?
@@ -252,7 +252,7 @@ Dialogue: 0,0:14:35.16,0:14:37.21,Default,,0000,0000,0000,,Y-Yeah...
 Dialogue: 0,0:14:41.29,0:14:42.54,Default,,0000,0000,0000,,What's this mean?
 Dialogue: 0,0:14:42.54,0:14:43.59,Default,,0000,0000,0000,,What?!
 Dialogue: 0,0:14:43.59,0:14:46.30,Default,,0000,0000,0000,,All the data is completely missing!
-Dialogue: 0,0:14:46.30,0:14:48.63,Default,,0000,0000,0000,,"Driven from the place we belong"...
+Dialogue: 0,0:14:46.30,0:14:48.63,Default,,0000,0000,0000,,“Driven from the place we belong”...
 Dialogue: 0,0:14:48.63,0:14:51.01,Default,,0000,0000,0000,,Just like she said!
 Dialogue: 0,0:14:51.01,0:14:55.60,Default,,0000,0000,0000,,Then, the secrets of manipulating time\Nand where they're at means...
 Dialogue: 0,0:14:55.60,0:14:57.60,Default,,0000,0000,0000,,It can't be! Kurisu's memories?!
@@ -264,9 +264,9 @@ Dialogue: 0,0:15:11.11,0:15:13.83,Default,,0000,0000,0000,,Daru? What is it?
 Dialogue: 0,0:15:13.83,0:15:16.41,Default,,0000,0000,0000,,O-Okarin!
 Dialogue: 0,0:15:21.79,0:15:23.25,Default,,0000,0000,0000,,Mayuri and Suzuha are?!
 Dialogue: 0,0:15:23.25,0:15:29.22,Default,,0000,0000,0000,,Suzuha went to change the future alone...\Nand Mayushii went after her.
-Dialogue: 0,0:15:29.59,0:15:29.76,On Top,,0000,0000,0000,,"Suzuha"\N"Daru"\N"Lukako"
-Dialogue: 0,0:15:29.76,0:15:30.26,On Top,,0000,0000,0000,,"Calling"\N"Mayuri"
-Dialogue: 0,0:15:30.26,0:15:31.72,On Top,,0000,0000,0000,,"Connect—"\N"Hang up"     "Redial"
+Dialogue: 0,0:15:29.59,0:15:29.76,On Top,,0000,0000,0000,,“Suzuha”\N“Daru”\N“Lukako”
+Dialogue: 0,0:15:29.76,0:15:30.26,On Top,,0000,0000,0000,,“Calling”\N“Mayuri”
+Dialogue: 0,0:15:30.26,0:15:31.72,On Top,,0000,0000,0000,,“Connect—”\N“Hang up”     “Redial”
 Dialogue: 0,0:15:32.64,0:15:34.26,Default,,0000,0000,0000,,Mayuri!
 Dialogue: 0,0:15:34.26,0:15:39.10,Default,,0000,0000,0000,,Is it hopeless, as long as the time machine\Nexists?! Will it keep happening?!
 Dialogue: 0,0:15:40.94,0:15:44.36,Default,,0000,0000,0000,,Let's get to work, C203.
@@ -322,9 +322,9 @@ Dialogue: 0,0:18:27.14,0:18:32.23,Default,,0000,0000,0000,,I'm going to change t
 Dialogue: 0,0:18:32.23,0:18:35.11,Default,,0000,0000,0000,,Though I do have my doubts...
 Dialogue: 0,0:18:35.11,0:18:36.82,Default,,0000,0000,0000,,Uncle Okarin...
 Dialogue: 0,0:18:39.07,0:18:40.87,Default,,0000,0000,0000,,Goodbye.
-Dialogue: 0,0:18:47.83,0:18:50.00,On Top,,0000,0000,0000,,"One new message"\N"Open"        "OK"
+Dialogue: 0,0:18:47.83,0:18:50.00,On Top,,0000,0000,0000,,“One new message”\N“Open”        “OK”
 Dialogue: 0,0:18:48.29,0:18:49.92,Default,,0000,0000,0000,,From Dad?
-Dialogue: 0,0:18:50.00,0:18:51.46,On Top,,0000,0000,0000,,"From: Barrel Titor"\N"To: Amane Suzuha"\N"Subject: Operation Arc-light" "(No body)" "Movie file"
+Dialogue: 0,0:18:50.00,0:18:51.46,On Top,,0000,0000,0000,,“From: Barrel Titor”\N“To: Amane Suzuha”\N“Subject: Operation Arc-light” “(No body)” “Movie file”
 Dialogue: 0,0:18:51.75,0:18:55.67,Default,,0000,0000,0000,,A D-Mail from 2025?
 Dialogue: 0,0:18:55.67,0:18:58.47,Default,,0000,0000,0000,,Yo, Suzuha. It's your dad.
 Dialogue: 0,0:18:58.47,0:19:00.63,Default,,0000,0000,0000,,It's the year 2025 here.

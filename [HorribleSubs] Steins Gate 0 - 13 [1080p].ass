@@ -205,22 +205,22 @@ Dialogue: 0,0:10:44.56,0:10:48.69,Default,,0000,0000,0000,,In that case, only on
 Dialogue: 0,0:10:48.69,0:10:50.48,Default,,0000,0000,0000,,And that's?
 Dialogue: 0,0:10:50.48,0:10:52.86,Default,,0000,0000,0000,,Brainwashing.
 Dialogue: 0,0:10:52.86,0:10:54.73,Default,,0000,0000,0000,,Mind control.
-Dialogue: 0,0:10:57.03,0:11:02.03,On Top,,0000,0000,0000,,"Mother Goose of Diffractive Recitativo\N- Diffraction Mother Goose -"
-Dialogue: 0,0:11:02.03,0:11:03.74,On Top,,0000,0000,0000,,"Fun for All Ages with Mozart"\N"July 17 - August 28
+Dialogue: 0,0:10:57.03,0:11:02.03,On Top,,0000,0000,0000,,“Mother Goose of Diffractive Recitativo\N- Diffraction Mother Goose -”
+Dialogue: 0,0:11:02.03,0:11:03.74,On Top,,0000,0000,0000,,“Fun for All Ages with Mozart”\N“July 17 - August 28
 Dialogue: 0,0:11:08.96,0:11:10.92,Default,,0000,0000,0000,,Uh...
 Dialogue: 0,0:11:10.92,0:11:14.13,Default,,0000,0000,0000,,You're... still living here?
 Dialogue: 0,0:11:16.34,0:11:17.88,Default,,0000,0000,0000,,That's it?
 Dialogue: 0,0:11:18.63,0:11:19.97,Default,,0000,0000,0000,,Mmm.
-Dialogue: 0,0:11:22.22,0:11:23.30,On Top,,0000,0000,0000,,"Found one"
-Dialogue: 0,0:11:23.30,0:11:26.10,On Top,,0000,0000,0000,,"Within a 5km range of where\NKagari Shiina collapsed"
-Dialogue: 0,0:11:26.10,0:11:26.85,On Top,,0000,0000,0000,,"Just one place"
-Dialogue: 0,0:11:26.85,0:11:28.06,On Top,,0000,0000,0000,,"A building not on records\Nand shouldn't be there"
-Dialogue: 0,0:11:28.06,0:11:29.02,On Top,,0000,0000,0000,,"Congrats"
+Dialogue: 0,0:11:22.22,0:11:23.30,On Top,,0000,0000,0000,,“Found one”
+Dialogue: 0,0:11:23.30,0:11:26.10,On Top,,0000,0000,0000,,“Within a 5km range of where\NKagari Shiina collapsed”
+Dialogue: 0,0:11:26.10,0:11:26.85,On Top,,0000,0000,0000,,“Just one place”
+Dialogue: 0,0:11:26.85,0:11:28.06,On Top,,0000,0000,0000,,“A building not on records\Nand shouldn't be there”
+Dialogue: 0,0:11:28.06,0:11:29.02,On Top,,0000,0000,0000,,“Congrats”
 Dialogue: 0,0:11:29.48,0:11:31.02,Default,,0000,0000,0000,,Uh-huh uh-huh.
 Dialogue: 0,0:11:32.23,0:11:34.19,Default,,0000,0000,0000,,There's really something there?
 Dialogue: 0,0:11:34.19,0:11:38.28,Default,,0000,0000,0000,,We won't know for sure unless we go.
 Dialogue: 0,0:11:38.28,0:11:39.61,Default,,0000,0000,0000,,What do you think?
-Dialogue: 0,0:11:42.36,0:11:44.20,On Top,,0000,0000,0000,,"Radio Kaikan Akihabara"
+Dialogue: 0,0:11:42.36,0:11:44.20,On Top,,0000,0000,0000,,“Radio Kaikan Akihabara”
 Dialogue: 0,0:11:43.45,0:11:46.83,Default,,0000,0000,0000,,Well, that doesn't seem like you at all.
 Dialogue: 0,0:11:46.83,0:11:50.50,Default,,0000,0000,0000,,Yeah... I'm thinking I said too much.
 Dialogue: 0,0:11:50.50,0:11:54.88,Default,,0000,0000,0000,,In a way, I think it's because I'm envious.
@@ -242,9 +242,9 @@ Dialogue: 0,0:12:48.01,0:12:49.60,Default,,0000,0000,0000,,It's a great idea.
 Dialogue: 0,0:12:49.60,0:12:52.18,Default,,0000,0000,0000,,If you're planning it, I'm sure she'll love it.
 Dialogue: 0,0:12:52.18,0:12:56.94,Default,,0000,0000,0000,,Really? Then I'll let everyone know\Nand start making preparations!
 Dialogue: 0,0:12:56.94,0:13:00.02,Default,,0000,0000,0000,,Mayushii's gonna be busy!
-Dialogue: 0,0:13:01.69,0:13:02.44,On Top,,0000,0000,0000,,"Ready to investigate"
-Dialogue: 0,0:13:02.44,0:13:03.90,On Top,,0000,0000,0000,,"Can leave tomorrow morning~\NLong drive is going to be a pain"
-Dialogue: 0,0:13:12.04,0:13:14.50,On Top,,0000,0000,0000,,"Fun for All Ages with Mozart"
+Dialogue: 0,0:13:01.69,0:13:02.44,On Top,,0000,0000,0000,,“Ready to investigate”
+Dialogue: 0,0:13:02.44,0:13:03.90,On Top,,0000,0000,0000,,“Can leave tomorrow morning~\NLong drive is going to be a pain”
+Dialogue: 0,0:13:12.04,0:13:14.50,On Top,,0000,0000,0000,,“Fun for All Ages with Mozart”
 Dialogue: 0,0:13:15.54,0:13:17.33,Default,,0000,0000,0000,,Tomorrow night?
 Dialogue: 0,0:13:17.33,0:13:22.01,Default,,0000,0000,0000,,Yeah. Since it's a Sunday,\Ncan you come to the lab at five?
 Dialogue: 0,0:13:22.01,0:13:24.09,Default,,0000,0000,0000,,Of course, I can.
@@ -291,7 +291,7 @@ Dialogue: 0,0:15:54.66,0:15:59.91,Default,,0000,0000,0000,,I don't know the exac
 Dialogue: 0,0:15:59.91,0:16:05.71,Default,,0000,0000,0000,,But using drugs or some sort of technique,\Nthey say memories can be forcibly repressed.
 Dialogue: 0,0:16:05.71,0:16:10.51,Default,,0000,0000,0000,,What I'm saying,\Nis that it's not entirely impossible.
 Dialogue: 0,0:16:10.51,0:16:15.18,Default,,0000,0000,0000,,If there's guys out there who\Ndid something like that to Kagari...
-Dialogue: 0,0:16:18.68,0:16:20.14,On Top,,0000,0000,0000,,"Congrats Kagari!"
+Dialogue: 0,0:16:18.68,0:16:20.14,On Top,,0000,0000,0000,,“Congrats Kagari!”
 Dialogue: 0,0:16:19.02,0:16:20.60,Default,,0000,0000,0000,,Hello!
 Dialogue: 0,0:16:20.60,0:16:22.02,Default,,0000,0000,0000,,Welcome!
 Dialogue: 0,0:16:22.02,0:16:24.19,Default,,0000,0000,0000,,You all made it, nya!
@@ -309,8 +309,8 @@ Dialogue: 0,0:16:58.26,0:17:01.27,Default,,0000,0000,0000,,Huh? Eh? Ahhh!
 Dialogue: 0,0:17:01.27,0:17:04.56,Default,,0000,0000,0000,,Can you please try to drive safe?!
 Dialogue: 0,0:17:04.56,0:17:07.19,Default,,0000,0000,0000,,All right. It's safer if we get there faster.
 Dialogue: 0,0:17:07.19,0:17:10.48,Default,,0000,0000,0000,,Noooo!
-Dialogue: 0,0:17:20.53,0:17:21.24,On Top,,0000,0000,0000,,"Sweets Akihabara"
-Dialogue: 0,0:17:21.24,0:17:21.99,On Top,,0000,0000,0000,,"Mansei Bridge" "Kanda Post Office"\N"Shohei Bridge" "2 Chome Sotokanda"\N"Kanda Shrine"
+Dialogue: 0,0:17:20.53,0:17:21.24,On Top,,0000,0000,0000,,“Sweets Akihabara”
+Dialogue: 0,0:17:21.24,0:17:21.99,On Top,,0000,0000,0000,,“Mansei Bridge” “Kanda Post Office”\N“Shohei Bridge” “2 Chome Sotokanda”\N“Kanda Shrine”
 Dialogue: 0,0:17:33.88,0:17:34.88,Default,,0000,0000,0000,,This way.
 Dialogue: 0,0:17:34.88,0:17:36.68,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:18:00.49,0:18:03.37,Default,,0000,0000,0000,,It's really up ahead?
@@ -351,7 +351,7 @@ Dialogue: 0,0:21:30.53,0:21:33.54,On Top,,0000,0000,0000,,{\i1}Come to me{\i}
 Dialogue: 0,0:21:33.54,0:21:36.83,On Top,,0000,0000,0000,,{\i1}Embrace my tears {\i}
 Dialogue: 0,0:21:36.83,0:21:42.92,On Top,,0000,0000,0000,,{\i1}Let me guide you down into my soul{\i}
 Dialogue: 0,0:21:42.92,0:21:45.55,On Top,,0000,0000,0000,,{\i1}And let us pray for the world to realize {\i}
-Dialogue: 0,0:21:45.55,0:21:46.97,On Top,,0000,0000,0000,,{\i1}And let us pray for the world to realize {\i}\N"No signal"
+Dialogue: 0,0:21:45.55,0:21:46.97,On Top,,0000,0000,0000,,{\i1}And let us pray for the world to realize {\i}\N“No signal”
 Dialogue: 0,0:21:46.97,0:21:49.51,On Top,,0000,0000,0000,,{\i1}And let us pray for the world to realize {\i}
 Dialogue: 0,0:21:48.18,0:21:49.68,Default,,0000,0000,0000,,Okabe.
 Dialogue: 0,0:21:49.51,0:21:55.77,On Top,,0000,0000,0000,,{\i1}There is peace, the truth within us{\i}
@@ -365,11 +365,11 @@ Dialogue: 0,0:22:08.41,0:22:14.66,On Top,,0000,0000,0000,,{\i1}Future is just to
 Dialogue: 0,0:22:13.49,0:22:16.04,Default,,0000,0000,0000,,Okabe.
 Dialogue: 0,0:22:14.66,0:22:21.25,On Top,,0000,0000,0000,,{\i1}Wake up now...it's time to lead new souls{\i}
 Dialogue: 0,0:22:16.04,0:22:17.54,Default,,0000,0000,0000,,In here.
-Dialogue: 0,0:22:21.25,0:22:21.84,On Top,,0000,0000,0000,,{\i1}Wake up now...it's time to lead new souls{\i}\N"Mommy Mommy Mommy Mommy"\N"I miss you"
-Dialogue: 0,0:22:21.84,0:22:22.42,On Top,,0000,0000,0000,,{\i1}Orbit of photon and universe{\i}\N"Mommy Mommy Mommy Mommy"\N"I miss you"
-Dialogue: 0,0:22:22.42,0:22:23.50,On Top,,0000,0000,0000,,{\i1}Orbit of photon and universe{\i}\N"I miss you"\N"Mommy"
-Dialogue: 0,0:22:23.50,0:22:28.18,On Top,,0000,0000,0000,,{\i1}Orbit of photon and universe{\i}\N"Mommy Mommy Mommy Mommy"
-Dialogue: 0,0:22:28.18,0:22:31.55,On Top,,0000,0000,0000,,{\i1}I am just the part of its plan{\i}\N"Mommy Mommy Mommy Mommy"
+Dialogue: 0,0:22:21.25,0:22:21.84,On Top,,0000,0000,0000,,{\i1}Wake up now...it's time to lead new souls{\i}\N“Mommy Mommy Mommy Mommy”\N“I miss you”
+Dialogue: 0,0:22:21.84,0:22:22.42,On Top,,0000,0000,0000,,{\i1}Orbit of photon and universe{\i}\N“Mommy Mommy Mommy Mommy”\N“I miss you”
+Dialogue: 0,0:22:22.42,0:22:23.50,On Top,,0000,0000,0000,,{\i1}Orbit of photon and universe{\i}\N“I miss you”\N“Mommy”
+Dialogue: 0,0:22:23.50,0:22:28.18,On Top,,0000,0000,0000,,{\i1}Orbit of photon and universe{\i}\N“Mommy Mommy Mommy Mommy”
+Dialogue: 0,0:22:28.18,0:22:31.55,On Top,,0000,0000,0000,,{\i1}I am just the part of its plan{\i}\N“Mommy Mommy Mommy Mommy”
 Dialogue: 0,0:22:31.55,0:22:34.52,On Top,,0000,0000,0000,,{\i1}I am just the part of its plan{\i}
 Dialogue: 0,0:22:32.30,0:22:35.14,Default,,0000,0000,0000,,Th-This is...
 Dialogue: 0,0:22:34.52,0:22:40.73,On Top,,0000,0000,0000,,{\i1}With eyes unaware of the distorted sky{\i}
