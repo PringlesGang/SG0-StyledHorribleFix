@@ -63,15 +63,15 @@ Dialogue: 0,0:02:55.88,0:02:57.13,Default,,0000,0000,0000,,Who knows?
 Dialogue: 0,0:02:57.13,0:02:59.84,Default,,0000,0000,0000,,Hurry up, you experiment-loving kids!
 Dialogue: 0,0:02:59.84,0:03:01.26,Default,,0000,0000,0000,,Wha...?
 Dialogue: 0,0:03:01.26,0:03:06.64,Default,,0000,0000,0000,,In other words, there are\Ntwo large factors that stir up WWIII.
-Dialogue: 0,0:03:06.52,0:03:07.35,On Top,,0000,0000,0000,,“America”\N“Stratfor”
+Dialogue: 0,0:03:06.52,0:03:07.35,On Top,,0000,0000,0000,,“America”\N“Stratfo”
 Dialogue: 0,0:03:06.64,0:03:09.98,Default,,0000,0000,0000,,America and Russia, plus...
 Dialogue: 0,0:03:07.35,0:03:08.64,On Top,,0000,0000,0000,,“Russia”
 Dialogue: 0,0:03:09.98,0:03:11.90,Default,,0000,0000,0000,,...the time machine.
 Dialogue: 0,0:03:10.39,0:03:11.77,On Top,,0000,0000,0000,,“Time machine”
 Dialogue: 0,0:03:11.90,0:03:13.56,Default,,0000,0000,0000,,You said that earlier.
 Dialogue: 0,0:03:13.56,0:03:15.98,Default,,0000,0000,0000,,The organizations responsible are...
-Dialogue: 0,0:03:15.98,0:03:18.36,Default,,0000,0000,0000,,...Stratfor with Leskinen...
-Dialogue: 0,0:03:15.98,0:03:19.03,On Top,,0000,0000,0000,,“America”\N“Stratfor”\N“Leskinen”
+Dialogue: 0,0:03:15.98,0:03:18.36,Default,,0000,0000,0000,,...Stratfo with Leskinen...
+Dialogue: 0,0:03:15.98,0:03:19.03,On Top,,0000,0000,0000,,“America”\N“Stratfo”\N“Leskinen”
 Dialogue: 0,0:03:18.36,0:03:21.32,Default,,0000,0000,0000,,...and another American faction, DURPA.
 Dialogue: 0,0:03:19.03,0:03:21.15,On Top,,0000,0000,0000,,“DURPA”
 Dialogue: 0,0:03:21.32,0:03:25.45,Default,,0000,0000,0000,,There's also Russian intelligence,\Nso that makes three organizations.
@@ -123,7 +123,7 @@ Dialogue: 0,0:05:12.27,0:05:15.35,Default,,0000,0000,0000,,You should have said 
 Dialogue: 0,0:05:15.35,0:05:17.15,Default,,0000,0000,0000,,Loli Girl.
 Dialogue: 0,0:05:17.15,0:05:18.77,Default,,0000,0000,0000,,Like I was saying...
 Dialogue: 0,0:05:18.77,0:05:22.65,Default,,0000,0000,0000,,These three organizations\Nare after the time machine.
-Dialogue: 0,0:05:21.98,0:05:24.07,On Top,,0000,0000,0000,,“Stratfor”\N“Leskinen”
+Dialogue: 0,0:05:21.98,0:05:24.07,On Top,,0000,0000,0000,,“Stratfo”\N“Leskinen”
 Dialogue: 0,0:05:22.65,0:05:24.28,Default,,0000,0000,0000,,All the previous failures
 Dialogue: 0,0:05:24.07,0:05:25.82,On Top,,0000,0000,0000,,“DURPA”
 Dialogue: 0,0:05:24.28,0:05:28.07,Default,,0000,0000,0000,,were caused by these\Nthree organizations interfering.
@@ -134,8 +134,8 @@ Dialogue: 0,0:05:31.83,0:05:36.21,Default,,0000,0000,0000,,So the time machine's
 Dialogue: 0,0:05:36.21,0:05:39.54,Default,,0000,0000,0000,,Basically, we let them board the time machine,
 Dialogue: 0,0:05:39.54,0:05:42.42,Default,,0000,0000,0000,,but it's that exact moment\Nthey leave for the past
 Dialogue: 0,0:05:42.42,0:05:44.88,Default,,0000,0000,0000,,that we can't allow interference.
-Dialogue: 0,0:05:44.88,0:05:48.97,Default,,0000,0000,0000,,Still, we've foiled Stratfor and Leskinen.
-Dialogue: 0,0:05:45.59,0:05:49.84,On Top,,0000,0000,0000,,“Stratfor”\N“Leskinen”
+Dialogue: 0,0:05:44.88,0:05:48.97,Default,,0000,0000,0000,,Still, we've foiled Stratfo and Leskinen.
+Dialogue: 0,0:05:45.59,0:05:49.84,On Top,,0000,0000,0000,,“Stratfo”\N“Leskinen”
 Dialogue: 0,0:05:48.97,0:05:54.56,Default,,0000,0000,0000,,Likewise, we've managed to put\Na halt on DURPA and their soldiers.
 Dialogue: 0,0:05:49.84,0:05:52.31,On Top,,0000,0000,0000,,“DURPA”
 Dialogue: 0,0:05:54.56,0:05:56.02,Default,,0000,0000,0000,,In other words...
