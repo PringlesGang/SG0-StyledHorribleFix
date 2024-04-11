@@ -18,20 +18,20 @@ Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:15.72,0:00:19.18,Default,,0000,0000,0000,,Okabe? What are you doing this early?
-Dialogue: 0,0:00:19.18,0:00:21.02,Default,,0000,0000,0000,,Hiyajo...
+Dialogue: 0,0:00:15.72,0:00:19.18,Default,,0000,0000,0000,,Okabe-san? What are you doing this early?
+Dialogue: 0,0:00:19.18,0:00:21.02,Default,,0000,0000,0000,,Hiyajo-san...
 Dialogue: 0,0:00:21.02,0:00:22.81,Default,,0000,0000,0000,,I have to ask you something.
 Dialogue: 0,0:00:22.81,0:00:24.14,Default,,0000,0000,0000,,What?
 Dialogue: 0,0:00:24.14,0:00:26.81,Default,,0000,0000,0000,,Have you given up talking funny now?
 Dialogue: 0,0:00:27.94,0:00:32.44,Default,,0000,0000,0000,,Due to our D-RINE, Amadeus was lost, but...
-Dialogue: 0,0:00:32.44,0:00:37.62,Default,,0000,0000,0000,,...we still meet Hiyajo,\Nbut apparently for different reasons.
+Dialogue: 0,0:00:32.44,0:00:37.62,Default,,0000,0000,0000,,...we still meet Hiyajo-san,\Nbut apparently for different reasons.
 Dialogue: 0,0:00:37.62,0:00:40.20,Default,,0000,0000,0000,,Even as worldlines change...
 Dialogue: 0,0:00:39.62,0:00:42.62,On Top,,0000,0000,0000,,“Yesterday”
 Dialogue: 0,0:00:40.20,0:00:43.83,Default,,0000,0000,0000,,...that fate which links us,\Nthose connections...
 Dialogue: 0,0:00:43.83,0:00:46.75,Default,,0000,0000,0000,,Do they change to bring us together as well?
 Dialogue: 0,0:00:49.38,0:00:50.63,Default,,0000,0000,0000,,Mayuri?
 Dialogue: 0,0:00:50.63,0:00:51.80,Default,,0000,0000,0000,,Hello?
-Dialogue: 0,0:00:51.80,0:00:54.42,Default,,0000,0000,0000,,Suzu is... Suzu's in trouble!
+Dialogue: 0,0:00:51.80,0:00:54.42,Default,,0000,0000,0000,,Suzu-san is... Suzu-san's in trouble!
 Dialogue: 0,0:00:54.42,0:00:55.43,Default,,0000,0000,0000,,Suzuha is?
 Dialogue: 0,0:00:55.43,0:01:00.10,Default,,0000,0000,0000,,Yeah! She's heading to the time machine\Nto go one year in the past...
 Dialogue: 0,0:01:00.10,0:01:02.39,Default,,0000,0000,0000,,She's leaving, but she can't come back!
@@ -45,7 +45,7 @@ Dialogue: 0,0:01:14.32,0:01:17.81,Default,,0000,0000,0000,,The only thing that m
 Dialogue: 0,0:01:16.45,0:01:19.03,On Top,,0000,0000,0000,,Orihime-{\i1}sama{\i} will greet you in a miniskirt!
 Dialogue: 0,0:01:20.87,0:01:22.58,Default,,0000,0000,0000,,Kagari?!
 Dialogue: 0,0:01:22.58,0:01:24.00,Default,,0000,0000,0000,,Why is she so early?!
-Dialogue: 0,0:01:27.37,0:01:28.79,Default,,0000,0000,0000,,Okabe?
+Dialogue: 0,0:01:27.37,0:01:28.79,Default,,0000,0000,0000,,Okabe-kun?
 Dialogue: 0,0:01:29.96,0:01:33.01,Default,,0000,0000,0000,,Kagari's still after the time machine.
 Dialogue: 0,0:01:33.01,0:01:36.38,Default,,0000,0000,0000,,I've gotta find her... and stop her!
 Dialogue: 0,0:01:36.38,0:01:38.05,Default,,0000,0000,0000,,Lintahlo.
@@ -67,7 +67,7 @@ Dialogue: 0,0:02:21.43,0:02:24.39,Default,,0000,0000,0000,,You wish to know abou
 Dialogue: 0,0:02:24.39,0:02:26.98,Default,,0000,0000,0000,,I'll tell you everything.
 Dialogue: 0,0:02:26.98,0:02:27.85,Default,,0000,0000,0000,,Moeka!
 Dialogue: 0,0:02:27.85,0:02:29.27,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:02:35.44,0:02:36.94,Default,,0000,0000,0000,,Okabe!
+Dialogue: 0,0:02:35.44,0:02:36.94,Default,,0000,0000,0000,,Okabe-kun!
 Dialogue: 0,0:02:36.94,0:02:38.03,Default,,0000,0000,0000,,I'm fine.
 Dialogue: 0,0:02:38.03,0:02:38.82,Default,,0000,0000,0000,,You need a doctor!
 Dialogue: 0,0:02:38.82,0:02:41.20,Default,,0000,0000,0000,,There's no time for that!
@@ -81,29 +81,29 @@ Dialogue: 0,0:03:05.35,0:03:07.35,Default,,0000,0000,0000,,Kagari...
 Dialogue: 0,0:03:07.35,0:03:09.81,Default,,0000,0000,0000,,I won't let the past be changed.
 Dialogue: 0,0:03:09.81,0:03:13.65,Default,,0000,0000,0000,,I won't let me meeting\Nwith Mommy be undone.
 Dialogue: 0,0:03:13.65,0:03:16.40,Default,,0000,0000,0000,,Nobody's getting the time machine.
-Dialogue: 0,0:03:16.40,0:03:19.44,Default,,0000,0000,0000,,Suzu... that's Kagari?
+Dialogue: 0,0:03:16.40,0:03:19.44,Default,,0000,0000,0000,,Suzu-san... that's Kagari-chan?
 Dialogue: 0,0:03:21.24,0:03:23.32,Default,,0000,0000,0000,,Why?!
 Dialogue: 0,0:03:23.32,0:03:25.58,Default,,0000,0000,0000,,Mommy Mayuri...
 Dialogue: 0,0:03:25.58,0:03:29.00,Default,,0000,0000,0000,,Is Mommy trying to change the future too?
 Dialogue: 0,0:03:29.00,0:03:31.87,Default,,0000,0000,0000,,Just like Big Sis Suzuha wants to.
 Dialogue: 0,0:03:31.87,0:03:35.42,Default,,0000,0000,0000,,Does Mommy want to make it\Nso the two of us never meet?
-Dialogue: 0,0:03:35.42,0:03:36.75,Default,,0000,0000,0000,,Kagari...
+Dialogue: 0,0:03:35.42,0:03:36.75,Default,,0000,0000,0000,,Kagari-chan...
 Dialogue: 0,0:03:36.75,0:03:38.76,Default,,0000,0000,0000,,I don't want that!
 Dialogue: 0,0:03:38.76,0:03:41.76,Default,,0000,0000,0000,,However terrible the future is, I don't care!
 Dialogue: 0,0:03:41.76,0:03:44.89,Default,,0000,0000,0000,,It's the only future\Nthat means something to me!
 Dialogue: 0,0:04:10.25,0:04:13.04,Default,,0000,0000,0000,,What's wrong, Kagari? Can't shoot?
 Dialogue: 0,0:04:13.04,0:04:14.42,Default,,0000,0000,0000,,You little...!
-Dialogue: 0,0:04:14.42,0:04:16.25,Default,,0000,0000,0000,,Kagari.
+Dialogue: 0,0:04:14.42,0:04:16.25,Default,,0000,0000,0000,,Kagari-chan.
 Dialogue: 0,0:04:18.04,0:04:20.01,Default,,0000,0000,0000,,Please, let's stop.
 Dialogue: 0,0:04:20.01,0:04:24.18,Default,,0000,0000,0000,,It's dangerous! Stay back, Mommy! I have to!
 Dialogue: 0,0:04:28.01,0:04:29.76,Default,,0000,0000,0000,,B-Big Sis Mayu...
 Dialogue: 0,0:04:29.76,0:04:31.81,Default,,0000,0000,0000,,M-Mommy?!
 Dialogue: 0,0:04:35.77,0:04:40.36,Default,,0000,0000,0000,,That was scary! I was holding my breath!
-Dialogue: 0,0:04:40.36,0:04:44.86,Default,,0000,0000,0000,,But, I'm glad that you didn't shoot, Kagari.
+Dialogue: 0,0:04:40.36,0:04:44.86,Default,,0000,0000,0000,,But, I'm glad that you didn't shoot, Kagari-chan.
 Dialogue: 0,0:04:44.86,0:04:46.11,Default,,0000,0000,0000,,Mommy!
 Dialogue: 0,0:04:46.11,0:04:48.45,Default,,0000,0000,0000,,Listen...
-Dialogue: 0,0:04:48.45,0:04:50.20,Default,,0000,0000,0000,,Kagari...
-Dialogue: 0,0:04:50.20,0:04:53.87,Default,,0000,0000,0000,,You see, I'm going together with Suzu...
+Dialogue: 0,0:04:48.45,0:04:50.20,Default,,0000,0000,0000,,Kagari-chan...
+Dialogue: 0,0:04:50.20,0:04:53.87,Default,,0000,0000,0000,,You see, I'm going together with Suzu-san...
 Dialogue: 0,0:04:53.87,0:04:57.25,Default,,0000,0000,0000,,...aboard the time machine into the past.
 Dialogue: 0,0:04:57.25,0:05:01.30,Default,,0000,0000,0000,,To open the eyes of someone special to me.
 Dialogue: 0,0:05:01.30,0:05:03.76,Default,,0000,0000,0000,,You can't...
@@ -112,7 +112,7 @@ Dialogue: 0,0:05:07.09,0:05:10.35,Default,,0000,0000,0000,,Nothing good will com
 Dialogue: 0,0:05:10.35,0:05:13.10,Default,,0000,0000,0000,,There's only enough fuel to go one way!
 Dialogue: 0,0:05:13.10,0:05:15.69,Default,,0000,0000,0000,,You can't come back!
 Dialogue: 0,0:05:15.69,0:05:18.98,Default,,0000,0000,0000,,You don't even know... what will happen...
-Dialogue: 0,0:05:18.98,0:05:20.65,Default,,0000,0000,0000,,Kagari...
+Dialogue: 0,0:05:18.98,0:05:20.65,Default,,0000,0000,0000,,Kagari-chan...
 Dialogue: 0,0:05:20.65,0:05:24.40,Default,,0000,0000,0000,,It might be reckless... It might be hopeless...
 Dialogue: 0,0:05:24.40,0:05:28.11,Default,,0000,0000,0000,,But, Okarin is different.
 Dialogue: 0,0:05:28.11,0:05:31.41,Default,,0000,0000,0000,,Okarin has the power to change the future.
@@ -131,11 +131,11 @@ Dialogue: 0,0:06:10.99,0:06:14.41,Default,,0000,0000,0000,,With us into the past
 Dialogue: 0,0:06:14.41,0:06:18.62,Default,,0000,0000,0000,,The future doesn't have to be sad,\Nnor does anyone have to die.
 Dialogue: 0,0:06:18.62,0:06:24.30,Default,,0000,0000,0000,,Instead, we'll all make a future\Nwhere everyone can be happy together!
 Dialogue: 0,0:06:24.30,0:06:26.17,Default,,0000,0000,0000,,Let's go.
-Dialogue: 0,0:06:26.17,0:06:29.76,Default,,0000,0000,0000,,Kagari... together.
+Dialogue: 0,0:06:26.17,0:06:29.76,Default,,0000,0000,0000,,Kagari-chan... together.
 Dialogue: 0,0:06:29.76,0:06:31.68,Default,,0000,0000,0000,,Mommy...
 Dialogue: 0,0:06:31.68,0:06:35.10,Default,,0000,0000,0000,,Do it for me too!
 Dialogue: 0,0:06:35.10,0:06:36.85,Default,,0000,0000,0000,,Okarin?
-Dialogue: 0,0:06:36.85,0:06:38.18,Default,,0000,0000,0000,,Moeka?
+Dialogue: 0,0:06:36.85,0:06:38.18,Default,,0000,0000,0000,,Moeka-san?
 Dialogue: 0,0:06:38.18,0:06:39.85,Default,,0000,0000,0000,,Uncle Okarin!
 Dialogue: 0,0:06:39.85,0:06:43.44,Default,,0000,0000,0000,,Listen... I've come here from the future.
 Dialogue: 0,0:06:43.44,0:06:45.98,Default,,0000,0000,0000,,Using the time leap machine.
@@ -149,23 +149,23 @@ Dialogue: 0,0:07:09.30,0:07:12.34,Default,,0000,0000,0000,,Make Operation Arc-li
 Dialogue: 0,0:07:14.26,0:07:17.06,Default,,0000,0000,0000,,When I'm all pathetic...
 Dialogue: 0,0:07:17.06,0:07:19.93,Default,,0000,0000,0000,,...slap some sense into me!
 Dialogue: 0,0:07:19.93,0:07:22.56,Default,,0000,0000,0000,,Okay! Leave it to me!
-Dialogue: 0,0:07:24.73,0:07:27.15,Default,,0000,0000,0000,,Kagari, come!
+Dialogue: 0,0:07:24.73,0:07:27.15,Default,,0000,0000,0000,,Kagari-chan, come!
 Dialogue: 0,0:07:27.15,0:07:28.65,Default,,0000,0000,0000,,Mommy...
 Dialogue: 0,0:07:30.36,0:07:31.45,Default,,0000,0000,0000,,Moeka!
 Dialogue: 0,0:07:31.45,0:07:33.74,Default,,0000,0000,0000,,I can't hold them long! Hurry!
-Dialogue: 0,0:07:35.62,0:07:38.04,Default,,0000,0000,0000,,Kagari, let's go!
+Dialogue: 0,0:07:35.62,0:07:38.04,Default,,0000,0000,0000,,Kagari-chan, let's go!
 Dialogue: 0,0:07:38.04,0:07:39.45,Default,,0000,0000,0000,,Mommy...
 Dialogue: 0,0:07:41.41,0:07:43.04,Default,,0000,0000,0000,,Tsk!
-Dialogue: 0,0:07:43.04,0:07:45.59,Default,,0000,0000,0000,,Okarin.
-Dialogue: 0,0:07:45.59,0:07:49.38,Default,,0000,0000,0000,,Okarin... You're fine\Nwith never seeing Mommy again?
+Dialogue: 0,0:07:43.04,0:07:45.59,Default,,0000,0000,0000,,Okarin-san.
+Dialogue: 0,0:07:45.59,0:07:49.38,Default,,0000,0000,0000,,Okarin-san... You're fine\Nwith never seeing Mommy again?
 Dialogue: 0,0:07:49.38,0:07:51.42,Default,,0000,0000,0000,,You won't be sad?
 Dialogue: 0,0:07:53.64,0:07:55.55,Default,,0000,0000,0000,,What are you talking about?
 Dialogue: 0,0:07:55.55,0:07:58.10,Default,,0000,0000,0000,,Mayuri's my precious hostage.
 Dialogue: 0,0:07:58.10,0:08:02.23,Default,,0000,0000,0000,,I'll go to wherever she is and bring her back!
 Dialogue: 0,0:08:05.52,0:08:09.19,Default,,0000,0000,0000,,Kagari!?
-Dialogue: 0,0:08:09.19,0:08:10.11,Default,,0000,0000,0000,,Kagari
+Dialogue: 0,0:08:09.19,0:08:10.11,Default,,0000,0000,0000,,Kagari-chan!
 Dialogue: 0,0:08:10.11,0:08:12.86,Default,,0000,0000,0000,,Go! I won't let them anywhere near you!
-Dialogue: 0,0:08:12.86,0:08:13.61,Default,,0000,0000,0000,,Kagari!
+Dialogue: 0,0:08:12.86,0:08:13.61,Default,,0000,0000,0000,,Kagari-chan!
 Dialogue: 0,0:08:13.61,0:08:14.57,Default,,0000,0000,0000,,Hurry!
 Dialogue: 0,0:08:14.57,0:08:17.24,Default,,0000,0000,0000,,Big Sis Mayu!
 Dialogue: 0,0:08:17.24,0:08:17.83,Default,,0000,0000,0000,,Kagari!
@@ -173,7 +173,7 @@ Dialogue: 0,0:08:17.83,0:08:20.41,Default,,0000,0000,0000,,Mommy's Hikoboshi!
 Dialogue: 0,0:08:20.41,0:08:25.50,Default,,0000,0000,0000,,I'm trusting you... Because you\Nsaid I could meet Mommy again!
 Dialogue: 0,0:08:25.50,0:08:27.17,Default,,0000,0000,0000,,Leave it to me!
 Dialogue: 0,0:08:43.69,0:08:46.65,Default,,0000,0000,0000,,It came after all...
-Dialogue: 0,0:08:46.65,0:08:47.48,Default,,0000,0000,0000,,Okabe!
+Dialogue: 0,0:08:46.65,0:08:47.48,Default,,0000,0000,0000,,Okabe-kun!
 Dialogue: 0,0:08:47.48,0:08:49.11,Default,,0000,0000,0000,,Mommy!
 Dialogue: 0,0:08:52.86,0:08:55.45,Default,,0000,0000,0000,,I see it...
 Dialogue: 0,0:08:55.45,0:08:57.87,Default,,0000,0000,0000,,This time...
@@ -208,7 +208,7 @@ Dialogue: 0,0:10:45.18,0:10:48.69,Default,,0000,0000,0000,,Please, listen to wha
 Dialogue: 0,0:10:51.44,0:10:54.61,Default,,0000,0000,0000,,Do you love Hououin Kyouma?
 Dialogue: 0,0:10:54.61,0:10:55.61,Default,,0000,0000,0000,,Eh?!
 Dialogue: 0,0:10:55.61,0:10:59.95,Default,,0000,0000,0000,,In one minute from now,\NOkarin will return but...
-Dialogue: 0,0:10:59.95,0:11:03.41,Default,,0000,0000,0000,,...he will have failed in saving Makise.
+Dialogue: 0,0:10:59.95,0:11:03.41,Default,,0000,0000,0000,,...he will have failed in saving Makise-san.
 Dialogue: 0,0:11:04.83,0:11:06.16,Default,,0000,0000,0000,,So...
 Dialogue: 0,0:11:07.45,0:11:09.33,Default,,0000,0000,0000,,No matter what it takes...
 Dialogue: 0,0:11:09.33,0:11:13.67,Default,,0000,0000,0000,,You have to confront\Nyour Hikoboshi and open up his eyes.
@@ -243,7 +243,7 @@ Dialogue: 0,0:12:31.75,0:12:37.13,Default,,0000,0000,0000,,If we stayed it'd cau
 Dialogue: 0,0:12:37.13,0:12:40.26,Default,,0000,0000,0000,,This might be it for us.
 Dialogue: 0,0:12:40.26,0:12:43.34,Default,,0000,0000,0000,,We could get thrown into some random era.
 Dialogue: 0,0:12:43.34,0:12:46.47,Default,,0000,0000,0000,,One year later... A million later...
-Dialogue: 0,0:12:47.35,0:12:51.06,Default,,0000,0000,0000,,Suzu, thank you.
+Dialogue: 0,0:12:47.35,0:12:51.06,Default,,0000,0000,0000,,Suzu-san, thank you.
 Dialogue: 0,0:12:51.06,0:12:52.56,Default,,0000,0000,0000,,Big Sis Mayu?
 Dialogue: 0,0:12:52.56,0:12:55.90,Default,,0000,0000,0000,,For bringing me along with you today.
 Dialogue: 0,0:12:55.90,0:13:01.86,Default,,0000,0000,0000,,I'm sure the other Mayushii and\Nmy Hikoboshi can take care of the rest.
@@ -252,7 +252,7 @@ Dialogue: 0,0:13:07.99,0:13:10.08,Default,,0000,0000,0000,,If I had Reading Stei
 Dialogue: 0,0:13:10.08,0:13:14.21,Default,,0000,0000,0000,,...I could remember everything,\Neven when worldlines change.
 Dialogue: 0,0:13:14.21,0:13:17.04,Default,,0000,0000,0000,,Big Sis Mayu being younger than me...
 Dialogue: 0,0:13:17.04,0:13:19.00,Default,,0000,0000,0000,,This moment right now...
-Dialogue: 0,0:13:19.00,0:13:22.84,Default,,0000,0000,0000,,I won't get to talk with\NSuzu for another six whole years.
+Dialogue: 0,0:13:19.00,0:13:22.84,Default,,0000,0000,0000,,I won't get to talk with\NSuzu-san for another six whole years.
 Dialogue: 0,0:13:22.84,0:13:24.47,Default,,0000,0000,0000,,Oh, except...
 Dialogue: 0,0:13:24.47,0:13:27.59,Default,,0000,0000,0000,,If you're just being born,\NI guess you can't talk much.
 Dialogue: 0,0:13:30.72,0:13:34.52,Default,,0000,0000,0000,,Hey, Okarin...
@@ -349,9 +349,9 @@ Dialogue: 0,0:17:38.51,0:17:45.18,On Top,,0000,0000,0000,,{\i1}I will be swallow
 Dialogue: 0,0:17:39.01,0:17:43.35,Default,,0000,0000,0000,,Now all that's left is to send it\Nwith a D-Mail to the past.
 Dialogue: 0,0:17:43.35,0:17:44.06,Default,,0000,0000,0000,,Luka.
 Dialogue: 0,0:17:44.06,0:17:45.10,Default,,0000,0000,0000,,Right.
-Dialogue: 0,0:17:45.10,0:17:48.60,Default,,0000,0000,0000,,The video just now goes to Kyouma in 2010.
-Dialogue: 0,0:17:48.60,0:17:50.61,Default,,0000,0000,0000,,And the one Itaru took...
-Dialogue: 0,0:17:50.61,0:17:56.40,Default,,0000,0000,0000,,...goes to Suzuha in 2011\Nafter you depart on your trip.
+Dialogue: 0,0:17:45.10,0:17:48.60,Default,,0000,0000,0000,,The video just now goes to Kyouma-san in 2010.
+Dialogue: 0,0:17:48.60,0:17:50.61,Default,,0000,0000,0000,,And the one Itaru-san took...
+Dialogue: 0,0:17:50.61,0:17:56.40,Default,,0000,0000,0000,,...goes to Suzuha-chan in 2011\Nafter you depart on your trip.
 Dialogue: 0,0:17:56.40,0:17:58.41,Default,,0000,0000,0000,,You really wanna do this?
 Dialogue: 0,0:17:58.41,0:17:59.24,Default,,0000,0000,0000,,What's wrong?
 Dialogue: 0,0:17:59.24,0:18:04.62,Default,,0000,0000,0000,,Because, you're manning the first run\Nof an experimental time machine.
@@ -376,7 +376,7 @@ Dialogue: 0,0:18:59.01,0:19:02.30,Default,,0000,0000,0000,,...a time machine lef
 Dialogue: 0,0:19:02.30,0:19:05.43,Default,,0000,0000,0000,,I leave now to find Mayuri and Suzuha!
 Dialogue: 0,0:19:05.43,0:19:09.81,Default,,0000,0000,0000,,The Kerr black hole tracer\Nwill help me find their locus.
 Dialogue: 0,0:19:09.81,0:19:12.52,Default,,0000,0000,0000,,It should lead me straight to them!
-Dialogue: 0,0:19:12.52,0:19:15.61,Default,,0000,0000,0000,,Okarin.
+Dialogue: 0,0:19:12.52,0:19:15.61,Default,,0000,0000,0000,,Okarin-san.
 Dialogue: 0,0:19:15.61,0:19:16.78,Default,,0000,0000,0000,,Take this.
 Dialogue: 0,0:19:16.78,0:19:18.11,Default,,0000,0000,0000,,Are you sure?
 Dialogue: 0,0:19:18.11,0:19:22.28,Default,,0000,0000,0000,,Yes... Please give it to Mommy for me.
@@ -393,7 +393,7 @@ Dialogue: 0,0:19:59.53,0:20:02.24,Default,,0000,0000,0000,,Do you think... he'll
 Dialogue: 0,0:20:02.24,0:20:05.41,Default,,0000,0000,0000,,Of course. Kyouma can do it, nya.
 Dialogue: 0,0:20:05.41,0:20:09.62,Default,,0000,0000,0000,,That's right. He makes the impossible possible.
 Dialogue: 0,0:20:09.62,0:20:12.75,Default,,0000,0000,0000,,That's what makes Okarin our Okarin.
-Dialogue: 0,0:20:14.29,0:20:15.84,Default,,0000,0000,0000,,Okarin...
+Dialogue: 0,0:20:14.29,0:20:15.84,Default,,0000,0000,0000,,Okarin-san...
 Dialogue: 0,0:20:22.84,0:20:26.55,Default,,0000,0000,0000,,The universe has a beginning, but no end.
 Dialogue: 0,0:20:26.55,0:20:28.51,Default,,0000,0000,0000,,Infinite.
 Dialogue: 0,0:20:28.51,0:20:34.06,Default,,0000,0000,0000,,Stars have beginnings too,\Nbut meet an end of their own making.
@@ -405,6 +405,6 @@ Dialogue: 0,0:20:52.08,0:20:55.29,Default,,0000,0000,0000,,For humans to exceed 
 Dialogue: 0,0:20:55.29,0:21:00.88,Default,,0000,0000,0000,,...is more foolish than\Nfor fish to start living on land.
 Dialogue: 0,0:21:00.88,0:21:06.76,Default,,0000,0000,0000,,This is the story of those who\Nfought against God's final ultimatum.
 Dialogue: 0,0:21:06.76,0:21:08.97,Default,,0000,0000,0000,,This is the epigraph of their obsession.
-Dialogue: 0,0:23:14.35,0:23:15.64,Default,,0000,0000,0000,,Suzu!
+Dialogue: 0,0:23:14.35,0:23:15.64,Default,,0000,0000,0000,,Suzu-san!
 Dialogue: 0,0:23:17.27,0:23:18.52,Default,,0000,0000,0000,,Mmm!
 Dialogue: 0,0:23:25.61,0:23:28.90,Default,,0000,0000,0000,,Sorry to keep you waiting, you two!

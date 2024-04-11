@@ -19,7 +19,7 @@ Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:00:15.47,0:00:19.51,Default,,0000,0000,0000,,So this is where you've been, Big Sis Mayu.
-Dialogue: 0,0:00:19.51,0:00:21.27,Default,,0000,0000,0000,,Suzu...
+Dialogue: 0,0:00:19.51,0:00:21.27,Default,,0000,0000,0000,,Suzu-chan...
 Dialogue: 0,0:00:21.27,0:00:23.39,Default,,0000,0000,0000,,Dad and the others are looking for you.
 Dialogue: 0,0:00:23.39,0:00:26.73,Default,,0000,0000,0000,,They said they're about\Nto kick off the operation.
 Dialogue: 0,0:00:26.73,0:00:28.19,Default,,0000,0000,0000,,Big Sis Mayu?
@@ -58,23 +58,23 @@ Dialogue: 0,0:02:54.54,0:02:55.80,Default,,0000,0000,0000,,It's okay.
 Dialogue: 0,0:02:55.80,0:02:57.80,Default,,0000,0000,0000,,Wanna go grab a bite?
 Dialogue: 0,0:02:57.80,0:02:59.34,Default,,0000,0000,0000,,My treat.
 Dialogue: 0,0:03:01.13,0:03:05.35,Default,,0000,0000,0000,,In that case, can we head over to Akiba?
-Dialogue: 0,0:03:05.35,0:03:09.48,Default,,0000,0000,0000,,Luka and Faris\Ninvited me out a bit ago.
+Dialogue: 0,0:03:05.35,0:03:09.48,Default,,0000,0000,0000,,Luka-kun and Faris-chan\Ninvited me out a bit ago.
 Dialogue: 0,0:03:09.48,0:03:12.02,Default,,0000,0000,0000,,Akihabara, huh?
 Dialogue: 0,0:03:12.02,0:03:13.31,Default,,0000,0000,0000,,That a no?
 Dialogue: 0,0:03:16.61,0:03:18.94,Default,,0000,0000,0000,,No, let's go.
 Dialogue: 0,0:03:20.40,0:03:21.74,Default,,0000,0000,0000,,Wonderful!
 Dialogue: 0,0:03:21.74,0:03:24.74,Default,,0000,0000,0000,,I'll let those guys know we're coming.
-Dialogue: 0,0:03:24.74,0:03:27.54,Default,,0000,0000,0000,,Faris? Guess what?
+Dialogue: 0,0:03:24.74,0:03:27.54,Default,,0000,0000,0000,,Faris-chan? Guess what?
 Dialogue: 0,0:03:27.54,0:03:30.66,Default,,0000,0000,0000,,It's already December...
 Dialogue: 0,0:03:32.29,0:03:34.96,Default,,0000,0000,0000,,It feels like that summer...
 Dialogue: 0,0:03:34.96,0:03:36.67,Default,,0000,0000,0000,,...was just days ago.
 Dialogue: 0,0:03:49.31,0:03:54.31,Default,,0000,0000,0000,,Um, they said they'd be\Nwaiting here somewhere... Oh!
-Dialogue: 0,0:03:54.31,0:03:55.94,Default,,0000,0000,0000,,Luka! Faris!
+Dialogue: 0,0:03:54.31,0:03:55.94,Default,,0000,0000,0000,,Luka-kun! Faris-chan!
 Dialogue: 0,0:03:55.94,0:03:56.94,Default,,0000,0000,0000,,Tutturu!
-Dialogue: 0,0:03:56.94,0:03:58.90,Default,,0000,0000,0000,,Hello, Mayuri.
+Dialogue: 0,0:03:56.94,0:03:58.90,Default,,0000,0000,0000,,Hello, Mayuri-chan.
 Dialogue: 0,0:03:58.90,0:04:01.53,Default,,0000,0000,0000,,Oh! It's Kyouma!
 Dialogue: 0,0:04:01.53,0:04:04.91,Default,,0000,0000,0000,,It's been a while, Lukako, Faris.
-Dialogue: 0,0:04:04.91,0:04:06.12,Default,,0000,0000,0000,,Okabe...
+Dialogue: 0,0:04:04.91,0:04:06.12,Default,,0000,0000,0000,,Okabe-san...
 Dialogue: 0,0:04:06.12,0:04:09.58,Default,,0000,0000,0000,,Kyouma! I missed you, nya!
 Dialogue: 0,0:04:09.58,0:04:11.37,Default,,0000,0000,0000,,Hey! Cut it out!
 Dialogue: 0,0:04:11.37,0:04:14.83,Default,,0000,0000,0000,,What for, meow?\NKyouma knows he likes it, meow!
@@ -91,7 +91,7 @@ Dialogue: 0,0:04:37.77,0:04:40.07,Default,,0000,0000,0000,,No, I'm swamped with 
 Dialogue: 0,0:04:40.07,0:04:41.23,Default,,0000,0000,0000,,Nya?
 Dialogue: 0,0:04:41.23,0:04:42.69,Default,,0000,0000,0000,,Plus, club and stuff.
 Dialogue: 0,0:04:42.69,0:04:43.86,Default,,0000,0000,0000,,Nya nya?
-Dialogue: 0,0:04:43.86,0:04:45.70,Default,,0000,0000,0000,,Okabe is in a club?
+Dialogue: 0,0:04:43.86,0:04:45.70,Default,,0000,0000,0000,,Okabe-san is in a club?
 Dialogue: 0,0:04:45.70,0:04:48.41,Default,,0000,0000,0000,,Researching UFOs and\Nmythical creatures and stuff?
 Dialogue: 0,0:04:48.41,0:04:50.79,Default,,0000,0000,0000,,No, the tennis club.
 Dialogue: 0,0:04:51.75,0:04:54.33,Default,,0000,0000,0000,,What?!
@@ -105,7 +105,7 @@ Dialogue: 0,0:05:10.64,0:05:13.31,Default,,0000,0000,0000,,If you must know, g-g
 Dialogue: 0,0:05:13.31,0:05:14.23,Default,,0000,0000,0000,,Group...
 Dialogue: 0,0:05:14.23,0:05:15.14,Default,,0000,0000,0000,,...dates?!
 Dialogue: 0,0:05:15.14,0:05:16.98,Default,,0000,0000,0000,,What?!
-Dialogue: 0,0:05:16.98,0:05:18.73,Default,,0000,0000,0000,,Okabe is going on group dates?!
+Dialogue: 0,0:05:16.98,0:05:18.73,Default,,0000,0000,0000,,Okabe-san is going on group dates?!
 Dialogue: 0,0:05:18.73,0:05:21.53,Default,,0000,0000,0000,,How could you?! That hurts! That's pathetic!
 Dialogue: 0,0:05:21.53,0:05:23.28,Default,,0000,0000,0000,,You disgust me, mister! Disgust me!
 Dialogue: 0,0:05:23.28,0:05:25.57,Default,,0000,0000,0000,,What's gotten into you?
@@ -113,8 +113,8 @@ Dialogue: 0,0:05:25.57,0:05:27.28,Default,,0000,0000,0000,,Don't be so mean, guy
 Dialogue: 0,0:05:27.28,0:05:29.66,Default,,0000,0000,0000,,I'm a normal college student, you know.
 Dialogue: 0,0:05:29.66,0:05:31.16,Default,,0000,0000,0000,,You're lewd! So lewd!
 Dialogue: 0,0:05:31.16,0:05:32.62,Default,,0000,0000,0000,,Explain yourself, Kyouma!
-Dialogue: 0,0:05:32.62,0:05:34.50,Default,,0000,0000,0000,,How could you, Okabe?
-Dialogue: 0,0:05:34.50,0:05:36.67,Default,,0000,0000,0000,,—Erm...\N—A message from Yuki!
+Dialogue: 0,0:05:32.62,0:05:34.50,Default,,0000,0000,0000,,How could you, Okabe-san?
+Dialogue: 0,0:05:34.50,0:05:36.67,Default,,0000,0000,0000,,—Erm...\N—A message from Yuki-san!
 Dialogue: 0,0:05:36.67,0:05:38.38,Default,,0000,0000,0000,,Something happen?
 Dialogue: 0,0:05:38.38,0:05:39.50,Default,,0000,0000,0000,,No...
 Dialogue: 0,0:05:39.50,0:05:44.42,Default,,0000,0000,0000,,She said if I'm around Akiba, she\Nwants to meet up and show me something.
@@ -161,9 +161,9 @@ Dialogue: 0,0:07:53.47,0:07:54.64,Default,,0000,0000,0000,,Suzuha, hide!
 Dialogue: 0,0:07:54.64,0:07:56.26,Default,,0000,0000,0000,,Okey-dokey!
 Dialogue: 0,0:08:03.85,0:08:05.61,Default,,0000,0000,0000,,Come on in.
 Dialogue: 0,0:08:07.32,0:08:09.48,Default,,0000,0000,0000,,Hello!
-Dialogue: 0,0:08:11.32,0:08:15.12,Default,,0000,0000,0000,,M-Miss Amane? What brings you here? {Miss Amane for consistency with the WhyNot subs}
-Dialogue: 0,0:08:16.37,0:08:18.16,Default,,0000,0000,0000,,Hmm? Mayuri isn't around?
-Dialogue: 0,0:08:18.16,0:08:21.12,Default,,0000,0000,0000,,Mayushii? Not yet...
+Dialogue: 0,0:08:11.32,0:08:15.12,Default,,0000,0000,0000,,A-Amane-shi? What brings you here?
+Dialogue: 0,0:08:16.37,0:08:18.16,Default,,0000,0000,0000,,Hmm? Mayuri-chan isn't around?
+Dialogue: 0,0:08:18.16,0:08:21.12,Default,,0000,0000,0000,,Mayu-shi? Not yet...
 Dialogue: 0,0:08:21.12,0:08:23.50,Default,,0000,0000,0000,,I think I got here a bit early.
 Dialogue: 0,0:08:23.50,0:08:26.04,Default,,0000,0000,0000,,She said she would meet up with me here.
 Dialogue: 0,0:08:26.04,0:08:27.09,Default,,0000,0000,0000,,Yeah?
@@ -178,11 +178,11 @@ Dialogue: 0,0:08:44.69,0:08:47.77,Default,,0000,0000,0000,,Ah! Y-You must mean S
 Dialogue: 0,0:08:47.77,0:08:49.44,Default,,0000,0000,0000,,Who else would I mean?
 Dialogue: 0,0:08:49.44,0:08:52.53,Default,,0000,0000,0000,,Uh, well... Nobody?
 Dialogue: 0,0:08:55.20,0:08:57.20,Default,,0000,0000,0000,,Tutturu!
-Dialogue: 0,0:08:58.24,0:08:59.74,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 0,0:08:59.74,0:09:01.58,Default,,0000,0000,0000,,Tutturu, Yuki!
+Dialogue: 0,0:08:58.24,0:08:59.74,Default,,0000,0000,0000,,Mayuri-chan!
+Dialogue: 0,0:08:59.74,0:09:01.58,Default,,0000,0000,0000,,Tutturu, Yuki-san!
 Dialogue: 0,0:09:01.58,0:09:02.79,Default,,0000,0000,0000,,Nyan nyan!
-Dialogue: 0,0:09:02.79,0:09:04.83,Default,,0000,0000,0000,,Faris and Luka came too!
-Dialogue: 0,0:09:04.83,0:09:07.71,Default,,0000,0000,0000,,Faris!
+Dialogue: 0,0:09:02.79,0:09:04.83,Default,,0000,0000,0000,,Faris-san and Luka-san came too!
+Dialogue: 0,0:09:04.83,0:09:07.71,Default,,0000,0000,0000,,Faris-tan!
 Dialogue: 0,0:09:07.71,0:09:09.75,Default,,0000,0000,0000,,Huh? Ah...
 Dialogue: 0,0:09:11.84,0:09:14.67,Default,,0000,0000,0000,,This place hasn't changed a bit.
 Dialogue: 0,0:09:17.05,0:09:18.68,Default,,0000,0000,0000,,Okarin!
@@ -193,7 +193,7 @@ Dialogue: 0,0:09:29.44,0:09:34.49,On Top,,0000,0000,0000,,prompting the Ministry
 Dialogue: 0,0:09:30.27,0:09:34.49,Default,,0000,0000,0000,,I-It's your own lab, so you don't have to ask.
 Dialogue: 0,0:09:34.49,0:09:35.82,Default,,0000,0000,0000,,I suppose so.
 Dialogue: 0,0:09:34.49,0:09:35.82,On Top,,0000,0000,0000,,Continuing with the news...
-Dialogue: 0,0:09:35.82,0:09:39.12,Default,,0000,0000,0000,,Oh! Your clothes are so cute, Yuki!
+Dialogue: 0,0:09:35.82,0:09:39.12,Default,,0000,0000,0000,,Oh! Your clothes are so cute, Yuki-san!
 Dialogue: 0,0:09:35.82,0:09:39.12,On Top,,0000,0000,0000,,Earlier, Russia experienced\Na magnitude 6 earthquake.
 Dialogue: 0,0:09:39.12,0:09:42.24,Default,,0000,0000,0000,,I wanted to show you\N'cuz I knew you would say that.
 Dialogue: 0,0:09:42.24,0:09:44.79,Default,,0000,0000,0000,,Let Faris see it too!
@@ -201,8 +201,8 @@ Dialogue: 0,0:09:44.79,0:09:46.92,Default,,0000,0000,0000,,We've got Dk Pepper t
 Dialogue: 0,0:09:46.92,0:09:49.29,Default,,0000,0000,0000,,Wait, Okarin! Where are you going?
 Dialogue: 0,0:09:49.29,0:09:51.34,Default,,0000,0000,0000,,Where? Just to the toilet...
 Dialogue: 0,0:09:51.34,0:09:52.88,Default,,0000,0000,0000,,Uh...
-Dialogue: 0,0:10:19.11,0:10:21.20,Default,,0000,0000,0000,,—Okarin?!\N—Okabe!
-Dialogue: 0,0:10:25.54,0:10:28.12,Default,,0000,0000,0000,,Suzu...
+Dialogue: 0,0:10:19.11,0:10:21.20,Default,,0000,0000,0000,,—Okarin?!\N—Okabe-san!
+Dialogue: 0,0:10:25.54,0:10:28.12,Default,,0000,0000,0000,,Suzu-san...
 Dialogue: 0,0:10:28.12,0:10:29.75,Default,,0000,0000,0000,,H-Hi there.
 Dialogue: 0,0:10:30.96,0:10:35.96,On Top,,0000,0000,0000,,“Missing Link of the Annihilator\N-Absolute Zero-”
 Dialogue: 0,0:10:38.88,0:10:40.39,Default,,0000,0000,0000,,Ta-da!
@@ -210,13 +210,13 @@ Dialogue: 0,0:10:41.30,0:10:42.39,Default,,0000,0000,0000,,Very cute!
 Dialogue: 0,0:10:42.39,0:10:43.76,Default,,0000,0000,0000,,Me like, nya!
 Dialogue: 0,0:10:43.76,0:10:46.68,Default,,0000,0000,0000,,A feast for the eyes! I'll have seconds!
 Dialogue: 0,0:10:47.81,0:10:49.85,Default,,0000,0000,0000,,Hmm? Where's Okarin?
-Dialogue: 0,0:10:49.85,0:10:52.31,Default,,0000,0000,0000,,He went with Suzuha to the roof.
+Dialogue: 0,0:10:49.85,0:10:52.31,Default,,0000,0000,0000,,He went with Suzuha-san to the roof.
 Dialogue: 0,0:10:52.31,0:10:55.23,Default,,0000,0000,0000,,They wanted to talk about something.
 Dialogue: 0,0:10:55.23,0:10:56.40,Default,,0000,0000,0000,,I see...
 Dialogue: 0,0:11:02.74,0:11:06.12,Default,,0000,0000,0000,,You didn't have to pretend\Nlike this in the first place.
 Dialogue: 0,0:11:06.12,0:11:10.54,Default,,0000,0000,0000,,Saying you're Daru's little sister\Nonly made yourself more suspicious.
 Dialogue: 0,0:11:10.54,0:11:15.00,Default,,0000,0000,0000,,Yeah, but I didn't think Mom\Nwould wanna get to know me so much.
-Dialogue: 0,0:11:15.00,0:11:17.55,Default,,0000,0000,0000,,Yuki and Daru first met at...
+Dialogue: 0,0:11:15.00,0:11:17.55,Default,,0000,0000,0000,,Yuki-san and Daru first met at...
 Dialogue: 0,0:11:17.55,0:11:19.17,Default,,0000,0000,0000,,Summer ComiMa.
 Dialogue: 0,0:11:19.17,0:11:23.26,Default,,0000,0000,0000,,She was a cosplay friend of Big Sis Mayu,\Nbut in time, she started coming here.
 Dialogue: 0,0:11:24.72,0:11:26.56,Default,,0000,0000,0000,,Owowow...
@@ -234,7 +234,7 @@ Dialogue: 0,0:12:23.70,0:12:25.74,Default,,0000,0000,0000,,World War III...
 Dialogue: 0,0:12:25.74,0:12:26.74,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:12:26.74,0:12:29.29,Default,,0000,0000,0000,,Because Dad and the others\Nwere building a time machine,
 Dialogue: 0,0:12:29.29,0:12:31.70,Default,,0000,0000,0000,,we were seen as a rebel organization.
-Dialogue: 0,0:12:31.70,0:12:35.33,Default,,0000,0000,0000,,But Daru, Yuki, and you somehow escaped?
+Dialogue: 0,0:12:31.70,0:12:35.33,Default,,0000,0000,0000,,But Daru, Yuki-san, and you somehow escaped?
 Dialogue: 0,0:12:35.33,0:12:36.54,Default,,0000,0000,0000,,No...
 Dialogue: 0,0:12:36.54,0:12:41.55,Default,,0000,0000,0000,,My mom tried to protect me from a military\Ndrone and was mowed down by machine guns.
 Dialogue: 0,0:12:45.76,0:12:49.39,Default,,0000,0000,0000,,I saw her get ripped\Nto shreds right before my eyes.
@@ -271,7 +271,7 @@ Dialogue: 0,0:14:21.61,0:14:25.53,Default,,0000,0000,0000,,There's still time.
 Dialogue: 0,0:14:25.53,0:14:27.90,Default,,0000,0000,0000,,I want you to reconsider.
 Dialogue: 0,0:14:27.90,0:14:29.24,Default,,0000,0000,0000,,I...
 Dialogue: 0,0:14:30.49,0:14:33.20,Default,,0000,0000,0000,,...have not given up.
-Dialogue: 0,0:14:34.04,0:14:37.50,Default,,0000,0000,0000,,In the end, I guess Suzu didn't come back.
+Dialogue: 0,0:14:34.04,0:14:37.50,Default,,0000,0000,0000,,In the end, I guess Suzu-san didn't come back.
 Dialogue: 0,0:14:37.50,0:14:38.96,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:14:38.96,0:14:41.58,Default,,0000,0000,0000,,The two of you didn't fight, did you?
 Dialogue: 0,0:14:41.58,0:14:43.50,Default,,0000,0000,0000,,That's not what happened.

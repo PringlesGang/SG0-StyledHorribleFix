@@ -20,7 +20,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:00:25.94,0:00:31.78,Default,,0000,0000,0000,,Basically, no matter how much you time leap,\Nthe time machine keeps getting destroyed?
 Dialogue: 0,0:00:31.78,0:00:32.74,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:00:32.74,0:00:37.95,Default,,0000,0000,0000,,Can't you rush to Radikan\Nand stop Mayushii before she hops in?
+Dialogue: 0,0:00:32.74,0:00:37.95,Default,,0000,0000,0000,,Can't you rush to Radikan\Nand stop Mayu-shi before she hops in?
 Dialogue: 0,0:00:37.95,0:00:43.00,Default,,0000,0000,0000,,Of course... And that even might\Nsave Mayushii and Suzuha.
 Dialogue: 0,0:00:43.00,0:00:47.42,Default,,0000,0000,0000,,However, there's a strong chance\Nthat makes things unpredictable.
 Dialogue: 0,0:00:47.42,0:00:48.79,Default,,0000,0000,0000,,What do you mean?
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:33.08,0:03:37.34,Default,,0000,0000,0000,,Long have I known whi
 Dialogue: 0,0:03:37.34,0:03:39.80,Default,,0000,0000,0000,,And they've begun to move.
 Dialogue: 0,0:03:41.63,0:03:43.01,Default,,0000,0000,0000,,Senpai...
 Dialogue: 0,0:03:43.01,0:03:43.97,Default,,0000,0000,0000,,What?
-Dialogue: 0,0:03:43.97,0:03:46.18,Default,,0000,0000,0000,,Did Okabe hit his head on something?
+Dialogue: 0,0:03:43.97,0:03:46.18,Default,,0000,0000,0000,,Did Okabe-san hit his head on something?
 Dialogue: 0,0:03:46.18,0:03:48.43,Default,,0000,0000,0000,,Or has he been traumatized by—
 Dialogue: 0,0:03:48.43,0:03:50.14,Default,,0000,0000,0000,,Silence, Christina!
 Dialogue: 0,0:03:50.14,0:03:51.60,Default,,0000,0000,0000,,Don't add -tina!
@@ -98,10 +98,10 @@ Dialogue: 0,0:04:08.70,0:04:11.91,Default,,0000,0000,0000,,and he's delusional a
 Dialogue: 0,0:04:11.91,0:04:16.96,Default,,0000,0000,0000,,But, that's exactly why his absurd logic\Ncan overcome the impossible.
 Dialogue: 0,0:04:16.96,0:04:17.63,Default,,0000,0000,0000,,Daru...
 Dialogue: 0,0:04:17.63,0:04:21.17,Default,,0000,0000,0000,,Now explain why you stepped\Noutside looking all gloomy
-Dialogue: 0,0:04:21.17,0:04:24.05,Default,,0000,0000,0000,,but came back with\NMaho and a new attitude?
+Dialogue: 0,0:04:21.17,0:04:24.05,Default,,0000,0000,0000,,but came back with\NMaho-tan and a new attitude?
 Dialogue: 0,0:04:24.05,0:04:27.22,Default,,0000,0000,0000,,What happened? What'd you two do, Okarin?!
 Dialogue: 0,0:04:27.22,0:04:29.31,Default,,0000,0000,0000,,—Eh? Huh? Uh... Eh?\N—A smooch? A smoochy?!
-Dialogue: 0,0:04:29.31,0:04:31.81,Default,,0000,0000,0000,,Even though you have Mayushii?! I'm jealous!
+Dialogue: 0,0:04:29.31,0:04:31.81,Default,,0000,0000,0000,,Even though you have Mayu-shi?! I'm jealous!
 Dialogue: 0,0:04:31.81,0:04:33.77,Default,,0000,0000,0000,,—Nothing happened between us!\N—You smooched?! She smooched you?!
 Dialogue: 0,0:04:33.77,0:04:34.81,Default,,0000,0000,0000,,—Besides, Daru... You're forgetting\Nthe most important thing.\N—You smooched?! She smooched you?!
 Dialogue: 0,0:04:34.81,0:04:37.19,Default,,0000,0000,0000,,—Besides, Daru... You're forgetting\Nthe most important thing.\N—Huh? Huh?!
@@ -159,7 +159,7 @@ Dialogue: 0,0:06:40.19,0:06:43.15,On Top,,0000,0000,0000,,“Foreign Intel”
 Dialogue: 0,0:06:40.60,0:06:43.19,Default,,0000,0000,0000,,In this case, Russia is...
 Dialogue: 0,0:06:43.19,0:06:44.65,Default,,0000,0000,0000,,Whoa!
 Dialogue: 0,0:06:44.65,0:06:48.03,Default,,0000,0000,0000,,Russ... ia... is...
-Dialogue: 0,0:06:49.99,0:06:53.95,Default,,0000,0000,0000,,It's here! The promised pose\Nof Maho we all hoped for!
+Dialogue: 0,0:06:49.99,0:06:53.95,Default,,0000,0000,0000,,It's here! The promised pose\Nof Maho-tan we all hoped for!
 Dialogue: 0,0:06:53.95,0:06:55.29,Default,,0000,0000,0000,,Says who?!
 Dialogue: 0,0:06:55.29,0:06:57.20,Default,,0000,0000,0000,,It must be done.
 Dialogue: 0,0:06:57.20,0:06:58.79,Default,,0000,0000,0000,,—Here.\N—Eh?
@@ -169,7 +169,7 @@ Dialogue: 0,0:07:09.05,0:07:11.97,Default,,0000,0000,0000,,know that we have a t
 Dialogue: 0,0:07:11.97,0:07:15.22,Default,,0000,0000,0000,,For the Americans, it's because of Leskinen.
 Dialogue: 0,0:07:15.22,0:07:17.47,Default,,0000,0000,0000,,The future Leskinen used Kagari
 Dialogue: 0,0:07:17.47,0:07:20.56,Default,,0000,0000,0000,,to tell the current Leskinen\Nabout the time machine.
-Dialogue: 0,0:07:20.56,0:07:25.19,Default,,0000,0000,0000,,But, Kagari would have\Nmet the professor years ago.
+Dialogue: 0,0:07:20.56,0:07:25.19,Default,,0000,0000,0000,,But, Kagari-san would have\Nmet the professor years ago.
 Dialogue: 0,0:07:25.19,0:07:27.53,Default,,0000,0000,0000,,Why didn't he make his move then?
 Dialogue: 0,0:07:27.53,0:07:28.94,Default,,0000,0000,0000,,Nothing could be changed.
 Dialogue: 0,0:07:28.94,0:07:29.74,Default,,0000,0000,0000,,Eh?
@@ -245,7 +245,7 @@ Dialogue: 0,0:10:59.70,0:11:02.24,Default,,0000,0000,0000,,Can it be sent withou
 Dialogue: 0,0:11:02.24,0:11:03.58,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:11:03.58,0:11:10.16,Default,,0000,0000,0000,,Thing is, RINE was still in beta last spring\Nand I was the only one with it installed.
 Dialogue: 0,0:11:10.16,0:11:12.83,Default,,0000,0000,0000,,I think last New Year's might be our limit.
-Dialogue: 0,0:11:12.83,0:11:16.84,Default,,0000,0000,0000,,So, we can't send it\Nto anyone but Hashida.
+Dialogue: 0,0:11:12.83,0:11:16.84,Default,,0000,0000,0000,,So, we can't send it\Nto anyone but Hashida-san.
 Dialogue: 0,0:11:16.84,0:11:17.96,Default,,0000,0000,0000,,Will it work?
 Dialogue: 0,0:11:17.96,0:11:19.38,Default,,0000,0000,0000,,It's possible.
 Dialogue: 0,0:11:19.38,0:11:22.93,Default,,0000,0000,0000,,You'll get a message from\Nyour future self saying to safeguard
@@ -277,7 +277,7 @@ Dialogue: 0,0:12:41.71,0:12:45.80,Default,,0000,0000,0000,,Then, isn't it obviou
 Dialogue: 0,0:12:45.80,0:12:48.18,Default,,0000,0000,0000,,It is, but...
 Dialogue: 0,0:12:48.18,0:12:50.52,Default,,0000,0000,0000,,I think I understand his side.
 Dialogue: 0,0:12:50.52,0:12:53.31,Default,,0000,0000,0000,,And... I'm sure you do too.
-Dialogue: 0,0:12:55.19,0:12:57.90,Default,,0000,0000,0000,,I think... Okabe...
+Dialogue: 0,0:12:55.19,0:12:57.90,Default,,0000,0000,0000,,I think... Okabe-san...
 Dialogue: 0,0:13:14.08,0:13:14.87,Default,,0000,0000,0000,,What's up?
 Dialogue: 0,0:13:14.87,0:13:17.13,Default,,0000,0000,0000,,Just passing along a message.
 Dialogue: 0,0:13:17.13,0:13:19.59,Default,,0000,0000,0000,,Amadeus wants to talk to you.
@@ -358,7 +358,7 @@ Dialogue: 0,0:18:04.66,0:18:09.38,Default,,0000,0000,0000,,That choosing Mayuri 
 Dialogue: 0,0:18:09.38,0:18:10.92,Default,,0000,0000,0000,,I can imagine.
 Dialogue: 0,0:18:10.92,0:18:17.68,Default,,0000,0000,0000,,My pride won't allow\Na sacrifice to be made for me.
 Dialogue: 0,0:18:17.68,0:18:20.76,Default,,0000,0000,0000,,You know what you have to do, don't you?
-Dialogue: 0,0:18:20.76,0:18:24.47,Default,,0000,0000,0000,,Save Shiina and Suzuha,\Nand don't allow the war to start by—
+Dialogue: 0,0:18:20.76,0:18:24.47,Default,,0000,0000,0000,,Save Shiina-san and Suzuha-san,\Nand don't allow the war to start by—
 Dialogue: 0,0:18:24.47,0:18:27.73,Default,,0000,0000,0000,,But then you...!
 Dialogue: 0,0:18:27.73,0:18:29.60,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:18:29.60,0:18:33.61,Default,,0000,0000,0000,,It'll be like you never existed.
@@ -391,7 +391,7 @@ Dialogue: 0,0:20:36.52,0:20:38.15,Default,,0000,0000,0000,,Ready, Senpai?
 Dialogue: 0,0:20:40.11,0:20:41.15,Default,,0000,0000,0000,,You sure?
 Dialogue: 0,0:20:41.15,0:20:42.36,Default,,0000,0000,0000,,Yes.
 Dialogue: 0,0:20:43.70,0:20:47.91,On Top,,0000,0000,0000,,“Break into the servers of Viktor Chondria\NUniversity's Brain Science Institute and destroy\Nall the data concerning the Amadeus AI. Open the door with the attached key below.”
-Dialogue: 0,0:20:44.03,0:20:50.66,Default,,0000,0000,0000,,Okay. All that's left is to send\NMaho's attachment to the past me.
+Dialogue: 0,0:20:44.03,0:20:50.66,Default,,0000,0000,0000,,Okay. All that's left is to send\NMaho-tan's attachment to the past me.
 Dialogue: 0,0:20:55.71,0:20:59.34,Default,,0000,0000,0000,,Amadeus... Ready input for control code.
 Dialogue: 0,0:21:01.38,0:21:06.26,Default,,0000,0000,0000,,{\i1}Der alte... würfelt nicht.{\i}
 Dialogue: 0,0:21:10.64,0:21:13.48,Default,,0000,0000,0000,,Control code received.
@@ -401,7 +401,7 @@ Dialogue: 0,0:21:21.36,0:21:24.99,Default,,0000,0000,0000,,Transfer selected pat
 Dialogue: 0,0:21:24.99,0:21:31.20,Default,,0000,0000,0000,,Modify to commence\Nprocessing upon system reset.
 Dialogue: 0,0:21:31.20,0:21:33.66,Default,,0000,0000,0000,,Command confirmed.
 Dialogue: 0,0:21:33.66,0:21:40.04,Default,,0000,0000,0000,,Executing command from Hiyajo Maho,\Ntop-level administrator.
-Dialogue: 0,0:21:40.04,0:21:41.50,Default,,0000,0000,0000,,Hiyajo...
+Dialogue: 0,0:21:40.04,0:21:41.50,Default,,0000,0000,0000,,Hiyajo-san...
 Dialogue: 0,0:21:41.50,0:21:43.34,Default,,0000,0000,0000,,Senpai!
 Dialogue: 0,0:21:43.34,0:21:45.42,Default,,0000,0000,0000,,Do your best and don't give up!
 Dialogue: 0,0:21:45.42,0:21:48.05,Default,,0000,0000,0000,,The possibilities are endless!

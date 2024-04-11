@@ -44,10 +44,10 @@ Dialogue: 0,0:01:53.50,0:01:58.83,Default,,0000,0000,0000,,{\i1}There is no God.
 Dialogue: 0,0:02:00.74,0:02:07.04,Default,,0000,0000,0000,,The Tokyo Disaster Response\NDepartment continues to urge—
 Dialogue: 0,0:02:07.04,0:02:10.25,Default,,0000,0000,0000,,This is seriously happening, right?
 Dialogue: 0,0:02:10.25,0:02:12.09,Default,,0000,0000,0000,,Yeah...
-Dialogue: 0,0:02:12.09,0:02:16.92,Default,,0000,0000,0000,,Suzuha and Mayushii are...
+Dialogue: 0,0:02:12.09,0:02:16.92,Default,,0000,0000,0000,,Suzuha and Mayu-shi are...
 Dialogue: 0,0:02:16.92,0:02:19.80,Default,,0000,0000,0000,,Is it possible they managed\Nto jump into the past?
 Dialogue: 0,0:02:19.80,0:02:23.31,Default,,0000,0000,0000,,Hadn't the time machine started up?
-Dialogue: 0,0:02:23.31,0:02:25.43,Default,,0000,0000,0000,,You saw it too, Hiyajo.
+Dialogue: 0,0:02:23.31,0:02:25.43,Default,,0000,0000,0000,,You saw it too, Hiyajo-san.
 Dialogue: 0,0:02:33.52,0:02:37.90,Default,,0000,0000,0000,,Did you really not finish\Nthe time leap machine yet?
 Dialogue: 0,0:02:37.90,0:02:40.07,Default,,0000,0000,0000,,Unfortunately...
 Dialogue: 0,0:02:40.07,0:02:42.12,Default,,0000,0000,0000,,We might still have time!
@@ -62,19 +62,19 @@ Dialogue: 0,0:03:07.93,0:03:11.23,Default,,0000,0000,0000,,I get how much we nee
 Dialogue: 0,0:03:13.81,0:03:15.65,Default,,0000,0000,0000,,Don't give up! This is—
 Dialogue: 0,0:03:15.65,0:03:17.40,Default,,0000,0000,0000,,Enough with the bullshit!
 Dialogue: 0,0:03:17.40,0:03:18.53,Default,,0000,0000,0000,,Daru...
-Dialogue: 0,0:03:18.53,0:03:20.78,Default,,0000,0000,0000,,Maho was giving it her best shot,
+Dialogue: 0,0:03:18.53,0:03:20.78,Default,,0000,0000,0000,,Maho-tan was giving it her best shot,
 Dialogue: 0,0:03:20.78,0:03:25.58,Default,,0000,0000,0000,,especially knowing that Suzuha\Nwas trying to change the future!
 Dialogue: 0,0:03:25.58,0:03:28.79,Default,,0000,0000,0000,,But you're the one who was against it, Okarin!
 Dialogue: 0,0:03:28.79,0:03:34.29,Default,,0000,0000,0000,,And yet, now we shouldn't give up?!\NYou should've said so from the start!
-Dialogue: 0,0:03:34.29,0:03:36.71,Default,,0000,0000,0000,,That way, Mayushii would be...
+Dialogue: 0,0:03:34.29,0:03:36.71,Default,,0000,0000,0000,,That way, Mayu-shi would be...
 Dialogue: 0,0:03:36.71,0:03:38.80,Default,,0000,0000,0000,,Suzuha would be...
 Dialogue: 0,0:03:42.13,0:03:44.05,Default,,0000,0000,0000,,Hold on!
 Dialogue: 0,0:03:44.05,0:03:45.68,Default,,0000,0000,0000,,Let's all calm down...
 Dialogue: 0,0:03:45.68,0:03:50.02,Default,,0000,0000,0000,,This is no time for\Nthe three of us to be arguing.
-Dialogue: 0,0:03:50.02,0:03:52.27,Default,,0000,0000,0000,,Okabe.
+Dialogue: 0,0:03:50.02,0:03:52.27,Default,,0000,0000,0000,,Okabe-san.
 Dialogue: 0,0:03:52.27,0:03:58.02,Default,,0000,0000,0000,,I want you to tell me what Kurisu was working\Nwith when she made the time leap machine.
 Dialogue: 0,0:03:58.02,0:04:03.03,Default,,0000,0000,0000,,What did she need? How did she\Nend up sending the memory data?
-Dialogue: 0,0:04:03.03,0:04:05.12,Default,,0000,0000,0000,,Hiyajo...
+Dialogue: 0,0:04:03.03,0:04:05.12,Default,,0000,0000,0000,,Hiyajo-san...
 Dialogue: 0,0:04:05.12,0:04:08.83,Default,,0000,0000,0000,,Honestly, that's the\None question I didn't want to ask.
 Dialogue: 0,0:04:08.83,0:04:15.29,Default,,0000,0000,0000,,I wanted to do it on my own, but...
 Dialogue: 0,0:04:15.29,0:04:17.67,Default,,0000,0000,0000,,It's no time for that anymore.
@@ -94,7 +94,7 @@ Dialogue: 0,0:05:10.76,0:05:15.31,Default,,0000,0000,0000,,Only when it's turned
 Dialogue: 0,0:05:15.31,0:05:18.73,Default,,0000,0000,0000,,But why would a CRT...
 Dialogue: 0,0:05:18.73,0:05:20.52,Default,,0000,0000,0000,,The electron gun?!
 Dialogue: 0,0:05:21.94,0:05:25.90,Default,,0000,0000,0000,,That's the solution we discovered with Kurisu.
-Dialogue: 0,0:05:28.07,0:05:29.91,Default,,0000,0000,0000,,Okabe?
+Dialogue: 0,0:05:28.07,0:05:29.91,Default,,0000,0000,0000,,Okabe-san?
 Dialogue: 0,0:05:29.91,0:05:31.95,Default,,0000,0000,0000,,There's something I need to verify.
 Dialogue: 0,0:05:31.95,0:05:34.66,Default,,0000,0000,0000,,If something comes up, call me straight away.
 Dialogue: 0,0:05:34.66,0:05:38.17,Default,,0000,0000,0000,,I'm pretty sure that\Nsignal interference is gone now.
@@ -124,7 +124,7 @@ Dialogue: 0,0:06:57.91,0:06:59.75,Default,,0000,0000,0000,,What are they trying 
 Dialogue: 0,0:06:59.75,0:07:01.63,Default,,0000,0000,0000,,I don't really know either,
 Dialogue: 0,0:07:01.63,0:07:05.63,Default,,0000,0000,0000,,but our pals need refreshments\Nif they're going all out, nya!
 Dialogue: 0,0:07:05.63,0:07:08.51,Default,,0000,0000,0000,,Right.
-Dialogue: 0,0:07:08.51,0:07:09.51,Default,,0000,0000,0000,,Okabe?
+Dialogue: 0,0:07:08.51,0:07:09.51,Default,,0000,0000,0000,,Okabe-san?
 Dialogue: 0,0:07:09.51,0:07:11.22,Default,,0000,0000,0000,,Okarin, nya!
 Dialogue: 0,0:07:11.22,0:07:12.68,Default,,0000,0000,0000,,You guys came?
 Dialogue: 0,0:07:12.68,0:07:17.43,Default,,0000,0000,0000,,When trouble's going down in Akiba,\NI won't just sit back and watch, nya!
@@ -228,7 +228,7 @@ Dialogue: 0,0:14:07.38,0:14:08.34,Default,,0000,0000,0000,,Okarin...
 Dialogue: 0,0:14:08.34,0:14:09.55,Default,,0000,0000,0000,,What's going on?
 Dialogue: 0,0:14:09.55,0:14:10.60,Default,,0000,0000,0000,,Quick!
 Dialogue: 0,0:14:10.60,0:14:14.31,Default,,0000,0000,0000,,We've gotta hack into\NProfessor Leskinen's computer...
-Dialogue: 0,0:14:14.31,0:14:17.81,Default,,0000,0000,0000,,...find [Kurisu] and [Hiyajo]'s Amadeus data...
+Dialogue: 0,0:14:14.31,0:14:17.81,Default,,0000,0000,0000,,...find [Kurisu] and [Hiyajo]-san's Amadeus data...
 Dialogue: 0,0:14:17.81,0:14:20.19,Default,,0000,0000,0000,,...and delete it all, plus backups!
 Dialogue: 0,0:14:20.19,0:14:20.94,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:14:20.94,0:14:23.19,Default,,0000,0000,0000,,What are you even talking about?
@@ -269,7 +269,7 @@ Dialogue: 0,0:16:16.85,0:16:19.31,Default,,0000,0000,0000,,Mayuri!
 Dialogue: 0,0:16:19.31,0:16:21.27,Default,,0000,0000,0000,,Okarin...
 Dialogue: 0,0:16:21.27,0:16:23.69,Default,,0000,0000,0000,,Wait! Don't go!
 Dialogue: 0,0:16:23.69,0:16:25.90,Default,,0000,0000,0000,,If you come any closer, I'll shoot.
-Dialogue: 0,0:16:25.90,0:16:27.02,Default,,0000,0000,0000,,Suzu...
+Dialogue: 0,0:16:25.90,0:16:27.02,Default,,0000,0000,0000,,Suzu-san...
 Dialogue: 0,0:16:27.02,0:16:30.11,Default,,0000,0000,0000,,I'm sorry, but we don't\Nhave time for this. Get in.
 Dialogue: 0,0:16:30.11,0:16:32.86,Default,,0000,0000,0000,,I came from the future!
 Dialogue: 0,0:16:32.86,0:16:34.86,Default,,0000,0000,0000,,48 hours in the future!
@@ -337,9 +337,9 @@ Dialogue: 0,0:20:39.61,0:20:41.03,Default,,0000,0000,0000,,So that no matter how
 Dialogue: 0,0:20:41.03,0:20:43.90,Default,,0000,0000,0000,,No matter what I do to try and avert it...
 Dialogue: 0,0:20:43.90,0:20:45.87,Default,,0000,0000,0000,,Just like back then...
 Dialogue: 0,0:20:50.83,0:20:53.29,Default,,0000,0000,0000,,It's like a scene out of war.\NThe station has been closed off completely.
-Dialogue: 0,0:20:53.29,0:20:55.17,Default,,0000,0000,0000,,Okabe! What happened?!
+Dialogue: 0,0:20:53.29,0:20:55.17,Default,,0000,0000,0000,,Okabe-san! What happened?!
 Dialogue: 0,0:20:55.17,0:20:57.96,Default,,0000,0000,0000,,Some serious shit is going down.
-Dialogue: 0,0:20:57.96,0:20:58.96,Default,,0000,0000,0000,,What about Suzuha and Mayushii?
+Dialogue: 0,0:20:57.96,0:20:58.96,Default,,0000,0000,0000,,What about Suzuha and Mayu-shi?
 Dialogue: 0,0:20:58.96,0:20:59.67,Default,,0000,0000,0000,,No matter what...
 Dialogue: 0,0:20:59.67,0:21:00.92,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:21:00.92,0:21:04.22,Default,,0000,0000,0000,,No matter what, I have to!
@@ -347,7 +347,7 @@ Dialogue: 0,0:21:06.14,0:21:08.51,Default,,0000,0000,0000,,You're really time le
 Dialogue: 0,0:21:08.51,0:21:09.93,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:21:09.93,0:21:10.81,Default,,0000,0000,0000,,I made up my mind.
 Dialogue: 0,0:21:10.81,0:21:17.35,Default,,0000,0000,0000,,No matter how many dozens or hundreds\Nof times I fail, I will save everyone.
-Dialogue: 0,0:21:17.35,0:21:19.19,Default,,0000,0000,0000,,Okabe...
+Dialogue: 0,0:21:17.35,0:21:19.19,Default,,0000,0000,0000,,Okabe-san...
 Dialogue: 0,0:21:19.19,0:21:24.03,Default,,0000,0000,0000,,I'm sorry if I make you do\Nthis time and time again.
 Dialogue: 0,0:21:24.03,0:21:29.66,Default,,0000,0000,0000,,When you go back, tell me that my future\Nself promised to help as long as it takes.
 Dialogue: 0,0:21:29.66,0:21:33.83,Default,,0000,0000,0000,,I've heard something like\Nthat before, from Kurisu actually.

@@ -57,14 +57,14 @@ Dialogue: 0,0:02:29.94,0:02:33.44,Default,,0000,0000,0000,,Uncle? You're not loo
 Dialogue: 0,0:02:33.44,0:02:35.11,Default,,0000,0000,0000,,I'm fine.
 Dialogue: 0,0:02:35.11,0:02:37.36,Default,,0000,0000,0000,,Daru, care to explain?
 Dialogue: 0,0:02:37.36,0:02:38.86,Default,,0000,0000,0000,,Who is this person?
-Dialogue: 0,0:02:38.86,0:02:42.87,Default,,0000,0000,0000,,Miss Kiryu, a writer for an editorial.
+Dialogue: 0,0:02:38.86,0:02:42.87,Default,,0000,0000,0000,,Kiryu-shi, a writer for an editorial.
 Dialogue: 0,0:02:42.87,0:02:45.83,Default,,0000,0000,0000,,I'm Kiryu Moeka.
 Dialogue: 0,0:02:45.33,0:02:47.29,On Top,,0000,0000,0000,,“Arc Rewrite”\N“Publishing Department: Editor/Writer”
 Dialogue: 0,0:02:45.83,0:02:50.42,Default,,0000,0000,0000,,A while back, there was a magazine\Ncovering the urban legends of Akiba.
 Dialogue: 0,0:02:50.42,0:02:54.67,Default,,0000,0000,0000,,That's when she contacted me wanting\Nto write about my part-time work.
 Dialogue: 0,0:02:54.67,0:02:55.63,Default,,0000,0000,0000,,Your work?
 Dialogue: 0,0:02:55.63,0:02:59.72,Default,,0000,0000,0000,,You know, the stuff I can't talk out loud about.
-Dialogue: 0,0:02:59.72,0:03:05.35,Default,,0000,0000,0000,,I'm always careful not to leave any trace,\Nbut Miss Kiryu somehow managed to find me.
+Dialogue: 0,0:02:59.72,0:03:05.35,Default,,0000,0000,0000,,I'm always careful not to leave any trace,\Nbut Kiryu-shi somehow managed to find me.
 Dialogue: 0,0:03:05.35,0:03:08.10,Default,,0000,0000,0000,,So that explains your interest in her.
 Dialogue: 0,0:03:08.10,0:03:11.44,Default,,0000,0000,0000,,I heard you're looking for someone.
 Dialogue: 0,0:03:11.44,0:03:17.03,Default,,0000,0000,0000,,Actually, we're looking for a girl\Nthat went missing in Akiba 12 years ago.
@@ -112,7 +112,7 @@ Dialogue: 0,0:05:09.43,0:05:13.89,Default,,0000,0000,0000,,I won't pry any deepe
 Dialogue: 0,0:05:15.94,0:05:18.90,Default,,0000,0000,0000,,That's fine, at least for now.
 Dialogue: 0,0:05:18.90,0:05:20.32,Default,,0000,0000,0000,,What's this about?
 Dialogue: 0,0:05:20.32,0:05:22.36,Default,,0000,0000,0000,,She makes me nervous.
-Dialogue: 0,0:05:22.36,0:05:28.24,Default,,0000,0000,0000,,I get it! Since Miss Kiryu is hot, stylish, and\Nchecks all the right boxes for a glasses fetish!
+Dialogue: 0,0:05:22.36,0:05:28.24,Default,,0000,0000,0000,,I get it! Since Kiryu-shi is hot, stylish, and\Nchecks all the right boxes for a glasses fetish!
 Dialogue: 0,0:05:33.20,0:05:36.12,On Top,,0000,0000,0000,,“Brain Science Institute”
 Dialogue: 0,0:05:42.17,0:05:45.67,Default,,0000,0000,0000,,I should probably get\Na pro to help me with this...
 Dialogue: 0,0:05:48.80,0:05:53.18,Default,,0000,0000,0000,,That's right! No matter how much\NI call, he's just not answering.
@@ -180,23 +180,23 @@ Dialogue: 0,0:08:55.41,0:08:58.41,Default,,0000,0000,0000,,I'm pretty sure it wa
 Dialogue: 0,0:09:01.08,0:09:07.25,Default,,0000,0000,0000,,Right now... I happen to be in Akihabara, so...
 Dialogue: 0,0:09:07.25,0:09:10.50,Default,,0000,0000,0000,,I'm going to stop by the lab...
 Dialogue: 0,0:10:25.54,0:10:28.04,Default,,0000,0000,0000,,Please, pick up!
-Dialogue: 0,0:10:29.04,0:10:30.54,Default,,0000,0000,0000,,Hello?! Okabe?!
-Dialogue: 0,0:10:30.54,0:10:31.33,Default,,0000,0000,0000,,Hiyajo?
+Dialogue: 0,0:10:29.04,0:10:30.54,Default,,0000,0000,0000,,Hello?! Okabe-san?!
+Dialogue: 0,0:10:30.54,0:10:31.33,Default,,0000,0000,0000,,Hiyajo-san?
 Dialogue: 0,0:10:31.33,0:10:34.67,Default,,0000,0000,0000,,Right now, I'm running towards the lab, but—
-Dialogue: 0,0:10:34.67,0:10:37.42,Default,,0000,0000,0000,,Hiyajo? Hiyajo?!
+Dialogue: 0,0:10:34.67,0:10:37.42,Default,,0000,0000,0000,,Hiyajo-san? Hiyajo-san?!
 Dialogue: 0,0:10:39.34,0:10:40.93,Default,,0000,0000,0000,,Okarin?
-Dialogue: 0,0:10:42.05,0:10:43.56,Default,,0000,0000,0000,,Hiyajo?!
+Dialogue: 0,0:10:42.05,0:10:43.56,Default,,0000,0000,0000,,Hiyajo-san?!
 Dialogue: 0,0:10:43.56,0:10:44.64,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:10:44.64,0:10:48.89,Default,,0000,0000,0000,,It can't be! It can't be that!
 Dialogue: 0,0:10:48.89,0:10:51.56,Default,,0000,0000,0000,,It's not happening! It's not!
-Dialogue: 0,0:10:58.82,0:11:03.16,Default,,0000,0000,0000,,Hiyajo?!
+Dialogue: 0,0:10:58.82,0:11:03.16,Default,,0000,0000,0000,,Hiyajo-san?!
 Dialogue: 0,0:11:03.16,0:11:04.12,Default,,0000,0000,0000,,A woman?
 Dialogue: 0,0:11:04.12,0:11:06.29,Default,,0000,0000,0000,,Stop it! Let me go!
 Dialogue: 0,0:11:06.29,0:11:07.66,Default,,0000,0000,0000,,H-Hold it!
 Dialogue: 0,0:11:07.66,0:11:09.66,Default,,0000,0000,0000,,Hands off that girl!
 Dialogue: 0,0:11:09.66,0:11:11.00,Default,,0000,0000,0000,,No, don't!
 Dialogue: 0,0:11:18.51,0:11:20.47,Default,,0000,0000,0000,,Whoa! What the?
-Dialogue: 0,0:11:20.47,0:11:21.59,Default,,0000,0000,0000,,Hiyajo!
+Dialogue: 0,0:11:20.47,0:11:21.59,Default,,0000,0000,0000,,Hiyajo-san!
 Dialogue: 0,0:11:21.59,0:11:24.85,Default,,0000,0000,0000,,This is why I said not to...
 Dialogue: 0,0:11:27.93,0:11:29.64,Default,,0000,0000,0000,,Reyes?
 Dialogue: 0,0:11:29.64,0:11:31.98,Default,,0000,0000,0000,,Professor Judy Reyes.
@@ -235,11 +235,11 @@ Dialogue: 0,0:13:04.53,0:13:06.74,Default,,0000,0000,0000,,It's nothing...
 Dialogue: 0,0:13:06.74,0:13:08.78,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:13:08.78,0:13:10.20,Default,,0000,0000,0000,,Something happen?
 Dialogue: 0,0:13:10.20,0:13:13.41,Default,,0000,0000,0000,,No, it wasn't anything.
-Dialogue: 0,0:13:13.41,0:13:17.38,Default,,0000,0000,0000,,Ooh, Miss Hiyajo!
+Dialogue: 0,0:13:13.41,0:13:17.38,Default,,0000,0000,0000,,Ooh, Hiyajo-shi!
 Dialogue: 0,0:13:17.38,0:13:21.09,Default,,0000,0000,0000,,Is it just me, or are you tinier\Nthan the last time we met?
 Dialogue: 0,0:13:21.09,0:13:23.26,Default,,0000,0000,0000,,You honestly believe something that dumb?
 Dialogue: 0,0:13:23.26,0:13:27.30,Default,,0000,0000,0000,,Mmm! She's becoming\Nmore loli by the minute!
-Dialogue: 0,0:13:27.30,0:13:29.68,Default,,0000,0000,0000,,Did we trigger the flag for Miss Hiyajo
+Dialogue: 0,0:13:27.30,0:13:29.68,Default,,0000,0000,0000,,Did we trigger the flag for Hiyajo-shi
 Dialogue: 0,0:13:29.68,0:13:32.64,Default,,0000,0000,0000,,to be inducted into the lab\Nas our token loli character?
 Dialogue: 0,0:13:32.64,0:13:33.73,Default,,0000,0000,0000,,Doubt it.
 Dialogue: 0,0:13:33.73,0:13:38.40,Default,,0000,0000,0000,,In that case, I'll settle for calling\Nher Maho-{\i1}tan{\i}! That's right, I said it!
@@ -268,7 +268,7 @@ Dialogue: 0,0:14:53.55,0:14:55.93,Default,,0000,0000,0000,,I know...
 Dialogue: 0,0:14:55.93,0:14:57.27,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:14:58.18,0:14:59.44,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:14:59.44,0:15:02.36,Default,,0000,0000,0000,,Those are Kurisu's memories, and that's a fact!
-Dialogue: 0,0:15:02.36,0:15:04.07,Default,,0000,0000,0000,,Okabe...
+Dialogue: 0,0:15:02.36,0:15:04.07,Default,,0000,0000,0000,,Okabe-san...
 Dialogue: 0,0:15:04.07,0:15:07.36,Default,,0000,0000,0000,,I understand that! And how Kurisu is gone!
 Dialogue: 0,0:15:07.36,0:15:10.45,Default,,0000,0000,0000,,I know it's only a system...
 Dialogue: 0,0:15:10.45,0:15:12.32,Default,,0000,0000,0000,,But...
@@ -284,7 +284,7 @@ Dialogue: 0,0:15:36.60,0:15:38.18,Default,,0000,0000,0000,,I know, right?
 Dialogue: 0,0:15:38.18,0:15:41.10,Default,,0000,0000,0000,,I'll ask the others about it later.
 Dialogue: 0,0:15:41.10,0:15:44.27,Default,,0000,0000,0000,,Okay, Mayushii is going out shopping.
 Dialogue: 0,0:15:44.27,0:15:45.65,Default,,0000,0000,0000,,For ComiMa?
-Dialogue: 0,0:15:45.65,0:15:48.57,Default,,0000,0000,0000,,Uh-huh! It's for Fubuki's costume.
+Dialogue: 0,0:15:45.65,0:15:48.57,Default,,0000,0000,0000,,Uh-huh! It's for Fubuki-chan's costume.
 Dialogue: 0,0:15:48.57,0:15:51.03,Default,,0000,0000,0000,,She needs a couple accessories.
 Dialogue: 0,0:15:51.03,0:15:53.03,Default,,0000,0000,0000,,Oh, right. Not many days left.
 Dialogue: 0,0:15:53.03,0:15:54.20,Default,,0000,0000,0000,,Yeah.
@@ -306,7 +306,7 @@ Dialogue: 0,0:16:35.28,0:16:38.53,Default,,0000,0000,0000,,Okarin! I'm gonna get
 Dialogue: 0,0:16:37.95,0:16:43.41,On Top,,0000,0000,0000,,“Television CRT Workshop”
 Dialogue: 0,0:16:38.53,0:16:41.95,Default,,0000,0000,0000,,O-Okay.
 Dialogue: 0,0:16:41.95,0:16:43.71,Default,,0000,0000,0000,,Oh, right.
-Dialogue: 0,0:16:43.71,0:16:47.92,Default,,0000,0000,0000,,I think Luka had something\Nhe wanted to discuss with you.
+Dialogue: 0,0:16:43.71,0:16:47.92,Default,,0000,0000,0000,,I think Luka-kun had something\Nhe wanted to discuss with you.
 Dialogue: 0,0:16:47.92,0:16:51.09,Default,,0000,0000,0000,,Ah, I completely forgot he called me.
 Dialogue: 0,0:16:51.09,0:16:52.34,Default,,0000,0000,0000,,I'll call him back.
 Dialogue: 0,0:16:52.34,0:16:55.22,Default,,0000,0000,0000,,Okay! Tell him hi!
@@ -365,7 +365,7 @@ Dialogue: 0,0:19:57.02,0:20:01.11,Default,,0000,0000,0000,,Besides, regaining me
 Dialogue: 0,0:20:01.11,0:20:03.78,Default,,0000,0000,0000,,Storing it aside is one thing, but...
 Dialogue: 0,0:20:03.78,0:20:06.58,Default,,0000,0000,0000,,I see...
 Dialogue: 0,0:20:06.58,0:20:11.33,Default,,0000,0000,0000,,In that case, is there any way\Nto find out where she came from?
-Dialogue: 0,0:20:11.33,0:20:13.29,Default,,0000,0000,0000,,I feel bad for poor Kana.
+Dialogue: 0,0:20:11.33,0:20:13.29,Default,,0000,0000,0000,,I feel bad for poor Kana-san.
 Dialogue: 0,0:20:13.29,0:20:15.92,Default,,0000,0000,0000,,Kana? What's that?
 Dialogue: 0,0:20:15.92,0:20:20.76,Default,,0000,0000,0000,,It's annoying if she has no name,\Nso Kana it is... or so Father said.
 Dialogue: 0,0:20:20.76,0:20:22.88,Default,,0000,0000,0000,,Well, that's one way to do it.
@@ -378,7 +378,7 @@ Dialogue: 0,0:20:38.61,0:20:40.40,Default,,0000,0000,0000,,Nothing like that.
 Dialogue: 0,0:20:40.40,0:20:41.90,Default,,0000,0000,0000,,Nothing?
 Dialogue: 0,0:20:41.90,0:20:46.12,Default,,0000,0000,0000,,How in the world did you live until now?
 Dialogue: 0,0:20:46.12,0:20:49.62,Default,,0000,0000,0000,,There is one thing that might be a hint.
-Dialogue: 0,0:20:49.62,0:20:50.70,Default,,0000,0000,0000,,Kana?
+Dialogue: 0,0:20:49.62,0:20:50.70,Default,,0000,0000,0000,,Kana-san?
 Dialogue: 0,0:20:50.70,0:20:52.58,Default,,0000,0000,0000,,Right.
 Dialogue: 0,0:20:55.92,0:20:57.50,Default,,0000,0000,0000,,This...
 Dialogue: 0,0:20:58.96,0:21:01.63,Default,,0000,0000,0000,,Tutturu! I'm back!
@@ -387,7 +387,7 @@ Dialogue: 0,0:21:03.30,0:21:06.43,Default,,0000,0000,0000,,Hmm? A guest?
 Dialogue: 0,0:21:06.43,0:21:07.93,Default,,0000,0000,0000,,This is...
 Dialogue: 0,0:21:07.93,0:21:09.97,Default,,0000,0000,0000,,An Upa!
 Dialogue: 0,0:21:09.97,0:21:13.56,Default,,0000,0000,0000,,Hey, hey! Where did you get that Upa?!
-Dialogue: 0,0:21:13.56,0:21:17.77,Default,,0000,0000,0000,,Kana has never let it leave her side.
+Dialogue: 0,0:21:13.56,0:21:17.77,Default,,0000,0000,0000,,Kana-san has never let it leave her side.
 Dialogue: 0,0:21:17.77,0:21:21.11,Default,,0000,0000,0000,,If I'm not mistaken,\Ndidn't this use to be green?
 Dialogue: 0,0:21:21.11,0:21:23.94,Default,,0000,0000,0000,,I think it's the forest fairy version!
 Dialogue: 0,0:21:23.94,0:21:25.45,Default,,0000,0000,0000,,The forest fairy?

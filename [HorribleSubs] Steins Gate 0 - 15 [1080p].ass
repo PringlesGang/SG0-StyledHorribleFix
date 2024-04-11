@@ -39,7 +39,7 @@ Dialogue: 0,0:01:05.48,0:01:07.90,Default,,0000,0000,0000,,Yeah, I don't remembe
 Dialogue: 0,0:01:07.90,0:01:10.40,Default,,0000,0000,0000,,By now, I've forgotten...
 Dialogue: 0,0:01:10.40,0:01:12.53,Default,,0000,0000,0000,,Suzu-nya...
 Dialogue: 0,0:01:12.53,0:01:13.65,Default,,0000,0000,0000,,Oh?
-Dialogue: 0,0:01:13.65,0:01:16.36,Default,,0000,0000,0000,,Uh, Mo— Yuki?
+Dialogue: 0,0:01:13.65,0:01:16.36,Default,,0000,0000,0000,,Uh, Mo— Yuki-san?
 Dialogue: 0,0:01:16.36,0:01:18.49,Default,,0000,0000,0000,,It's been a while.
 Dialogue: 0,0:01:18.49,0:01:20.28,Default,,0000,0000,0000,,My brother?
 Dialogue: 0,0:01:20.28,0:01:22.41,Default,,0000,0000,0000,,He's doing all right, I guess.
@@ -61,18 +61,18 @@ Dialogue: 0,0:02:43.69,0:02:48.46,Default,,0000,0000,0000,,{\i1}Never again will
 Dialogue: 0,0:02:48.46,0:02:53.95,Default,,0000,0000,0000,,{\i1}I want always to be by your side, hand-in-hand,{\i}
 Dialogue: 0,0:02:53.95,0:02:59.50,Default,,0000,0000,0000,,{\i1}As this quantum entanglement forms Zero{\i}
 Dialogue: 0,0:02:59.50,0:03:04.83,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:03:07.14,0:03:09.35,Default,,0000,0000,0000,,I can't wait to see Maho.
+Dialogue: 0,0:03:07.14,0:03:09.35,Default,,0000,0000,0000,,I can't wait to see Maho-san.
 Dialogue: 0,0:03:09.35,0:03:12.90,Default,,0000,0000,0000,,Try not to miss her. Don't forget she's so...
-Dialogue: 0,0:03:15.57,0:03:17.28,Default,,0000,0000,0000,,Hiyajo.
+Dialogue: 0,0:03:15.57,0:03:17.28,Default,,0000,0000,0000,,Hiyajo-san.
 Dialogue: 0,0:03:22.41,0:03:25.03,Default,,0000,0000,0000,,Long time no see, you guys.
 Dialogue: 0,0:03:25.12,0:03:26.87,On Top,,0000,0000,0000,,“Marbled Port-Cutlet Sandwiches”\N“Chicken & Rice”
-Dialogue: 0,0:03:26.41,0:03:28.62,Default,,0000,0000,0000,,Maho seems to be doing well.
+Dialogue: 0,0:03:26.41,0:03:28.62,Default,,0000,0000,0000,,Maho-san seems to be doing well.
 Dialogue: 0,0:03:28.62,0:03:32.50,Default,,0000,0000,0000,,Yeah, apparently she came to help the Professor.
 Dialogue: 0,0:03:32.50,0:03:34.17,Default,,0000,0000,0000,,What a busy girl.
-Dialogue: 0,0:03:34.17,0:03:37.25,Default,,0000,0000,0000,,I wonder if Kagari is doing well too?
+Dialogue: 0,0:03:34.17,0:03:37.25,Default,,0000,0000,0000,,I wonder if Kagari-chan is doing well too?
 Dialogue: 0,0:03:37.25,0:03:40.72,Default,,0000,0000,0000,,Me too. I know Daru and\NSuzuha were looking for her...
 Dialogue: 0,0:03:40.72,0:03:41.72,Default,,0000,0000,0000,,Yeah...
-Dialogue: 0,0:03:41.72,0:03:43.72,Default,,0000,0000,0000,,By the way, where's Hashida?
+Dialogue: 0,0:03:41.72,0:03:43.72,Default,,0000,0000,0000,,By the way, where's Hashida-san?
 Dialogue: 0,0:03:43.72,0:03:48.39,Default,,0000,0000,0000,,I guess he had something important to talk\Nwith Suzu-nya about, so he couldn't come.
 Dialogue: 0,0:03:48.39,0:03:49.56,Default,,0000,0000,0000,,Hmm...
 Dialogue: 0,0:03:49.56,0:03:51.02,On Top,,0000,0000,0000,,“Television”\N“CRT Workshop”
@@ -84,9 +84,9 @@ Dialogue: 0,0:04:03.07,0:04:08.08,Default,,0000,0000,0000,,If you keep doing cra
 Dialogue: 0,0:04:08.08,0:04:11.25,Default,,0000,0000,0000,,Eh? Say again? What do you mean?
 Dialogue: 0,0:04:11.25,0:04:12.71,Default,,0000,0000,0000,,I saw it...
 Dialogue: 0,0:04:12.71,0:04:17.09,Default,,0000,0000,0000,,I saw Mom talking all friendly\Nwith some other guy.
-Dialogue: 0,0:04:17.09,0:04:18.63,Default,,0000,0000,0000,,Miss Amane was?
+Dialogue: 0,0:04:17.09,0:04:18.63,Default,,0000,0000,0000,,Amane-shi was?
 Dialogue: 0,0:04:18.63,0:04:20.71,Default,,0000,0000,0000,,When's the last time you saw Mom?
-Dialogue: 0,0:04:20.71,0:04:24.01,Default,,0000,0000,0000,,Um, when I went to visit Miss Fubuki...
+Dialogue: 0,0:04:20.71,0:04:24.01,Default,,0000,0000,0000,,Um, when I went to visit Fubuki-shi...
 Dialogue: 0,0:04:24.01,0:04:26.30,Default,,0000,0000,0000,,Since then?
 Dialogue: 0,0:04:27.18,0:04:29.39,Default,,0000,0000,0000,,Why don't you meet her more often?!
 Dialogue: 0,0:04:29.39,0:04:34.52,Default,,0000,0000,0000,,B-Because! I've been so busy\Nwith the time leap machine and stuff...
@@ -101,7 +101,7 @@ Dialogue: 0,0:04:58.17,0:05:00.75,Default,,0000,0000,0000,,How come you're not t
 Dialogue: 0,0:05:00.75,0:05:05.30,Default,,0000,0000,0000,,At this rate, I might never\Nend up being born in the future!
 Dialogue: 0,0:05:05.30,0:05:10.64,Default,,0000,0000,0000,,But doesn't the fact that you're here\Nright now mean you'll be born for sure?
 Dialogue: 0,0:05:10.64,0:05:11.93,Default,,0000,0000,0000,,Hmm?
-Dialogue: 0,0:05:11.93,0:05:14.56,Default,,0000,0000,0000,,Is that... Miss Amane from the future?!
+Dialogue: 0,0:05:11.93,0:05:14.56,Default,,0000,0000,0000,,Is that... Amane-shi from the future?!
 Dialogue: 0,0:05:14.56,0:05:16.81,Default,,0000,0000,0000,,Ooh! Loli Suzuha is lovely!
 Dialogue: 0,0:05:16.81,0:05:18.98,Default,,0000,0000,0000,,That isn't the point! Look closer!
 Dialogue: 0,0:05:18.98,0:05:20.73,Default,,0000,0000,0000,,Eh?
@@ -123,13 +123,13 @@ Dialogue: 0,0:05:53.89,0:05:54.81,Default,,0000,0000,0000,,Listen to me!
 Dialogue: 0,0:05:54.81,0:06:00.23,Default,,0000,0000,0000,,If you and Mom aren't getting along,\NI might be in trouble! I mean it!
 Dialogue: 0,0:06:02.36,0:06:05.15,Default,,0000,0000,0000,,Tutturu! We're here!
 Dialogue: 0,0:06:05.15,0:06:06.15,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:06:06.15,0:06:08.86,Default,,0000,0000,0000,,Luka and Moeka too?
+Dialogue: 0,0:06:06.15,0:06:08.86,Default,,0000,0000,0000,,Luka-kun and Moeka-san too?
 Dialogue: 0,0:06:08.86,0:06:11.12,Default,,0000,0000,0000,,What's going on here?
 Dialogue: 0,0:06:11.12,0:06:13.54,Default,,0000,0000,0000,,Big Sis Mayu...
 Dialogue: 0,0:06:13.54,0:06:15.79,Default,,0000,0000,0000,,We're going to need your help.
 Dialogue: 0,0:06:15.79,0:06:17.62,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:06:17.62,0:06:20.92,Default,,0000,0000,0000,,Um, so... Before their date tomorrow,
-Dialogue: 0,0:06:20.92,0:06:25.71,Default,,0000,0000,0000,,you want Daru to learn\Nhow to have confidence in himself?
+Dialogue: 0,0:06:20.92,0:06:25.71,Default,,0000,0000,0000,,you want Daru-kun to learn\Nhow to have confidence in himself?
 Dialogue: 0,0:06:25.71,0:06:30.59,Default,,0000,0000,0000,,I'm no good at things like that,\Nwhich is why I need everybody's help.
 Dialogue: 0,0:06:30.59,0:06:33.97,Default,,0000,0000,0000,,Did you use that photo, nya?
 Dialogue: 0,0:06:33.97,0:06:34.64,Default,,0000,0000,0000,,Big Bro!
@@ -140,14 +140,14 @@ Dialogue: 0,0:06:41.65,0:06:45.90,Default,,0000,0000,0000,,Hashida Itaru will co
 Dialogue: 0,0:06:45.90,0:06:47.78,Default,,0000,0000,0000,,C-Confess?!
 Dialogue: 0,0:06:47.78,0:06:49.07,Default,,0000,0000,0000,,That's crazy talk!
 Dialogue: 0,0:06:49.07,0:06:51.78,Default,,0000,0000,0000,,That's not what I want to hear! Try again!
-Dialogue: 0,0:06:51.78,0:06:54.37,Default,,0000,0000,0000,,Miss Suzuha! Yes, ma'am! Miss Suzuha!
+Dialogue: 0,0:06:51.78,0:06:54.37,Default,,0000,0000,0000,,Suzu-sama! Yes, ma'am! Suzu-sama!
 Dialogue: 0,0:06:56.54,0:07:02.17,Default,,0000,0000,0000,,The poor girl wanted to see you so badly that\Nshe was begging “Let me come to Japan too!”
 Dialogue: 0,0:07:02.17,0:07:05.38,Default,,0000,0000,0000,,I said no such thing.
 Dialogue: 0,0:07:05.38,0:07:10.97,Default,,0000,0000,0000,,By the way, Lintahlo... How is that report\Nwe discussed the other day coming along?
 Dialogue: 0,0:07:10.97,0:07:13.09,Default,,0000,0000,0000,,Well, I have it right here.
 Dialogue: 0,0:07:13.09,0:07:15.93,Default,,0000,0000,0000,,Oho? You impress me.
 Dialogue: 0,0:07:13.76,0:07:15.26,On Top,,0000,0000,0000,,“Maho! Help me!”
-Dialogue: 0,0:07:15.93,0:07:17.27,Default,,0000,0000,0000,,Suzuha?
+Dialogue: 0,0:07:15.93,0:07:17.27,Default,,0000,0000,0000,,Suzuha-san?
 Dialogue: 0,0:07:17.27,0:07:20.06,Default,,0000,0000,0000,,It's nothing special, but here it is.
 Dialogue: 0,0:07:20.06,0:07:22.23,Default,,0000,0000,0000,,Lintahlo.
 Dialogue: 0,0:07:22.23,0:07:26.48,Default,,0000,0000,0000,,Modesty isn't always a good virtue in practice.
@@ -170,11 +170,11 @@ Dialogue: 0,0:08:10.57,0:08:13.28,Default,,0000,0000,0000,,I see... Okay, no pro
 Dialogue: 0,0:08:13.28,0:08:16.49,Default,,0000,0000,0000,,That's too bad. Keep it up, Okarin!
 Dialogue: 0,0:08:24.79,0:08:30.46,Default,,0000,0000,0000,,If you wanna be a popular guy, you've gotta\Nknow all the tasty places to go, nya!
 Dialogue: 0,0:08:30.46,0:08:36.55,Default,,0000,0000,0000,,So without further ado, we'll be drilling good\Nrestaurants and manners into your head, nya!
-Dialogue: 0,0:08:36.55,0:08:40.01,Default,,0000,0000,0000,,Miss Faris! Yes, ma'am! Miss Faris!
-Dialogue: 0,0:08:40.01,0:08:42.98,Default,,0000,0000,0000,,Yuki is a huge cosplayer, right?
+Dialogue: 0,0:08:36.55,0:08:40.01,Default,,0000,0000,0000,,Faris-sama! Yes, ma'am! Faris-sama!
+Dialogue: 0,0:08:40.01,0:08:42.98,Default,,0000,0000,0000,,Yuki-san is a huge cosplayer, right?
 Dialogue: 0,0:08:42.98,0:08:46.65,Default,,0000,0000,0000,,So, I'm thinking if you wear\Nsomething different than usual,
 Dialogue: 0,0:08:46.65,0:08:49.52,Default,,0000,0000,0000,,it might make her heart flutter, you know?
-Dialogue: 0,0:08:49.52,0:08:52.49,Default,,0000,0000,0000,,Miss Mayuri! Yes, ma'am! Miss Mayuri!
+Dialogue: 0,0:08:49.52,0:08:52.49,Default,,0000,0000,0000,,Mayuri-sama! Yes, ma'am! Mayuri-sama!
 Dialogue: 0,0:08:52.49,0:08:57.78,Default,,0000,0000,0000,,To be honest, the most important thing\Nis to understand a woman's heart.
 Dialogue: 0,0:08:59.99,0:09:01.62,On Top,,0000,0000,0000,,“Keep the conversation fun and exciting.”
 Dialogue: 0,0:09:05.25,0:09:06.67,Default,,0000,0000,0000,,Well, Big Bro?
@@ -182,10 +182,10 @@ Dialogue: 0,0:09:06.67,0:09:08.33,Default,,0000,0000,0000,,Feeling confident yet
 Dialogue: 0,0:09:08.33,0:09:12.46,Default,,0000,0000,0000,,Huh? Uh, yeah...
 Dialogue: 0,0:09:12.46,0:09:15.63,Default,,0000,0000,0000,,I can't believe you had me come here for this...
 Dialogue: 0,0:09:17.30,0:09:19.26,Default,,0000,0000,0000,,You're kidding me, right?
-Dialogue: 0,0:09:19.26,0:09:21.93,Default,,0000,0000,0000,,Maho! Where's Okarin?
+Dialogue: 0,0:09:19.26,0:09:21.93,Default,,0000,0000,0000,,Maho-san! Where's Okarin?
 Dialogue: 0,0:09:21.93,0:09:24.10,Default,,0000,0000,0000,,The professor made me leave without him.
 Dialogue: 0,0:09:24.10,0:09:25.73,Default,,0000,0000,0000,,Will you help us?
-Dialogue: 0,0:09:25.73,0:09:28.90,Default,,0000,0000,0000,,It's a pain for me too\Nif Hashida stays like this.
+Dialogue: 0,0:09:25.73,0:09:28.90,Default,,0000,0000,0000,,It's a pain for me too\Nif Hashida-san stays like this.
 Dialogue: 0,0:09:29.98,0:09:32.73,Default,,0000,0000,0000,,Fill me in on the details.
 Dialogue: 0,0:09:32.73,0:09:34.90,Default,,0000,0000,0000,,Actually...
 Dialogue: 0,0:09:35.86,0:09:40.37,Default,,0000,0000,0000,,In other words, he needs more\Nconfidence dealing with women.
@@ -198,8 +198,8 @@ Dialogue: 0,0:09:59.05,0:10:03.56,Default,,0000,0000,0000,,Not even Don Juan cou
 Dialogue: 0,0:10:03.56,0:10:06.31,Default,,0000,0000,0000,,I-I'm a successful man...
 Dialogue: 0,0:10:06.31,0:10:07.64,Default,,0000,0000,0000,,Now...
 Dialogue: 0,0:10:07.64,0:10:09.60,Default,,0000,0000,0000,,Open your eyes.
-Dialogue: 0,0:10:18.74,0:10:20.45,Default,,0000,0000,0000,,Yuki.
-Dialogue: 0,0:10:24.95,0:10:27.16,Default,,0000,0000,0000,,Hashida?
+Dialogue: 0,0:10:18.74,0:10:20.45,Default,,0000,0000,0000,,Yuki-san.
+Dialogue: 0,0:10:24.95,0:10:27.16,Default,,0000,0000,0000,,Hashida-san?
 Dialogue: 0,0:10:29.58,0:10:30.92,Default,,0000,0000,0000,,Bring the usual.
 Dialogue: 0,0:10:30.92,0:10:32.75,Default,,0000,0000,0000,,Very well.
 Dialogue: 0,0:10:34.46,0:10:36.71,Default,,0000,0000,0000,,You come here that often?
@@ -219,11 +219,11 @@ Dialogue: 0,0:11:12.13,0:11:14.42,Default,,0000,0000,0000,,What a romantic mood!
 Dialogue: 0,0:11:14.42,0:11:17.67,Default,,0000,0000,0000,,All that's left is for Big Bro\Nto deliver the final blow!
 Dialogue: 0,0:11:17.67,0:11:18.80,Default,,0000,0000,0000,,Look, nya!
 Dialogue: 0,0:11:18.80,0:11:20.05,Default,,0000,0000,0000,,Um, today was—
-Dialogue: 0,0:11:20.05,0:11:22.05,Default,,0000,0000,0000,,Yuki.
-Dialogue: 0,0:11:22.05,0:11:25.10,Default,,0000,0000,0000,,Umm, Hashida?
-Dialogue: 0,0:11:26.97,0:11:30.44,Default,,0000,0000,0000,,I have something to say, Yuki.
+Dialogue: 0,0:11:20.05,0:11:22.05,Default,,0000,0000,0000,,Yuki-san.
+Dialogue: 0,0:11:22.05,0:11:25.10,Default,,0000,0000,0000,,Umm, Hashida-san?
+Dialogue: 0,0:11:26.97,0:11:30.44,Default,,0000,0000,0000,,I have something to say, Yuki-san.
 Dialogue: 0,0:11:30.44,0:11:31.39,Default,,0000,0000,0000,,Uh...
-Dialogue: 0,0:11:31.39,0:11:33.73,Default,,0000,0000,0000,,Yuki, will you...
+Dialogue: 0,0:11:31.39,0:11:33.73,Default,,0000,0000,0000,,Yuki-san, will you...
 Dialogue: 0,0:11:41.91,0:11:43.20,Default,,0000,0000,0000,,Will you...
 Dialogue: 0,0:11:45.99,0:11:51.00,On Top,,0000,0000,0000,,“Recognition of the Asymptotic Line\N- Recognize Asymptote -”
 Dialogue: 0,0:11:53.33,0:11:55.13,Default,,0000,0000,0000,,I failed...
@@ -247,12 +247,12 @@ Dialogue: 0,0:12:49.18,0:12:52.64,Default,,0000,0000,0000,,No! Mom's not that ki
 Dialogue: 0,0:12:52.64,0:12:56.35,Default,,0000,0000,0000,,I knew it was too good\Nto be true from the start...
 Dialogue: 0,0:12:56.35,0:13:02.74,Default,,0000,0000,0000,,Think about it! Why would such a cute\Ngirl ever decide to marry a guy like me?!
 Dialogue: 0,0:13:02.74,0:13:05.99,Default,,0000,0000,0000,,That just doesn't happen, it's common sense!
-Dialogue: 0,0:13:05.99,0:13:08.87,Default,,0000,0000,0000,,Miss Amane will end up with somebody else...
+Dialogue: 0,0:13:05.99,0:13:08.87,Default,,0000,0000,0000,,Amane-shi will end up with somebody else...
 Dialogue: 0,0:13:08.87,0:13:12.00,Default,,0000,0000,0000,,Don't say stuff like that, Dad!
 Dialogue: 0,0:13:12.00,0:13:15.50,Default,,0000,0000,0000,,But you're the one who said it was happening...
 Dialogue: 0,0:13:17.92,0:13:19.79,Default,,0000,0000,0000,,Dad...
 Dialogue: 0,0:13:19.79,0:13:22.96,Default,,0000,0000,0000,,Sorry, but I need some time alone...
-Dialogue: 0,0:13:27.80,0:13:30.47,Default,,0000,0000,0000,,Suzu, I'm sorry.
+Dialogue: 0,0:13:27.80,0:13:30.47,Default,,0000,0000,0000,,Suzu-san, I'm sorry.
 Dialogue: 0,0:13:30.47,0:13:31.72,Default,,0000,0000,0000,,Big Sis Mayu...
 Dialogue: 0,0:13:31.72,0:13:36.39,Default,,0000,0000,0000,,No, this all happened\Nbecause I doctored that photo.
 Dialogue: 0,0:13:36.39,0:13:38.90,Default,,0000,0000,0000,,I went too far as well...
@@ -289,7 +289,7 @@ Dialogue: 0,0:15:54.70,0:15:59.54,Default,,0000,0000,0000,,I just... wanted some
 Dialogue: 0,0:15:59.54,0:16:02.17,Default,,0000,0000,0000,,I was being selfish.
 Dialogue: 0,0:16:02.17,0:16:05.17,Default,,0000,0000,0000,,I'm the one who needs to apologize.
 Dialogue: 0,0:16:05.17,0:16:06.92,Default,,0000,0000,0000,,Dad...
-Dialogue: 0,0:16:10.26,0:16:12.05,Default,,0000,0000,0000,,Miss Amane?
+Dialogue: 0,0:16:10.26,0:16:12.05,Default,,0000,0000,0000,,Amane-shi?
 Dialogue: 0,0:16:12.05,0:16:15.30,Default,,0000,0000,0000,,Sorry about today.
 Dialogue: 0,0:16:15.30,0:16:18.39,Default,,0000,0000,0000,,Yeah, so hey...
 Dialogue: 0,0:16:18.39,0:16:22.39,Default,,0000,0000,0000,,Tomorrow, do you want\Nto meet up with me again?!
@@ -300,10 +300,10 @@ Dialogue: 0,0:16:32.90,0:16:34.57,Default,,0000,0000,0000,,Dad...
 Dialogue: 0,0:16:34.57,0:16:37.37,Default,,0000,0000,0000,,I can't compete with you, Dad.
 Dialogue: 0,0:16:40.45,0:16:42.46,Default,,0000,0000,0000,,Good grief...
 Dialogue: 0,0:16:42.46,0:16:45.79,Default,,0000,0000,0000,,What the heck am\NI supposed to do all on my own?
-Dialogue: 0,0:16:47.46,0:16:49.30,Default,,0000,0000,0000,,Miss Amane!
+Dialogue: 0,0:16:47.46,0:16:49.30,Default,,0000,0000,0000,,Amane-shi!
 Dialogue: 0,0:17:32.46,0:17:35.84,Default,,0000,0000,0000,,Today was lots of fun. Thank you.
 Dialogue: 0,0:17:35.84,0:17:40.18,Default,,0000,0000,0000,,Right back at you. Thanks for\Nhanging out with me two days in a row.
-Dialogue: 0,0:17:47.19,0:17:49.52,Default,,0000,0000,0000,,Miss Amane?
+Dialogue: 0,0:17:47.19,0:17:49.52,Default,,0000,0000,0000,,Amane-shi?
 Dialogue: 0,0:17:49.52,0:17:53.90,Default,,0000,0000,0000,,Personally, I think you're wonderful\Nwhen you act like yourself.
 Dialogue: 0,0:18:03.62,0:18:06.21,Default,,0000,0000,0000,,Uh, um...
 Dialogue: 0,0:18:12.00,0:18:13.92,Default,,0000,0000,0000,,Dad...
@@ -327,7 +327,7 @@ Dialogue: 0,0:19:48.18,0:19:51.94,Default,,0000,0000,0000,,Yeah... I couldn't wi
 Dialogue: 0,0:19:56.94,0:19:59.32,Default,,0000,0000,0000,,So, my brother...
 Dialogue: 0,0:19:59.32,0:20:01.78,Default,,0000,0000,0000,,Please take good care of him.
 Dialogue: 0,0:20:04.03,0:20:05.49,Default,,0000,0000,0000,,Me too.
-Dialogue: 0,0:20:07.49,0:20:12.12,Default,,0000,0000,0000,,Itaru makes me\NMoe Moe Kyun too, you know?
+Dialogue: 0,0:20:07.49,0:20:12.12,Default,,0000,0000,0000,,Itaru-san makes me\NMoe Moe Kyun too, you know?
 Dialogue: 0,0:20:14.67,0:20:19.63,Default,,0000,0000,0000,,Suzuha... I'm so happy I gave birth to you...
 Dialogue: 0,0:20:19.63,0:20:21.59,Default,,0000,0000,0000,,Thank you.
 Dialogue: 0,0:20:29.64,0:20:32.06,Default,,0000,0000,0000,,H-Huh?

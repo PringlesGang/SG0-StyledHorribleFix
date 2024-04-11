@@ -62,11 +62,11 @@ Dialogue: 0,0:03:03.77,0:03:08.52,Default,,0000,0000,0000,,{\i1}Never again will
 Dialogue: 0,0:03:08.52,0:03:14.03,Default,,0000,0000,0000,,{\i1}I want always to be by your side, hand-in-hand,{\i}
 Dialogue: 0,0:03:14.03,0:03:19.58,Default,,0000,0000,0000,,{\i1}As this quantum entanglement forms Zero{\i}
 Dialogue: 0,0:03:19.58,0:03:24.91,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:03:32.33,0:03:35.00,Default,,0000,0000,0000,,Yo, Maho. What's up?
+Dialogue: 0,0:03:32.33,0:03:35.00,Default,,0000,0000,0000,,Yo, Maho-tan. What's up?
 Dialogue: 0,0:03:35.00,0:03:35.88,Default,,0000,0000,0000,,Morning.
 Dialogue: 0,0:03:35.88,0:03:36.75,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:03:36.75,0:03:39.92,Default,,0000,0000,0000,,Hiyajo? Are you okay?
-Dialogue: 0,0:03:39.92,0:03:42.88,Default,,0000,0000,0000,,A sleepy Maho! What a turn-on!
+Dialogue: 0,0:03:36.75,0:03:39.92,Default,,0000,0000,0000,,Hiyajo-san? Are you okay?
+Dialogue: 0,0:03:39.92,0:03:42.88,Default,,0000,0000,0000,,A sleepy Maho-tan! What a turn-on!
 Dialogue: 0,0:03:44.64,0:03:49.35,Default,,0000,0000,0000,,If you're contacting me again,\NI'm guessing... You're actually serious?
 Dialogue: 0,0:03:49.35,0:03:50.93,Default,,0000,0000,0000,,Of course we are!
 Dialogue: 0,0:03:50.93,0:03:55.06,Default,,0000,0000,0000,,Like I told you before, if we end up\Nnot being able to use the time machine,
@@ -122,10 +122,10 @@ Dialogue: 0,0:06:47.36,0:06:52.37,Default,,0000,0000,0000,,Sorry... I said you c
 Dialogue: 0,0:06:52.37,0:06:54.16,Default,,0000,0000,0000,,No...
 Dialogue: 0,0:06:54.16,0:06:58.50,Default,,0000,0000,0000,,I know how hard you've been\Npushing yourself, if only for me.
 Dialogue: 0,0:07:00.67,0:07:02.29,Default,,0000,0000,0000,,Hmm?
-Dialogue: 0,0:07:02.29,0:07:04.84,Default,,0000,0000,0000,,It's from Mayushii.
+Dialogue: 0,0:07:02.29,0:07:04.84,Default,,0000,0000,0000,,It's from Mayu-shi.
 Dialogue: 0,0:07:04.84,0:07:05.80,Default,,0000,0000,0000,,Eh?!
 Dialogue: 0,0:07:05.80,0:07:07.05,Default,,0000,0000,0000,,What's wrong?
-Dialogue: 0,0:07:07.05,0:07:10.09,Default,,0000,0000,0000,,She says Miss Fubuki is back in the hospital!
+Dialogue: 0,0:07:07.05,0:07:10.09,Default,,0000,0000,0000,,She says Fubuki-shi is back in the hospital!
 Dialogue: 0,0:07:13.14,0:07:15.26,Default,,0000,0000,0000,,I'm going to see what's up.
 Dialogue: 0,0:07:15.26,0:07:18.43,Default,,0000,0000,0000,,Mom will be there, right? Good luck.
 Dialogue: 0,0:07:18.43,0:07:21.31,Default,,0000,0000,0000,,This is not the time to be concerned about that.
@@ -137,26 +137,26 @@ Dialogue: 0,0:07:37.45,0:07:39.04,Default,,0000,0000,0000,,Isn't that...
 Dialogue: 0,0:07:43.71,0:07:46.21,On Top,,0000,0000,0000,,“AH Tokyo General Hospital”
 Dialogue: 0,0:07:50.63,0:07:51.84,Default,,0000,0000,0000,,Oh!
 Dialogue: 0,0:07:51.84,0:07:53.13,Default,,0000,0000,0000,,Ah...
-Dialogue: 0,0:07:53.13,0:07:55.43,Default,,0000,0000,0000,,Mayushii! Okarin!
-Dialogue: 0,0:07:55.43,0:07:58.22,Default,,0000,0000,0000,,Fubuki, are you all right?!
+Dialogue: 0,0:07:53.13,0:07:55.43,Default,,0000,0000,0000,,Mayushii! Okarin-san!
+Dialogue: 0,0:07:55.43,0:07:58.22,Default,,0000,0000,0000,,Fubuki-chan, are you all right?!
 Dialogue: 0,0:07:59.56,0:08:00.56,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:08:00.56,0:08:03.85,Default,,0000,0000,0000,,I'm fine, I'm fine! So get this...
 Dialogue: 0,0:08:04.85,0:08:08.98,Default,,0000,0000,0000,,They just asked me to come back\Nto the hospital again for another exam.
-Dialogue: 0,0:08:08.98,0:08:10.78,Default,,0000,0000,0000,,And silly Kaede here...
-Dialogue: 0,0:08:10.78,0:08:15.32,Default,,0000,0000,0000,,Because Fubuki sent a message saying\Nshe'd be in the hospital for a little while...
+Dialogue: 0,0:08:08.98,0:08:10.78,Default,,0000,0000,0000,,And silly Kaede-chan here...
+Dialogue: 0,0:08:10.78,0:08:15.32,Default,,0000,0000,0000,,Because Fubuki-chan sent a message saying\Nshe'd be in the hospital for a little while...
 Dialogue: 0,0:08:15.32,0:08:18.58,Default,,0000,0000,0000,,I said a little while, didn't I? Come on...
 Dialogue: 0,0:08:18.58,0:08:21.25,Default,,0000,0000,0000,,In other words, there's no need to worry?
 Dialogue: 0,0:08:21.25,0:08:23.33,Default,,0000,0000,0000,,Thank goodness.
-Dialogue: 0,0:08:23.33,0:08:25.75,Default,,0000,0000,0000,,Okarin! Mayushii!
+Dialogue: 0,0:08:23.33,0:08:25.75,Default,,0000,0000,0000,,Okarin! Mayu-shi!
 Dialogue: 0,0:08:25.75,0:08:26.75,Default,,0000,0000,0000,,Daru?
 Dialogue: 0,0:08:26.75,0:08:28.46,Default,,0000,0000,0000,,You came too!
 Dialogue: 0,0:08:28.46,0:08:30.26,Default,,0000,0000,0000,,Yo, what's up.
-Dialogue: 0,0:08:30.26,0:08:31.42,Default,,0000,0000,0000,,Hashida.
+Dialogue: 0,0:08:30.26,0:08:31.42,Default,,0000,0000,0000,,Hashida-san.
 Dialogue: 0,0:08:31.42,0:08:32.38,Default,,0000,0000,0000,,Oh?
 Dialogue: 0,0:08:32.38,0:08:33.76,Default,,0000,0000,0000,,Good evening.
 Dialogue: 0,0:08:33.76,0:08:36.93,Default,,0000,0000,0000,,Huh? U-Um...
 Dialogue: 0,0:08:36.93,0:08:39.10,Default,,0000,0000,0000,,H-Hello.
-Dialogue: 0,0:08:39.10,0:08:42.18,Default,,0000,0000,0000,,Huh? Didn't Miss Fubuki collapse?
+Dialogue: 0,0:08:39.10,0:08:42.18,Default,,0000,0000,0000,,Huh? Didn't Fubuki-shi collapse?
 Dialogue: 0,0:08:42.18,0:08:44.85,Default,,0000,0000,0000,,Jeez, not you too!
 Dialogue: 0,0:08:44.85,0:08:48.02,Default,,0000,0000,0000,,And why does everyone\Nneed their own private room?
 Dialogue: 0,0:08:48.02,0:08:50.57,Default,,0000,0000,0000,,I'm telling you, it's a necessity.
@@ -172,7 +172,7 @@ Dialogue: 0,0:09:12.30,0:09:14.67,Default,,0000,0000,0000,,Lintahlo here will be
 Dialogue: 0,0:09:14.67,0:09:19.18,Default,,0000,0000,0000,,and I'll eventually have him\Njoin my research team.
 Dialogue: 0,0:09:19.18,0:09:21.60,Default,,0000,0000,0000,,At Viktor Chondria University?
 Dialogue: 0,0:09:21.60,0:09:24.87,On Top,,0000,0000,0000,,Well, no. That is my ultimate goal, but...
-Dialogue: 0,0:09:23.18,0:09:25.27,Default,,0000,0000,0000,,Mayushii, Mayushii.
+Dialogue: 0,0:09:23.18,0:09:25.27,Default,,0000,0000,0000,,Mayu-shi, Mayu-shi.
 Dialogue: 0,0:09:25.27,0:09:28.19,Default,,0000,0000,0000,,Okarin's transferring overseas?
 Dialogue: 0,0:09:25.27,0:09:28.19,On Top,,0000,0000,0000,,Even so, the fact that you're able\Nto study overseas is impressive!
 Dialogue: 0,0:09:28.19,0:09:30.57,On Top,,0000,0000,0000,,Keep up the good work!
@@ -183,7 +183,7 @@ Dialogue: 0,0:09:37.91,0:09:41.62,Default,,0000,0000,0000,,Huh? The hospital dir
 Dialogue: 0,0:09:41.62,0:09:44.25,Default,,0000,0000,0000,,I didn't lie to anyone, Lintahlo.
 Dialogue: 0,0:09:44.25,0:09:47.08,Default,,0000,0000,0000,,Though I might have told him September...
 Dialogue: 0,0:09:47.08,0:09:49.83,Default,,0000,0000,0000,,I didn't say of which year.
-Dialogue: 0,0:09:52.34,0:09:54.63,Default,,0000,0000,0000,,Is Hiyajo here too?
+Dialogue: 0,0:09:52.34,0:09:54.63,Default,,0000,0000,0000,,Is Hiyajo-san here too?
 Dialogue: 0,0:09:54.63,0:09:57.18,Default,,0000,0000,0000,,Curious, are we?
 Dialogue: 0,0:09:57.18,0:10:01.14,Default,,0000,0000,0000,,Uh, well, I guess...
 Dialogue: 0,0:10:01.14,0:10:03.85,Default,,0000,0000,0000,,Unfortunately, she's back in America.
@@ -196,11 +196,11 @@ Dialogue: 0,0:10:25.20,0:10:30.38,Default,,0000,0000,0000,,But, make one wrong m
 Dialogue: 0,0:10:30.38,0:10:34.71,Default,,0000,0000,0000,,One wrong move and\Nthis will turn out nearly the same.
 Dialogue: 0,0:10:36.46,0:10:38.05,On Top,,0000,0000,0000,,“One new message”\N“Professor Leskinen”
 Dialogue: 0,0:10:37.17,0:10:39.47,Default,,0000,0000,0000,,Professor?
-Dialogue: 0,0:10:39.47,0:10:42.89,Default,,0000,0000,0000,,Eh? Okabe?
+Dialogue: 0,0:10:39.47,0:10:42.89,Default,,0000,0000,0000,,Eh? Okabe-san?
 Dialogue: 0,0:10:42.89,0:10:45.39,Default,,0000,0000,0000,,What the heck?
 Dialogue: 0,0:10:45.39,0:10:47.48,Default,,0000,0000,0000,,Did something happen?
 Dialogue: 0,0:10:51.35,0:10:54.73,Default,,0000,0000,0000,,Oh, that's right. The professor's in Japan now.
-Dialogue: 0,0:10:54.73,0:10:57.82,Default,,0000,0000,0000,,I guess he must've ran into Okabe.
+Dialogue: 0,0:10:54.73,0:10:57.82,Default,,0000,0000,0000,,I guess he must've ran into Okabe-san.
 Dialogue: 0,0:10:57.82,0:10:59.45,Default,,0000,0000,0000,,Wish you were there?
 Dialogue: 0,0:10:59.45,0:11:00.49,Default,,0000,0000,0000,,Why would I?!
 Dialogue: 0,0:11:00.49,0:11:02.49,Default,,0000,0000,0000,,U-Um, your eyes are bloodshot.
@@ -271,9 +271,9 @@ Dialogue: 0,0:15:59.33,0:16:03.37,Default,,0000,0000,0000,,Go ahead and hurt my 
 Dialogue: 0,0:16:03.37,0:16:05.54,Default,,0000,0000,0000,,I don't care who you are...
 Dialogue: 0,0:16:05.54,0:16:07.75,Default,,0000,0000,0000,,I will kill you!
 Dialogue: 0,0:16:11.47,0:16:13.34,Default,,0000,0000,0000,,Kagari!
-Dialogue: 0,0:16:21.68,0:16:25.48,Default,,0000,0000,0000,,Just now... that was Kagari... wasn't it?
+Dialogue: 0,0:16:21.68,0:16:25.48,Default,,0000,0000,0000,,Just now... that was Kagari-tan... wasn't it?
 Dialogue: 0,0:16:25.48,0:16:26.73,Default,,0000,0000,0000,,Yeah...
-Dialogue: 0,0:16:26.73,0:16:30.78,Default,,0000,0000,0000,,Why would Kagari...
+Dialogue: 0,0:16:26.73,0:16:30.78,Default,,0000,0000,0000,,Why would Kagari-tan...
 Dialogue: 0,0:16:30.78,0:16:32.24,Default,,0000,0000,0000,,Did you see, Suzuha?
 Dialogue: 0,0:16:32.24,0:16:34.16,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:16:34.16,0:16:38.53,Default,,0000,0000,0000,,I think... she was crying.
@@ -281,7 +281,7 @@ Dialogue: 0,0:16:44.67,0:16:45.75,Default,,0000,0000,0000,,Ouch...
 Dialogue: 0,0:16:45.75,0:16:47.92,Default,,0000,0000,0000,,I-I'm sorry.
 Dialogue: 0,0:16:47.92,0:16:50.42,Default,,0000,0000,0000,,Don't you think you should go to the hospital?
 Dialogue: 0,0:16:50.42,0:16:54.93,Default,,0000,0000,0000,,I'm fine. I just got grazed.
-Dialogue: 0,0:16:54.93,0:16:59.22,Default,,0000,0000,0000,,To think the woman in\Nthe motorcycle suit was Kagari...
+Dialogue: 0,0:16:54.93,0:16:59.22,Default,,0000,0000,0000,,To think the woman in\Nthe motorcycle suit was Kagari-tan...
 Dialogue: 0,0:16:59.22,0:17:00.68,Default,,0000,0000,0000,,It wasn't.
 Dialogue: 0,0:17:00.68,0:17:04.14,Default,,0000,0000,0000,,The person that attacked\Nyou guys was somebody else.
 Dialogue: 0,0:17:04.14,0:17:07.98,Default,,0000,0000,0000,,When it happened,\NKagari would've been at the shrine.
@@ -298,7 +298,7 @@ Dialogue: 0,0:17:40.76,0:17:42.89,Default,,0000,0000,0000,,The voice... of God?
 Dialogue: 0,0:17:42.89,0:17:43.98,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:17:43.98,0:17:47.73,Default,,0000,0000,0000,,It can't be... At that point,\NKagari was already...?
 Dialogue: 0,0:17:47.73,0:17:49.86,Default,,0000,0000,0000,,Um...
-Dialogue: 0,0:17:49.86,0:17:55.28,Default,,0000,0000,0000,,I'll get a hold of Okarin and\Nlet him know that Kagari showed up.
+Dialogue: 0,0:17:49.86,0:17:55.28,Default,,0000,0000,0000,,I'll get a hold of Okarin and\Nlet him know that Kagari-tan showed up.
 Dialogue: 0,0:17:55.28,0:17:57.49,Default,,0000,0000,0000,,Uncle Okarin...
 Dialogue: 0,0:17:57.49,0:18:02.99,Default,,0000,0000,0000,,If he hears that Kagari is back, he'll probably\Ngo searching for her like crazy again.
 Dialogue: 0,0:18:02.99,0:18:08.46,Default,,0000,0000,0000,,But, as you just found out,\NKagari is far too dangerous right now.
@@ -311,7 +311,7 @@ Dialogue: 0,0:18:35.03,0:18:37.19,Default,,0000,0000,0000,,The Bureau's...
 Dialogue: 0,0:18:37.19,0:18:38.82,Default,,0000,0000,0000,,...Professor!
 Dialogue: 0,0:18:40.41,0:18:42.58,Default,,0000,0000,0000,,Suzuha...
 Dialogue: 0,0:18:46.45,0:18:48.21,Default,,0000,0000,0000,,Dad?
-Dialogue: 0,0:18:48.21,0:18:50.88,Default,,0000,0000,0000,,I'm gonna try asking Maho again.
+Dialogue: 0,0:18:48.21,0:18:50.88,Default,,0000,0000,0000,,I'm gonna try asking Maho-tan again.
 Dialogue: 0,0:18:50.88,0:18:51.75,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:18:51.75,0:18:59.22,Default,,0000,0000,0000,,To come here, and seriously get to work\Ndeveloping the time leap machine with me.
 Dialogue: 0,0:18:59.22,0:19:01.01,Default,,0000,0000,0000,,Don't you worry.
@@ -319,7 +319,7 @@ Dialogue: 0,0:19:01.01,0:19:05.43,Default,,0000,0000,0000,,I'll do whatever it t
 Dialogue: 0,0:19:14.77,0:19:16.07,Default,,0000,0000,0000,,To Japan?
 Dialogue: 0,0:19:16.07,0:19:18.82,Default,,0000,0000,0000,,We can't do anything without your help.
 Dialogue: 0,0:19:18.82,0:19:20.74,Default,,0000,0000,0000,,It's to save the world.
-Dialogue: 0,0:19:20.74,0:19:24.99,Default,,0000,0000,0000,,Plus if you come, I get to see loli\NMaho in summer clothes! Huff huff!
+Dialogue: 0,0:19:20.74,0:19:24.99,Default,,0000,0000,0000,,Plus if you come, I get to see loli\NMaho-tan in summer clothes! Huff huff!
 Dialogue: 0,0:19:24.99,0:19:27.75,Default,,0000,0000,0000,,Pure-white one piece and high socks, yummy!
 Dialogue: 0,0:19:27.75,0:19:29.83,Default,,0000,0000,0000,,Dad!
 Dialogue: 0,0:19:29.83,0:19:33.96,Default,,0000,0000,0000,,Ah, sorry. My vivid imagination\Ngot the best of me.
