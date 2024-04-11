@@ -35,8 +35,8 @@ Dialogue: 0,0:00:47.46,0:00:50.71,Default,,0000,0000,0000,,...I get to be your r
 Dialogue: 0,0:00:50.71,0:00:53.22,Default,,0000,0000,0000,,We can live together now!
 Dialogue: 0,0:00:57.01,0:00:59.10,Default,,0000,0000,0000,,Mommy!
 Dialogue: 0,0:00:59.10,0:01:03.27,Default,,0000,0000,0000,,Sheesh! You're such a spoiled one, Kagari-chan!
-Dialogue: 0,0:01:05.73,0:01:11.65,Default,,0000,0000,0000,,♪ I'm searching for only one thing ♪
-Dialogue: 0,0:01:11.65,0:01:16.10,Default,,0000,0000,0000,,♪ The laughing voice of the star I love ♪
+Dialogue: 0,0:01:05.73,0:01:11.65,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 0,0:01:11.65,0:01:16.10,Default,,0000,0000,0000,,♪ The laughter of the stars. ♪
 Dialogue: 0,0:01:16.10,0:01:17.99,Default,,0000,0000,0000,,What song is that?
 Dialogue: 0,0:01:17.99,0:01:19.53,Default,,0000,0000,0000,,Hmm?
 Dialogue: 0,0:01:19.53,0:01:23.12,Default,,0000,0000,0000,,I'm glad you asked.\NIt's a very precious song to me.
@@ -49,14 +49,14 @@ Dialogue: 0,0:01:36.72,0:01:41.26,Default,,0000,0000,0000,,Because someday, you'
 Dialogue: 0,0:01:41.26,0:01:46.85,Default,,0000,0000,0000,,I want to learn that song too!\NTeach me Mommy's precious song!
 Dialogue: 0,0:01:46.85,0:01:48.94,Default,,0000,0000,0000,,Okay! Should we sing it together?
 Dialogue: 0,0:01:48.94,0:01:50.40,Default,,0000,0000,0000,,Yeah!
-Dialogue: 0,0:01:53.28,0:01:59.36,Default,,0000,0000,0000,,♪ I'm searching for only one thing ♪
-Dialogue: 0,0:01:59.36,0:02:05.20,Default,,0000,0000,0000,,♪ I'm searching for only one thing ♪
+Dialogue: 0,0:01:53.28,0:01:59.36,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 0,0:01:59.36,0:02:05.20,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
 Dialogue: 0,0:02:03.29,0:02:05.20,Default,,0000,0000,0000,,Yup! Good, good!
-Dialogue: 0,0:02:05.20,0:02:10.96,Default,,0000,0000,0000,,♪ The laughing voice of the star I love. ♪
-Dialogue: 0,0:02:10.96,0:02:16.97,Default,,0000,0000,0000,,♪ The laughing voice of the star I love. ♪
-Dialogue: 0,0:02:16.97,0:02:22.39,Default,,0000,0000,0000,,♪ Shining bright in the sky above... ♪
+Dialogue: 0,0:02:05.20,0:02:10.96,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
+Dialogue: 0,0:02:10.96,0:02:16.97,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
+Dialogue: 0,0:02:16.97,0:02:22.39,Default,,0000,0000,0000,,♪ Twinkling in the wind... ♪
 Dialogue: 0,0:02:20.01,0:02:25.01,On Top,,0000,0000,0000,,“Mother Goose of Mutual Recursion\N- Recursive Mother Goose -”
-Dialogue: 0,0:02:22.39,0:02:24.47,Default,,0000,0000,0000,,♪ Shining bright in the sky above... ♪
+Dialogue: 0,0:02:22.39,0:02:24.47,Default,,0000,0000,0000,,♪ Twinkling in the wind... ♪
 Dialogue: 0,0:02:40.91,0:02:46.20,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
 Dialogue: 0,0:02:46.20,0:02:52.13,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
 Dialogue: 0,0:02:53.13,0:03:03.97,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
@@ -90,9 +90,9 @@ Dialogue: 0,0:04:48.41,0:04:49.87,On Top,,0000,0000,0000,,“Date.com”\N“to 
 Dialogue: 0,0:04:48.74,0:04:50.16,Default,,0000,0000,0000,,Sure, I'll eat some.
 Dialogue: 0,0:04:49.87,0:04:53.37,On Top,,0000,0000,0000,,“Akihabara Picks”
 Dialogue: 0,0:04:50.16,0:04:53.21,Default,,0000,0000,0000,,All right! Gimme just a minute!
-Dialogue: 0,0:04:54.87,0:05:00.46,Default,,0000,0000,0000,,♪ I'm searching for only one thing... ♪
-Dialogue: 0,0:05:00.46,0:05:06.13,Default,,0000,0000,0000,,♪ The laughing voice of the star I love. ♪
-Dialogue: 0,0:05:06.13,0:05:08.05,Default,,0000,0000,0000,,♪ Shining bright— ♪
+Dialogue: 0,0:04:54.87,0:05:00.46,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 0,0:05:00.46,0:05:06.13,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
+Dialogue: 0,0:05:06.13,0:05:08.05,Default,,0000,0000,0000,,♪ Twinkling in— ♪
 Dialogue: 0,0:05:08.05,0:05:08.68,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:05:08.68,0:05:11.31,Default,,0000,0000,0000,,That song... I know it.
 Dialogue: 0,0:05:11.31,0:05:12.60,Default,,0000,0000,0000,,Kagari-san?
@@ -135,8 +135,8 @@ Dialogue: 0,0:06:59.04,0:07:00.42,Default,,0000,0000,0000,,If her memory does co
 Dialogue: 0,0:07:00.42,0:07:06.71,Default,,0000,0000,0000,,she might remember something about the\Npeople who attacked her, so there's always that.
 Dialogue: 0,0:07:06.71,0:07:13.09,Default,,0000,0000,0000,,Either way, I plan to do all that\NI can do, and that hasn't changed.
 Dialogue: 0,0:07:15.10,0:07:18.43,Default,,0000,0000,0000,,Take care of Kagari, all right?
-Dialogue: 0,0:07:22.65,0:07:29.07,Default,,0000,0000,0000,,♪ I'm searching for only one thing... ♪
-Dialogue: 0,0:07:29.07,0:07:34.99,Default,,0000,0000,0000,,—♪ The laughing voice of the star I love. ♪\N—Mommy? Mommy!
+Dialogue: 0,0:07:22.65,0:07:29.07,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 0,0:07:29.07,0:07:34.99,Default,,0000,0000,0000,,—♪ The laughter of the stars... ♪\N—Mommy? Mommy!
 Dialogue: 0,0:07:34.99,0:07:36.12,Default,,0000,0000,0000,,Mommy!
 Dialogue: 0,0:07:36.12,0:07:37.08,Default,,0000,0000,0000,,—Huh?\N—Eh?
 Dialogue: 0,0:07:37.08,0:07:39.66,Default,,0000,0000,0000,,U-Uh, um...
@@ -374,44 +374,44 @@ Dialogue: 0,0:20:28.14,0:20:31.77,Default,,0000,0000,0000,,Thank goodness! You f
 Dialogue: 0,0:20:32.94,0:20:34.52,Default,,0000,0000,0000,,Mommy...
 Dialogue: 0,0:20:34.52,0:20:36.65,Default,,0000,0000,0000,,Kagari?
 Dialogue: 0,0:20:38.23,0:20:41.19,Default,,0000,0000,0000,,Mommy!
-Dialogue: 0,0:20:38.23,0:20:43.50,On Top,,0000,0000,0000,,{\i1}I'm searching for only one thing{\i}
+Dialogue: 0,0:20:38.23,0:20:43.50,On Top,,0000,0000,0000,,{\i1}There's just one thing I'm searching for...{\i}
 Dialogue: 0,0:20:41.19,0:20:42.49,Default,,0000,0000,0000,,Huh? Huh?!
 Dialogue: 0,0:20:42.49,0:20:47.16,Default,,0000,0000,0000,,I missed you, Mommy!
-Dialogue: 0,0:20:44.90,0:20:50.05,On Top,,0000,0000,0000,,{\i1}The laughing voice of the star I love{\i}
+Dialogue: 0,0:20:44.90,0:20:50.05,On Top,,0000,0000,0000,,{\i1}The laughter of the stars{\i}
 Dialogue: 0,0:20:47.16,0:20:50.62,Default,,0000,0000,0000,,M-Mayushii isn't a mommy.
 Dialogue: 0,0:20:50.62,0:20:53.62,Default,,0000,0000,0000,,No... Mommy is mommy.
-Dialogue: 0,0:20:51.00,0:20:56.00,On Top,,0000,0000,0000,,{\i1}Shining bright in the sky above{\i}
+Dialogue: 0,0:20:51.00,0:20:56.00,On Top,,0000,0000,0000,,{\i1}Twinkling in the wind{\i}
 Dialogue: 0,0:20:53.62,0:20:56.13,Default,,0000,0000,0000,,The mommy I love so much!
 Dialogue: 0,0:20:56.13,0:20:58.50,Default,,0000,0000,0000,,Mommy Mayuri!
-Dialogue: 0,0:20:56.50,0:21:03.80,On Top,,0000,0000,0000,,{\i1}I can reach out to it with my open wings{\i}
+Dialogue: 0,0:20:56.50,0:21:03.80,On Top,,0000,0000,0000,,{\i1}You can grab it if you reach out your hand{\i}
 Dialogue: 0,0:20:58.50,0:21:01.67,Default,,0000,0000,0000,,Did her memories actually come back?
 Dialogue: 0,0:21:01.67,0:21:03.38,Default,,0000,0000,0000,,I finally found you!
 Dialogue: 0,0:21:03.38,0:21:04.93,Default,,0000,0000,0000,,Finally!
-Dialogue: 0,0:21:03.90,0:21:09.80,On Top,,0000,0000,0000,,{\i1}The fish in the sea are swimming fast and free{\i}
+Dialogue: 0,0:21:03.90,0:21:09.80,On Top,,0000,0000,0000,,{\i1}Fish swim about{\i}
 Dialogue: 0,0:21:07.30,0:21:09.51,Default,,0000,0000,0000,,U-Um...
-Dialogue: 0,0:21:10.05,0:21:16.60,On Top,,0000,0000,0000,,{\i1}As the calm rains fall and embrace them all{\i}
+Dialogue: 0,0:21:10.05,0:21:16.60,On Top,,0000,0000,0000,,{\i1}Enveloped by the gentle rain{\i}
 Dialogue: 0,0:21:16.27,0:21:17.98,Default,,0000,0000,0000,,It's okay.
-Dialogue: 0,0:21:16.70,0:21:23.05,On Top,,0000,0000,0000,,{\i1}I've stood by your side and seen you as you've grown{\i}
+Dialogue: 0,0:21:16.70,0:21:23.05,On Top,,0000,0000,0000,,{\i1}I've always wished to bring my cheek{\i}
 Dialogue: 0,0:21:17.98,0:21:20.98,Default,,0000,0000,0000,,It's all right now.
 Dialogue: 0,0:21:20.98,0:21:23.03,Default,,0000,0000,0000,,Mommy!
-Dialogue: 0,0:21:23.15,0:21:29.15,On Top,,0000,0000,0000,,{\i1}To tell you that you're not alone{\i}
-Dialogue: 0,0:21:29.30,0:21:32.40,On Top,,0000,0000,0000,,{\i1}So whenever you feel lost{\i}
-Dialogue: 0,0:21:32.50,0:21:35.40,On Top,,0000,0000,0000,,{\i1}Take a breath and close your eyes{\i}
-Dialogue: 0,0:21:35.60,0:21:41.95,On Top,,0000,0000,0000,,{\i1}And in time, you will find a guiding light in the skies{\i}
-Dialogue: 0,0:21:42.10,0:21:45.50,On Top,,0000,0000,0000,,{\i1}So whenever you're asleep{\i}
-Dialogue: 0,0:21:45.60,0:21:48.40,On Top,,0000,0000,0000,,{\i1}Take a breath with open ears{\i}
-Dialogue: 0,0:21:48.60,0:21:59.60,On Top,,0000,0000,0000,,{\i1}Somewhere near, you will hear a gentle voice singing just for you{\i}
-Dialogue: 0,0:22:03.30,0:22:05.90,On Top,,0000,0000,0000,,{\i1}I'm always with you{\i}
-Dialogue: 0,0:22:06.60,0:22:08.60,On Top,,0000,0000,0000,,{\i1}I'll never leave you{\i}
-Dialogue: 0,0:22:08.80,0:22:15.30,On Top,,0000,0000,0000,,{\i1}You're never alone{\i}
-Dialogue: 0,0:22:16.15,0:22:18.80,On Top,,0000,0000,0000,,{\i1}I'm always with you{\i}
-Dialogue: 0,0:22:19.35,0:22:21.90,On Top,,0000,0000,0000,,{\i1}I'll never leave you{\i}
-Dialogue: 0,0:22:22.05,0:22:28.60,On Top,,0000,0000,0000,,{\i1}Till the end of time{\i}
-Dialogue: 0,0:22:29.20,0:22:31.90,On Top,,0000,0000,0000,,{\i1}I'm always with you{\i}
-Dialogue: 0,0:22:32.40,0:22:34.60,On Top,,0000,0000,0000,,{\i1}I'll never leave you{\i}
-Dialogue: 0,0:22:34.90,0:22:40.50,On Top,,0000,0000,0000,,{\i1}I'll be there for you{\i}
-Dialogue: 0,0:22:40.70,0:22:49.50,On Top,,0000,0000,0000,,{\i1}I will pray for the day you can smile with me anew{\i}
-Dialogue: 0,0:22:56.00,0:23:02.46,Default,,0000,0000,0000,,♪ I'm searching for only one thing... ♪
+Dialogue: 0,0:21:23.15,0:21:29.15,On Top,,0000,0000,0000,,{\i1}Closer to your warm, broad back{\i}
+Dialogue: 0,0:21:29.30,0:21:32.40,On Top,,0000,0000,0000,,{\i1}Just close your eyes{\i}
+Dialogue: 0,0:21:32.50,0:21:35.40,On Top,,0000,0000,0000,,{\i1}And surely you'll see{\i}
+Dialogue: 0,0:21:35.60,0:21:41.95,On Top,,0000,0000,0000,,{\i1}A guiding light to save a lost one like you{\i}
+Dialogue: 0,0:21:42.10,0:21:45.50,On Top,,0000,0000,0000,,{\i1}Just listen carefully{\i}
+Dialogue: 0,0:21:45.60,0:21:48.40,On Top,,0000,0000,0000,,{\i1}And surely you'll hear{\i}
+Dialogue: 0,0:21:48.60,0:21:59.60,On Top,,0000,0000,0000,,{\i1}A song to gently awaken a slumbering one like you{\i}
+Dialogue: 0,0:22:03.30,0:22:05.90,On Top,,0000,0000,0000,,{\i1}I've always, always{\i}
+Dialogue: 0,0:22:06.60,0:22:08.60,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
+Dialogue: 0,0:22:08.80,0:22:15.30,On Top,,0000,0000,0000,,{\i1}Been by your side...{\i}
+Dialogue: 0,0:22:16.15,0:22:18.80,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
+Dialogue: 0,0:22:19.35,0:22:21.90,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
+Dialogue: 0,0:22:22.05,0:22:28.60,On Top,,0000,0000,0000,,{\i1}And forever...{\i}
+Dialogue: 0,0:22:29.20,0:22:31.90,On Top,,0000,0000,0000,,{\i1}I will always, always{\i}
+Dialogue: 0,0:22:32.40,0:22:34.60,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
+Dialogue: 0,0:22:34.90,0:22:40.50,On Top,,0000,0000,0000,,{\i1}Be by your side...{\i}
+Dialogue: 0,0:22:40.70,0:22:49.50,On Top,,0000,0000,0000,,{\i1}To protect the smile of a gentle one like you{\i}
+Dialogue: 0,0:22:56.00,0:23:02.46,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
 Dialogue: 0,0:23:02.46,0:23:04.75,Default,,0000,0000,0000,,—♪ The— ♪\N—U-Um...
 Dialogue: 0,0:23:06.42,0:23:08.59,Default,,0000,0000,0000,,Uh, um...
 Dialogue: 0,0:23:12.43,0:23:15.14,Default,,0000,0000,0000,,That was beautiful just now...
