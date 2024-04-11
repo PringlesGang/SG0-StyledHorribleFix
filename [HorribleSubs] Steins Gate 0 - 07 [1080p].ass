@@ -348,7 +348,7 @@ Dialogue: 0,0:20:31.73,0:20:34.85,Default,,0000,0000,0000,,I'm hanging up. We'll
 Dialogue: 0,0:20:36.81,0:20:38.44,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:20:43.57,0:20:47.91,On Top,,0000,0000,0000,,“Incoming Call”
 Dialogue: 0,0:20:48.74,0:20:50.29,Default,,0000,0000,0000,,Amadeus...
-Dialogue: 0,0:20:58.79,0:21:00.13,Default,,0000,0000,0000,,Kurisu?!
+Dialogue: 0,0:20:58.79,0:21:00.13,Default,,0000,0000,0000,,[Kurisu]?!
 Dialogue: 0,0:21:00.13,0:21:02.97,Default,,0000,0000,0000,,Please, help me...
 Dialogue: 0,0:21:02.97,0:21:04.59,Default,,0000,0000,0000,,Okabe!
 Dialogue: 0,0:21:08.30,0:21:11.60,Default,,0000,0000,0000,,Reading Steiner?!

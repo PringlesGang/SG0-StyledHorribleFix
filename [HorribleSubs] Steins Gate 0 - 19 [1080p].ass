@@ -165,7 +165,7 @@ Dialogue: 0,0:09:18.26,0:09:20.85,Default,,0000,0000,0000,,Her final message.
 Dialogue: 0,0:09:20.85,0:09:23.77,Default,,0000,0000,0000,,Remember her post on @channel?
 Dialogue: 0,0:09:23.77,0:09:26.23,Default,,0000,0000,0000,,There's no saying she meant me, okay?
 Dialogue: 0,0:09:26.23,0:09:29.11,Default,,0000,0000,0000,,Wrong. I was referring to you, Senpai.
-Dialogue: 0,0:09:29.11,0:09:30.23,Default,,0000,0000,0000,,Kurisu?
+Dialogue: 0,0:09:29.11,0:09:30.23,Default,,0000,0000,0000,,[Kurisu]?
 Dialogue: 0,0:09:30.23,0:09:32.07,Default,,0000,0000,0000,,Here. Right here.
 Dialogue: 0,0:09:34.32,0:09:35.74,Default,,0000,0000,0000,,You're all right?
 Dialogue: 0,0:09:35.74,0:09:41.91,Default,,0000,0000,0000,,Yeah. The professor froze my data temporarily,\Nbut before I knew it, I was here.
@@ -228,7 +228,7 @@ Dialogue: 0,0:14:07.38,0:14:08.34,Default,,0000,0000,0000,,Okarin...
 Dialogue: 0,0:14:08.34,0:14:09.55,Default,,0000,0000,0000,,What's going on?
 Dialogue: 0,0:14:09.55,0:14:10.60,Default,,0000,0000,0000,,Quick!
 Dialogue: 0,0:14:10.60,0:14:14.31,Default,,0000,0000,0000,,We've gotta hack into\NProfessor Leskinen's computer...
-Dialogue: 0,0:14:14.31,0:14:17.81,Default,,0000,0000,0000,,...find Kurisu and Hiyajo's Amadeus data...
+Dialogue: 0,0:14:14.31,0:14:17.81,Default,,0000,0000,0000,,...find [Kurisu] and [Hiyajo]'s Amadeus data...
 Dialogue: 0,0:14:17.81,0:14:20.19,Default,,0000,0000,0000,,...and delete it all, plus backups!
 Dialogue: 0,0:14:20.19,0:14:20.94,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:14:20.94,0:14:23.19,Default,,0000,0000,0000,,What are you even talking about?

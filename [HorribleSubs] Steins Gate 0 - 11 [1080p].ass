@@ -336,7 +336,7 @@ Dialogue: 0,0:20:33.19,0:20:39.69,Default,,0000,0000,0000,,You might be coming t
 Dialogue: 0,0:20:39.69,0:20:40.90,Default,,0000,0000,0000,,What a{\i1} tsundere{\i}.
 Dialogue: 0,0:20:40.90,0:20:42.74,Default,,0000,0000,0000,,Huh?! Wh-What's that?!
 Dialogue: 0,0:20:42.74,0:20:44.49,Default,,0000,0000,0000,,Your face is all red.
-Dialogue: 0,0:20:44.49,0:20:47.24,Default,,0000,0000,0000,,Kurisu is such a shy one!
+Dialogue: 0,0:20:44.49,0:20:47.24,Default,,0000,0000,0000,,[Kurisu] is such a shy one!
 Dialogue: 0,0:20:47.24,0:20:48.74,Default,,0000,0000,0000,,Professor, it's time.
 Dialogue: 0,0:20:48.74,0:20:50.66,Default,,0000,0000,0000,,Oho, is it?
 Dialogue: 0,0:20:50.66,0:20:53.54,Default,,0000,0000,0000,,Don't tease Hiyajo too much, okay?
