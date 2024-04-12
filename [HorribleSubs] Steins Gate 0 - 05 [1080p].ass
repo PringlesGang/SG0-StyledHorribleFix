@@ -99,387 +99,387 @@ Dialogue: 0,0:17:15.05,0:17:17.51,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HEBE9E9&}m 
 Dialogue: 0,0:17:15.05,0:17:17.51,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HDADAE8&}m 504 629 l 1289 850 l 1220 1114 l 437 862 {\p0}
 Dialogue: 1,0:17:15.05,0:17:17.51,OkabePhone,,0,0,0,,{\fs105\c&H3B3637&\be3\pos(471.472,9)\frz344.3}I'll get a hold of you later.
 Dialogue: 1,0:17:15.05,0:17:17.51,OkabePhone,,0,0,0,,{\fs115\c&H2F2F2F&\be2\frz343.1\pos(512.038,632)}If you still want to talk,\Ncan you call me?
-Dialogue: 0,0:00:01.58,0:00:03.42,Default,,0000,0000,0000,,I got your message...
-Dialogue: 0,0:00:03.42,0:00:05.42,Default,,0000,0000,0000,,I'm Kiryu Moeka.
-Dialogue: 0,0:00:06.84,0:00:09.13,Default,,0000,0000,0000,,Um...
-Dialogue: 0,0:00:09.13,0:00:10.51,Default,,0000,0000,0000,,Oh, you're here?
-Dialogue: 0,0:00:10.51,0:00:13.68,Default,,0000,0000,0000,,What are you doing, Okarin? Let the lady in.
-Dialogue: 0,0:00:13.68,0:00:15.89,Default,,0000,0000,0000,,R-Right...
-Dialogue: 0,0:00:20.64,0:00:22.48,Default,,0000,0000,0000,,Here's some tea.
-Dialogue: 0,0:00:26.06,0:00:28.44,Default,,0000,0000,0000,,Kiryu Moeka...
-Dialogue: 0,0:00:28.44,0:00:29.94,Default,,0000,0000,0000,,Why?
-Dialogue: 0,0:00:29.94,0:00:32.07,Default,,0000,0000,0000,,Why are she and Daru...?
-Dialogue: 0,0:00:48.92,0:00:54.22,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
-Dialogue: 0,0:00:54.22,0:01:00.14,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
-Dialogue: 0,0:01:01.14,0:01:11.98,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-Dialogue: 0,0:01:11.98,0:01:21.70,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
-Dialogue: 0,0:01:21.70,0:01:27.04,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
-Dialogue: 0,0:01:27.04,0:01:33.80,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
-Dialogue: 0,0:01:33.80,0:01:34.88,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
-Dialogue: 0,0:01:34.88,0:01:40.80,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
-Dialogue: 0,0:01:40.80,0:01:45.56,Default,,0000,0000,0000,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
-Dialogue: 0,0:01:45.56,0:01:51.06,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
-Dialogue: 0,0:01:51.06,0:01:56.61,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
-Dialogue: 0,0:01:56.61,0:02:01.95,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:02:04.54,0:02:08.46,Default,,0000,0000,0000,,...to not be human. The bodies, missing\Ntheir brains and portions of the cranium,
-Dialogue: 0,0:02:08.46,0:02:13.21,Default,,0000,0000,0000,,were discovered to be\Nchimpanzee and orangutan.
-Dialogue: 0,0:02:13.21,0:02:14.63,Default,,0000,0000,0000,,Hmm?
-Dialogue: 0,0:02:14.63,0:02:16.59,Default,,0000,0000,0000,,What's wrong?
-Dialogue: 0,0:02:16.59,0:02:18.80,Default,,0000,0000,0000,,N-Nothing.
-Dialogue: 0,0:02:18.80,0:02:20.01,Default,,0000,0000,0000,,Calm down...
-Dialogue: 0,0:02:20.01,0:02:22.30,Default,,0000,0000,0000,,This isn't that worldline anymore.
-Dialogue: 0,0:02:22.30,0:02:24.89,Default,,0000,0000,0000,,We don't have any connection to SERN.
-Dialogue: 0,0:02:24.89,0:02:26.93,Default,,0000,0000,0000,,Moeka won't kill Mayuri.
-Dialogue: 0,0:02:26.93,0:02:28.69,Default,,0000,0000,0000,,She won't kill Mayuri...
-Dialogue: 0,0:02:28.69,0:02:29.94,Default,,0000,0000,0000,,She won't kill...
-Dialogue: 0,0:02:29.94,0:02:33.44,Default,,0000,0000,0000,,Uncle? You're not looking too good.
-Dialogue: 0,0:02:33.44,0:02:35.11,Default,,0000,0000,0000,,I'm fine.
-Dialogue: 0,0:02:35.11,0:02:37.36,Default,,0000,0000,0000,,Daru, care to explain?
-Dialogue: 0,0:02:37.36,0:02:38.86,Default,,0000,0000,0000,,Who is this person?
-Dialogue: 0,0:02:38.86,0:02:42.87,Default,,0000,0000,0000,,Kiryu-shi, a writer for an editorial.
-Dialogue: 0,0:02:42.87,0:02:45.83,Default,,0000,0000,0000,,I'm Kiryu Moeka.
-Dialogue: 0,0:02:45.83,0:02:50.42,Default,,0000,0000,0000,,A while back, there was a magazine\Ncovering the urban legends of Akiba.
-Dialogue: 0,0:02:50.42,0:02:54.67,Default,,0000,0000,0000,,That's when she contacted me wanting\Nto write about my part-time work.
-Dialogue: 0,0:02:54.67,0:02:55.63,Default,,0000,0000,0000,,Your work?
-Dialogue: 0,0:02:55.63,0:02:59.72,Default,,0000,0000,0000,,You know, the stuff I can't talk out loud about.
-Dialogue: 0,0:02:59.72,0:03:05.35,Default,,0000,0000,0000,,I'm always careful not to leave any trace,\Nbut Kiryu-shi somehow managed to find me.
-Dialogue: 0,0:03:05.35,0:03:08.10,Default,,0000,0000,0000,,So that explains your interest in her.
-Dialogue: 0,0:03:08.10,0:03:11.44,Default,,0000,0000,0000,,I heard you're looking for someone.
-Dialogue: 0,0:03:11.44,0:03:17.03,Default,,0000,0000,0000,,Actually, we're looking for a girl\Nthat went missing in Akiba 12 years ago.
-Dialogue: 0,0:03:17.03,0:03:18.86,Default,,0000,0000,0000,,12 years ago...
-Dialogue: 0,0:03:18.86,0:03:20.36,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:03:20.36,0:03:22.95,Default,,0000,0000,0000,,Her name is Shiina Kagari.
-Dialogue: 0,0:03:22.95,0:03:28.62,Default,,0000,0000,0000,,She was 10 years old 12 years ago,\Nso that would make her 22 now.
-Dialogue: 0,0:03:28.62,0:03:30.12,Default,,0000,0000,0000,,She's alive?
-Dialogue: 0,0:03:30.12,0:03:34.71,Default,,0000,0000,0000,,We don't know for sure, but we found\Nsomeone resembling her in a recent photo.
-Dialogue: 0,0:03:38.71,0:03:41.34,Default,,0000,0000,0000,,Should we really be trusting her?
-Dialogue: 0,0:03:41.34,0:03:45.51,Default,,0000,0000,0000,,It's true that in this worldline,\Nshe shouldn't have to interact with us...
-Dialogue: 0,0:03:45.51,0:03:48.06,Default,,0000,0000,0000,,She has no reason to kill Mayuri either.
-Dialogue: 0,0:03:48.06,0:03:51.85,Default,,0000,0000,0000,,But more than likely,\Nshe's a Rounder in this worldline too.
-Dialogue: 0,0:03:51.85,0:03:54.48,Default,,0000,0000,0000,,She can still kill without batting an eye...
-Dialogue: 0,0:04:01.65,0:04:03.91,Default,,0000,0000,0000,,Can I take on the job?
-Dialogue: 0,0:04:03.91,0:04:04.82,Default,,0000,0000,0000,,You serious?
-Dialogue: 0,0:04:04.82,0:04:07.41,Default,,0000,0000,0000,,Though, I don't know if I'll find her.
-Dialogue: 0,0:04:07.41,0:04:10.20,Default,,0000,0000,0000,,Of course. Not much you can do about that.
-Dialogue: 0,0:04:10.20,0:04:12.25,Default,,0000,0000,0000,,You'll be compensated if you succeed,
-Dialogue: 0,0:04:12.25,0:04:15.71,Default,,0000,0000,0000,,but we'll cover any expenses\Nyou need for your work, all right?
-Dialogue: 0,0:04:15.71,0:04:17.00,Default,,0000,0000,0000,,No problem.
-Dialogue: 0,0:04:17.00,0:04:18.92,Default,,0000,0000,0000,,You fine with that, Okarin?
-Dialogue: 0,0:04:18.92,0:04:20.59,Default,,0000,0000,0000,,Y-Yeah.
-Dialogue: 0,0:04:20.59,0:04:24.43,Default,,0000,0000,0000,,Great. You're officially hired then.
-Dialogue: 0,0:04:24.43,0:04:25.68,Default,,0000,0000,0000,,Let's go, Nae.
-Dialogue: 0,0:04:25.68,0:04:27.35,Default,,0000,0000,0000,,'Kay!
-Dialogue: 0,0:04:30.14,0:04:31.64,Default,,0000,0000,0000,,Don't forget your seatbelt.
-Dialogue: 0,0:04:31.64,0:04:34.23,Default,,0000,0000,0000,,Right!
-Dialogue: 0,0:04:34.23,0:04:35.15,Default,,0000,0000,0000,,Ready?
-Dialogue: 0,0:04:35.15,0:04:36.06,Default,,0000,0000,0000,,Yup!
-Dialogue: 0,0:04:36.06,0:04:39.07,Default,,0000,0000,0000,,—Off we go!\N—Off we go!
-Dialogue: 0,0:04:42.19,0:04:43.90,Default,,0000,0000,0000,,So? Who was that?
-Dialogue: 0,0:04:43.90,0:04:44.74,Default,,0000,0000,0000,,Eh?
-Dialogue: 0,0:04:44.74,0:04:46.82,Default,,0000,0000,0000,,You know that person, don't you?
-Dialogue: 0,0:04:48.24,0:04:50.24,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:04:50.24,0:04:52.37,Default,,0000,0000,0000,,What makes you think that?
-Dialogue: 0,0:04:52.37,0:04:54.04,Default,,0000,0000,0000,,You made it obvious.
-Dialogue: 0,0:04:54.04,0:04:56.04,Default,,0000,0000,0000,,You know her, Okarin?
-Dialogue: 0,0:04:58.38,0:04:59.79,Default,,0000,0000,0000,,No, I d—
-Dialogue: 0,0:04:59.79,0:05:01.63,Default,,0000,0000,0000,,What about in the Alpha worldline?
-Dialogue: 0,0:05:07.97,0:05:09.43,Default,,0000,0000,0000,,All right.
-Dialogue: 0,0:05:09.43,0:05:13.89,Default,,0000,0000,0000,,I won't pry any deeper,\Nbut I'll stay on guard from my end.
-Dialogue: 0,0:05:15.94,0:05:18.90,Default,,0000,0000,0000,,That's fine, at least for now.
-Dialogue: 0,0:05:18.90,0:05:20.32,Default,,0000,0000,0000,,What's this about?
-Dialogue: 0,0:05:20.32,0:05:22.36,Default,,0000,0000,0000,,She makes me nervous.
-Dialogue: 0,0:05:22.36,0:05:28.24,Default,,0000,0000,0000,,I get it! Since Kiryu-shi is hot, stylish, and\Nchecks all the right boxes for a glasses fetish!
-Dialogue: 0,0:05:42.17,0:05:45.67,Default,,0000,0000,0000,,I should probably get\Na pro to help me with this...
-Dialogue: 0,0:05:48.80,0:05:53.18,Default,,0000,0000,0000,,That's right! No matter how much\NI call, he's just not answering.
-Dialogue: 0,0:05:53.18,0:05:56.14,Default,,0000,0000,0000,,What gives? He's a joke of a tester.
-Dialogue: 0,0:05:56.14,0:05:58.65,Default,,0000,0000,0000,,Have you considered he\Nmight have broken his phone?
-Dialogue: 0,0:05:58.65,0:06:01.06,Default,,0000,0000,0000,,Dunno, but let's hope that's it.
-Dialogue: 0,0:06:03.57,0:06:06.99,Default,,0000,0000,0000,,Makise Kurisu is dead.
-Dialogue: 0,0:06:09.57,0:06:13.37,Default,,0000,0000,0000,,It's a rare sight to see you\Nbrooding over something like this.
-Dialogue: 0,0:06:13.37,0:06:16.04,Default,,0000,0000,0000,,Professor?! When did you get back?!
-Dialogue: 0,0:06:16.04,0:06:17.29,Default,,0000,0000,0000,,Just now.
-Dialogue: 0,0:06:18.58,0:06:22.09,Default,,0000,0000,0000,,These Japanese convenience\Nstores are pretty awesome.
-Dialogue: 0,0:06:22.09,0:06:24.38,Default,,0000,0000,0000,,You can eat a different bento every day,
-Dialogue: 0,0:06:24.38,0:06:27.34,Default,,0000,0000,0000,,and by the next week,\Nthere's a whole new selection.
-Dialogue: 0,0:06:27.34,0:06:31.30,Default,,0000,0000,0000,,If you keep eating convenience\Nstore food, it'll ruin your health.
-Dialogue: 0,0:06:32.51,0:06:35.81,Default,,0000,0000,0000,,Take a good look at yourself\Nbefore judging my eating habits.
-Dialogue: 0,0:06:37.48,0:06:39.85,Default,,0000,0000,0000,,So? Where are you going?
-Dialogue: 0,0:06:39.85,0:06:42.65,Default,,0000,0000,0000,,Off to Akihabara for a change of pace.
-Dialogue: 0,0:06:42.65,0:06:46.36,Default,,0000,0000,0000,,Just admit you're going\Nthere to visit Lintahlo already.
-Dialogue: 0,0:06:46.36,0:06:48.11,Default,,0000,0000,0000,,Th-That's not why I'm...
-Dialogue: 0,0:06:48.11,0:06:50.49,Default,,0000,0000,0000,,It's not?
-Dialogue: 0,0:06:50.49,0:06:53.20,Default,,0000,0000,0000,,I guess I could see him on the way...
-Dialogue: 0,0:06:53.20,0:06:55.49,Default,,0000,0000,0000,,On the way? On the way to what?
-Dialogue: 0,0:06:55.49,0:06:57.70,Default,,0000,0000,0000,,I told you, for a change of pace!
-Dialogue: 0,0:06:57.70,0:07:02.13,Default,,0000,0000,0000,,For this change of pace of yours,\Nyou're willing to go an hour away to Akihabara,
-Dialogue: 0,0:07:02.13,0:07:04.63,Default,,0000,0000,0000,,where Lintahlo just happens to be?
-Dialogue: 0,0:07:04.63,0:07:06.63,Default,,0000,0000,0000,,Is that what you're saying?
-Dialogue: 0,0:07:08.42,0:07:10.13,Default,,0000,0000,0000,,I approve.
-Dialogue: 0,0:07:10.13,0:07:12.93,Default,,0000,0000,0000,,I-I'm going, but it's not what you think.
-Dialogue: 0,0:07:12.93,0:07:14.55,Default,,0000,0000,0000,,It's not like that.
-Dialogue: 0,0:07:14.55,0:07:16.18,Default,,0000,0000,0000,,It's not like what?
-Dialogue: 0,0:07:16.18,0:07:19.64,Default,,0000,0000,0000,,Anyways, I'm done working today. Goodbye.
-Dialogue: 0,0:07:21.69,0:07:24.15,Default,,0000,0000,0000,,Say hi to Lintahlo for me.
-Dialogue: 0,0:07:27.82,0:07:29.74,Default,,0000,0000,0000,,This is?
-Dialogue: 0,0:07:29.74,0:07:31.32,Default,,0000,0000,0000,,My report.
-Dialogue: 0,0:07:38.37,0:07:40.04,Default,,0000,0000,0000,,Well?
-Dialogue: 0,0:07:40.04,0:07:44.17,Default,,0000,0000,0000,,Looks like finding her won't be that easy.
-Dialogue: 0,0:07:44.17,0:07:45.59,Default,,0000,0000,0000,,I see...
-Dialogue: 0,0:07:48.17,0:07:49.96,Default,,0000,0000,0000,,Hmm? Find a clue?
-Dialogue: 0,0:07:49.96,0:07:52.51,Default,,0000,0000,0000,,No, it's not that, but...
-Dialogue: 0,0:07:52.51,0:07:53.47,Default,,0000,0000,0000,,Lemme see.
-Dialogue: 0,0:07:53.47,0:07:55.64,Default,,0000,0000,0000,,H-Hey!
-Dialogue: 0,0:07:57.01,0:08:00.93,Default,,0000,0000,0000,,During the investigation,\None peculiar discovery was made.
-Dialogue: 0,0:08:00.93,0:08:02.52,Default,,0000,0000,0000,,In the past several months,
-Dialogue: 0,0:08:02.52,0:08:07.86,Default,,0000,0000,0000,,there is evidence that a party other than\Nours has been searching for Shiina Kagari.
-Dialogue: 0,0:08:07.86,0:08:09.78,Default,,0000,0000,0000,,What's that mean?
-Dialogue: 0,0:08:09.78,0:08:11.32,Default,,0000,0000,0000,,Just as you read.
-Dialogue: 0,0:08:11.32,0:08:13.41,Default,,0000,0000,0000,,Who's looking for her?
-Dialogue: 0,0:08:13.41,0:08:15.24,Default,,0000,0000,0000,,I don't know.
-Dialogue: 0,0:08:15.24,0:08:17.28,Default,,0000,0000,0000,,Is it possible that it's Suzuha?
-Dialogue: 0,0:08:17.28,0:08:21.00,Default,,0000,0000,0000,,I thought the same at first,\Nbut look right here.
-Dialogue: 0,0:08:21.00,0:08:23.58,Default,,0000,0000,0000,,The people searching were men.
-Dialogue: 0,0:08:23.58,0:08:25.67,Default,,0000,0000,0000,,With a foreigner among them.
-Dialogue: 0,0:08:25.67,0:08:28.67,Default,,0000,0000,0000,,Foreigner?
-Dialogue: 0,0:08:28.67,0:08:31.09,Default,,0000,0000,0000,,But she's been gone 12 whole years.
-Dialogue: 0,0:08:31.09,0:08:33.68,Default,,0000,0000,0000,,Maybe she made some friends in that time.
-Dialogue: 0,0:08:33.68,0:08:34.59,Default,,0000,0000,0000,,Hmm...
-Dialogue: 0,0:08:34.59,0:08:39.51,Default,,0000,0000,0000,,Actually, as a kid, she wouldn't have\Nlived very long without knowing somebody.
-Dialogue: 0,0:08:39.51,0:08:41.52,Default,,0000,0000,0000,,That's true, but...
-Dialogue: 0,0:08:41.52,0:08:44.35,Default,,0000,0000,0000,,With this, at least we know one thing.
-Dialogue: 0,0:08:44.35,0:08:45.81,Default,,0000,0000,0000,,Which is?
-Dialogue: 0,0:08:45.81,0:08:50.61,Default,,0000,0000,0000,,We know that Shiina Kagari...\Nis alive in the present.
-Dialogue: 0,0:08:50.61,0:08:52.57,Default,,0000,0000,0000,,A foreigner, huh?
-Dialogue: 0,0:08:55.41,0:08:58.41,Default,,0000,0000,0000,,I'm pretty sure it was this way...
-Dialogue: 0,0:09:01.08,0:09:07.25,Default,,0000,0000,0000,,Right now... I happen to be in Akihabara, so...
-Dialogue: 0,0:09:07.25,0:09:10.50,Default,,0000,0000,0000,,I'm going to stop by the lab...
-Dialogue: 0,0:10:25.54,0:10:28.04,Default,,0000,0000,0000,,Please, pick up!
-Dialogue: 0,0:10:29.04,0:10:30.54,Default,,0000,0000,0000,,Hello?! Okabe-san?!
-Dialogue: 0,0:10:30.54,0:10:31.33,Default,,0000,0000,0000,,Hiyajo-san?
-Dialogue: 0,0:10:31.33,0:10:34.67,Default,,0000,0000,0000,,Right now, I'm running towards the lab, but—
-Dialogue: 0,0:10:34.67,0:10:37.42,Default,,0000,0000,0000,,Hiyajo-san? Hiyajo-san?!
-Dialogue: 0,0:10:39.34,0:10:40.93,Default,,0000,0000,0000,,Okarin?
-Dialogue: 0,0:10:42.05,0:10:43.56,Default,,0000,0000,0000,,Hiyajo-san?!
-Dialogue: 0,0:10:43.56,0:10:44.64,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:10:44.64,0:10:48.89,Default,,0000,0000,0000,,It can't be! It can't be that!
-Dialogue: 0,0:10:48.89,0:10:51.56,Default,,0000,0000,0000,,It's not happening! It's not!
-Dialogue: 0,0:10:58.82,0:11:03.16,Default,,0000,0000,0000,,Hiyajo-san?!
-Dialogue: 0,0:11:03.16,0:11:04.12,Default,,0000,0000,0000,,A woman?
-Dialogue: 0,0:11:04.12,0:11:06.29,Default,,0000,0000,0000,,Stop it! Let me go!
-Dialogue: 0,0:11:06.29,0:11:07.66,Default,,0000,0000,0000,,H-Hold it!
-Dialogue: 0,0:11:07.66,0:11:09.66,Default,,0000,0000,0000,,Hands off that girl!
-Dialogue: 0,0:11:09.66,0:11:11.00,Default,,0000,0000,0000,,No, don't!
-Dialogue: 0,0:11:18.51,0:11:20.47,Default,,0000,0000,0000,,Whoa! What the?
-Dialogue: 0,0:11:20.47,0:11:21.59,Default,,0000,0000,0000,,Hiyajo-san!
-Dialogue: 0,0:11:21.59,0:11:24.85,Default,,0000,0000,0000,,This is why I said not to...
-Dialogue: 0,0:11:27.93,0:11:29.64,Default,,0000,0000,0000,,Reyes?
-Dialogue: 0,0:11:29.64,0:11:31.98,Default,,0000,0000,0000,,Professor Judy Reyes.
-Dialogue: 0,0:11:31.98,0:11:38.15,Default,,0000,0000,0000,,She said she came to Japan to attend an\NAI conference being held in the near future.
-Dialogue: 0,0:11:38.15,0:11:39.61,Default,,0000,0000,0000,,Professor?
-Dialogue: 0,0:11:39.61,0:11:42.24,Default,,0000,0000,0000,,Of Viktor Chondria University?
-Dialogue: 0,0:11:49.50,0:11:52.54,Default,,0000,0000,0000,,Um, I'm...
-Dialogue: 0,0:11:52.54,0:11:54.71,Default,,0000,0000,0000,,Japanese is fine too.
-Dialogue: 0,0:11:56.34,0:11:57.55,Default,,0000,0000,0000,,Are you surprised?
-Dialogue: 0,0:11:57.55,0:12:00.80,Default,,0000,0000,0000,,So you're Rintaro.\NI heard all about you from Alexis.
-Dialogue: 0,0:12:00.80,0:12:02.22,Default,,0000,0000,0000,,Alexis?
-Dialogue: 0,0:12:02.22,0:12:03.97,Default,,0000,0000,0000,,Oh, Professor Leskinen.
-Dialogue: 0,0:12:03.97,0:12:06.68,Default,,0000,0000,0000,,Her specialty is psychophysiology.
-Dialogue: 0,0:12:06.68,0:12:08.31,Default,,0000,0000,0000,,The link of mind and body.
-Dialogue: 0,0:12:08.31,0:12:11.68,Default,,0000,0000,0000,,It's the field of research that studies
-Dialogue: 0,0:12:11.68,0:12:14.10,Default,,0000,0000,0000,,how cognitive processes influence\Nthe heart, disease, and so on.
-Dialogue: 0,0:12:14.10,0:12:15.73,Default,,0000,0000,0000,,In other words,
-Dialogue: 0,0:12:15.73,0:12:21.24,Default,,0000,0000,0000,,her branch of science is a lot more useful\Nto humanity than the research that I do.
-Dialogue: 0,0:12:21.24,0:12:22.70,Default,,0000,0000,0000,,That's not true at all.
-Dialogue: 0,0:12:22.70,0:12:26.82,Default,,0000,0000,0000,,You guys and your Amadeus\Nmight prove to be incredibly useful.
-Dialogue: 0,0:12:26.82,0:12:29.37,Default,,0000,0000,0000,,I'm very honored you feel that way.
-Dialogue: 0,0:12:29.37,0:12:33.25,Default,,0000,0000,0000,,But it was still cruel of you\Nto stalk me from the station.
-Dialogue: 0,0:12:33.25,0:12:35.33,Default,,0000,0000,0000,,The station? Stalk you?
-Dialogue: 0,0:12:35.33,0:12:36.46,Default,,0000,0000,0000,,I did?
-Dialogue: 0,0:12:36.46,0:12:38.46,Default,,0000,0000,0000,,Huh? You didn't?
-Dialogue: 0,0:12:38.46,0:12:43.42,Default,,0000,0000,0000,,I just saw you in the alleyway and\Nthought I'd jump out and surprise you.
-Dialogue: 0,0:12:44.63,0:12:48.01,Default,,0000,0000,0000,,Then...
-Dialogue: 0,0:12:48.01,0:12:49.64,Default,,0000,0000,0000,,Did I imagine it?
-Dialogue: 0,0:12:52.73,0:12:56.44,Default,,0000,0000,0000,,Anyways, bring Rintaro and\Nwe'll have a nice long chat sometime.
-Dialogue: 0,0:12:56.44,0:12:57.90,Default,,0000,0000,0000,,Bye!
-Dialogue: 0,0:12:57.90,0:12:59.40,Default,,0000,0000,0000,,No!
-Dialogue: 0,0:12:59.40,0:13:01.73,Default,,0000,0000,0000,,I told you, it's not like that!
-Dialogue: 0,0:13:01.73,0:13:03.57,Default,,0000,0000,0000,,What was that all about?
-Dialogue: 0,0:13:03.57,0:13:04.53,Default,,0000,0000,0000,,Eh?
-Dialogue: 0,0:13:04.53,0:13:06.74,Default,,0000,0000,0000,,It's nothing...
-Dialogue: 0,0:13:06.74,0:13:08.78,Default,,0000,0000,0000,,Okarin!
-Dialogue: 0,0:13:08.78,0:13:10.20,Default,,0000,0000,0000,,Something happen?
-Dialogue: 0,0:13:10.20,0:13:13.41,Default,,0000,0000,0000,,No, it wasn't anything.
-Dialogue: 0,0:13:13.41,0:13:17.38,Default,,0000,0000,0000,,Ooh, Hiyajo-shi!
-Dialogue: 0,0:13:17.38,0:13:21.09,Default,,0000,0000,0000,,Is it just me, or are you tinier\Nthan the last time we met?
-Dialogue: 0,0:13:21.09,0:13:23.26,Default,,0000,0000,0000,,You honestly believe something that dumb?
-Dialogue: 0,0:13:23.26,0:13:27.30,Default,,0000,0000,0000,,Mmm! She's becoming\Nmore loli by the minute!
-Dialogue: 0,0:13:27.30,0:13:29.68,Default,,0000,0000,0000,,Did we trigger the flag for Hiyajo-shi
-Dialogue: 0,0:13:29.68,0:13:32.64,Default,,0000,0000,0000,,to be inducted into the lab\Nas our token loli character?
-Dialogue: 0,0:13:32.64,0:13:33.73,Default,,0000,0000,0000,,Doubt it.
-Dialogue: 0,0:13:33.73,0:13:38.40,Default,,0000,0000,0000,,In that case, I'll settle for calling\Nher Maho-{\i1}tan{\i}! That's right, I said it!
-Dialogue: 0,0:13:38.40,0:13:40.61,Default,,0000,0000,0000,,What the heck are you on about?
-Dialogue: 0,0:13:42.78,0:13:44.49,Default,,0000,0000,0000,,Amadeus did?
-Dialogue: 0,0:13:44.49,0:13:45.57,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:13:45.57,0:13:49.45,Default,,0000,0000,0000,,She said you won't pick up\Nno matter how many times she calls.
-Dialogue: 0,0:13:51.33,0:13:55.16,Default,,0000,0000,0000,,Judging by that face,\Nyou're not answering on purpose.
-Dialogue: 0,0:13:55.16,0:13:57.37,Default,,0000,0000,0000,,Yeah...
-Dialogue: 0,0:14:00.71,0:14:03.88,Default,,0000,0000,0000,,Let me talk to the professor.
-Dialogue: 0,0:14:03.88,0:14:06.47,Default,,0000,0000,0000,,This was only a test from the start.
-Dialogue: 0,0:14:06.47,0:14:08.55,Default,,0000,0000,0000,,You're not obligated to help.
-Dialogue: 0,0:14:08.55,0:14:10.51,Default,,0000,0000,0000,,You're not even getting paid.
-Dialogue: 0,0:14:18.64,0:14:20.23,Default,,0000,0000,0000,,But...
-Dialogue: 0,0:14:20.23,0:14:25.74,Default,,0000,0000,0000,,I had no idea... that Kurisu had\Nsuch a large presence in your life.
-Dialogue: 0,0:14:25.74,0:14:28.07,Default,,0000,0000,0000,,I told you already, Kurisu wasn't—
-Dialogue: 0,0:14:28.07,0:14:30.20,Default,,0000,0000,0000,,I can tell by watching you.
-Dialogue: 0,0:14:30.20,0:14:32.45,Default,,0000,0000,0000,,Her presence was huge...
-Dialogue: 0,0:14:32.45,0:14:37.00,Default,,0000,0000,0000,,What you're doing... is projecting\Nyour feelings for Kurisu onto Amadeus.
-Dialogue: 0,0:14:37.00,0:14:41.38,Default,,0000,0000,0000,,When her voice revives old memories,\Nit breathes new life into you,
-Dialogue: 0,0:14:41.38,0:14:44.46,Default,,0000,0000,0000,,and with it your feelings grow.
-Dialogue: 0,0:14:44.46,0:14:48.42,Default,,0000,0000,0000,,But, Amadeus is nothing more than a system.
-Dialogue: 0,0:14:48.42,0:14:51.14,Default,,0000,0000,0000,,All that's there are memories made data.
-Dialogue: 0,0:14:51.14,0:14:53.55,Default,,0000,0000,0000,,To have feelings for that...
-Dialogue: 0,0:14:53.55,0:14:55.93,Default,,0000,0000,0000,,I know...
-Dialogue: 0,0:14:55.93,0:14:57.27,Default,,0000,0000,0000,,But...
-Dialogue: 0,0:14:58.18,0:14:59.44,Default,,0000,0000,0000,,But...
-Dialogue: 0,0:14:59.44,0:15:02.36,Default,,0000,0000,0000,,Those are Kurisu's memories, and that's a fact!
-Dialogue: 0,0:15:02.36,0:15:04.07,Default,,0000,0000,0000,,Okabe-san...
-Dialogue: 0,0:15:04.07,0:15:07.36,Default,,0000,0000,0000,,I understand that! And how Kurisu is gone!
-Dialogue: 0,0:15:07.36,0:15:10.45,Default,,0000,0000,0000,,I know it's only a system...
-Dialogue: 0,0:15:10.45,0:15:12.32,Default,,0000,0000,0000,,But...
-Dialogue: 0,0:15:12.32,0:15:15.54,Default,,0000,0000,0000,,Even so...
-Dialogue: 0,0:15:15.54,0:15:18.25,Default,,0000,0000,0000,,Please, let me think a little longer.
-Dialogue: 0,0:15:22.67,0:15:25.34,Default,,0000,0000,0000,,What are you doing for New Years?
-Dialogue: 0,0:15:25.34,0:15:27.17,Default,,0000,0000,0000,,Are you planning a party?
-Dialogue: 0,0:15:27.17,0:15:29.97,Default,,0000,0000,0000,,Yup! We'll all go and visit the shrine,
-Dialogue: 0,0:15:29.97,0:15:33.76,Default,,0000,0000,0000,,have a big New Year's meal,\Nand hope for another good year!
-Dialogue: 0,0:15:33.76,0:15:36.60,Default,,0000,0000,0000,,Well, sounds good to me.
-Dialogue: 0,0:15:36.60,0:15:38.18,Default,,0000,0000,0000,,I know, right?
-Dialogue: 0,0:15:38.18,0:15:41.10,Default,,0000,0000,0000,,I'll ask the others about it later.
-Dialogue: 0,0:15:41.10,0:15:44.27,Default,,0000,0000,0000,,Okay, Mayushii is going out shopping.
-Dialogue: 0,0:15:44.27,0:15:45.65,Default,,0000,0000,0000,,For ComiMa?
-Dialogue: 0,0:15:45.65,0:15:48.57,Default,,0000,0000,0000,,Uh-huh! It's for Fubuki-chan's costume.
-Dialogue: 0,0:15:48.57,0:15:51.03,Default,,0000,0000,0000,,She needs a couple accessories.
-Dialogue: 0,0:15:51.03,0:15:53.03,Default,,0000,0000,0000,,Oh, right. Not many days left.
-Dialogue: 0,0:15:53.03,0:15:54.20,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:15:54.20,0:15:57.99,Default,,0000,0000,0000,,Once it's over, the year will soon follow.
-Dialogue: 0,0:15:57.99,0:16:02.21,Default,,0000,0000,0000,,It went by in the blink of an eye...
-Dialogue: 0,0:16:02.21,0:16:04.67,Default,,0000,0000,0000,,In the blink of an eye...
-Dialogue: 0,0:16:09.09,0:16:10.84,Default,,0000,0000,0000,,That summer...
-Dialogue: 0,0:16:10.84,0:16:15.22,Default,,0000,0000,0000,,How many times did I live and repeat it?
-Dialogue: 0,0:16:15.22,0:16:18.31,Default,,0000,0000,0000,,But, even that year is ending.
-Dialogue: 0,0:16:18.31,0:16:20.98,Default,,0000,0000,0000,,Ooh!
-Dialogue: 0,0:16:25.56,0:16:27.36,Default,,0000,0000,0000,,It's snowing!
-Dialogue: 0,0:16:27.36,0:16:29.53,Default,,0000,0000,0000,,I wonder if it'll stick?!
-Dialogue: 0,0:16:29.53,0:16:31.49,Default,,0000,0000,0000,,Time goes on.
-Dialogue: 0,0:16:31.49,0:16:32.07,Default,,0000,0000,0000,,—Wow! This is wonderful!
-Dialogue: 0,0:16:32.07,0:16:35.28,Default,,0000,0000,0000,,—The time that I chose...\N—Wow! This is wonderful!
-Dialogue: 0,0:16:35.28,0:16:38.53,Default,,0000,0000,0000,,Okarin! I'm gonna get going!
-Dialogue: 0,0:16:38.53,0:16:41.95,Default,,0000,0000,0000,,O-Okay.
-Dialogue: 0,0:16:41.95,0:16:43.71,Default,,0000,0000,0000,,Oh, right.
-Dialogue: 0,0:16:43.71,0:16:47.92,Default,,0000,0000,0000,,I think Luka-kun had something\Nhe wanted to discuss with you.
-Dialogue: 0,0:16:47.92,0:16:51.09,Default,,0000,0000,0000,,Ah, I completely forgot he called me.
-Dialogue: 0,0:16:51.09,0:16:52.34,Default,,0000,0000,0000,,I'll call him back.
-Dialogue: 0,0:16:52.34,0:16:55.22,Default,,0000,0000,0000,,Okay! Tell him hi!
-Dialogue: 0,0:17:17.03,0:17:18.49,Default,,0000,0000,0000,,I wonder if he's busy?
-Dialogue: 0,0:17:18.49,0:17:21.79,Default,,0000,0000,0000,,I bet he's helping ready\Nthe shrine for New Years.
-Dialogue: 0,0:17:23.70,0:17:25.79,Default,,0000,0000,0000,,May I come in?
-Dialogue: 0,0:17:25.79,0:17:27.04,Default,,0000,0000,0000,,Lukako?
-Dialogue: 0,0:17:27.04,0:17:29.63,Default,,0000,0000,0000,,It's open.
-Dialogue: 0,0:17:29.63,0:17:31.50,Default,,0000,0000,0000,,Thank goodness, you're here.
-Dialogue: 0,0:17:31.50,0:17:32.67,Default,,0000,0000,0000,,Sorry...
-Dialogue: 0,0:17:32.67,0:17:35.80,Default,,0000,0000,0000,,If it's about earlier, I totally forgot.
-Dialogue: 0,0:17:35.80,0:17:38.72,Default,,0000,0000,0000,,—I tried to call you just now.\N—Huh? You're right!
-Dialogue: 0,0:17:38.72,0:17:41.81,Default,,0000,0000,0000,,I'm the one who's sorry for not noticing.
-Dialogue: 0,0:17:41.81,0:17:43.22,Default,,0000,0000,0000,,Don't worry about it.
-Dialogue: 0,0:17:43.22,0:17:44.93,Default,,0000,0000,0000,,You wanted to talk with me?
-Dialogue: 0,0:17:44.93,0:17:46.94,Default,,0000,0000,0000,,Um, yes.
-Dialogue: 0,0:17:46.94,0:17:50.27,Default,,0000,0000,0000,,Actually, I...
-Dialogue: 0,0:17:50.27,0:17:56.78,Default,,0000,0000,0000,,Um, actually... There's someone I wanted\Nyou to meet, so I brought them along.
-Dialogue: 0,0:17:56.78,0:17:58.86,Default,,0000,0000,0000,,Is that okay?
-Dialogue: 0,0:17:58.86,0:18:00.99,Default,,0000,0000,0000,,Someone you want me to meet?
-Dialogue: 0,0:18:20.64,0:18:22.51,Default,,0000,0000,0000,,Ku...
-Dialogue: 0,0:18:28.69,0:18:30.94,Default,,0000,0000,0000,,Kurisu!
-Dialogue: 0,0:18:31.61,0:18:33.27,Default,,0000,0000,0000,,Here you go.
-Dialogue: 0,0:18:33.27,0:18:35.28,Default,,0000,0000,0000,,Thanks.
-Dialogue: 0,0:18:35.28,0:18:36.69,Default,,0000,0000,0000,,They're so alike...
-Dialogue: 0,0:18:36.69,0:18:39.49,Default,,0000,0000,0000,,But, her voice is different.
-Dialogue: 0,0:18:39.49,0:18:41.70,Default,,0000,0000,0000,,Must be a coincidence.
-Dialogue: 0,0:18:41.70,0:18:43.28,Default,,0000,0000,0000,,But still...
-Dialogue: 0,0:18:43.28,0:18:45.58,Default,,0000,0000,0000,,So, Lukako? Who is this?
-Dialogue: 0,0:18:45.58,0:18:46.95,Default,,0000,0000,0000,,Lukako?
-Dialogue: 0,0:18:46.95,0:18:50.21,Default,,0000,0000,0000,,Oh, sorry. That's what I call him.
-Dialogue: 0,0:18:50.21,0:18:52.75,Default,,0000,0000,0000,,Because he's so feminine.
-Dialogue: 0,0:18:55.09,0:18:59.93,Default,,0000,0000,0000,,I believe I told you before... That one of\Nmy father's guests would be staying with us.
-Dialogue: 0,0:18:59.93,0:19:02.22,Default,,0000,0000,0000,,Oh, so it was her?
-Dialogue: 0,0:19:02.22,0:19:03.18,Default,,0000,0000,0000,,Yes...
-Dialogue: 0,0:19:03.18,0:19:05.85,Default,,0000,0000,0000,,My father's acquaintance\Nhad brought her along.
-Dialogue: 0,0:19:05.85,0:19:07.52,Default,,0000,0000,0000,,What's her name?
-Dialogue: 0,0:19:10.14,0:19:13.44,Default,,0000,0000,0000,,Actually, that's what\NI wanted to talk to you about.
-Dialogue: 0,0:19:14.44,0:19:19.28,Default,,0000,0000,0000,,Um, do you know anything we\Ncould do to find out who this girl is?
-Dialogue: 0,0:19:19.28,0:19:22.03,Default,,0000,0000,0000,,Uh, what do you mean?
-Dialogue: 0,0:19:22.03,0:19:26.08,Default,,0000,0000,0000,,Well, she has amnesia...
-Dialogue: 0,0:19:26.08,0:19:28.04,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:19:28.04,0:19:33.17,Default,,0000,0000,0000,,Her name, where she came from,\Nhow she lost her memory...
-Dialogue: 0,0:19:33.17,0:19:35.29,Default,,0000,0000,0000,,She remembers none of it.
-Dialogue: 0,0:19:35.29,0:19:37.34,Default,,0000,0000,0000,,Are you serious?
-Dialogue: 0,0:19:37.34,0:19:41.76,Default,,0000,0000,0000,,I thought if anyone, you would know\Na way to bring back her memories.
-Dialogue: 0,0:19:41.76,0:19:45.22,Default,,0000,0000,0000,,You always talk about brains and\Nmemories and complicated things...
-Dialogue: 0,0:19:45.22,0:19:47.89,Default,,0000,0000,0000,,Anything you can do to help.
-Dialogue: 0,0:19:47.89,0:19:50.98,Default,,0000,0000,0000,,I just want to remember who I am.
-Dialogue: 0,0:19:50.98,0:19:53.15,Default,,0000,0000,0000,,H-Hold on.
-Dialogue: 0,0:19:53.15,0:19:57.02,Default,,0000,0000,0000,,I might talk about that stuff,\Nbut I'm no expert on it.
-Dialogue: 0,0:19:57.02,0:20:01.11,Default,,0000,0000,0000,,Besides, regaining memories is no simple task.
-Dialogue: 0,0:20:01.11,0:20:03.78,Default,,0000,0000,0000,,Storing it aside is one thing, but...
-Dialogue: 0,0:20:03.78,0:20:06.58,Default,,0000,0000,0000,,I see...
-Dialogue: 0,0:20:06.58,0:20:11.33,Default,,0000,0000,0000,,In that case, is there any way\Nto find out where she came from?
-Dialogue: 0,0:20:11.33,0:20:13.29,Default,,0000,0000,0000,,I feel bad for poor Kana-san.
-Dialogue: 0,0:20:13.29,0:20:15.92,Default,,0000,0000,0000,,Kana? What's that?
-Dialogue: 0,0:20:15.92,0:20:20.76,Default,,0000,0000,0000,,It's annoying if she has no name,\Nso Kana it is... or so Father said.
-Dialogue: 0,0:20:20.76,0:20:22.88,Default,,0000,0000,0000,,Well, that's one way to do it.
-Dialogue: 0,0:20:22.88,0:20:24.80,Default,,0000,0000,0000,,It doesn't matter anyways.
-Dialogue: 0,0:20:24.80,0:20:27.64,Default,,0000,0000,0000,,It's just a temporary name.
-Dialogue: 0,0:20:27.64,0:20:31.10,Default,,0000,0000,0000,,More importantly...
-Dialogue: 0,0:20:31.10,0:20:34.60,Default,,0000,0000,0000,,Do you have anything\Nthat might serve as a hint?
-Dialogue: 0,0:20:34.60,0:20:38.61,Default,,0000,0000,0000,,Like... a wallet, a pass, or cellphone.
-Dialogue: 0,0:20:38.61,0:20:40.40,Default,,0000,0000,0000,,Nothing like that.
-Dialogue: 0,0:20:40.40,0:20:41.90,Default,,0000,0000,0000,,Nothing?
-Dialogue: 0,0:20:41.90,0:20:46.12,Default,,0000,0000,0000,,How in the world did you live until now?
-Dialogue: 0,0:20:46.12,0:20:49.62,Default,,0000,0000,0000,,There is one thing that might be a hint.
-Dialogue: 0,0:20:49.62,0:20:50.70,Default,,0000,0000,0000,,Kana-san?
-Dialogue: 0,0:20:50.70,0:20:52.58,Default,,0000,0000,0000,,Right.
-Dialogue: 0,0:20:55.92,0:20:57.50,Default,,0000,0000,0000,,This...
-Dialogue: 0,0:20:58.96,0:21:01.63,Default,,0000,0000,0000,,Tutturu! I'm back!
-Dialogue: 0,0:21:01.63,0:21:03.30,Default,,0000,0000,0000,,It stopped snowing.
-Dialogue: 0,0:21:03.30,0:21:06.43,Default,,0000,0000,0000,,Hmm? A guest?
-Dialogue: 0,0:21:06.43,0:21:07.93,Default,,0000,0000,0000,,This is...
-Dialogue: 0,0:21:07.93,0:21:09.97,Default,,0000,0000,0000,,An Upa!
-Dialogue: 0,0:21:09.97,0:21:13.56,Default,,0000,0000,0000,,Hey, hey! Where did you get that Upa?!
-Dialogue: 0,0:21:13.56,0:21:17.77,Default,,0000,0000,0000,,Kana-san has never let it leave her side.
-Dialogue: 0,0:21:17.77,0:21:21.11,Default,,0000,0000,0000,,If I'm not mistaken,\Ndidn't this use to be green?
-Dialogue: 0,0:21:21.11,0:21:23.94,Default,,0000,0000,0000,,I think it's the forest fairy version!
-Dialogue: 0,0:21:23.94,0:21:25.45,Default,,0000,0000,0000,,The forest fairy?
-Dialogue: 0,0:21:25.45,0:21:29.91,Default,,0000,0000,0000,,Yup! It showed up in a movie not too long ago.
-Dialogue: 0,0:21:29.91,0:21:34.16,Default,,0000,0000,0000,,See? It's like my Upa,\Nbut the design is different.
-Dialogue: 0,0:21:34.16,0:21:36.42,Default,,0000,0000,0000,,That one has wings!
-Dialogue: 0,0:21:36.42,0:21:40.09,Default,,0000,0000,0000,,Then... why does it look so old?
-Dialogue: 0,0:21:40.09,0:21:42.09,Default,,0000,0000,0000,,If it's from a new movie...
-Dialogue: 0,0:21:46.55,0:21:48.26,Default,,0000,0000,0000,,I'm home...
-Dialogue: 0,0:21:50.64,0:21:52.81,Default,,0000,0000,0000,,H-Hey!
-Dialogue: 0,0:21:52.81,0:21:56.69,Default,,0000,0000,0000,,You okay?! Hey!
-Dialogue: 0,0:21:56.69,0:21:58.10,Default,,0000,0000,0000,,Kagari...
-Dialogue: 0,0:22:01.07,0:22:03.61,Default,,0000,0000,0000,,You're Kagari...
-Dialogue: 0,0:22:03.61,0:22:06.07,Default,,0000,0000,0000,,Shiina Kagari, aren't you?!
-Dialogue: 0,0:22:10.45,0:22:13.45,Default,,0000,0000,0000,,{\i1}Come to me{\i}
-Dialogue: 0,0:22:13.45,0:22:16.75,Default,,0000,0000,0000,,{\i1}Embrace my tears {\i}
-Dialogue: 0,0:22:16.75,0:22:22.84,Default,,0000,0000,0000,,{\i1}Let me guide you down into my soul{\i}
-Dialogue: 0,0:22:22.84,0:22:29.43,Default,,0000,0000,0000,,{\i1}And let us pray for the world to realize {\i}
-Dialogue: 0,0:22:29.43,0:22:35.68,Default,,0000,0000,0000,,{\i1}There is peace, the truth within us{\i}
-Dialogue: 0,0:22:35.68,0:22:41.98,Default,,0000,0000,0000,,{\i1}Emptiness erodes your heart{\i}
-Dialogue: 0,0:22:41.98,0:22:48.32,Default,,0000,0000,0000,,{\i1}Coz you're free from pain and sorrow{\i}
-Dialogue: 0,0:22:48.32,0:22:54.58,Default,,0000,0000,0000,,{\i1}Future is just too bright to show you ways{\i}
-Dialogue: 0,0:22:54.58,0:23:01.75,Default,,0000,0000,0000,,{\i1}Wake up now...it's time to lead new souls{\i}
-Dialogue: 0,0:23:01.75,0:23:08.09,Default,,0000,0000,0000,,{\i1}Orbit of photon and universe {\i}
-Dialogue: 0,0:23:08.09,0:23:14.43,Default,,0000,0000,0000,,{\i1}I am just the part of its plan{\i}
-Dialogue: 0,0:23:14.43,0:23:20.64,Default,,0000,0000,0000,,{\i1}With eyes unaware of the distorted sky{\i}
-Dialogue: 0,0:23:20.64,0:23:29.24,Default,,0000,0000,0000,,{\i1}Where is it the people walk to?{\i}
-Dialogue: 0,0:23:29.24,0:23:33.82,Default,,0000,0000,0000,,{\i1}The last game{\i}
+Dialogue: 30,0:00:01.58,0:00:03.42,Default,,0000,0000,0000,,I got your message...
+Dialogue: 30,0:00:03.42,0:00:05.42,Default,,0000,0000,0000,,I'm Kiryu Moeka.
+Dialogue: 30,0:00:06.84,0:00:09.13,Default,,0000,0000,0000,,Um...
+Dialogue: 30,0:00:09.13,0:00:10.51,Default,,0000,0000,0000,,Oh, you're here?
+Dialogue: 30,0:00:10.51,0:00:13.68,Default,,0000,0000,0000,,What are you doing, Okarin? Let the lady in.
+Dialogue: 30,0:00:13.68,0:00:15.89,Default,,0000,0000,0000,,R-Right...
+Dialogue: 30,0:00:20.64,0:00:22.48,Default,,0000,0000,0000,,Here's some tea.
+Dialogue: 30,0:00:26.06,0:00:28.44,Default,,0000,0000,0000,,Kiryu Moeka...
+Dialogue: 30,0:00:28.44,0:00:29.94,Default,,0000,0000,0000,,Why?
+Dialogue: 30,0:00:29.94,0:00:32.07,Default,,0000,0000,0000,,Why are she and Daru...?
+Dialogue: 30,0:00:48.92,0:00:54.22,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
+Dialogue: 30,0:00:54.22,0:01:00.14,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
+Dialogue: 30,0:01:01.14,0:01:11.98,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
+Dialogue: 30,0:01:11.98,0:01:21.70,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
+Dialogue: 30,0:01:21.70,0:01:27.04,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
+Dialogue: 30,0:01:27.04,0:01:33.80,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
+Dialogue: 30,0:01:33.80,0:01:34.88,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
+Dialogue: 30,0:01:34.88,0:01:40.80,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
+Dialogue: 30,0:01:40.80,0:01:45.56,Default,,0000,0000,0000,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
+Dialogue: 30,0:01:45.56,0:01:51.06,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
+Dialogue: 30,0:01:51.06,0:01:56.61,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
+Dialogue: 30,0:01:56.61,0:02:01.95,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
+Dialogue: 30,0:02:04.54,0:02:08.46,Default,,0000,0000,0000,,...to not be human. The bodies, missing\Ntheir brains and portions of the cranium,
+Dialogue: 30,0:02:08.46,0:02:13.21,Default,,0000,0000,0000,,were discovered to be\Nchimpanzee and orangutan.
+Dialogue: 30,0:02:13.21,0:02:14.63,Default,,0000,0000,0000,,Hmm?
+Dialogue: 30,0:02:14.63,0:02:16.59,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 30,0:02:16.59,0:02:18.80,Default,,0000,0000,0000,,N-Nothing.
+Dialogue: 30,0:02:18.80,0:02:20.01,Default,,0000,0000,0000,,Calm down...
+Dialogue: 30,0:02:20.01,0:02:22.30,Default,,0000,0000,0000,,This isn't that worldline anymore.
+Dialogue: 30,0:02:22.30,0:02:24.89,Default,,0000,0000,0000,,We don't have any connection to SERN.
+Dialogue: 30,0:02:24.89,0:02:26.93,Default,,0000,0000,0000,,Moeka won't kill Mayuri.
+Dialogue: 30,0:02:26.93,0:02:28.69,Default,,0000,0000,0000,,She won't kill Mayuri...
+Dialogue: 30,0:02:28.69,0:02:29.94,Default,,0000,0000,0000,,She won't kill...
+Dialogue: 30,0:02:29.94,0:02:33.44,Default,,0000,0000,0000,,Uncle? You're not looking too good.
+Dialogue: 30,0:02:33.44,0:02:35.11,Default,,0000,0000,0000,,I'm fine.
+Dialogue: 30,0:02:35.11,0:02:37.36,Default,,0000,0000,0000,,Daru, care to explain?
+Dialogue: 30,0:02:37.36,0:02:38.86,Default,,0000,0000,0000,,Who is this person?
+Dialogue: 30,0:02:38.86,0:02:42.87,Default,,0000,0000,0000,,Kiryu-shi, a writer for an editorial.
+Dialogue: 30,0:02:42.87,0:02:45.83,Default,,0000,0000,0000,,I'm Kiryu Moeka.
+Dialogue: 30,0:02:45.83,0:02:50.42,Default,,0000,0000,0000,,A while back, there was a magazine\Ncovering the urban legends of Akiba.
+Dialogue: 30,0:02:50.42,0:02:54.67,Default,,0000,0000,0000,,That's when she contacted me wanting\Nto write about my part-time work.
+Dialogue: 30,0:02:54.67,0:02:55.63,Default,,0000,0000,0000,,Your work?
+Dialogue: 30,0:02:55.63,0:02:59.72,Default,,0000,0000,0000,,You know, the stuff I can't talk out loud about.
+Dialogue: 30,0:02:59.72,0:03:05.35,Default,,0000,0000,0000,,I'm always careful not to leave any trace,\Nbut Kiryu-shi somehow managed to find me.
+Dialogue: 30,0:03:05.35,0:03:08.10,Default,,0000,0000,0000,,So that explains your interest in her.
+Dialogue: 30,0:03:08.10,0:03:11.44,Default,,0000,0000,0000,,I heard you're looking for someone.
+Dialogue: 30,0:03:11.44,0:03:17.03,Default,,0000,0000,0000,,Actually, we're looking for a girl\Nthat went missing in Akiba 12 years ago.
+Dialogue: 30,0:03:17.03,0:03:18.86,Default,,0000,0000,0000,,12 years ago...
+Dialogue: 30,0:03:18.86,0:03:20.36,Default,,0000,0000,0000,,Yeah.
+Dialogue: 30,0:03:20.36,0:03:22.95,Default,,0000,0000,0000,,Her name is Shiina Kagari.
+Dialogue: 30,0:03:22.95,0:03:28.62,Default,,0000,0000,0000,,She was 10 years old 12 years ago,\Nso that would make her 22 now.
+Dialogue: 30,0:03:28.62,0:03:30.12,Default,,0000,0000,0000,,She's alive?
+Dialogue: 30,0:03:30.12,0:03:34.71,Default,,0000,0000,0000,,We don't know for sure, but we found\Nsomeone resembling her in a recent photo.
+Dialogue: 30,0:03:38.71,0:03:41.34,Default,,0000,0000,0000,,Should we really be trusting her?
+Dialogue: 30,0:03:41.34,0:03:45.51,Default,,0000,0000,0000,,It's true that in this worldline,\Nshe shouldn't have to interact with us...
+Dialogue: 30,0:03:45.51,0:03:48.06,Default,,0000,0000,0000,,She has no reason to kill Mayuri either.
+Dialogue: 30,0:03:48.06,0:03:51.85,Default,,0000,0000,0000,,But more than likely,\Nshe's a Rounder in this worldline too.
+Dialogue: 30,0:03:51.85,0:03:54.48,Default,,0000,0000,0000,,She can still kill without batting an eye...
+Dialogue: 30,0:04:01.65,0:04:03.91,Default,,0000,0000,0000,,Can I take on the job?
+Dialogue: 30,0:04:03.91,0:04:04.82,Default,,0000,0000,0000,,You serious?
+Dialogue: 30,0:04:04.82,0:04:07.41,Default,,0000,0000,0000,,Though, I don't know if I'll find her.
+Dialogue: 30,0:04:07.41,0:04:10.20,Default,,0000,0000,0000,,Of course. Not much you can do about that.
+Dialogue: 30,0:04:10.20,0:04:12.25,Default,,0000,0000,0000,,You'll be compensated if you succeed,
+Dialogue: 30,0:04:12.25,0:04:15.71,Default,,0000,0000,0000,,but we'll cover any expenses\Nyou need for your work, all right?
+Dialogue: 30,0:04:15.71,0:04:17.00,Default,,0000,0000,0000,,No problem.
+Dialogue: 30,0:04:17.00,0:04:18.92,Default,,0000,0000,0000,,You fine with that, Okarin?
+Dialogue: 30,0:04:18.92,0:04:20.59,Default,,0000,0000,0000,,Y-Yeah.
+Dialogue: 30,0:04:20.59,0:04:24.43,Default,,0000,0000,0000,,Great. You're officially hired then.
+Dialogue: 30,0:04:24.43,0:04:25.68,Default,,0000,0000,0000,,Let's go, Nae.
+Dialogue: 30,0:04:25.68,0:04:27.35,Default,,0000,0000,0000,,'Kay!
+Dialogue: 30,0:04:30.14,0:04:31.64,Default,,0000,0000,0000,,Don't forget your seatbelt.
+Dialogue: 30,0:04:31.64,0:04:34.23,Default,,0000,0000,0000,,Right!
+Dialogue: 30,0:04:34.23,0:04:35.15,Default,,0000,0000,0000,,Ready?
+Dialogue: 30,0:04:35.15,0:04:36.06,Default,,0000,0000,0000,,Yup!
+Dialogue: 30,0:04:36.06,0:04:39.07,Default,,0000,0000,0000,,—Off we go!\N—Off we go!
+Dialogue: 30,0:04:42.19,0:04:43.90,Default,,0000,0000,0000,,So? Who was that?
+Dialogue: 30,0:04:43.90,0:04:44.74,Default,,0000,0000,0000,,Eh?
+Dialogue: 30,0:04:44.74,0:04:46.82,Default,,0000,0000,0000,,You know that person, don't you?
+Dialogue: 30,0:04:48.24,0:04:50.24,Default,,0000,0000,0000,,Huh?
+Dialogue: 30,0:04:50.24,0:04:52.37,Default,,0000,0000,0000,,What makes you think that?
+Dialogue: 30,0:04:52.37,0:04:54.04,Default,,0000,0000,0000,,You made it obvious.
+Dialogue: 30,0:04:54.04,0:04:56.04,Default,,0000,0000,0000,,You know her, Okarin?
+Dialogue: 30,0:04:58.38,0:04:59.79,Default,,0000,0000,0000,,No, I d—
+Dialogue: 30,0:04:59.79,0:05:01.63,Default,,0000,0000,0000,,What about in the Alpha worldline?
+Dialogue: 30,0:05:07.97,0:05:09.43,Default,,0000,0000,0000,,All right.
+Dialogue: 30,0:05:09.43,0:05:13.89,Default,,0000,0000,0000,,I won't pry any deeper,\Nbut I'll stay on guard from my end.
+Dialogue: 30,0:05:15.94,0:05:18.90,Default,,0000,0000,0000,,That's fine, at least for now.
+Dialogue: 30,0:05:18.90,0:05:20.32,Default,,0000,0000,0000,,What's this about?
+Dialogue: 30,0:05:20.32,0:05:22.36,Default,,0000,0000,0000,,She makes me nervous.
+Dialogue: 30,0:05:22.36,0:05:28.24,Default,,0000,0000,0000,,I get it! Since Kiryu-shi is hot, stylish, and\Nchecks all the right boxes for a glasses fetish!
+Dialogue: 30,0:05:42.17,0:05:45.67,Default,,0000,0000,0000,,I should probably get\Na pro to help me with this...
+Dialogue: 30,0:05:48.80,0:05:53.18,Default,,0000,0000,0000,,That's right! No matter how much\NI call, he's just not answering.
+Dialogue: 30,0:05:53.18,0:05:56.14,Default,,0000,0000,0000,,What gives? He's a joke of a tester.
+Dialogue: 30,0:05:56.14,0:05:58.65,Default,,0000,0000,0000,,Have you considered he\Nmight have broken his phone?
+Dialogue: 30,0:05:58.65,0:06:01.06,Default,,0000,0000,0000,,Dunno, but let's hope that's it.
+Dialogue: 30,0:06:03.57,0:06:06.99,Default,,0000,0000,0000,,Makise Kurisu is dead.
+Dialogue: 30,0:06:09.57,0:06:13.37,Default,,0000,0000,0000,,It's a rare sight to see you\Nbrooding over something like this.
+Dialogue: 30,0:06:13.37,0:06:16.04,Default,,0000,0000,0000,,Professor?! When did you get back?!
+Dialogue: 30,0:06:16.04,0:06:17.29,Default,,0000,0000,0000,,Just now.
+Dialogue: 30,0:06:18.58,0:06:22.09,Default,,0000,0000,0000,,These Japanese convenience\Nstores are pretty awesome.
+Dialogue: 30,0:06:22.09,0:06:24.38,Default,,0000,0000,0000,,You can eat a different bento every day,
+Dialogue: 30,0:06:24.38,0:06:27.34,Default,,0000,0000,0000,,and by the next week,\Nthere's a whole new selection.
+Dialogue: 30,0:06:27.34,0:06:31.30,Default,,0000,0000,0000,,If you keep eating convenience\Nstore food, it'll ruin your health.
+Dialogue: 30,0:06:32.51,0:06:35.81,Default,,0000,0000,0000,,Take a good look at yourself\Nbefore judging my eating habits.
+Dialogue: 30,0:06:37.48,0:06:39.85,Default,,0000,0000,0000,,So? Where are you going?
+Dialogue: 30,0:06:39.85,0:06:42.65,Default,,0000,0000,0000,,Off to Akihabara for a change of pace.
+Dialogue: 30,0:06:42.65,0:06:46.36,Default,,0000,0000,0000,,Just admit you're going\Nthere to visit Lintahlo already.
+Dialogue: 30,0:06:46.36,0:06:48.11,Default,,0000,0000,0000,,Th-That's not why I'm...
+Dialogue: 30,0:06:48.11,0:06:50.49,Default,,0000,0000,0000,,It's not?
+Dialogue: 30,0:06:50.49,0:06:53.20,Default,,0000,0000,0000,,I guess I could see him on the way...
+Dialogue: 30,0:06:53.20,0:06:55.49,Default,,0000,0000,0000,,On the way? On the way to what?
+Dialogue: 30,0:06:55.49,0:06:57.70,Default,,0000,0000,0000,,I told you, for a change of pace!
+Dialogue: 30,0:06:57.70,0:07:02.13,Default,,0000,0000,0000,,For this change of pace of yours,\Nyou're willing to go an hour away to Akihabara,
+Dialogue: 30,0:07:02.13,0:07:04.63,Default,,0000,0000,0000,,where Lintahlo just happens to be?
+Dialogue: 30,0:07:04.63,0:07:06.63,Default,,0000,0000,0000,,Is that what you're saying?
+Dialogue: 30,0:07:08.42,0:07:10.13,Default,,0000,0000,0000,,I approve.
+Dialogue: 30,0:07:10.13,0:07:12.93,Default,,0000,0000,0000,,I-I'm going, but it's not what you think.
+Dialogue: 30,0:07:12.93,0:07:14.55,Default,,0000,0000,0000,,It's not like that.
+Dialogue: 30,0:07:14.55,0:07:16.18,Default,,0000,0000,0000,,It's not like what?
+Dialogue: 30,0:07:16.18,0:07:19.64,Default,,0000,0000,0000,,Anyways, I'm done working today. Goodbye.
+Dialogue: 30,0:07:21.69,0:07:24.15,Default,,0000,0000,0000,,Say hi to Lintahlo for me.
+Dialogue: 30,0:07:27.82,0:07:29.74,Default,,0000,0000,0000,,This is?
+Dialogue: 30,0:07:29.74,0:07:31.32,Default,,0000,0000,0000,,My report.
+Dialogue: 30,0:07:38.37,0:07:40.04,Default,,0000,0000,0000,,Well?
+Dialogue: 30,0:07:40.04,0:07:44.17,Default,,0000,0000,0000,,Looks like finding her won't be that easy.
+Dialogue: 30,0:07:44.17,0:07:45.59,Default,,0000,0000,0000,,I see...
+Dialogue: 30,0:07:48.17,0:07:49.96,Default,,0000,0000,0000,,Hmm? Find a clue?
+Dialogue: 30,0:07:49.96,0:07:52.51,Default,,0000,0000,0000,,No, it's not that, but...
+Dialogue: 30,0:07:52.51,0:07:53.47,Default,,0000,0000,0000,,Lemme see.
+Dialogue: 30,0:07:53.47,0:07:55.64,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 30,0:07:57.01,0:08:00.93,Default,,0000,0000,0000,,During the investigation,\None peculiar discovery was made.
+Dialogue: 30,0:08:00.93,0:08:02.52,Default,,0000,0000,0000,,In the past several months,
+Dialogue: 30,0:08:02.52,0:08:07.86,Default,,0000,0000,0000,,there is evidence that a party other than\Nours has been searching for Shiina Kagari.
+Dialogue: 30,0:08:07.86,0:08:09.78,Default,,0000,0000,0000,,What's that mean?
+Dialogue: 30,0:08:09.78,0:08:11.32,Default,,0000,0000,0000,,Just as you read.
+Dialogue: 30,0:08:11.32,0:08:13.41,Default,,0000,0000,0000,,Who's looking for her?
+Dialogue: 30,0:08:13.41,0:08:15.24,Default,,0000,0000,0000,,I don't know.
+Dialogue: 30,0:08:15.24,0:08:17.28,Default,,0000,0000,0000,,Is it possible that it's Suzuha?
+Dialogue: 30,0:08:17.28,0:08:21.00,Default,,0000,0000,0000,,I thought the same at first,\Nbut look right here.
+Dialogue: 30,0:08:21.00,0:08:23.58,Default,,0000,0000,0000,,The people searching were men.
+Dialogue: 30,0:08:23.58,0:08:25.67,Default,,0000,0000,0000,,With a foreigner among them.
+Dialogue: 30,0:08:25.67,0:08:28.67,Default,,0000,0000,0000,,Foreigner?
+Dialogue: 30,0:08:28.67,0:08:31.09,Default,,0000,0000,0000,,But she's been gone 12 whole years.
+Dialogue: 30,0:08:31.09,0:08:33.68,Default,,0000,0000,0000,,Maybe she made some friends in that time.
+Dialogue: 30,0:08:33.68,0:08:34.59,Default,,0000,0000,0000,,Hmm...
+Dialogue: 30,0:08:34.59,0:08:39.51,Default,,0000,0000,0000,,Actually, as a kid, she wouldn't have\Nlived very long without knowing somebody.
+Dialogue: 30,0:08:39.51,0:08:41.52,Default,,0000,0000,0000,,That's true, but...
+Dialogue: 30,0:08:41.52,0:08:44.35,Default,,0000,0000,0000,,With this, at least we know one thing.
+Dialogue: 30,0:08:44.35,0:08:45.81,Default,,0000,0000,0000,,Which is?
+Dialogue: 30,0:08:45.81,0:08:50.61,Default,,0000,0000,0000,,We know that Shiina Kagari...\Nis alive in the present.
+Dialogue: 30,0:08:50.61,0:08:52.57,Default,,0000,0000,0000,,A foreigner, huh?
+Dialogue: 30,0:08:55.41,0:08:58.41,Default,,0000,0000,0000,,I'm pretty sure it was this way...
+Dialogue: 30,0:09:01.08,0:09:07.25,Default,,0000,0000,0000,,Right now... I happen to be in Akihabara, so...
+Dialogue: 30,0:09:07.25,0:09:10.50,Default,,0000,0000,0000,,I'm going to stop by the lab...
+Dialogue: 30,0:10:25.54,0:10:28.04,Default,,0000,0000,0000,,Please, pick up!
+Dialogue: 30,0:10:29.04,0:10:30.54,Default,,0000,0000,0000,,Hello?! Okabe-san?!
+Dialogue: 30,0:10:30.54,0:10:31.33,Default,,0000,0000,0000,,Hiyajo-san?
+Dialogue: 30,0:10:31.33,0:10:34.67,Default,,0000,0000,0000,,Right now, I'm running towards the lab, but—
+Dialogue: 30,0:10:34.67,0:10:37.42,Default,,0000,0000,0000,,Hiyajo-san? Hiyajo-san?!
+Dialogue: 30,0:10:39.34,0:10:40.93,Default,,0000,0000,0000,,Okarin?
+Dialogue: 30,0:10:42.05,0:10:43.56,Default,,0000,0000,0000,,Hiyajo-san?!
+Dialogue: 30,0:10:43.56,0:10:44.64,Default,,0000,0000,0000,,Huh?
+Dialogue: 30,0:10:44.64,0:10:48.89,Default,,0000,0000,0000,,It can't be! It can't be that!
+Dialogue: 30,0:10:48.89,0:10:51.56,Default,,0000,0000,0000,,It's not happening! It's not!
+Dialogue: 30,0:10:58.82,0:11:03.16,Default,,0000,0000,0000,,Hiyajo-san?!
+Dialogue: 30,0:11:03.16,0:11:04.12,Default,,0000,0000,0000,,A woman?
+Dialogue: 30,0:11:04.12,0:11:06.29,Default,,0000,0000,0000,,Stop it! Let me go!
+Dialogue: 30,0:11:06.29,0:11:07.66,Default,,0000,0000,0000,,H-Hold it!
+Dialogue: 30,0:11:07.66,0:11:09.66,Default,,0000,0000,0000,,Hands off that girl!
+Dialogue: 30,0:11:09.66,0:11:11.00,Default,,0000,0000,0000,,No, don't!
+Dialogue: 30,0:11:18.51,0:11:20.47,Default,,0000,0000,0000,,Whoa! What the?
+Dialogue: 30,0:11:20.47,0:11:21.59,Default,,0000,0000,0000,,Hiyajo-san!
+Dialogue: 30,0:11:21.59,0:11:24.85,Default,,0000,0000,0000,,This is why I said not to...
+Dialogue: 30,0:11:27.93,0:11:29.64,Default,,0000,0000,0000,,Reyes?
+Dialogue: 30,0:11:29.64,0:11:31.98,Default,,0000,0000,0000,,Professor Judy Reyes.
+Dialogue: 30,0:11:31.98,0:11:38.15,Default,,0000,0000,0000,,She said she came to Japan to attend an\NAI conference being held in the near future.
+Dialogue: 30,0:11:38.15,0:11:39.61,Default,,0000,0000,0000,,Professor?
+Dialogue: 30,0:11:39.61,0:11:42.24,Default,,0000,0000,0000,,Of Viktor Chondria University?
+Dialogue: 30,0:11:49.50,0:11:52.54,Default,,0000,0000,0000,,Um, I'm...
+Dialogue: 30,0:11:52.54,0:11:54.71,Default,,0000,0000,0000,,Japanese is fine too.
+Dialogue: 30,0:11:56.34,0:11:57.55,Default,,0000,0000,0000,,Are you surprised?
+Dialogue: 30,0:11:57.55,0:12:00.80,Default,,0000,0000,0000,,So you're Rintaro.\NI heard all about you from Alexis.
+Dialogue: 30,0:12:00.80,0:12:02.22,Default,,0000,0000,0000,,Alexis?
+Dialogue: 30,0:12:02.22,0:12:03.97,Default,,0000,0000,0000,,Oh, Professor Leskinen.
+Dialogue: 30,0:12:03.97,0:12:06.68,Default,,0000,0000,0000,,Her specialty is psychophysiology.
+Dialogue: 30,0:12:06.68,0:12:08.31,Default,,0000,0000,0000,,The link of mind and body.
+Dialogue: 30,0:12:08.31,0:12:11.68,Default,,0000,0000,0000,,It's the field of research that studies
+Dialogue: 30,0:12:11.68,0:12:14.10,Default,,0000,0000,0000,,how cognitive processes influence\Nthe heart, disease, and so on.
+Dialogue: 30,0:12:14.10,0:12:15.73,Default,,0000,0000,0000,,In other words,
+Dialogue: 30,0:12:15.73,0:12:21.24,Default,,0000,0000,0000,,her branch of science is a lot more useful\Nto humanity than the research that I do.
+Dialogue: 30,0:12:21.24,0:12:22.70,Default,,0000,0000,0000,,That's not true at all.
+Dialogue: 30,0:12:22.70,0:12:26.82,Default,,0000,0000,0000,,You guys and your Amadeus\Nmight prove to be incredibly useful.
+Dialogue: 30,0:12:26.82,0:12:29.37,Default,,0000,0000,0000,,I'm very honored you feel that way.
+Dialogue: 30,0:12:29.37,0:12:33.25,Default,,0000,0000,0000,,But it was still cruel of you\Nto stalk me from the station.
+Dialogue: 30,0:12:33.25,0:12:35.33,Default,,0000,0000,0000,,The station? Stalk you?
+Dialogue: 30,0:12:35.33,0:12:36.46,Default,,0000,0000,0000,,I did?
+Dialogue: 30,0:12:36.46,0:12:38.46,Default,,0000,0000,0000,,Huh? You didn't?
+Dialogue: 30,0:12:38.46,0:12:43.42,Default,,0000,0000,0000,,I just saw you in the alleyway and\Nthought I'd jump out and surprise you.
+Dialogue: 30,0:12:44.63,0:12:48.01,Default,,0000,0000,0000,,Then...
+Dialogue: 30,0:12:48.01,0:12:49.64,Default,,0000,0000,0000,,Did I imagine it?
+Dialogue: 30,0:12:52.73,0:12:56.44,Default,,0000,0000,0000,,Anyways, bring Rintaro and\Nwe'll have a nice long chat sometime.
+Dialogue: 30,0:12:56.44,0:12:57.90,Default,,0000,0000,0000,,Bye!
+Dialogue: 30,0:12:57.90,0:12:59.40,Default,,0000,0000,0000,,No!
+Dialogue: 30,0:12:59.40,0:13:01.73,Default,,0000,0000,0000,,I told you, it's not like that!
+Dialogue: 30,0:13:01.73,0:13:03.57,Default,,0000,0000,0000,,What was that all about?
+Dialogue: 30,0:13:03.57,0:13:04.53,Default,,0000,0000,0000,,Eh?
+Dialogue: 30,0:13:04.53,0:13:06.74,Default,,0000,0000,0000,,It's nothing...
+Dialogue: 30,0:13:06.74,0:13:08.78,Default,,0000,0000,0000,,Okarin!
+Dialogue: 30,0:13:08.78,0:13:10.20,Default,,0000,0000,0000,,Something happen?
+Dialogue: 30,0:13:10.20,0:13:13.41,Default,,0000,0000,0000,,No, it wasn't anything.
+Dialogue: 30,0:13:13.41,0:13:17.38,Default,,0000,0000,0000,,Ooh, Hiyajo-shi!
+Dialogue: 30,0:13:17.38,0:13:21.09,Default,,0000,0000,0000,,Is it just me, or are you tinier\Nthan the last time we met?
+Dialogue: 30,0:13:21.09,0:13:23.26,Default,,0000,0000,0000,,You honestly believe something that dumb?
+Dialogue: 30,0:13:23.26,0:13:27.30,Default,,0000,0000,0000,,Mmm! She's becoming\Nmore loli by the minute!
+Dialogue: 30,0:13:27.30,0:13:29.68,Default,,0000,0000,0000,,Did we trigger the flag for Hiyajo-shi
+Dialogue: 30,0:13:29.68,0:13:32.64,Default,,0000,0000,0000,,to be inducted into the lab\Nas our token loli character?
+Dialogue: 30,0:13:32.64,0:13:33.73,Default,,0000,0000,0000,,Doubt it.
+Dialogue: 30,0:13:33.73,0:13:38.40,Default,,0000,0000,0000,,In that case, I'll settle for calling\Nher Maho-{\i1}tan{\i}! That's right, I said it!
+Dialogue: 30,0:13:38.40,0:13:40.61,Default,,0000,0000,0000,,What the heck are you on about?
+Dialogue: 30,0:13:42.78,0:13:44.49,Default,,0000,0000,0000,,Amadeus did?
+Dialogue: 30,0:13:44.49,0:13:45.57,Default,,0000,0000,0000,,Yeah.
+Dialogue: 30,0:13:45.57,0:13:49.45,Default,,0000,0000,0000,,She said you won't pick up\Nno matter how many times she calls.
+Dialogue: 30,0:13:51.33,0:13:55.16,Default,,0000,0000,0000,,Judging by that face,\Nyou're not answering on purpose.
+Dialogue: 30,0:13:55.16,0:13:57.37,Default,,0000,0000,0000,,Yeah...
+Dialogue: 30,0:14:00.71,0:14:03.88,Default,,0000,0000,0000,,Let me talk to the professor.
+Dialogue: 30,0:14:03.88,0:14:06.47,Default,,0000,0000,0000,,This was only a test from the start.
+Dialogue: 30,0:14:06.47,0:14:08.55,Default,,0000,0000,0000,,You're not obligated to help.
+Dialogue: 30,0:14:08.55,0:14:10.51,Default,,0000,0000,0000,,You're not even getting paid.
+Dialogue: 30,0:14:18.64,0:14:20.23,Default,,0000,0000,0000,,But...
+Dialogue: 30,0:14:20.23,0:14:25.74,Default,,0000,0000,0000,,I had no idea... that Kurisu had\Nsuch a large presence in your life.
+Dialogue: 30,0:14:25.74,0:14:28.07,Default,,0000,0000,0000,,I told you already, Kurisu wasn't—
+Dialogue: 30,0:14:28.07,0:14:30.20,Default,,0000,0000,0000,,I can tell by watching you.
+Dialogue: 30,0:14:30.20,0:14:32.45,Default,,0000,0000,0000,,Her presence was huge...
+Dialogue: 30,0:14:32.45,0:14:37.00,Default,,0000,0000,0000,,What you're doing... is projecting\Nyour feelings for Kurisu onto Amadeus.
+Dialogue: 30,0:14:37.00,0:14:41.38,Default,,0000,0000,0000,,When her voice revives old memories,\Nit breathes new life into you,
+Dialogue: 30,0:14:41.38,0:14:44.46,Default,,0000,0000,0000,,and with it your feelings grow.
+Dialogue: 30,0:14:44.46,0:14:48.42,Default,,0000,0000,0000,,But, Amadeus is nothing more than a system.
+Dialogue: 30,0:14:48.42,0:14:51.14,Default,,0000,0000,0000,,All that's there are memories made data.
+Dialogue: 30,0:14:51.14,0:14:53.55,Default,,0000,0000,0000,,To have feelings for that...
+Dialogue: 30,0:14:53.55,0:14:55.93,Default,,0000,0000,0000,,I know...
+Dialogue: 30,0:14:55.93,0:14:57.27,Default,,0000,0000,0000,,But...
+Dialogue: 30,0:14:58.18,0:14:59.44,Default,,0000,0000,0000,,But...
+Dialogue: 30,0:14:59.44,0:15:02.36,Default,,0000,0000,0000,,Those are Kurisu's memories, and that's a fact!
+Dialogue: 30,0:15:02.36,0:15:04.07,Default,,0000,0000,0000,,Okabe-san...
+Dialogue: 30,0:15:04.07,0:15:07.36,Default,,0000,0000,0000,,I understand that! And how Kurisu is gone!
+Dialogue: 30,0:15:07.36,0:15:10.45,Default,,0000,0000,0000,,I know it's only a system...
+Dialogue: 30,0:15:10.45,0:15:12.32,Default,,0000,0000,0000,,But...
+Dialogue: 30,0:15:12.32,0:15:15.54,Default,,0000,0000,0000,,Even so...
+Dialogue: 30,0:15:15.54,0:15:18.25,Default,,0000,0000,0000,,Please, let me think a little longer.
+Dialogue: 30,0:15:22.67,0:15:25.34,Default,,0000,0000,0000,,What are you doing for New Years?
+Dialogue: 30,0:15:25.34,0:15:27.17,Default,,0000,0000,0000,,Are you planning a party?
+Dialogue: 30,0:15:27.17,0:15:29.97,Default,,0000,0000,0000,,Yup! We'll all go and visit the shrine,
+Dialogue: 30,0:15:29.97,0:15:33.76,Default,,0000,0000,0000,,have a big New Year's meal,\Nand hope for another good year!
+Dialogue: 30,0:15:33.76,0:15:36.60,Default,,0000,0000,0000,,Well, sounds good to me.
+Dialogue: 30,0:15:36.60,0:15:38.18,Default,,0000,0000,0000,,I know, right?
+Dialogue: 30,0:15:38.18,0:15:41.10,Default,,0000,0000,0000,,I'll ask the others about it later.
+Dialogue: 30,0:15:41.10,0:15:44.27,Default,,0000,0000,0000,,Okay, Mayushii is going out shopping.
+Dialogue: 30,0:15:44.27,0:15:45.65,Default,,0000,0000,0000,,For ComiMa?
+Dialogue: 30,0:15:45.65,0:15:48.57,Default,,0000,0000,0000,,Uh-huh! It's for Fubuki-chan's costume.
+Dialogue: 30,0:15:48.57,0:15:51.03,Default,,0000,0000,0000,,She needs a couple accessories.
+Dialogue: 30,0:15:51.03,0:15:53.03,Default,,0000,0000,0000,,Oh, right. Not many days left.
+Dialogue: 30,0:15:53.03,0:15:54.20,Default,,0000,0000,0000,,Yeah.
+Dialogue: 30,0:15:54.20,0:15:57.99,Default,,0000,0000,0000,,Once it's over, the year will soon follow.
+Dialogue: 30,0:15:57.99,0:16:02.21,Default,,0000,0000,0000,,It went by in the blink of an eye...
+Dialogue: 30,0:16:02.21,0:16:04.67,Default,,0000,0000,0000,,In the blink of an eye...
+Dialogue: 30,0:16:09.09,0:16:10.84,Default,,0000,0000,0000,,That summer...
+Dialogue: 30,0:16:10.84,0:16:15.22,Default,,0000,0000,0000,,How many times did I live and repeat it?
+Dialogue: 30,0:16:15.22,0:16:18.31,Default,,0000,0000,0000,,But, even that year is ending.
+Dialogue: 30,0:16:18.31,0:16:20.98,Default,,0000,0000,0000,,Ooh!
+Dialogue: 30,0:16:25.56,0:16:27.36,Default,,0000,0000,0000,,It's snowing!
+Dialogue: 30,0:16:27.36,0:16:29.53,Default,,0000,0000,0000,,I wonder if it'll stick?!
+Dialogue: 30,0:16:29.53,0:16:31.49,Default,,0000,0000,0000,,Time goes on.
+Dialogue: 30,0:16:31.49,0:16:32.07,Default,,0000,0000,0000,,—Wow! This is wonderful!
+Dialogue: 30,0:16:32.07,0:16:35.28,Default,,0000,0000,0000,,—The time that I chose...\N—Wow! This is wonderful!
+Dialogue: 30,0:16:35.28,0:16:38.53,Default,,0000,0000,0000,,Okarin! I'm gonna get going!
+Dialogue: 30,0:16:38.53,0:16:41.95,Default,,0000,0000,0000,,O-Okay.
+Dialogue: 30,0:16:41.95,0:16:43.71,Default,,0000,0000,0000,,Oh, right.
+Dialogue: 30,0:16:43.71,0:16:47.92,Default,,0000,0000,0000,,I think Luka-kun had something\Nhe wanted to discuss with you.
+Dialogue: 30,0:16:47.92,0:16:51.09,Default,,0000,0000,0000,,Ah, I completely forgot he called me.
+Dialogue: 30,0:16:51.09,0:16:52.34,Default,,0000,0000,0000,,I'll call him back.
+Dialogue: 30,0:16:52.34,0:16:55.22,Default,,0000,0000,0000,,Okay! Tell him hi!
+Dialogue: 30,0:17:17.03,0:17:18.49,Default,,0000,0000,0000,,I wonder if he's busy?
+Dialogue: 30,0:17:18.49,0:17:21.79,Default,,0000,0000,0000,,I bet he's helping ready\Nthe shrine for New Years.
+Dialogue: 30,0:17:23.70,0:17:25.79,Default,,0000,0000,0000,,May I come in?
+Dialogue: 30,0:17:25.79,0:17:27.04,Default,,0000,0000,0000,,Lukako?
+Dialogue: 30,0:17:27.04,0:17:29.63,Default,,0000,0000,0000,,It's open.
+Dialogue: 30,0:17:29.63,0:17:31.50,Default,,0000,0000,0000,,Thank goodness, you're here.
+Dialogue: 30,0:17:31.50,0:17:32.67,Default,,0000,0000,0000,,Sorry...
+Dialogue: 30,0:17:32.67,0:17:35.80,Default,,0000,0000,0000,,If it's about earlier, I totally forgot.
+Dialogue: 30,0:17:35.80,0:17:38.72,Default,,0000,0000,0000,,—I tried to call you just now.\N—Huh? You're right!
+Dialogue: 30,0:17:38.72,0:17:41.81,Default,,0000,0000,0000,,I'm the one who's sorry for not noticing.
+Dialogue: 30,0:17:41.81,0:17:43.22,Default,,0000,0000,0000,,Don't worry about it.
+Dialogue: 30,0:17:43.22,0:17:44.93,Default,,0000,0000,0000,,You wanted to talk with me?
+Dialogue: 30,0:17:44.93,0:17:46.94,Default,,0000,0000,0000,,Um, yes.
+Dialogue: 30,0:17:46.94,0:17:50.27,Default,,0000,0000,0000,,Actually, I...
+Dialogue: 30,0:17:50.27,0:17:56.78,Default,,0000,0000,0000,,Um, actually... There's someone I wanted\Nyou to meet, so I brought them along.
+Dialogue: 30,0:17:56.78,0:17:58.86,Default,,0000,0000,0000,,Is that okay?
+Dialogue: 30,0:17:58.86,0:18:00.99,Default,,0000,0000,0000,,Someone you want me to meet?
+Dialogue: 30,0:18:20.64,0:18:22.51,Default,,0000,0000,0000,,Ku...
+Dialogue: 30,0:18:28.69,0:18:30.94,Default,,0000,0000,0000,,Kurisu!
+Dialogue: 30,0:18:31.61,0:18:33.27,Default,,0000,0000,0000,,Here you go.
+Dialogue: 30,0:18:33.27,0:18:35.28,Default,,0000,0000,0000,,Thanks.
+Dialogue: 30,0:18:35.28,0:18:36.69,Default,,0000,0000,0000,,They're so alike...
+Dialogue: 30,0:18:36.69,0:18:39.49,Default,,0000,0000,0000,,But, her voice is different.
+Dialogue: 30,0:18:39.49,0:18:41.70,Default,,0000,0000,0000,,Must be a coincidence.
+Dialogue: 30,0:18:41.70,0:18:43.28,Default,,0000,0000,0000,,But still...
+Dialogue: 30,0:18:43.28,0:18:45.58,Default,,0000,0000,0000,,So, Lukako? Who is this?
+Dialogue: 30,0:18:45.58,0:18:46.95,Default,,0000,0000,0000,,Lukako?
+Dialogue: 30,0:18:46.95,0:18:50.21,Default,,0000,0000,0000,,Oh, sorry. That's what I call him.
+Dialogue: 30,0:18:50.21,0:18:52.75,Default,,0000,0000,0000,,Because he's so feminine.
+Dialogue: 30,0:18:55.09,0:18:59.93,Default,,0000,0000,0000,,I believe I told you before... That one of\Nmy father's guests would be staying with us.
+Dialogue: 30,0:18:59.93,0:19:02.22,Default,,0000,0000,0000,,Oh, so it was her?
+Dialogue: 30,0:19:02.22,0:19:03.18,Default,,0000,0000,0000,,Yes...
+Dialogue: 30,0:19:03.18,0:19:05.85,Default,,0000,0000,0000,,My father's acquaintance\Nhad brought her along.
+Dialogue: 30,0:19:05.85,0:19:07.52,Default,,0000,0000,0000,,What's her name?
+Dialogue: 30,0:19:10.14,0:19:13.44,Default,,0000,0000,0000,,Actually, that's what\NI wanted to talk to you about.
+Dialogue: 30,0:19:14.44,0:19:19.28,Default,,0000,0000,0000,,Um, do you know anything we\Ncould do to find out who this girl is?
+Dialogue: 30,0:19:19.28,0:19:22.03,Default,,0000,0000,0000,,Uh, what do you mean?
+Dialogue: 30,0:19:22.03,0:19:26.08,Default,,0000,0000,0000,,Well, she has amnesia...
+Dialogue: 30,0:19:26.08,0:19:28.04,Default,,0000,0000,0000,,Huh?
+Dialogue: 30,0:19:28.04,0:19:33.17,Default,,0000,0000,0000,,Her name, where she came from,\Nhow she lost her memory...
+Dialogue: 30,0:19:33.17,0:19:35.29,Default,,0000,0000,0000,,She remembers none of it.
+Dialogue: 30,0:19:35.29,0:19:37.34,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 30,0:19:37.34,0:19:41.76,Default,,0000,0000,0000,,I thought if anyone, you would know\Na way to bring back her memories.
+Dialogue: 30,0:19:41.76,0:19:45.22,Default,,0000,0000,0000,,You always talk about brains and\Nmemories and complicated things...
+Dialogue: 30,0:19:45.22,0:19:47.89,Default,,0000,0000,0000,,Anything you can do to help.
+Dialogue: 30,0:19:47.89,0:19:50.98,Default,,0000,0000,0000,,I just want to remember who I am.
+Dialogue: 30,0:19:50.98,0:19:53.15,Default,,0000,0000,0000,,H-Hold on.
+Dialogue: 30,0:19:53.15,0:19:57.02,Default,,0000,0000,0000,,I might talk about that stuff,\Nbut I'm no expert on it.
+Dialogue: 30,0:19:57.02,0:20:01.11,Default,,0000,0000,0000,,Besides, regaining memories is no simple task.
+Dialogue: 30,0:20:01.11,0:20:03.78,Default,,0000,0000,0000,,Storing it aside is one thing, but...
+Dialogue: 30,0:20:03.78,0:20:06.58,Default,,0000,0000,0000,,I see...
+Dialogue: 30,0:20:06.58,0:20:11.33,Default,,0000,0000,0000,,In that case, is there any way\Nto find out where she came from?
+Dialogue: 30,0:20:11.33,0:20:13.29,Default,,0000,0000,0000,,I feel bad for poor Kana-san.
+Dialogue: 30,0:20:13.29,0:20:15.92,Default,,0000,0000,0000,,Kana? What's that?
+Dialogue: 30,0:20:15.92,0:20:20.76,Default,,0000,0000,0000,,It's annoying if she has no name,\Nso Kana it is... or so Father said.
+Dialogue: 30,0:20:20.76,0:20:22.88,Default,,0000,0000,0000,,Well, that's one way to do it.
+Dialogue: 30,0:20:22.88,0:20:24.80,Default,,0000,0000,0000,,It doesn't matter anyways.
+Dialogue: 30,0:20:24.80,0:20:27.64,Default,,0000,0000,0000,,It's just a temporary name.
+Dialogue: 30,0:20:27.64,0:20:31.10,Default,,0000,0000,0000,,More importantly...
+Dialogue: 30,0:20:31.10,0:20:34.60,Default,,0000,0000,0000,,Do you have anything\Nthat might serve as a hint?
+Dialogue: 30,0:20:34.60,0:20:38.61,Default,,0000,0000,0000,,Like... a wallet, a pass, or cellphone.
+Dialogue: 30,0:20:38.61,0:20:40.40,Default,,0000,0000,0000,,Nothing like that.
+Dialogue: 30,0:20:40.40,0:20:41.90,Default,,0000,0000,0000,,Nothing?
+Dialogue: 30,0:20:41.90,0:20:46.12,Default,,0000,0000,0000,,How in the world did you live until now?
+Dialogue: 30,0:20:46.12,0:20:49.62,Default,,0000,0000,0000,,There is one thing that might be a hint.
+Dialogue: 30,0:20:49.62,0:20:50.70,Default,,0000,0000,0000,,Kana-san?
+Dialogue: 30,0:20:50.70,0:20:52.58,Default,,0000,0000,0000,,Right.
+Dialogue: 30,0:20:55.92,0:20:57.50,Default,,0000,0000,0000,,This...
+Dialogue: 30,0:20:58.96,0:21:01.63,Default,,0000,0000,0000,,Tutturu! I'm back!
+Dialogue: 30,0:21:01.63,0:21:03.30,Default,,0000,0000,0000,,It stopped snowing.
+Dialogue: 30,0:21:03.30,0:21:06.43,Default,,0000,0000,0000,,Hmm? A guest?
+Dialogue: 30,0:21:06.43,0:21:07.93,Default,,0000,0000,0000,,This is...
+Dialogue: 30,0:21:07.93,0:21:09.97,Default,,0000,0000,0000,,An Upa!
+Dialogue: 30,0:21:09.97,0:21:13.56,Default,,0000,0000,0000,,Hey, hey! Where did you get that Upa?!
+Dialogue: 30,0:21:13.56,0:21:17.77,Default,,0000,0000,0000,,Kana-san has never let it leave her side.
+Dialogue: 30,0:21:17.77,0:21:21.11,Default,,0000,0000,0000,,If I'm not mistaken,\Ndidn't this use to be green?
+Dialogue: 30,0:21:21.11,0:21:23.94,Default,,0000,0000,0000,,I think it's the forest fairy version!
+Dialogue: 30,0:21:23.94,0:21:25.45,Default,,0000,0000,0000,,The forest fairy?
+Dialogue: 30,0:21:25.45,0:21:29.91,Default,,0000,0000,0000,,Yup! It showed up in a movie not too long ago.
+Dialogue: 30,0:21:29.91,0:21:34.16,Default,,0000,0000,0000,,See? It's like my Upa,\Nbut the design is different.
+Dialogue: 30,0:21:34.16,0:21:36.42,Default,,0000,0000,0000,,That one has wings!
+Dialogue: 30,0:21:36.42,0:21:40.09,Default,,0000,0000,0000,,Then... why does it look so old?
+Dialogue: 30,0:21:40.09,0:21:42.09,Default,,0000,0000,0000,,If it's from a new movie...
+Dialogue: 30,0:21:46.55,0:21:48.26,Default,,0000,0000,0000,,I'm home...
+Dialogue: 30,0:21:50.64,0:21:52.81,Default,,0000,0000,0000,,H-Hey!
+Dialogue: 30,0:21:52.81,0:21:56.69,Default,,0000,0000,0000,,You okay?! Hey!
+Dialogue: 30,0:21:56.69,0:21:58.10,Default,,0000,0000,0000,,Kagari...
+Dialogue: 30,0:22:01.07,0:22:03.61,Default,,0000,0000,0000,,You're Kagari...
+Dialogue: 30,0:22:03.61,0:22:06.07,Default,,0000,0000,0000,,Shiina Kagari, aren't you?!
+Dialogue: 30,0:22:10.45,0:22:13.45,Default,,0000,0000,0000,,{\i1}Come to me{\i}
+Dialogue: 30,0:22:13.45,0:22:16.75,Default,,0000,0000,0000,,{\i1}Embrace my tears {\i}
+Dialogue: 30,0:22:16.75,0:22:22.84,Default,,0000,0000,0000,,{\i1}Let me guide you down into my soul{\i}
+Dialogue: 30,0:22:22.84,0:22:29.43,Default,,0000,0000,0000,,{\i1}And let us pray for the world to realize {\i}
+Dialogue: 30,0:22:29.43,0:22:35.68,Default,,0000,0000,0000,,{\i1}There is peace, the truth within us{\i}
+Dialogue: 30,0:22:35.68,0:22:41.98,Default,,0000,0000,0000,,{\i1}Emptiness erodes your heart{\i}
+Dialogue: 30,0:22:41.98,0:22:48.32,Default,,0000,0000,0000,,{\i1}Coz you're free from pain and sorrow{\i}
+Dialogue: 30,0:22:48.32,0:22:54.58,Default,,0000,0000,0000,,{\i1}Future is just too bright to show you ways{\i}
+Dialogue: 30,0:22:54.58,0:23:01.75,Default,,0000,0000,0000,,{\i1}Wake up now...it's time to lead new souls{\i}
+Dialogue: 30,0:23:01.75,0:23:08.09,Default,,0000,0000,0000,,{\i1}Orbit of photon and universe {\i}
+Dialogue: 30,0:23:08.09,0:23:14.43,Default,,0000,0000,0000,,{\i1}I am just the part of its plan{\i}
+Dialogue: 30,0:23:14.43,0:23:20.64,Default,,0000,0000,0000,,{\i1}With eyes unaware of the distorted sky{\i}
+Dialogue: 30,0:23:20.64,0:23:29.24,Default,,0000,0000,0000,,{\i1}Where is it the people walk to?{\i}
+Dialogue: 30,0:23:29.24,0:23:33.82,Default,,0000,0000,0000,,{\i1}The last game{\i}
