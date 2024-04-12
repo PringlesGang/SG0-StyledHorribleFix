@@ -14,10 +14,21 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:14:45.03,0:14:49.95,Title,,0,0,0,,{\pos(1080,812.25)\fs100}Epigraph
+Dialogue: 1,0:14:45.03,0:14:49.95,Title,,0,0,0,,{\fs58\fsp5\pos(1372.604,848)}of
+Dialogue: 1,0:14:45.03,0:14:49.95,Title,,0,0,0,,{\fs48\fsp-3\pos(1372.604,884)}the
+Dialogue: 1,0:14:45.03,0:14:49.95,Title,,0,0,0,,{\pos(1412.604,862)\fs75\fsp-4}Closed Curve
+Dialogue: 0,0:10:57.92,0:11:00.09,Draw,,0,0,0,,{\move(0,0,-250,30)\p1\c&HFBF7F4&\blur15}m 591 205 l 599 360 l -8 656 l -9 469 {\p0}
+Dialogue: 1,0:10:57.92,0:10:59.01,Signs,,0,0,0,,{\an2\move(332,589,180,642)\blur4.5\fay-0.47\fs95\t(\fs107\blur6.25)\c&H686868&}Wako City\NSouth Gate
+Dialogue: 1,0:10:59.01,0:11:00.09,Signs,,0,0,0,,{\an2\move(180,642,0,688)\blur6.25\fay-0.47\fs106\t(\fs115\blur8)\c&H686868&}Wako City\NSouth Gate
+Dialogue: 1,0:11:43.89,0:11:47.10,Signs,,0,0,0,,{\an2\fs90\xshad4.5\yshad-4.5\fax0.1\c&H867775&\4c&H322B2B&\pos(1024.415,344)\frz1.746}Brain Science Institute
 Dialogue: 0,0:00:01.58,0:00:04.83,Default,,0000,0000,0000,,Without further ado, we would\Nlike to demonstrate said AI.
 Dialogue: 0,0:00:04.83,0:00:07.13,Default,,0000,0000,0000,,Amadeus.
 Dialogue: 0,0:00:07.13,0:00:11.76,Default,,0000,0000,0000,,The theories of researcher Makise Kurisu\Nserved as the foundation for this system.
@@ -174,7 +185,6 @@ Dialogue: 0,0:10:34.80,0:10:37.42,Default,,0000,0000,0000,,From your demonstrati
 Dialogue: 0,0:10:37.42,0:10:41.43,Default,,0000,0000,0000,,That was Amadeus using my sampled data,\Nbut I'm not the only one.
 Dialogue: 0,0:10:41.43,0:10:44.76,Default,,0000,0000,0000,,We have data for another researcher as well.
 Dialogue: 0,0:10:44.76,0:10:46.56,Default,,0000,0000,0000,,Another?
-Dialogue: 0,0:10:57.94,0:11:00.11,On Top,,0000,0000,0000,,“Wako City South Gate”
 Dialogue: 0,0:11:04.12,0:11:07.12,Default,,0000,0000,0000,,Amadeus is storing Kurisu's memories too?!
 Dialogue: 0,0:11:07.12,0:11:12.04,Default,,0000,0000,0000,,Up until now, only Maho and I have\Ntalked with her for all of our data, but...
 Dialogue: 0,0:11:12.04,0:11:14.84,Default,,0000,0000,0000,,Our conversations are running dry, you see.
@@ -184,7 +194,6 @@ Dialogue: 0,0:11:20.05,0:11:24.10,Default,,0000,0000,0000,,I don't know your\Nre
 Dialogue: 0,0:11:24.10,0:11:31.06,Default,,0000,0000,0000,,The closer the two of you were,\Nthe crueler meeting Amadeus will be for you.
 Dialogue: 0,0:11:31.06,0:11:34.11,Default,,0000,0000,0000,,The memories of her, eight months ago...
 Dialogue: 0,0:11:39.11,0:11:40.78,Default,,0000,0000,0000,,Welcome.
-Dialogue: 0,0:11:43.91,0:11:47.12,On Top,,0000,0000,0000,,“Brain Science Institute”
 Dialogue: 0,0:11:44.78,0:11:50.37,Default,,0000,0000,0000,,We're planning to start a new research\Norganization with neuroscientists all over the world.
 Dialogue: 0,0:11:50.37,0:11:53.58,Default,,0000,0000,0000,,Right now, there's not much but the prep room.
 Dialogue: 0,0:11:53.58,0:11:54.96,Default,,0000,0000,0000,,And the professor?
@@ -231,7 +240,6 @@ Dialogue: 0,0:14:36.12,0:14:38.04,Default,,0000,0000,0000,,Okabe Rintaro-san?
 Dialogue: 0,0:14:38.04,0:14:41.17,Default,,0000,0000,0000,,Nice to meet you.
 Dialogue: 0,0:14:41.17,0:14:42.92,Default,,0000,0000,0000,,I'm Makise Kurisu.
 Dialogue: 0,0:14:42.92,0:14:44.38,Default,,0000,0000,0000,,It's a pleasure.
-Dialogue: 0,0:14:45.05,0:14:49.97,On Top,,0000,0000,0000,,“Epigraph of the Closed Curve -Closed Epigraph-”
 Dialogue: 0,0:14:51.55,0:14:53.89,Default,,0000,0000,0000,,This is Okabe Rintaro-san.
 Dialogue: 0,0:14:53.89,0:14:56.60,Default,,0000,0000,0000,,We met after our seminar the other day.
 Dialogue: 0,0:14:56.60,0:15:00.52,Default,,0000,0000,0000,,He seemed very interested\Nin Amadeus, so we had him come.

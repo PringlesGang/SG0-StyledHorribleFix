@@ -14,10 +14,91 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:02:02.97,0:02:07.94,Title,,0,0,0,,{\fs80\fsp-6\pos(1162.038,888.75)}Solitude
+Dialogue: 1,0:02:02.97,0:02:07.94,Title,,0,0,0,,{\fs65.25\fs90\pos(1164.038,936.25)}of the
+Dialogue: 1,0:02:02.97,0:02:07.94,Title,,0,0,0,,{\fs95\pos(1340,908)}Astigmatism
+Dialogue: 1,0:02:07.94,0:02:11.90,Signs,,0,0,0,,{\fs105.75\an7\move(24.906,1104.5,24.906,861.75)\bord4\be1\alpha&H30&\3c&H5F392F&\c&HFCFAF5&\t(\fs81)}Mass animal corpses found in America
+Dialogue: 1,0:02:45.31,0:02:47.27,Signs,,0,0,0,,{\an7\pos(536.604,191.25)\fs70\fr-8.4\b0\c&H5A575C&\fnPlayfair Display\be2}Arc Rewrite
+Dialogue: 1,0:02:45.31,0:02:47.27,Signs,,0,0,0,,{\an7\pos(525.283,393.75)\fs31\fr-9.5\c&H514F54&\fnPlayfair Display\b0\be1}Publishing Department\NEditor/Writer
+Dialogue: 1,0:05:32.89,0:05:36.10,Signs,,0,0,0,,{\an2\c&H000000&\4c&H000000&\fs90\fay-0.02\fax0.1\t(0,1000,\c&H908380&\4c&H605350&)\xshad4.5\yshad-4.5\pos(1018.868,346.75)\frz0.2776}Brain Science Institute
+Dialogue: 0,0:15:33.12,0:15:35.95,Draw,,0,0,0,,{\p1\pos(0,0)\c&H8D8F8F&\blur4}m 1053 670 l 1056 721 l 1121 821 l 1177 821 l 1177 757 l 1101 670{\p0}
+Dialogue: 0,0:15:40.91,0:15:43.79,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 0,0:15:43.79,0:15:43.92,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3\iclip(m 1040 860 l 1102 856 1108 986 1064 980)}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 0,0:15:43.92,0:15:44.04,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3\iclip(m 1080 860 l 1140 856 1128 986 1086 980)}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 0,0:15:44.04,0:15:44.17,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3\iclip(m 1132 910 l 1222 858 1158 1036 1084 974)}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 0,0:15:44.17,0:15:44.29,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3\iclip(m 1134 902 l 1222 858 1158 1036 1118 982)}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 0,0:15:44.29,0:15:44.42,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3\iclip(m 1140 918 l 1222 858 1158 1036 1106 980)}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 0,0:15:44.42,0:15:44.54,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3\iclip(m 1144 926 l 1204 974 1114 1030 1102 964)}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 0,0:15:44.54,0:15:52.68,Draw,,0,0,0,,{\p1\pos(0,0)\c&HA5A8A7&\blur3}m 1040 872 l 1040 890 l 1110 978 l 1134 978 l 1134 935 l 1081 872 {\p0}
+Dialogue: 1,0:15:33.12,0:15:35.95,Signs,,0,0,0,,{\an7\be1\fs60.75\c&H262628&\fnPlaypen Sans\blur1\pos(1088.377,668)\frz308.5}Burnable
+Dialogue: 1,0:15:40.91,0:15:43.79,Signs,,0,0,0,,{\an7\be1\fs50\bord0\shad0\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)}Burnable
+Dialogue: 1,0:15:43.79,0:15:43.92,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)\iclip(m 1040 860 l 1102 856 1108 986 1064 980)}Burnable
+Dialogue: 1,0:15:43.92,0:15:44.04,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)\iclip(m 1080 860 l 1140 856 1128 986 1086 980)}Burnable
+Dialogue: 1,0:15:44.04,0:15:44.17,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)\iclip(m 1132 910 l 1222 858 1158 1036 1084 974)}Burnable
+Dialogue: 1,0:15:44.17,0:15:44.29,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)\iclip(m 1134 902 l 1222 858 1158 1036 1118 982)}Burnable
+Dialogue: 1,0:15:44.29,0:15:44.42,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)\iclip(m 1140 918 l 1222 858 1158 1036 1106 980)}Burnable
+Dialogue: 1,0:15:44.42,0:15:44.54,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)\iclip(m 1144 926 l 1204 974 1114 1030 1102 964)}Burnable
+Dialogue: 1,0:15:44.54,0:15:52.68,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)}Burnable
+Dialogue: 1,0:16:07.94,0:16:11.15,Signs,,0,0,0,,{\an8\fnAnton\b0\c&H0D0F11&\fs50\fsp1\frz161.3\be3.5\pos(1336,320)}INTERACTIVE {\c&H091213&}TRAI{\c&H121519&}NING {\c&H16171C&}SIMULATION
+Dialogue: 0,0:17:01.83,0:17:02.91,Draw,,0,0,0,,{\pos(0,0)\p1\c&HEDE8E7&\blur10}m 732 101 l 961 154 l 942 267 l 711 212 {\p0}
+Dialogue: 0,0:17:02.91,0:17:03.00,Draw,,0,0,0,,{\move(0,-20,0,-170)\p1\c&HEDE8E7&\blur10}m 732 101 l 961 154 l 942 267 l 711 212 {\p0}
+Dialogue: 0,0:17:01.83,0:17:02.91,Draw,,0,0,0,,{\pos(0,0)\p1\c&HEBE4E3&\blur10}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
+Dialogue: 0,0:17:02.91,0:17:03.08,Draw,,0,0,0,,{\move(0,0,60,-420)\p1\c&HEBE4E3&\blur10}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
+Dialogue: 0,0:17:01.83,0:17:02.91,Draw,,0,0,0,,{\pos(0,0)\p1\c&HE3DAD8&\blur10}m 604 673 l 824 726 l 805 839 l 583 784 {\p0}
+Dialogue: 0,0:17:02.91,0:17:03.25,Draw,,0,0,0,,{\move(0,0,100,-840)\p1\c&HE3DAD8&\blur10}m 604 673 l 824 726 l 796 863 l 574 808 {\p0}
+Dialogue: 0,0:17:01.83,0:17:02.91,Draw,,0,0,0,,{\pos(0,0)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
+Dialogue: 0,0:17:02.91,0:17:03.25,Draw,,0,0,0,,{\move(0,0,100,-840)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
+Dialogue: 0,0:17:03.25,0:17:03.50,Draw,,0,0,0,,{\move(130,-820,150,-990)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
+Dialogue: 0,0:17:03.50,0:17:04.25,Draw,,0,0,0,,{\move(150,-990,160,-1100)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
+Dialogue: 0,0:17:03.00,0:17:03.25,Draw,,0,0,0,,{\move(-90,500,0,-50)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
+Dialogue: 0,0:17:03.25,0:17:03.50,Draw,,0,0,0,,{\move(0,-50,30,-240)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
+Dialogue: 0,0:17:03.50,0:17:04.25,Draw,,0,0,0,,{\move(30,-240,50,-350)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
+Dialogue: 0,0:17:04.25,0:17:04.87,Draw,,0,0,0,,{\pos(50,-350)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
+Dialogue: 0,0:17:03.12,0:17:03.25,Draw,,0,0,0,,{\move(-40,280,0,-10)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
+Dialogue: 0,0:17:03.25,0:17:03.50,Draw,,0,0,0,,{\move(0,30,30,-170)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
+Dialogue: 0,0:17:03.50,0:17:04.25,Draw,,0,0,0,,{\move(30,-170,50,-300)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
+Dialogue: 0,0:17:04.25,0:17:04.87,Draw,,0,0,0,,{\pos(50,-300)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
+Dialogue: 1,0:17:01.83,0:17:02.91,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H786868&\blur1.5\pos(726,161)}Mayuri
+Dialogue: 1,0:17:02.91,0:17:03.00,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H786868&\blur1.5\move(726,161,766,-20)}Mayuri
+Dialogue: 1,0:17:01.83,0:17:02.91,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\pos(656,443)}Daru
+Dialogue: 1,0:17:02.91,0:17:03.08,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\move(646,463,716,20)}Daru
+Dialogue: 1,0:17:01.83,0:17:02.91,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(590,721)}Mayuri
+Dialogue: 1,0:17:02.91,0:17:03.08,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\move(590,741,650,310)}Mayuri
+Dialogue: 1,0:17:03.08,0:17:03.29,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\move(660,290,730,-110)}Mayuri
+Dialogue: 1,0:17:01.83,0:17:02.91,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(520,1027)}Lukako
+Dialogue: 1,0:17:02.91,0:17:03.08,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(525,1055,590,600)}Lukako
+Dialogue: 1,0:17:03.08,0:17:03.25,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(590,600,640,240)}Lukako
+Dialogue: 1,0:17:03.25,0:17:03.37,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(640,240,660,130)}Lukako
+Dialogue: 1,0:17:03.37,0:17:03.50,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(660,130,670,70)}Lukako
+Dialogue: 1,0:17:03.50,0:17:03.75,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(675,50,685,-20)}Lukako
+Dialogue: 1,0:17:03.75,0:17:04.04,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(681,-16,690,-65)}Lukako
+Dialogue: 1,0:17:04.04,0:17:04.29,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(690,-65,695,-90)}Lukako
+Dialogue: 1,0:17:03.00,0:17:03.21,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(495,1100,565,600)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:03.21,0:17:03.33,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(565,600,589,450)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:03.33,0:17:03.46,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(596,425,597,375)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:03.46,0:17:03.71,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(600,366,613,290)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:03.71,0:17:03.96,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(615,285,620,242)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:03.96,0:17:04.25,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(620,240,623,217)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:04.25,0:17:04.87,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\pos(623,217)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:03.12,0:17:03.21,OkabePhone,,0,0,0,,{\an4\fs100\c&H491B8D&\blur1.5\move(475,1090,495,895)\frz346.3}Mayuri
+Dialogue: 1,0:17:03.21,0:17:03.33,OkabePhone,,0,0,0,,{\an4\fs100\c&H491B8D&\blur1.5\move(495,880,520,730)\frz346.3}Mayuri
+Dialogue: 1,0:17:03.33,0:17:03.46,OkabePhone,,0,0,0,,{\an4\fs100\c&H491B8D&\blur1.5\move(524,725,534,660)\frz346.3}Mayuri
+Dialogue: 1,0:17:03.46,0:17:03.71,OkabePhone,,0,0,0,,{\an4\fs100\c&H491B8D&\blur1.5\move(535,650,548,580)\frz346.3}Mayuri
+Dialogue: 1,0:17:03.71,0:17:03.96,OkabePhone,,0,0,0,,{\an4\fs100\c&H491B8D&\blur1.5\move(548,575,557,535)\frz346.3}Mayuri
+Dialogue: 1,0:17:03.96,0:17:04.25,OkabePhone,,0,0,0,,{\an4\fs100\c&H491B8D&\blur1.5\move(557,535,560,510)\frz346.3}Mayuri
+Dialogue: 1,0:17:04.25,0:17:04.87,OkabePhone,,0,0,0,,{\an4\fs100\c&H491B8D&\blur1.5\pos(560,510)\frz346.3}Mayuri
+Dialogue: 0,0:17:15.05,0:17:17.51,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HEBE9E9&}m 482 3 l 1249 208 l 1221 336 l 458 108{\p0}
+Dialogue: 0,0:17:15.05,0:17:17.51,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HDADAE8&}m 504 629 l 1289 850 l 1220 1114 l 437 862 {\p0}
+Dialogue: 1,0:17:15.05,0:17:17.51,OkabePhone,,0,0,0,,{\fs105\c&H3B3637&\be3\pos(471.472,9)\frz344.3}I'll get a hold of you later.
+Dialogue: 1,0:17:15.05,0:17:17.51,OkabePhone,,0,0,0,,{\fs115\c&H2F2F2F&\be2\frz343.1\pos(512.038,632)}If you still want to talk,\Ncan you call me?
 Dialogue: 0,0:00:01.58,0:00:03.42,Default,,0000,0000,0000,,I got your message...
 Dialogue: 0,0:00:03.42,0:00:05.42,Default,,0000,0000,0000,,I'm Kiryu Moeka.
 Dialogue: 0,0:00:06.84,0:00:09.13,Default,,0000,0000,0000,,Um...
@@ -40,10 +121,8 @@ Dialogue: 0,0:01:40.80,0:01:45.56,Default,,0000,0000,0000,,{\i1}Then you shouldn
 Dialogue: 0,0:01:45.56,0:01:51.06,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
 Dialogue: 0,0:01:51.06,0:01:56.61,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
 Dialogue: 0,0:01:56.61,0:02:01.95,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:02:02.99,0:02:07.96,On Top,,0000,0000,0000,,“Solitude of the Astigmatism - Entangled Sheep -”
 Dialogue: 0,0:02:04.54,0:02:08.46,Default,,0000,0000,0000,,...to not be human. The bodies, missing\Ntheir brains and portions of the cranium,
 Dialogue: 0,0:02:08.46,0:02:13.21,Default,,0000,0000,0000,,were discovered to be\Nchimpanzee and orangutan.
-Dialogue: 0,0:02:10.25,0:02:11.92,On Top,,0000,0000,0000,,“Mass animal corpses found in America”
 Dialogue: 0,0:02:13.21,0:02:14.63,Default,,0000,0000,0000,,Hmm?
 Dialogue: 0,0:02:14.63,0:02:16.59,Default,,0000,0000,0000,,What's wrong?
 Dialogue: 0,0:02:16.59,0:02:18.80,Default,,0000,0000,0000,,N-Nothing.
@@ -59,7 +138,6 @@ Dialogue: 0,0:02:35.11,0:02:37.36,Default,,0000,0000,0000,,Daru, care to explain
 Dialogue: 0,0:02:37.36,0:02:38.86,Default,,0000,0000,0000,,Who is this person?
 Dialogue: 0,0:02:38.86,0:02:42.87,Default,,0000,0000,0000,,Kiryu-shi, a writer for an editorial.
 Dialogue: 0,0:02:42.87,0:02:45.83,Default,,0000,0000,0000,,I'm Kiryu Moeka.
-Dialogue: 0,0:02:45.33,0:02:47.29,On Top,,0000,0000,0000,,“Arc Rewrite”\N“Publishing Department: Editor/Writer”
 Dialogue: 0,0:02:45.83,0:02:50.42,Default,,0000,0000,0000,,A while back, there was a magazine\Ncovering the urban legends of Akiba.
 Dialogue: 0,0:02:50.42,0:02:54.67,Default,,0000,0000,0000,,That's when she contacted me wanting\Nto write about my part-time work.
 Dialogue: 0,0:02:54.67,0:02:55.63,Default,,0000,0000,0000,,Your work?
@@ -89,10 +167,8 @@ Dialogue: 0,0:04:15.71,0:04:17.00,Default,,0000,0000,0000,,No problem.
 Dialogue: 0,0:04:17.00,0:04:18.92,Default,,0000,0000,0000,,You fine with that, Okarin?
 Dialogue: 0,0:04:18.92,0:04:20.59,Default,,0000,0000,0000,,Y-Yeah.
 Dialogue: 0,0:04:20.59,0:04:24.43,Default,,0000,0000,0000,,Great. You're officially hired then.
-Dialogue: 0,0:04:23.47,0:04:26.43,On Top,,0000,0000,0000,,“Television CRT Workshop”
 Dialogue: 0,0:04:24.43,0:04:25.68,Default,,0000,0000,0000,,Let's go, Nae.
 Dialogue: 0,0:04:25.68,0:04:27.35,Default,,0000,0000,0000,,'Kay!
-Dialogue: 0,0:04:28.64,0:04:32.27,On Top,,0000,0000,0000,,“Television CRT Workshop”
 Dialogue: 0,0:04:30.14,0:04:31.64,Default,,0000,0000,0000,,Don't forget your seatbelt.
 Dialogue: 0,0:04:31.64,0:04:34.23,Default,,0000,0000,0000,,Right!
 Dialogue: 0,0:04:34.23,0:04:35.15,Default,,0000,0000,0000,,Ready?
@@ -113,7 +189,6 @@ Dialogue: 0,0:05:15.94,0:05:18.90,Default,,0000,0000,0000,,That's fine, at least
 Dialogue: 0,0:05:18.90,0:05:20.32,Default,,0000,0000,0000,,What's this about?
 Dialogue: 0,0:05:20.32,0:05:22.36,Default,,0000,0000,0000,,She makes me nervous.
 Dialogue: 0,0:05:22.36,0:05:28.24,Default,,0000,0000,0000,,I get it! Since Kiryu-shi is hot, stylish, and\Nchecks all the right boxes for a glasses fetish!
-Dialogue: 0,0:05:33.20,0:05:36.12,On Top,,0000,0000,0000,,“Brain Science Institute”
 Dialogue: 0,0:05:42.17,0:05:45.67,Default,,0000,0000,0000,,I should probably get\Na pro to help me with this...
 Dialogue: 0,0:05:48.80,0:05:53.18,Default,,0000,0000,0000,,That's right! No matter how much\NI call, he's just not answering.
 Dialogue: 0,0:05:53.18,0:05:56.14,Default,,0000,0000,0000,,What gives? He's a joke of a tester.
@@ -145,7 +220,6 @@ Dialogue: 0,0:07:12.93,0:07:14.55,Default,,0000,0000,0000,,It's not like that.
 Dialogue: 0,0:07:14.55,0:07:16.18,Default,,0000,0000,0000,,It's not like what?
 Dialogue: 0,0:07:16.18,0:07:19.64,Default,,0000,0000,0000,,Anyways, I'm done working today. Goodbye.
 Dialogue: 0,0:07:21.69,0:07:24.15,Default,,0000,0000,0000,,Say hi to Lintahlo for me.
-Dialogue: 0,0:07:24.15,0:07:30.28,On Top,,0000,0000,0000,,“Television CRT Workshop”
 Dialogue: 0,0:07:27.82,0:07:29.74,Default,,0000,0000,0000,,This is?
 Dialogue: 0,0:07:29.74,0:07:31.32,Default,,0000,0000,0000,,My report.
 Dialogue: 0,0:07:38.37,0:07:40.04,Default,,0000,0000,0000,,Well?
@@ -278,7 +352,6 @@ Dialogue: 0,0:15:22.67,0:15:25.34,Default,,0000,0000,0000,,What are you doing fo
 Dialogue: 0,0:15:25.34,0:15:27.17,Default,,0000,0000,0000,,Are you planning a party?
 Dialogue: 0,0:15:27.17,0:15:29.97,Default,,0000,0000,0000,,Yup! We'll all go and visit the shrine,
 Dialogue: 0,0:15:29.97,0:15:33.76,Default,,0000,0000,0000,,have a big New Year's meal,\Nand hope for another good year!
-Dialogue: 0,0:15:33.14,0:15:35.97,On Top,,0000,0000,0000,,“Burnable”
 Dialogue: 0,0:15:33.76,0:15:36.60,Default,,0000,0000,0000,,Well, sounds good to me.
 Dialogue: 0,0:15:36.60,0:15:38.18,Default,,0000,0000,0000,,I know, right?
 Dialogue: 0,0:15:38.18,0:15:41.10,Default,,0000,0000,0000,,I'll ask the others about it later.
@@ -291,10 +364,8 @@ Dialogue: 0,0:15:53.03,0:15:54.20,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:15:54.20,0:15:57.99,Default,,0000,0000,0000,,Once it's over, the year will soon follow.
 Dialogue: 0,0:15:57.99,0:16:02.21,Default,,0000,0000,0000,,It went by in the blink of an eye...
 Dialogue: 0,0:16:02.21,0:16:04.67,Default,,0000,0000,0000,,In the blink of an eye...
-Dialogue: 0,0:16:07.96,0:16:11.17,On Top,,0000,0000,0000,,“Interactive Training Simulation”
 Dialogue: 0,0:16:09.09,0:16:10.84,Default,,0000,0000,0000,,That summer...
 Dialogue: 0,0:16:10.84,0:16:15.22,Default,,0000,0000,0000,,How many times did I live and repeat it?
-Dialogue: 0,0:16:11.51,0:16:14.93,On Top,,0000,0000,0000,,“Radio Kaikan Akihabara”
 Dialogue: 0,0:16:15.22,0:16:18.31,Default,,0000,0000,0000,,But, even that year is ending.
 Dialogue: 0,0:16:18.31,0:16:20.98,Default,,0000,0000,0000,,Ooh!
 Dialogue: 0,0:16:25.56,0:16:27.36,Default,,0000,0000,0000,,It's snowing!
@@ -303,16 +374,12 @@ Dialogue: 0,0:16:29.53,0:16:31.49,Default,,0000,0000,0000,,Time goes on.
 Dialogue: 0,0:16:31.49,0:16:32.07,Default,,0000,0000,0000,,—Wow! This is wonderful!
 Dialogue: 0,0:16:32.07,0:16:35.28,Default,,0000,0000,0000,,—The time that I chose...\N—Wow! This is wonderful!
 Dialogue: 0,0:16:35.28,0:16:38.53,Default,,0000,0000,0000,,Okarin! I'm gonna get going!
-Dialogue: 0,0:16:37.95,0:16:43.41,On Top,,0000,0000,0000,,“Television CRT Workshop”
 Dialogue: 0,0:16:38.53,0:16:41.95,Default,,0000,0000,0000,,O-Okay.
 Dialogue: 0,0:16:41.95,0:16:43.71,Default,,0000,0000,0000,,Oh, right.
 Dialogue: 0,0:16:43.71,0:16:47.92,Default,,0000,0000,0000,,I think Luka-kun had something\Nhe wanted to discuss with you.
 Dialogue: 0,0:16:47.92,0:16:51.09,Default,,0000,0000,0000,,Ah, I completely forgot he called me.
 Dialogue: 0,0:16:51.09,0:16:52.34,Default,,0000,0000,0000,,I'll call him back.
 Dialogue: 0,0:16:52.34,0:16:55.22,Default,,0000,0000,0000,,Okay! Tell him hi!
-Dialogue: 0,0:17:01.85,0:17:03.35,On Top,,0000,0000,0000,,“Mayuri”\N“Daru”\N“Mayuri” “Lukako”
-Dialogue: 0,0:17:03.35,0:17:04.89,On Top,,0000,0000,0000,,“Professor Izaki”\N“Mayuri”
-Dialogue: 0,0:17:15.07,0:17:17.53,On Top,,0000,0000,0000,,“I'll get a hold of you later.”\N“If you still want to talk, can you call me?”
 Dialogue: 0,0:17:17.03,0:17:18.49,Default,,0000,0000,0000,,I wonder if he's busy?
 Dialogue: 0,0:17:18.49,0:17:21.79,Default,,0000,0000,0000,,I bet he's helping ready\Nthe shrine for New Years.
 Dialogue: 0,0:17:23.70,0:17:25.79,Default,,0000,0000,0000,,May I come in?

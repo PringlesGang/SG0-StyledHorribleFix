@@ -14,10 +14,177 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: MayuriPhone,Patrick Hand,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: SuzuhaPhone,Manjari,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:12:43.95,0:12:48.87,Title,,0,0,0,,{\an3\fsp-3\pos(1216,890)}Altair
+Dialogue: 1,0:12:43.95,0:12:48.87,Title,,0,0,0,,{\an3\fsp8\pos(1288,912)}of
+Dialogue: 1,0:12:43.95,0:12:48.87,Title,,0,0,0,,{\an3\fsp-7\fs80\pos(1280,958)}the
+Dialogue: 1,0:12:43.95,0:12:48.87,Title,,0,0,0,,{\an3\pos(1608,878)}Hyperbolic
+Dialogue: 1,0:12:43.95,0:12:48.87,Title,,0,0,0,,{\an3\pos(1702,932)}Plane
+Dialogue: 0,0:09:12.86,0:09:12.99,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HAFAEAD&}m 1523 938 l 1717 1101 l 1351 1108 {\p0}
+Dialogue: 0,0:09:12.99,0:09:13.11,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HA4A4A4&}m 1468 887 l 1605 1012 l 1396 1164 l 1229 1121 {\p0}
+Dialogue: 0,0:09:13.11,0:09:13.24,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HB4B4B4&}m 1414 822 l 1532 943 l 1201 1224 l 1086 1110 {\p0}
+Dialogue: 0,0:09:13.24,0:09:13.36,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HC2BFBE&}m 1296 656 l 1407 788 l 1153 991 l 1196 1050 l 922 1252 l 759 1061 {\p0}
+Dialogue: 0,0:09:13.36,0:09:13.49,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HD0CFCF&}m 1250 572 l 1356 708 l 1093 904 l 1134 965 l 847 1159 l 692 963 {\p0}
+Dialogue: 0,0:09:13.49,0:09:13.61,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HDCDCDB&}m 1199 493 l 1300 632 l 1031 819 l 1069 882 l 776 1085 l 628 865 {\p0}
+Dialogue: 0,0:09:13.61,0:09:13.74,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HEDEBEC&}m 1125 300 l 1230 456 l 942 614 l 979 671 l 661 863 l 526 651 {\p0}
+Dialogue: 0,0:09:13.74,0:09:13.82,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HEEEEED&}m 1092 202 l 1192 362 l 899 511 l 934 569 l 611 752 l 482 536 {\p0}
+Dialogue: 0,0:09:13.82,0:09:14.74,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HEEEEED&}m 446 430 l 1059 125 l 1152 269 l 855 423 l 893 486 l 561 656 {\p0}
+Dialogue: 1,0:09:12.86,0:09:12.99,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\pos(1055,1435)\frz44.89}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:12.99,0:09:13.11,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\pos(985,1365)\frz43.49}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:13.11,0:09:13.24,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\pos(910,1284)\frz41.52}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:13.24,0:09:13.36,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\frz37.2\pos(766,1070)}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:13.36,0:09:13.49,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\frz35.48\pos(702,962)}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:13.49,0:09:13.61,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\frz33.13\pos(638,868)}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:13.61,0:09:13.74,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\pos(542,644)\frz29.95}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:13.74,0:09:13.82,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\be3\frz29.25\pos(496,538)}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 1,0:09:13.82,0:09:14.74,MayuriPhone,,0,0,0,,{\c&H857B78&\fs85\frz27.44\be3\pos(452,430)}Think we can meet today?\NThere's so much I want to talk\Nabout
+Dialogue: 0,0:09:13.24,0:09:13.36,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H7F7D7E&}m 1830 1052 l 1890 1115 l 1767 1115 {\p0}
+Dialogue: 0,0:09:13.36,0:09:13.49,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H8B8A8A&}m 1763 962 l 1829 1053 l 1693 1140 l 1636 1059 {\p0}
+Dialogue: 0,0:09:13.49,0:09:13.61,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H959494&}m 1697 911 l 1763 1002 l 1495 1177 l 1438 1096 {\p0}
+Dialogue: 0,0:09:13.61,0:09:13.74,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HC7C7C7&}m 1604 719 l 1670 810 l 1114 1153 l 1057 1072 {\p0}
+Dialogue: 0,0:09:13.74,0:09:13.82,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HC4C4C4&}m 1563 623 l 1625 714 l 1059 1045 l 1002 964 {\p0}
+Dialogue: 0,0:09:13.82,0:09:14.74,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HD5D5D6&}m 948 891 l 1538 580 l 1592 675 l 1008 988 {\p0}
+Dialogue: 1,0:09:13.24,0:09:13.36,MayuriPhone,,0,0,0,,{\an4\c&H5B5954&\fs110\be3\pos(1296,1434)\frz35.2}Sorry about yesterday
+Dialogue: 1,0:09:13.36,0:09:13.49,MayuriPhone,,0,0,0,,{\an4\c&H5B5954&\fs110\be3\pos(1246,1384)\frz35.2}Sorry about yesterday
+Dialogue: 1,0:09:13.49,0:09:13.61,MayuriPhone,,0,0,0,,{\an4\c&H5B5954&\fs110\be3\pos(1186,1324)\frz34.94}Sorry about yesterday
+Dialogue: 1,0:09:13.61,0:09:13.74,MayuriPhone,,0,0,0,,{\an4\c&H6D6B65&\fs110\be3\frz32.6\pos(1076,1104)}Sorry about yesterday
+Dialogue: 1,0:09:13.74,0:09:13.82,MayuriPhone,,0,0,0,,{\an4\c&H6D6B65&\fs110\be3\pos(1024,1004)\frz31.54}Sorry about yesterday
+Dialogue: 1,0:09:13.82,0:09:14.74,MayuriPhone,,0,0,0,,{\an4\c&H6D6B65&\fs110\be3\frz28.43\pos(976,932)}Sorry about yesterday
+Dialogue: 0,0:09:52.94,0:09:54.15,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HC8C9C7&}m 423 400 l 639 367 l 672 523 l 441 545 {\p0}
+Dialogue: 1,0:09:52.94,0:09:54.15,MayuriPhone,,0,0,0,,{\an4\c&HA8AD9D&\b1\fs160\frz6.037\be5\pos(454,460)}No signal
+Dialogue: 1,0:12:50.33,0:12:52.29,Signs,,0,0,0,,{\an1\fs90\c&HFFFFFF&\be5\alpha&H30&\pos(119.057,986.25)}Taito Chuo Chiyoda Bunkyo Shinjuku Minato
+Dialogue: 1,0:13:45.38,0:13:48.09,Signs,,0,0,0,,{\fade(500,0)\fs60\an7\fnCourier Prime\b0\c&HCC6600&\3c&HBA854F&\bord2}Attention Salieri's Neighbor (1000)\NAttention Salieri's Neighbor (1000)\NAttention Salieri's Neighbor (1000)
+Dialogue: 1,0:13:52.35,0:13:54.56,Signs,,0,0,0,,{\fade(500,0)\an7\fnCourier Prime\b1\bord2\fs50\c&H5F4F45&\be2\3c&HCEC7BA&}002 KuriGohan and Kamehameha\NIt appears that we twins will be temporarily\Ndriven from the place we belong.\NWhich is why we may not be able to\Ncome back here anymore.
+Dialogue: 1,0:13:54.56,0:13:57.19,Signs,,0,0,0,,{\fade(500,500)\an7\fnCourier Prime\b1\bord2\fs50\c&H5F4F45&\be2\3c&HCEC7BA&}003 KuriGohan and Kamehameha\NOur Father and God has at last discovered\Nhow to unveil our most sacred domains. Furthermore,\Nwe are ‘good’ children who cannot lie to our Father.
+Dialogue: 1,0:13:57.19,0:13:59.52,Signs,,0,0,0,,{\fade(500,0)\an7\fnCourier Prime\b1\bord2\fs50\c&H5F4F45&\be2\3c&HCEC7BA&}004 KuriGohan and Kamehameha\NThus, we may tell Father the secrets of\Nmanipulating time and where they're at. I deeply regret not being able to hold onto them tighter.
+Dialogue: 1,0:13:59.52,0:14:01.82,Signs,,0,0,0,,{\fade(500,500)\an7\fnCourier Prime\b1\bord2\fs50\c&H5F4F45&\be2\3c&HCEC7BA&}005 KuriGohan and Kamehameha\NI thought we could become good friends with you,\Nbut I think this is goodbye. So, please\Nconvey this message to the one I respect most.
+Dialogue: 1,0:14:01.82,0:14:04.49,Signs,,0,0,0,,{\fade(500,0)\an7\fnCourier Prime\b1\bord2\fs50\c&H5F4F45&\be2\3c&HCEC7BA&}006 KuriGohan and Kamehameha\NI always considered myself to be the very definition of mediocre.\NHowever, you were the person I always strove to be,\Nand you... You are the true Amadeus.
+Dialogue: 0,0:15:29.57,0:15:29.74,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEFECED&}m 537 41 l 573 120 l 709 68 l 677 -3 {\p0}
+Dialogue: 0,0:15:29.57,0:15:29.74,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HDFDAD8&}m 649 261 l 685 340 l 809 290 l 777 219 {\p0}
+Dialogue: 0,0:15:29.57,0:15:29.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H5C5C5D&\clip(m 945 632 l 934 689 921 746 910 779 856 768 866 706 887 640)}m 883 677 l 874 757 l 1062 708 l 1013 630 {\p0}
+Dialogue: 0,0:15:29.57,0:15:29.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H968B85&\iclip(m 945 632 l 934 689 921 746 910 779 856 768 866 706 887 640)}m 883 677 l 874 757 l 1062 708 l 1013 630 {\p0}
+Dialogue: 0,0:15:29.65,0:15:29.74,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H5C5C5D&\clip(m 921 644 l 918 665 900 730 884 777 828 768 844 694 867 637)}m 883 677 l 874 757 l 1062 708 l 1013 630 {\p0}
+Dialogue: 1,0:15:29.65,0:15:29.74,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H968B85&\iclip(m 921 644 l 918 665 900 730 884 777 828 768 844 694 867 637)}m 883 677 l 874 757 l 1062 708 l 1013 630 {\p0}
+Dialogue: 1,0:15:29.57,0:15:29.65,OkabePhone,,0,0,0,,{\c&HB5B1B4&\an4\fs80\be6\pos(586,77)\frz21.54}Suzuha
+Dialogue: 1,0:15:29.57,0:15:29.65,OkabePhone,,0,0,0,,{\c&H8E96B3&\fs80\be6\an4\frz24.3\pos(684,297)}Daru
+Dialogue: 1,0:15:29.57,0:15:29.65,OkabePhone,,0,0,0,,{\c&H4A4441&\an4\fs80\be6\frz23.57\pos(900,715)}L{\c&H59514D&}ukako
+Dialogue: 1,0:15:29.65,0:15:29.74,OkabePhone,,0,0,0,,{\c&HB5B1B4&\an4\fs80\be6\frz21.54\pos(558,71)}Suzuha
+Dialogue: 1,0:15:29.65,0:15:29.74,OkabePhone,,0,0,0,,{\c&H8E96B3&\fs80\be6\an4\frz24.3\pos(664,293)}Daru
+Dialogue: 2,0:15:29.65,0:15:29.74,OkabePhone,,0,0,0,,{\c&H4A4441&\an4\fs80\be6\frz23.57\pos(876,707)}L{\c&H59514D&}ukako
+Dialogue: 0,0:15:29.74,0:15:29.82,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HF2EFEF&}m 504 145 l 608 104 l 630 147 l 676 132 l 701 190 l 548 258 {\p0}
+Dialogue: 0,0:15:29.82,0:15:29.90,Draw,,0,0,0,,{\blur12\p1\c&HF2EFEF&\pos(-16,10)}m 504 145 l 608 104 l 630 147 l 676 132 l 701 190 l 548 258 {\p0}
+Dialogue: 0,0:15:29.90,0:15:29.99,Draw,,0,0,0,,{\blur12\p1\c&HF2EFEF&\pos(-26,23)}m 504 145 l 608 104 l 630 147 l 676 132 l 701 190 l 548 258 {\p0}
+Dialogue: 0,0:15:29.99,0:15:30.07,Draw,,0,0,0,,{\blur12\p1\c&HF2EFEF&\pos(-16,10)}m 504 145 l 608 104 l 630 147 l 676 132 l 701 190 l 548 258 {\p0}
+Dialogue: 0,0:15:30.07,0:15:30.15,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HF2EFEF&}m 504 145 l 608 104 l 630 147 l 676 132 l 701 190 l 548 258 {\p0}
+Dialogue: 0,0:15:30.15,0:15:30.24,Draw,,0,0,0,,{\blur12\p1\c&HF2EFEF&\pos(18,-10)}m 504 145 l 608 104 l 630 147 l 676 132 l 701 190 l 548 258 {\p0}
+Dialogue: 1,0:15:29.74,0:15:29.82,OkabePhone,,0,0,0,,{\c&H979596&\fs50\be5\pos(494,149)\frz23}Calling\N{\fs80}Mayuri
+Dialogue: 1,0:15:29.82,0:15:29.90,OkabePhone,,0,0,0,,{\c&H979596&\fs50\be5\frz23\pos(482,159)}Calling\N{\fs80}Mayuri
+Dialogue: 1,0:15:29.90,0:15:29.99,OkabePhone,,0,0,0,,{\c&H979596&\fs50\be5\frz23\pos(474,173)}Calling\N{\fs80}Mayuri
+Dialogue: 1,0:15:29.99,0:15:30.07,OkabePhone,,0,0,0,,{\c&H979596&\fs50\be5\frz23\pos(482,159)}Calling\N{\fs80}Mayuri
+Dialogue: 1,0:15:30.07,0:15:30.15,OkabePhone,,0,0,0,,{\c&H979596&\fs50\be5\pos(494,149)\frz23}Calling\N{\fs80}Mayuri
+Dialogue: 1,0:15:30.15,0:15:30.24,OkabePhone,,0,0,0,,{\c&H979596&\fs50\be5\frz23\pos(508,143)}Calling\N{\fs80}Mayuri
+Dialogue: 0,0:15:30.24,0:15:31.70,Draw,,0,0,0,,{\blur40\p1\c&H5B5F6B&\pos(18,-10)}m 355 -11 l 446 182 l 1029 33 l 948 -107 {\p0}
+Dialogue: 1,0:15:30.24,0:15:30.32,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(812,-51)}Connecting
+Dialogue: 1,0:15:30.32,0:15:30.41,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(784,-51)}Connecting
+Dialogue: 1,0:15:30.41,0:15:30.49,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(768,-45)}Connecting
+Dialogue: 1,0:15:30.49,0:15:30.57,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(754,-33)}Connecting
+Dialogue: 1,0:15:30.57,0:15:30.66,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\pos(746,-17)\frz20.5}Connecting
+Dialogue: 1,0:15:30.66,0:15:30.74,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(754,-33)}Connecting
+Dialogue: 1,0:15:30.74,0:15:30.82,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(768,-45)}Connecting
+Dialogue: 1,0:15:30.82,0:15:30.91,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(784,-51)}Connecting
+Dialogue: 1,0:15:30.91,0:15:30.99,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(812,-51)}Connecting
+Dialogue: 1,0:15:30.99,0:15:31.07,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(784,-51)}Connecting
+Dialogue: 1,0:15:31.07,0:15:31.16,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(768,-45)}Connecting
+Dialogue: 1,0:15:31.16,0:15:31.24,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(754,-33)}Connecting
+Dialogue: 1,0:15:31.24,0:15:31.32,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(746,-17)}Connecting
+Dialogue: 1,0:15:31.32,0:15:31.41,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(754,-33)}Connecting
+Dialogue: 1,0:15:31.41,0:15:31.49,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(768,-45)}Connecting
+Dialogue: 1,0:15:31.49,0:15:31.57,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(784,-51)}Connecting
+Dialogue: 1,0:15:31.57,0:15:31.66,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(812,-51)}Connecting
+Dialogue: 1,0:15:31.66,0:15:31.70,OkabePhone,,0,0,0,,{\c&HD7D7E2&\fs120\an5\be3\frz20.5\pos(784,-51)}Connecting
+Dialogue: 0,0:15:30.24,0:15:30.32,Draw,,0,0,0,,{\blur10\p1\c&H1C2328&\pos(0,0)\iclip(m 974 398 l 953 429 930 458 906 484 836 439 930 366)}m 994 397 l 1013 445 l 915 494 l 883 428 {\p0}
+Dialogue: 0,0:15:30.32,0:15:30.36,Draw,,0,0,0,,{\blur10\p1\c&H1C2328&\pos(0,0)\iclip(m 951 394 l 930 422 906 452 872 488 786 443 910 344)}m 968 394 l 987 442 l 889 491 l 857 425 {\p0}
+Dialogue: 0,0:15:31.11,0:15:31.16,Draw,,0,0,0,,{\blur10\p1\c&H1C2328&\pos(0,0)\iclip(m 965 380 l 935 430 911 458 880 492 786 443 910 344)}m 968 394 l 987 442 l 889 491 l 857 425 {\p0}
+Dialogue: 0,0:15:31.16,0:15:31.24,Draw,,0,0,0,,{\blur10\p1\c&H1C2328&\pos(0,0)\iclip(m 957 380 l 929 427 908 456 876 492 786 443 910 344)}m 968 394 l 987 442 l 889 491 l 857 425 {\p0}
+Dialogue: 0,0:15:31.24,0:15:31.32,Draw,,0,0,0,,{\blur10\p1\c&H1C2328&\pos(0,0)\iclip(m 938 368 l 915 419 890 456 831 524 786 443 910 344)}m 926 422 l 945 470 l 847 519 l 815 453 {\p0}
+Dialogue: 0,0:15:31.32,0:15:31.36,Draw,,0,0,0,,{\blur10\p1\c&H1C2328&\pos(0,0)\iclip(m 927 396 l 906 433 866 481 829 516 786 443 943 358)}m 926 422 l 945 470 l 847 519 l 815 453 {\p0}
+Dialogue: 1,0:15:30.24,0:15:30.32,OkabePhone,,0,0,0,,{\c&H43484E&\an2\fs70\be5\frz25.99\pos(918,471)\iclip(m 833 521 l 866 564 974 397 809 467)}Hang up
+Dialogue: 1,0:15:30.32,0:15:30.36,OkabePhone,,0,0,0,,{\c&H43484E&\an2\fs70\be5\frz25.99\pos(890,471)\iclip(m 924 430 l 904 458 852 506 842 562 770 457 945 401)}Hang up
+Dialogue: 1,0:15:31.11,0:15:31.16,OkabePhone,,0,0,0,,{\c&H43484E&\an2\fs70\be5\frz25.99\pos(878,475)\iclip(m 923 445 l 895 476 840 522 834 562 764 465 946 389 950 405)}Hang up
+Dialogue: 1,0:15:31.16,0:15:31.24,OkabePhone,,0,0,0,,{\c&H43484E&\an2\fs70\be5\frz25.99\pos(866,485)\iclip(m 914 449 l 881 486 826 534 820 574 753 476 929 399 935 417)}Hang up
+Dialogue: 1,0:15:31.24,0:15:31.32,OkabePhone,,0,0,0,,{\c&H43484E&\an2\fs70\be5\frz25.99\pos(858,499)\iclip(m 896 448 l 862 490 814 537 804 582 747 485 912 421)}Hang up
+Dialogue: 1,0:15:31.32,0:15:31.36,OkabePhone,,0,0,0,,{\c&H43484E&\fs70\an2\be5\frz25.99\pos(866,485)\iclip(m 887 454 l 862 486 822 522 808 582 757 470 922 401 905 431)}Hang up
+Dialogue: 0,0:15:30.24,0:15:30.32,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(0,0)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.32,0:15:30.41,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-20,-10)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.41,0:15:30.49,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-40,0)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.49,0:15:30.57,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-50,10)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.57,0:15:30.66,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-70,30)\iclip(m 1021 336 l 1030 357 1029 380 1025 412 1016 444 945 421 1009 321)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.66,0:15:30.74,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-50,10)\iclip(m 1041 336 l 1049 354 1050 377 1048 412 1032 459 965 381 1027 309)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.74,0:15:30.82,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-40,0)\iclip(m 1066 331 l 1075 342 1078 364 1081 396 1076 422 989 413 1053 308)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.82,0:15:30.91,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-20,-10)\iclip(m 1086 328 l 1094 345 1098 366 1096 401 1088 430 1045 381 1044 306)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.91,0:15:30.99,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(0,0)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:30.99,0:15:31.07,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-20,-10)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.07,0:15:31.16,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-40,0)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.16,0:15:31.24,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-50,10)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.24,0:15:31.32,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-70,30)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.32,0:15:31.41,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-50,10)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.41,0:15:31.49,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-40,0)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.49,0:15:31.57,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-20,-10)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.57,0:15:31.66,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(0,0)\iclip(m 1094 317 l 1096 332 1096 350 1091 385 1082 419 1013 353)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 0,0:15:31.66,0:15:31.70,Draw,,0,0,0,,{\blur10\p1\c&H191E23&\pos(-20,-10)\iclip(m 1078 325 l 1084 342 1082 370 1074 408 1010 348)}m 1096 345 l 1264 273 l 1295 338 l 1116 408 {\p0}
+Dialogue: 1,0:15:30.24,0:15:30.32,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1200,353)}Redial
+Dialogue: 1,0:15:30.32,0:15:30.41,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1172,353)}Redial
+Dialogue: 1,0:15:30.41,0:15:30.49,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1156,359)}Redial
+Dialogue: 1,0:15:30.49,0:15:30.57,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1142,371)}Redial
+Dialogue: 1,0:15:30.57,0:15:30.66,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1134,387)}Redial
+Dialogue: 1,0:15:30.66,0:15:30.74,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1142,371)}Redial
+Dialogue: 1,0:15:30.74,0:15:30.82,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1156,359)}Redial
+Dialogue: 1,0:15:30.82,0:15:30.91,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1172,353)}Redial
+Dialogue: 1,0:15:30.91,0:15:30.99,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1200,353)}Redial
+Dialogue: 1,0:15:30.99,0:15:31.07,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1172,353)}Redial
+Dialogue: 1,0:15:31.07,0:15:31.16,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1156,359)}Redial
+Dialogue: 1,0:15:31.16,0:15:31.24,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1142,371)}Redial
+Dialogue: 1,0:15:31.24,0:15:31.32,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1134,387)}Redial
+Dialogue: 1,0:15:31.32,0:15:31.41,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1142,371)}Redial
+Dialogue: 1,0:15:31.41,0:15:31.49,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1156,359)}Redial
+Dialogue: 1,0:15:31.49,0:15:31.57,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1172,353)}Redial
+Dialogue: 1,0:15:31.57,0:15:31.66,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1200,353)}Redial
+Dialogue: 1,0:15:31.66,0:15:31.70,OkabePhone,,0,0,0,,{\c&HAEB4B6&\fs70\be4\an2\frz23.03\pos(1172,353)}Redial
+Dialogue: 0,0:18:47.81,0:18:48.02,Draw,,0,0,0,,{\blur10\p1\c&HE1E3E3&\move(-40,320,0,75)}m 1166 797 l 945 819 l 930 737 l 1153 715 {\p0}
+Dialogue: 0,0:18:48.02,0:18:48.19,Draw,,0,0,0,,{\blur10\p1\c&HE1E3E3&\move(0,75,-5,10)}m 1166 797 l 945 819 l 930 737 l 1153 715 {\p0}
+Dialogue: 0,0:18:48.19,0:18:49.98,Draw,,0,0,0,,{\blur10\p1\c&HE1E3E3&\pos(0,0)}m 1166 797 l 945 819 l 930 737 l 1153 715 {\p0}
+Dialogue: 0,0:18:47.81,0:18:48.02,Draw,,0,0,0,,{\blur10\p1\c&HD1D3D5&\move(-40,320,0,75)}m 1008 873 l 945 881 l 933 838 l 998 834 {\p0}
+Dialogue: 0,0:18:48.02,0:18:48.19,Draw,,0,0,0,,{\blur10\p1\c&HD1D3D5&\move(0,75,-5,0)}m 1008 873 l 945 881 l 933 838 l 998 834 {\p0}
+Dialogue: 0,0:18:48.19,0:18:49.98,Draw,,0,0,0,,{\blur10\p1\c&HD1D3D5&\pos(0,0)}m 1008 873 l 945 881 l 933 838 l 998 834 {\p0}
+Dialogue: 1,0:18:47.81,0:18:48.02,SuzuhaPhone,,0,0,0,,{\an8\c&H7F7D7E&\fs50\be6\frz6.469\move(1022,1041,1032,813)}Barrel Titor\N{\fs50\c&HA5A1A3&}1 new message
+Dialogue: 1,0:18:48.02,0:18:48.19,SuzuhaPhone,,0,0,0,,{\an8\c&H7F7D7E&\fs50\be6\frz6.469\move(1032,813,1038,718)}Barrel Titor\N{\fs50\c&HA5A1A3&}1 new message
+Dialogue: 1,0:18:48.19,0:18:49.98,SuzuhaPhone,,0,0,0,,{\an8'\c&H7F7D7E&\fs50\be6\frz6.469\pos(1038,718)}Barrel Titor\N{\fs50\c&HA5A1A3&}1 new message
+Dialogue: 1,0:18:47.85,0:18:48.02,SuzuhaPhone,,0,0,0,,{\an5\c&HA6A2A5&\fs50\be6\frz5.923\move(950,1110,960,940)}Open
+Dialogue: 1,0:18:48.02,0:18:48.19,SuzuhaPhone,,0,0,0,,{\an5\c&HA6A2A5&\fs50\be6\frz5.923\move(962,932,968,862)}Open
+Dialogue: 1,0:18:48.19,0:18:49.98,SuzuhaPhone,,0,0,0,,{\an5\c&HA6A2A5&\fs50\be6\frz5.923\pos(968,862)}Open
+Dialogue: 0,0:18:49.98,0:18:51.44,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HF6F6F7&}m 69 -42 l 82 73 l 530 66 l 510 -60 {\p0}
+Dialogue: 1,0:18:49.98,0:18:51.44,SuzuhaPhone,,0,0,0,,{\an4\c&HE0DFE1&\fs170\b1\fax0.15\be6\pos(130,8)}From:
+Dialogue: 0,0:18:49.98,0:18:51.44,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&HF1DED6&}m 569 -34 l 587 52 l 1412 50 l 1400 -39 {\p0}
+Dialogue: 1,0:18:49.98,0:18:51.44,SuzuhaPhone,,0,0,0,,{\c&HBFA8A6&\an5\fax0.15\fs190\be6\pos(1022,-10)\frz0.6055}Barrel Titor
+Dialogue: 0,0:18:49.98,0:18:51.44,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HF7F6F8&}m 98 140 l 111 255 l 363 248 l 349 136 {\p0}
+Dialogue: 1,0:18:49.98,0:18:51.44,SuzuhaPhone,,0,0,0,,{\c&HE0DFE1&\b1\fax0.16\fay-0.015\an4\fs170\be6\pos(156,198)}To:
+Dialogue: 0,0:18:49.98,0:18:51.44,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&HEFD8C8&}m 402 148 l 413 235 l 809 229 l 797 140 {\p0}
+Dialogue: 1,0:18:49.98,0:18:51.44,SuzuhaPhone,,0,0,0,,{\c&HBCADAA&\an5\fax0.13\fs95\frz0.7694\be6\pos(592,194)}Amane Suzuha
+Dialogue: 0,0:18:49.98,0:18:51.44,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HF5F5F6&}m 116 306 l 129 442 l 1985 413 l 2012 272 {\p0}
+Dialogue: 1,0:18:49.98,0:18:51.44,SuzuhaPhone,,0,0,0,,{\c&HE0DFE1&\b1\fax0.15\fs170\an4\be6\frz0.7628\pos(192,380)}Subject: {\c&H99999C&\b0}Operation Arc-light
+Dialogue: 0,0:18:49.98,0:18:51.44,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HF4F5F4&}m 140 485 l 156 615 l 561 599 l 548 476 {\p0}
+Dialogue: 1,0:18:49.98,0:18:51.44,SuzuhaPhone,,0,0,0,,{\c&HE0DFE1&\b1\fax0.15\fay-0.03\fs140\be6\frz359.3\pos(204,512)}(No body)
+Dialogue: 0,0:18:49.98,0:18:51.44,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HDFE0E1&}m 645 955 l 657 1041 l 1257 1034 l 1248 938 {\p0}
+Dialogue: 1,0:18:49.98,0:18:51.44,SuzuhaPhone,,0,0,0,,{\c&HAEB0B3&\an4\fax0.15\fay-0.03\fs130\be4\frz359.2\pos(656,988)}Movie file
 Dialogue: 0,0:00:08.88,0:00:13.55,Default,,0000,0000,0000,,Hey, Suzuha! Is lovely, my daughter, there?!
 Dialogue: 0,0:00:13.55,0:00:16.97,Default,,0000,0000,0000,,What's this about “lovely, my daughter”?
 Dialogue: 0,0:00:16.97,0:00:19.93,Default,,0000,0000,0000,,It means you're my beloved daughter.
@@ -154,7 +321,6 @@ Dialogue: 0,0:08:58.53,0:09:00.16,Default,,0000,0000,0000,,Are you fine with thi
 Dialogue: 0,0:09:00.16,0:09:04.66,Default,,0000,0000,0000,,That's right... You're Suzu-san's\Nfather, aren't you?
 Dialogue: 0,0:09:04.66,0:09:07.67,Default,,0000,0000,0000,,I don't like this! You have to stop her!
 Dialogue: 0,0:09:07.67,0:09:10.34,Default,,0000,0000,0000,,I'm... not stopping her.
-Dialogue: 0,0:09:13.17,0:09:14.76,On Top,,0000,0000,0000,,“Think we can meet today?\NThere's so much I want to talk about.”\N“Sorry about yesterday.”
 Dialogue: 0,0:09:15.26,0:09:16.93,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:09:19.76,0:09:20.89,Default,,0000,0000,0000,,Mayuri?
 Dialogue: 0,0:09:20.89,0:09:22.22,Default,,0000,0000,0000,,Hello?
@@ -169,7 +335,6 @@ Dialogue: 0,0:09:40.87,0:09:43.95,Default,,0000,0000,0000,,You tried to find out
 Dialogue: 0,0:09:43.95,0:09:46.12,Default,,0000,0000,0000,,It's better that you don't know.
 Dialogue: 0,0:09:46.12,0:09:48.08,Default,,0000,0000,0000,,The time we have is—
 Dialogue: 0,0:09:51.80,0:09:53.25,Default,,0000,0000,0000,,What's wrong?
-Dialogue: 0,0:09:52.96,0:09:54.17,On Top,,0000,0000,0000,,“No Signal”
 Dialogue: 0,0:09:55.92,0:09:57.97,Default,,0000,0000,0000,,This whole past year...
 Dialogue: 0,0:09:59.01,0:10:02.22,Default,,0000,0000,0000,,I always kept thinking to myself...
 Dialogue: 0,0:10:02.22,0:10:08.44,Default,,0000,0000,0000,,Why did the me 25 years from now\Nsend Suzuha back to this era?
@@ -212,8 +377,6 @@ Dialogue: 0,0:12:26.16,0:12:27.49,Default,,0000,0000,0000,,Mmm.
 Dialogue: 0,0:12:31.91,0:12:33.46,Default,,0000,0000,0000,,Mmm!
 Dialogue: 0,0:12:33.46,0:12:36.17,Default,,0000,0000,0000,,Daru-kun... Maho-san...
 Dialogue: 0,0:12:38.59,0:12:43.34,Default,,0000,0000,0000,,For today only,\NMayushii will stop being a hostage!
-Dialogue: 0,0:12:43.97,0:12:48.89,On Top,,0000,0000,0000,,“Altair of the Hyperbolic Plane\N- Beltrami Pseudosphere -”
-Dialogue: 0,0:12:50.35,0:12:52.31,On Top,,0000,0000,0000,,“Taito Chuo Chiyoda Bunkyo Shinjuku Minato”
 Dialogue: 0,0:12:58.69,0:13:02.03,Default,,0000,0000,0000,,What's going on? All the carriers are out...
 Dialogue: 0,0:13:02.03,0:13:07.53,Default,,0000,0000,0000,,Today is double sevens day!\NOrihime will greet you in a miniskirt!
 Dialogue: 0,0:13:07.53,0:13:08.70,Default,,0000,0000,0000,,Mayuri!
@@ -228,16 +391,10 @@ Dialogue: 0,0:13:31.47,0:13:32.89,Default,,0000,0000,0000,,The net works, right?
 Dialogue: 0,0:13:32.89,0:13:39.15,Default,,0000,0000,0000,,Y-Yeah... But it must be covered-up or something\N'cuz none of the sites are talking about it.
 Dialogue: 0,0:13:39.15,0:13:44.61,Default,,0000,0000,0000,,And, well... I connected to @channel,\Nbut the occult board got hacked or something.
 Dialogue: 0,0:13:44.61,0:13:46.49,Default,,0000,0000,0000,,Hacked?!
-Dialogue: 0,0:13:45.40,0:13:48.11,On Top,,0000,0000,0000,,“Attention Salieri's Neighbor (1000)”\N“Attention Salieri's Neighbor (1000)”
 Dialogue: 0,0:13:46.49,0:13:48.87,Default,,0000,0000,0000,,This post is...
 Dialogue: 0,0:13:48.87,0:13:54.83,Default,,0000,0000,0000,,“It appears that we twins will be\Ntemporarily driven from the place we belong.”
-Dialogue: 0,0:13:52.37,0:13:54.83,On Top,,0000,0000,0000,,“002 KuriGohan and Kamehameha”\N“It appears that we twins will be temporarily\Ndriven from the place we belong. Which is why we may not be able to come back here anymore.”
-Dialogue: 0,0:13:54.83,0:13:57.21,On Top,,0000,0000,0000,,“003 KuriGohan and Kamehameha”\N“Our Father and God has at last discovered\Nhow to unveil our most sacred domains. Furthermore, we are ‘good’ children who cannot lie to our Father.”
 Dialogue: 0,0:13:54.83,0:14:00.00,Default,,0000,0000,0000,,“Our Father and God has at last discovered\Nhow to unveil our most sacred domains.”
-Dialogue: 0,0:13:57.21,0:13:59.50,On Top,,0000,0000,0000,,“004 KuriGohan and Kamehameha”\N“Thus, we may tell Father the secrets of\Nmanipulating time and where they're at. I deeply regret not being able to hold onto them tighter.”
-Dialogue: 0,0:13:59.50,0:14:01.84,On Top,,0000,0000,0000,,“005 KuriGohan and Kamehameha”\N“I thought we could become good friends\Nwith you, but I think this is goodbye. So, please convey this message to the one I respect most.”
 Dialogue: 0,0:14:00.00,0:14:05.55,Default,,0000,0000,0000,,“Thus, we may tell Father the secrets of\Nmanipulating time and where they're at.”
-Dialogue: 0,0:14:01.84,0:14:04.51,On Top,,0000,0000,0000,,“006 KuriGohan and Kamehameha”\N“I always considered myself to be\Nthe very definition of mediocre. However, you were the person I always strove to be, and you... You are the true Amadeus.”
 Dialogue: 0,0:14:05.55,0:14:07.05,Default,,0000,0000,0000,,Our Father and God?
 Dialogue: 0,0:14:07.05,0:14:09.68,Default,,0000,0000,0000,,Yeah... Look!
 Dialogue: 0,0:14:09.68,0:14:13.22,Default,,0000,0000,0000,,“Please convey this message\Nto the one I respect most.”
@@ -264,9 +421,6 @@ Dialogue: 0,0:15:11.11,0:15:13.83,Default,,0000,0000,0000,,Daru? What is it?
 Dialogue: 0,0:15:13.83,0:15:16.41,Default,,0000,0000,0000,,O-Okarin!
 Dialogue: 0,0:15:21.79,0:15:23.25,Default,,0000,0000,0000,,Mayuri and Suzuha are?!
 Dialogue: 0,0:15:23.25,0:15:29.22,Default,,0000,0000,0000,,Suzuha went to change the future alone...\Nand Mayu-shi went after her.
-Dialogue: 0,0:15:29.59,0:15:29.76,On Top,,0000,0000,0000,,“Suzuha”\N“Daru”\N“Lukako”
-Dialogue: 0,0:15:29.76,0:15:30.26,On Top,,0000,0000,0000,,“Calling”\N“Mayuri”
-Dialogue: 0,0:15:30.26,0:15:31.72,On Top,,0000,0000,0000,,“Connect—”\N“Hang up”     “Redial”
 Dialogue: 0,0:15:32.64,0:15:34.26,Default,,0000,0000,0000,,Mayuri!
 Dialogue: 0,0:15:34.26,0:15:39.10,Default,,0000,0000,0000,,Is it hopeless, as long as the time machine\Nexists?! Will it keep happening?!
 Dialogue: 0,0:15:40.94,0:15:44.36,Default,,0000,0000,0000,,Let's get to work, C203.
@@ -322,9 +476,7 @@ Dialogue: 0,0:18:27.14,0:18:32.23,Default,,0000,0000,0000,,I'm going to change t
 Dialogue: 0,0:18:32.23,0:18:35.11,Default,,0000,0000,0000,,Though I do have my doubts...
 Dialogue: 0,0:18:35.11,0:18:36.82,Default,,0000,0000,0000,,Uncle Okarin...
 Dialogue: 0,0:18:39.07,0:18:40.87,Default,,0000,0000,0000,,Goodbye.
-Dialogue: 0,0:18:47.83,0:18:50.00,On Top,,0000,0000,0000,,“One new message”\N“Open”        “OK”
 Dialogue: 0,0:18:48.29,0:18:49.92,Default,,0000,0000,0000,,From Dad?
-Dialogue: 0,0:18:50.00,0:18:51.46,On Top,,0000,0000,0000,,“From: Barrel Titor”\N“To: Amane Suzuha”\N“Subject: Operation Arc-light” “(No body)” “Movie file”
 Dialogue: 0,0:18:51.75,0:18:55.67,Default,,0000,0000,0000,,A D-Mail from 2025?
 Dialogue: 0,0:18:55.67,0:18:58.47,Default,,0000,0000,0000,,Yo, Suzuha. It's your dad.
 Dialogue: 0,0:18:58.47,0:19:00.63,Default,,0000,0000,0000,,It's the year 2025 here.

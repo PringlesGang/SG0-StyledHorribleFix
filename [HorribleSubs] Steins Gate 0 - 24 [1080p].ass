@@ -14,12 +14,102 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: OkabePhoneOld,Manjari,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:00.12,0:00:01.91,On Top,,0000,0000,0000,,“Please”\N“Global Brain Science Organization Office\NPrep Room. A fundraising plea by Leskinen. If everyone who read this donated just one dollar, I could eat a can of oden.
-Dialogue: 0,0:00:01.91,0:00:03.75,On Top,,0000,0000,0000,,This lab of ours may be small,\Nbut our operation requires many cans of oden.\NOden cans are very special as they can be eaten by anyone. Please donate to our cause with a dollar or can of oden.”
+Dialogue: 1,0:11:54.02,0:11:58.99,Title,,0,0,0,,{\an3\fs110\fsp10\pos(1512,548)}Valentine's
+Dialogue: 1,0:11:54.02,0:11:58.99,Title,,0,0,0,,{\an3\fsp6\pos(1386,606)}of Crystal
+Dialogue: 1,0:11:54.02,0:11:58.99,Title,,0,0,0,,{\an3\pos(1564,670)}Polymorphism
+Dialogue: 0,0:00:02.81,0:00:03.73,Draw,,0,0,0,,{\move(0,-120,0,50)\p1\c&HE7E7E7&}m 505 55 l 884 -33 l 930 61 l 527 162 {\p0}
+Dialogue: 1,0:00:02.81,0:00:03.73,Signs,,0,0,0,,{\an8\c&H4D5656&\fs150\fax0.1\fay-0.25\be3\move(680,-125,680,97)}Please
+Dialogue: 1,0:00:01.73,0:00:03.73,Signs,,0,0,0,,{\b0\an8\fnNoto Sans JP Light\fs38\fax0.1\fay-0.25\move(738,-75,738,425)\c&H000000&\be2\alpha&H20&}Global Brain Science Organization Office Prep Room. A fundraising plea by Leskinen.
+Dialogue: 1,0:00:01.73,0:00:03.73,Signs,,0,0,0,,{\b0\an8\fnNoto Sans JP Light\c&H6B6D6F&\fs38\fax0.1\fay-0.25\move(738,-55,738,445)\c&H000000&\be2\alpha&H20&}If everyone who read this donated just one dollar, I could eat a can of oden.
+Dialogue: 1,0:00:00.60,0:00:03.73,Signs,,0,0,0,,{\b0\an8\fnNoto Sans JP Light\fs38\fax0.1\fay-0.25\c&H000000&\be2\alpha&260&\move(750,-30,750,714,39,3113)}This lab of ours may be small, but our operation requires many cans of oden.
+Dialogue: 1,0:00:00.39,0:00:03.73,Signs,,0,0,0,,{\b0\an8\fnNoto Sans JP Light\fs38\fax0.1\fay-0.25\c&H000000&\be2\alpha&H20&\move(748,-75,748,728)}Oden cans are very special as they can be eaten by anyone.\NPlease donate to our cause with a dollar or can of oden.
+Dialogue: 0,0:02:58.65,0:02:58.74,Draw,,0,0,0,,{\blur8\p1\c&H838280&\move(8,-10,48,10,30,72)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:58.74,0:02:58.82,Draw,,0,0,0,,{\blur8\p1\c&H878684&\move(118,32,168,48,24,65)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:58.82,0:02:58.90,Draw,,0,0,0,,{\blur8\p1\c&H8B8A88&\move(214,56,270,72,27,69)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:58.90,0:02:58.99,Draw,,0,0,0,,{\blur8\p1\c&H8E8D8B&\move(328,90,370,102,20,62)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:58.99,0:02:59.07,Draw,,0,0,0,,{\blur8\p1\c&H908E8D&\move(424,116,462,126,24,66)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:59.07,0:02:59.15,Draw,,0,0,0,,{\blur8\p1\c&H91908E&\move(496,136,520,144,27,69)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:59.15,0:02:59.24,Draw,,0,0,0,,{\blur8\p1\c&H91908E&\move(548,150,564,158,21,62)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:59.24,0:02:59.32,Draw,,0,0,0,,{\blur8\p1\c&H91908E&\move(570,160,584,162,24,66)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 0,0:02:59.32,0:03:01.11,Draw,,0,0,0,,{\blur8\p1\c&H918F8D&\pos(588,162)}m 313 350 l 364 360 l 450 366 l 413 450 l 465 468 l 494 396 l 581 407 l 627 471 l 564 550 l 512 504 l 476 484 l 408 455 l 304 436 {\p0}
+Dialogue: 1,0:02:58.65,0:02:58.74,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(584,472,642,490,30,72)}Pay
+Dialogue: 1,0:02:58.74,0:02:58.82,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(696,506,752,522,23,65)}Pay
+Dialogue: 1,0:02:58.82,0:02:58.90,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(806,540,860,554,27,68)}Pay
+Dialogue: 1,0:02:58.90,0:02:58.99,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(910,570,960,584,30,72)}Pay
+Dialogue: 1,0:02:58.99,0:02:59.07,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(1006,594,1046,608,23,65)}Pay
+Dialogue: 1,0:02:59.07,0:02:59.15,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(1080,616,1108,626,27,69)}Pay
+Dialogue: 1,0:02:59.15,0:02:59.24,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(1130,630,1146,634,20,62)}Pay
+Dialogue: 1,0:02:59.24,0:02:59.32,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(1160,640,1166,642,24,65)}Pay
+Dialogue: 1,0:02:59.32,0:03:01.11,Signs,,0,0,0,,{\fs110\an2\fnPlaypen Sans Light\b0\fax-0.14\be2\c&H413D3D&\frz76.15\move(1170,642,1172,642,27,69)}Pay
+Dialogue: 0,0:03:25.47,0:03:27.47,Draw,,0,0,0,,{\blur8\p1\c&H9B9998&\pos(0,0)}m 791 444 l 793 395 l 840 353 l 911 375 l 931 430 l 867 476 l 900 515 l 957 471 l 1019 502 l 1030 574 l 987 606 l 929 595 l 900 516 l 866 478 l 836 478 {\p0}
+Dialogue: 0,0:03:27.47,0:03:27.60,Draw,,0,0,0,,{\blur8\p1\c&HA09E9C&\pos(110,34)}m 791 444 l 793 395 l 840 353 l 911 375 l 931 430 l 867 476 l 900 515 l 957 471 l 1019 502 l 1030 574 l 987 606 l 929 595 l 900 516 l 866 478 l 836 478 {\p0}
+Dialogue: 0,0:03:27.60,0:03:27.72,Draw,,0,0,0,,{\blur8\p1\c&HA2A19F&\pos(212,90)}m 791 444 l 793 395 l 840 353 l 911 375 l 931 430 l 867 476 l 900 515 l 957 471 l 1019 502 l 1030 574 l 987 606 l 929 595 l 900 516 l 866 478 l 836 478 {\p0}
+Dialogue: 0,0:03:27.72,0:03:27.85,Draw,,0,0,0,,{\blur8\p1\c&HA3A19F&\pos(324,136)}m 791 444 l 793 395 l 840 353 l 911 375 l 931 430 l 867 476 l 900 515 l 957 471 l 1019 502 l 1030 574 l 987 606 l 929 595 l 900 516 l 866 478 l 836 478 {\p0}
+Dialogue: 0,0:03:27.85,0:03:27.97,Draw,,0,0,0,,{\blur8\p1\c&HA2A09E&\pos(414,186)}m 791 444 l 793 395 l 840 353 l 911 375 l 931 430 l 867 476 l 900 515 l 957 471 l 1019 502 l 1030 574 l 987 606 l 929 595 l 900 516 l 866 478 l 836 478 {\p0}
+Dialogue: 0,0:03:27.97,0:03:28.10,Draw,,0,0,0,,{\blur10\p1\c&H8C8988&\pos(778,378)}m 791 444 l 793 395 l 840 353 l 911 375 l 931 430 l 867 476 l 900 515 l 957 471 l 1019 502 l 1030 574 l 987 606 l 929 595 l 900 516 l 866 478 l 836 478 {\p0}
+Dialogue: 1,0:03:25.47,0:03:27.22,Signs,,0,0,0,,{\an2\fs110\fnPlaypen Sans Light\b0\fax-0.1\be3\c&H413D3D&\frz40.14\pos(996,564)}Pay
+Dialogue: 1,0:03:27.22,0:03:27.47,Signs,,0,0,0,,{\an2\fs110\fnPlaypen Sans Light\b0\be3\c&H413D3D&\frz40.14\pos(996,562)}Pay
+Dialogue: 1,0:03:27.47,0:03:27.60,Signs,,0,0,0,,{\an2\fs110\fnPlaypen Sans Light\b0\be3\c&H413D3D&\frz40.14\pos(1108,608)}Pay
+Dialogue: 1,0:03:27.60,0:03:27.72,Signs,,0,0,0,,{\an2\fs110\fnPlaypen Sans Light\b0\be3\c&H413D3D&\frz40.14\pos(1214,652)}Pay
+Dialogue: 1,0:03:27.72,0:03:27.85,Signs,,0,0,0,,{\an2\fs110\fnPlaypen Sans Light\b0\be3\c&H413D3D&\frz40.14\pos(1322,702)}Pay
+Dialogue: 1,0:03:27.85,0:03:27.97,Signs,,0,0,0,,{\an2\fs110\fnPlaypen Sans Light\b0\be3\c&H413D3D&\frz40.14\pos(1410,752)}Pay
+Dialogue: 1,0:03:27.97,0:03:28.10,Signs,,0,0,0,,{\an2\fs110\fnPlaypen Sans Light\b0\be3\c&H413D3D&\frz40.14\pos(1770,944)}Pay
+Dialogue: 0,0:04:01.38,0:04:03.55,Draw,,0,0,0,,{\move(0,-5,-406,435)\blur9\p1\c&H9988F4&\t(\c&H7C71DA&)}m 1137 85 l 1539 85 l 1539  139 l 1137 139 {\p0}
+Dialogue: 1,0:04:01.38,0:04:03.55,Draw,,0,0,0,,{\move(0,-5,-406,435)\blur9\p1\c&H7565DD&\t(\c&H6A5AD0&)}m 1483 85 l 1735 85 l 1735 139 l 1483 139 {\p0}
+Dialogue: 2,0:04:01.38,0:04:03.55,Signs,,0,0,0,,{\an4\fs72\fnRounded Mplus 1c Medium\b0\c&HD4E7F3&\be2\move(1172,106,766,546)}Happy Valentine's Event Begins!
+Dialogue: 0,0:12:01.28,0:12:03.41,Draw,,0,0,0,,{\move(0,0,-30,0)\blur10\p1\c&HF0F2F2&}m 852 315 l 1296 436 l 1296 627 l 1011 564 l 789 462 {\p0}
+Dialogue: 0,0:12:01.28,0:12:03.41,Draw,,0,0,0,,{\move(-5,-10,-50,-25)\blur10\p1\c&HD1CFCC&}m 1339 412 l 1444 475 l 1603 618 l 1586 967 l 1585 977 l 1311 771 {\p0}
+Dialogue: 1,0:12:01.28,0:12:03.41,Signs,,0,0,0,,{\an5\frz342\fs100\c&H7567C0&\be2\t(\fs92)\be2\move(1044,456,1037,463,26,2028)\fnRounded Mplus 1c Black\b0}Cake Flour
+Dialogue: 1,0:12:01.28,0:12:03.41,Signs,,0,0,0,,{\fay0.9\an5\fs100\c&H785D4D&\be2\fnPlayfair Display Black\t(\fs93)\move(1456,544,1413,549,26,2111)}Whole\N\NMilk
+Dialogue: 0,0:14:33.64,0:14:34.89,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&H525252&}m 1247 713 l 1372 751 l 1369 829 l 1242 785 {\p0}
+Dialogue: 0,0:14:33.64,0:14:34.89,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&H525252&}m 1481 797 l 1625 843 l 1622 921 l 1476 869 {\p0}
+Dialogue: 0,0:14:33.64,0:14:34.89,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&H525252&}m 1236 858 l 1380 904 l 1377 982 l 1231 930 {\p0}
+Dialogue: 0,0:14:33.64,0:14:34.89,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&H525252&}m 1476 946 l 1635 998 l 1632 1076 l 1471 1018 {\p0}
+Dialogue: 1,0:14:33.64,0:14:34.89,Signs,,0,0,0,,{\fay0.37\fs60\b0\be5\c&HBCBEC1&\pos(1303,744)}Light
+Dialogue: 1,0:14:33.64,0:14:34.89,Signs,,0,0,0,,{\fay0.37\fs60\b0\be5\c&HBCBEC1&\pos(1555,812)}Microwave
+Dialogue: 1,0:14:33.64,0:14:34.89,Signs,,0,0,0,,{\fay0.4\fs60\b0\be5\c&HBCBEC1&\pos(1300,896)}Grill
+Dialogue: 1,0:14:33.64,0:14:34.89,Signs,,0,0,0,,{\fay0.4\fs60\b0\be5\c&HBCBEC1&\pos(1548,982)}Oven
+Dialogue: 1,0:19:20.59,0:19:20.72,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs110\an7\org(608,814)\pos(332,870)\frx10\fry0\frz353.3}Special\NEvent
+Dialogue: 1,0:19:20.72,0:19:20.84,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs110\an7\org(608,814)\frx10\fry0\frz353.3\pos(304,706)}Special\NEvent
+Dialogue: 1,0:19:20.84,0:19:20.97,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs110\an7\org(608,814)\frx10\fry0\frz353.3\pos(288,614)}Special\NEvent
+Dialogue: 1,0:19:20.97,0:19:21.09,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs120\an7\org(608,814)\frx10\fry0\frz353.3\pos(270,510)}Special\NEvent
+Dialogue: 1,0:19:21.09,0:19:21.22,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs120\an7\org(608,814)\frx10\fry0\pos(266,526)\frz354.3}Special\NEvent
+Dialogue: 1,0:19:21.22,0:19:21.34,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs120\an7\org(608,814)\frx10\fry0\frz355.1\pos(264,540)}Special\NEvent
+Dialogue: 1,0:19:21.34,0:19:21.47,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs120\an7\org(608,814)\frx10\fry0\frz355.1\pos(260,566)}Special\NEvent
+Dialogue: 1,0:19:21.47,0:19:23.05,Signs,,0,0,0,,{\c&H7550B8&\3c&H3F2A8B&\fnRounded Mplus 1c extrabold\fsp7\be2\bord6\fs120\an7\org(608,814)\frx10\fry0\frz355.1\pos(258,586)}Special\NEvent
+Dialogue: 1,0:19:20.72,0:19:20.84,Signs,,0,0,0,,{\c&HF3F3F3&\fnRounded Mplus 1c extrabold\fsp3\be5\fs65\an8\frx10\fry0\frz358.9\org(1326,1044)\pos(1396,962)}MayQueen\N+Nyan²
+Dialogue: 1,0:19:20.84,0:19:20.97,Signs,,0,0,0,,{\c&HF3F3F3&\fnRounded Mplus 1c extrabold\fsp3\be5\fs65\an8\frx10\fry0\frz358.9\org(1326,1044)\pos(1374,848)}MayQueen\N+Nyan²
+Dialogue: 1,0:19:20.97,0:19:21.09,Signs,,0,0,0,,{\c&HF3F3F3&\fnRounded Mplus 1c extrabold\fsp3\be5\fs65\an8\frx10\fry0\frz358.9\org(1326,1044)\pos(1350,736)}MayQueen\N+Nyan²
+Dialogue: 1,0:19:21.09,0:19:21.22,Signs,,0,0,0,,{\c&HF3F3F3&\fnRounded Mplus 1c extrabold\fsp3\be5\fs65\an8\frx10\fry0\org(1326,1044)\pos(1340,754)\frz358.3}MayQueen\N+Nyan²
+Dialogue: 1,0:19:21.22,0:19:21.34,Signs,,0,0,0,,{\c&HF3F3F3&\fnRounded Mplus 1c extrabold\fsp3\be5\fs65\an8\frx8\fry0\frz358.9\org(1326,1044)\pos(1342,778)}MayQueen\N+Nyan²
+Dialogue: 1,0:19:21.34,0:19:21.47,Signs,,0,0,0,,{\c&HF3F3F3&\fnRounded Mplus 1c extrabold\fsp3\be5\fs65\an8\org(1326,1044)\frx7\fry0\pos(1346,794)\frz358.3}MayQueen\N+Nyan²
+Dialogue: 1,0:19:21.47,0:19:23.05,Signs,,0,0,0,,{\c&HF3F3F3&\fnRounded Mplus 1c extrabold\fsp3\be5\fs65\an8\org(1326,1044)\frx8\fry0\pos(1348,808)\frz358.7}MayQueen\N+Nyan²
+Dialogue: 0,0:20:10.14,0:20:12.10,Draw,,0,0,0,,{\pos(0,0)\blur4\p1\c&HA1549D&}m 399 149 l 587 127 l 592 160 l 404 184 {\p0}
+Dialogue: 0,0:20:10.14,0:20:12.10,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&H654552&}m 403 189 l 487 180 l 491 207 l 407 217 {\p0}
+Dialogue: 0,0:20:10.14,0:20:12.10,Draw,,0,0,0,,{\pos(0,0)\blur4\p1\c&H553D48&}m 407 221 l 471 215 l 472 239 l 411 247 {\p0}
+Dialogue: 0,0:20:10.14,0:20:12.10,Draw,,0,0,0,,{\pos(0,0)\blur4\p1\c&H43343E&}m 411 255 l 567 237 l 572 267 l 415 283 {\p0}
+Dialogue: 1,0:20:10.14,0:20:12.10,OkabePhoneOld,,0,0,0,,{\fs43\bord0\shad0\c&HDBCDD5&\be2\an7\frz6.854\pos(404,150)}New mail draft
+Dialogue: 1,0:20:10.14,0:20:12.10,OkabePhoneOld,,0,0,0,,{\fs30\c&HC9BAC3&\be2\frz6.477\pos(404,190)}[Recipients]\N[Subject]\N{\fs40}Thanks for everything
+Dialogue: 0,0:20:17.07,0:20:19.53,Draw,,0,0,0,,{\move(0,0,30,5)\blur10\p1\c&HD8DDE1&}m 549 548 l 631 476 l 1007 360 l 1062 390 l 1050 435 l 875 500 l 914 542 l 964 552 l 1008 627 l 794 729 l 687 704 l 642 630 l 623 607 l 562 600 {\p0}
+Dialogue: 1,0:20:17.07,0:20:19.53,Signs,,0,0,0,,{\fay-0.2\fax0.2\fnPatrick Hand\b0\be3\an5\fs130\c&H373B3F&\frz8.684\t(\fs108)\move(804,510,841,514,23,2442)}To Okarin-san:
+Dialogue: 1,0:20:17.07,0:20:19.53,Signs,,0,0,0,,{\an8\fay-0.2\fax0.2\frz5.727\fnPatrick Hand\b0\be3\fs80\c&H313236&\t(\fs65)\move(808,594,838,586,23,2442)}Get along with\NMommy Mayuri!
+Dialogue: 0,0:20:19.53,0:20:21.36,Draw,,0,0,0,,{\move(60,0,0,0)\blur10\p1\c&HD4DADF&}m 442 535 l 481 519 l 617 509 l 659 525 l 657 553 l 671 632 l 543 659 l 508 629 l 479 614 l 448 569 {\p0}
+Dialogue: 0,0:20:19.53,0:20:21.36,Draw,,0,0,0,,{\move(-40,12,0,3)\blur7\p1\c&HD6DBDF&}m 1178 437 l 1241 423 l 1342 405 l 1370 426 l 1451 416 l 1473 460 l 1419 471 l 1238 537 l 1215 491 l 1182 477 {\p0}
+Dialogue: 1,0:20:19.53,0:20:21.36,Signs,,0,0,0,,{\fay-0.2\fax0.2\fnPatrick Hand\b0\be2.5\fs50\c&H373B3F&\t(\fs57)\frz3.675\move(602,558,548,552,23,1817)}To Luka-san:
+Dialogue: 1,0:20:19.53,0:20:21.36,Signs,,0,0,0,,{\fay-0.2\an9\fax0.2\fnPatrick Hand\b0\be2.5\fs40\c&H3E3F43&\t(\fs45)\frz4.747\move(702,582,658,588,23,1817)}Thank you for\Neverything
+Dialogue: 1,0:20:19.53,0:20:21.36,Signs,,0,0,0,,{\fay-0.2\fax0.2\fnPatrick Hand\b0\be2\fs50\c&H575A5E&\t(\fs59)\frz2.242\move(1260,476,1298,468,23,1817)}To Daru-san:
+Dialogue: 1,0:20:19.53,0:20:21.36,Signs,,0,0,0,,{\an8\fay-0.2\fax0.2\fnPatrick Hand\b0\be2\fs35\c&H494B4D&\t(\fs38)\frz3\move(1274,494,1316,488,23,1817)}Only game 30\Nminutes a day!
+Dialogue: 0,0:20:31.41,0:20:34.63,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HD9DFE3&}m 674 453 l 741 388 l 1138 378 l 1238 438 l 1227 491 l 1076 478 l 1033 524 l 1012 595 l 756 608 l 734 608 l 690 528 {\p0}
+Dialogue: 1,0:20:31.41,0:20:34.63,Signs,,0,0,0,,{\fnPatrick Hand\b0\be3\fs100\c&H2F3032&\frz2.944\pos(956,442)}To my kind mommy:
+Dialogue: 1,0:20:31.41,0:20:34.63,Signs,,0,0,0,,{\fnPatrick Hand\b0\be3.5\fs75\c&H232426&\an9\frz359.2\pos(1022,502)}Thank you\Nfor everything
 Dialogue: 0,0:00:02.92,0:00:04.75,Default,,0000,0000,0000,,For crying out loud...
 Dialogue: 0,0:00:07.38,0:00:12.42,Default,,0000,0000,0000,,So much for things settling down\Nafter the New Year's thief fiasco...
 Dialogue: 0,0:00:16.80,0:00:18.81,Default,,0000,0000,0000,,This is a stickup, Maho!
@@ -27,7 +117,6 @@ Dialogue: 0,0:00:19.89,0:00:21.73,Default,,0000,0000,0000,,What in the world is 
 Dialogue: 0,0:00:21.73,0:00:23.02,Default,,0000,0000,0000,,You like it?
 Dialogue: 0,0:00:23.02,0:00:25.90,Default,,0000,0000,0000,,A hobby shop was selling these in Akihabara.
 Dialogue: 0,0:00:25.90,0:00:28.82,Default,,0000,0000,0000,,It's a toy gun for the festival.
-Dialogue: 0,0:00:26.36,0:00:31.53,On Top,,0000,0000,0000,,“Setsubun”
 Dialogue: 0,0:00:28.82,0:00:31.61,Default,,0000,0000,0000,,You can shoot a bunch of beans with this thing.
 Dialogue: 0,0:00:31.61,0:00:35.78,Default,,0000,0000,0000,,“Cast the demons out\Nand rake the bucks in!”, was it?
 Dialogue: 0,0:00:35.78,0:00:38.28,Default,,0000,0000,0000,,It's “Bring the luck in!”, Professor.
@@ -56,12 +145,10 @@ Dialogue: 0,0:02:28.77,0:02:33.52,Default,,0000,0000,0000,,{\i1}Then you shouldn
 Dialogue: 0,0:02:33.52,0:02:39.03,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
 Dialogue: 0,0:02:39.03,0:02:44.58,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
 Dialogue: 0,0:02:44.58,0:02:49.92,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:02:51.04,0:02:53.21,On Top,,0000,0000,0000,,“Television”\N“CRT Workshop”
 Dialogue: 0,0:02:52.00,0:02:54.67,Default,,0000,0000,0000,,See you later, Boss. Take care.
 Dialogue: 0,0:02:54.67,0:02:56.17,Default,,0000,0000,0000,,Have a good day.
 Dialogue: 0,0:02:56.17,0:02:57.96,Default,,0000,0000,0000,,Yeah... Hold up.
 Dialogue: 0,0:02:57.96,0:02:59.34,Default,,0000,0000,0000,,Hmm?
-Dialogue: 0,0:02:58.67,0:03:01.13,On Top,,0000,0000,0000,,“Pay”
 Dialogue: 0,0:02:59.34,0:03:01.47,Default,,0000,0000,0000,,Your payment for last month.
 Dialogue: 0,0:03:01.47,0:03:03.60,Default,,0000,0000,0000,,B-But I...
 Dialogue: 0,0:03:03.60,0:03:06.56,Default,,0000,0000,0000,,You're protecting me, so I...
@@ -76,7 +163,6 @@ Dialogue: 0,0:03:19.24,0:03:20.45,Default,,0000,0000,0000,,Whoops!
 Dialogue: 0,0:03:20.45,0:03:21.91,Default,,0000,0000,0000,,Thanks a bunch!
 Dialogue: 0,0:03:21.91,0:03:24.03,Default,,0000,0000,0000,,Good grief...
 Dialogue: 0,0:03:24.03,0:03:25.62,Default,,0000,0000,0000,,Here.
-Dialogue: 0,0:03:25.49,0:03:28.12,On Top,,0000,0000,0000,,“Pay”
 Dialogue: 0,0:03:30.71,0:03:32.50,Default,,0000,0000,0000,,Thank you very much!
 Dialogue: 0,0:03:35.46,0:03:37.96,Default,,0000,0000,0000,,You seem happy today.
 Dialogue: 0,0:03:37.96,0:03:40.97,Default,,0000,0000,0000,,This is my first time getting paid for work.
@@ -87,7 +173,6 @@ Dialogue: 0,0:03:50.35,0:03:53.02,Default,,0000,0000,0000,,This bakery has the t
 Dialogue: 0,0:03:53.02,0:03:56.36,Default,,0000,0000,0000,,Uh... N-No, it's not like I...
 Dialogue: 0,0:03:58.15,0:03:59.73,Default,,0000,0000,0000,,What's up, Kagari?
 Dialogue: 0,0:03:59.73,0:04:01.03,Default,,0000,0000,0000,,Um...
-Dialogue: 0,0:04:00.82,0:04:03.57,On Top,,0000,0000,0000,,“Happy Valentine's Event Begins!”
 Dialogue: 0,0:04:01.03,0:04:03.61,Default,,0000,0000,0000,,What exactly is this about?
 Dialogue: 0,0:04:05.32,0:04:07.12,Default,,0000,0000,0000,,Valentine's Day?
 Dialogue: 0,0:04:07.12,0:04:08.29,Default,,0000,0000,0000,,Yeah.
@@ -263,8 +348,6 @@ Dialogue: 0,0:11:39.94,0:11:43.03,Default,,0000,0000,0000,,—...I'm sure Okarin
 Dialogue: 0,0:11:43.03,0:11:45.66,Default,,0000,0000,0000,,Hmm, I don't know...
 Dialogue: 0,0:11:48.70,0:11:51.37,Default,,0000,0000,0000,,Faris-san?
 Dialogue: 0,0:11:51.37,0:11:53.71,Default,,0000,0000,0000,,Leave it to Faris, nya!
-Dialogue: 0,0:11:54.04,0:11:59.00,On Top,,0000,0000,0000,,Valentine's of Crystal Polymorphism\N- Bittersweet Intermedio -
-Dialogue: 0,0:12:01.30,0:12:03.43,On Top,,0000,0000,0000,,“Soft Wheat Flour” “Whole Milk”\N“Whipping Cream”
 Dialogue: 0,0:12:06.51,0:12:11.85,Default,,0000,0000,0000,,As of now, the 36th round table chocolate\Nmeeting will commence, nya!
 Dialogue: 0,0:12:11.85,0:12:12.94,Default,,0000,0000,0000,,Round table...
 Dialogue: 0,0:12:12.94,0:12:14.65,Default,,0000,0000,0000,,...chocolate meeting?
@@ -284,7 +367,6 @@ Dialogue: 0,0:12:43.97,0:12:45.72,Default,,0000,0000,0000,,I-If you insist!
 Dialogue: 0,0:12:45.72,0:12:49.51,Default,,0000,0000,0000,,Besides, chocolate's a good source\Nof energy in emergencies...
 Dialogue: 0,0:12:49.51,0:12:53.94,Default,,0000,0000,0000,,That settles it then!\NLet's all get making chocolate, nya!
 Dialogue: 0,0:12:53.94,0:12:55.60,Default,,0000,0000,0000,,Yeah!
-Dialogue: 0,0:12:57.15,0:12:59.11,On Top,,0000,0000,0000,,“Whole Milk”
 Dialogue: 0,0:13:02.49,0:13:05.91,Default,,0000,0000,0000,,Hey... Who are you giving chocolate to, Nae-chan?
 Dialogue: 0,0:13:05.91,0:13:07.41,Default,,0000,0000,0000,,My dad!
 Dialogue: 0,0:13:07.41,0:13:12.00,Default,,0000,0000,0000,,Really? Sure you're not\Ngiving some to a guy in your class?
@@ -317,13 +399,11 @@ Dialogue: 0,0:14:23.73,0:14:24.90,Default,,0000,0000,0000,,Ny-a!
 Dialogue: 0,0:14:24.90,0:14:27.40,Default,,0000,0000,0000,,H-Hold up, everyone! Stop!
 Dialogue: 0,0:14:27.40,0:14:30.78,Default,,0000,0000,0000,,The recipe! Follow the recipe, nya!
 Dialogue: 0,0:14:30.78,0:14:32.99,Default,,0000,0000,0000,,Ny-a!
-Dialogue: 0,0:14:33.66,0:14:34.91,On Top,,0000,0000,0000,,“Light”   “Microwave”\N“Grill”          “Oven”
 Dialogue: 0,0:14:36.66,0:14:38.54,Default,,0000,0000,0000,,H-How strange...
 Dialogue: 0,0:14:38.54,0:14:43.88,Default,,0000,0000,0000,,With this many girls, you'd expect someone\Nto know what they're doing, nya...
 Dialogue: 0,0:14:45.96,0:14:47.55,Default,,0000,0000,0000,,Um...
 Dialogue: 0,0:14:49.80,0:14:52.85,Default,,0000,0000,0000,,Sorry for coming so late.
 Dialogue: 0,0:14:52.85,0:14:55.68,Default,,0000,0000,0000,,M-My saviors...
-Dialogue: 0,0:14:55.35,0:15:00.27,On Top,,0000,0000,0000,,“On”\N“Tare”
 Dialogue: 0,0:14:55.68,0:14:58.68,Default,,0000,0000,0000,,Yuki-nya! Luka-nya!
 Dialogue: 0,0:14:58.68,0:15:01.19,Default,,0000,0000,0000,,Faris-san?!
 Dialogue: 0,0:15:01.19,0:15:02.98,Default,,0000,0000,0000,,H-Here...
@@ -408,7 +488,6 @@ Dialogue: 0,0:19:03.93,0:19:06.10,Default,,0000,0000,0000,,Or so I believe.
 Dialogue: 0,0:19:06.10,0:19:10.69,Default,,0000,0000,0000,,Kagari-tan...
 Dialogue: 0,0:19:10.69,0:19:14.15,Default,,0000,0000,0000,,I really hope they like my chocolate...
 Dialogue: 0,0:19:18.94,0:19:23.41,Default,,0000,0000,0000,,We'll all be wearing\Nspecial costumes for you, Master!
-Dialogue: 0,0:19:20.53,0:19:23.07,On Top,,0000,0000,0000,,“Special Event”\N“MayQueen+Nyan²”
 Dialogue: 0,0:19:23.41,0:19:26.20,Default,,0000,0000,0000,,It's Valentine's Day!
 Dialogue: 0,0:19:26.20,0:19:28.87,Default,,0000,0000,0000,,We're doing a special service today!
 Dialogue: 0,0:19:28.87,0:19:33.46,Default,,0000,0000,0000,,Special handmade chocolates\Nbrought to you by MayQueen maids!
@@ -421,14 +500,10 @@ Dialogue: 0,0:19:48.35,0:19:51.39,Default,,0000,0000,0000,,Too bad this is only 
 Dialogue: 0,0:19:51.39,0:19:55.44,Default,,0000,0000,0000,,No way I'm going through\Nthat next year... Sniff, sniff...
 Dialogue: 0,0:19:57.61,0:19:58.94,Default,,0000,0000,0000,,But...
 Dialogue: 0,0:19:59.99,0:20:03.28,Default,,0000,0000,0000,,I wonder if everyone gave out their chocolates?
-Dialogue: 0,0:20:10.16,0:20:12.12,On Top,,0000,0000,0000,,“Thanks for everything”
-Dialogue: 0,0:20:17.09,0:20:19.55,On Top,,0000,0000,0000,,“To Okarin:\NGet along with Mommy Mayuri!”
-Dialogue: 0,0:20:19.55,0:20:21.38,On Top,,0000,0000,0000,,“To Luka: Thanks for everything”\N“To Daru: Only game 30 minutes a day!”
 Dialogue: 0,0:20:21.05,0:20:24.64,Default,,0000,0000,0000,,These were with the things Kagari left behind?
 Dialogue: 0,0:20:24.64,0:20:25.80,Default,,0000,0000,0000,,Yes...
 Dialogue: 0,0:20:25.80,0:20:27.85,Default,,0000,0000,0000,,And not just for you two either...
 Dialogue: 0,0:20:27.85,0:20:32.06,Default,,0000,0000,0000,,She left one for me, my father,\Nand even the owner downstairs.
-Dialogue: 0,0:20:31.43,0:20:34.65,On Top,,0000,0000,0000,,“To my kind mommy: Thank you always”
 Dialogue: 0,0:20:32.06,0:20:36.40,Default,,0000,0000,0000,,And to think... She was looking\Nforward to Valentine's so much...
 Dialogue: 0,0:20:36.40,0:20:40.19,Default,,0000,0000,0000,,I'm sure... she'll come back to us, right?
 Dialogue: 0,0:20:46.91,0:20:50.54,Default,,0000,0000,0000,,I really hope they like my chocolate...
@@ -467,4 +542,3 @@ Dialogue: 0,0:23:10.68,0:23:15.89,Default,,0000,0000,0000,,It seems in Japan lat
 Dialogue: 0,0:23:15.89,0:23:18.68,Default,,0000,0000,0000,,But I... didn't make any for you...
 Dialogue: 0,0:23:18.68,0:23:21.31,Default,,0000,0000,0000,,In that case, there's always next year.
 Dialogue: 0,0:23:25.07,0:23:26.44,Default,,0000,0000,0000,,Thank you.
-Dialogue: 0,0:23:28.24,0:23:30.24,On Top,,0000,0000,0000,,“Radio Kaikan”

@@ -14,10 +14,44 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\an3\fsp-2\pos(1200,876)}Altair
+Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\an3\pos(1246,916)}of
+Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\fsp-4\pos(1240,796)}Translational
+Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\fsp-4\pos(1428,852)}Symmetry
+Dialogue: 0,0:20:31.71,0:20:31.83,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD5CAC5&}m -9 601 l 180 545 l 194 586 l -16 654 {\p0}
+Dialogue: 0,0:20:31.83,0:20:31.96,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&HE0D9D6&}m 12 506 l 102 484 l 126 543 l 33 569 {\p0}
+Dialogue: 0,0:20:31.83,0:20:31.96,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD1C8C3&}m 359 515 l 540 474 l 556 521 l 369 566 {\p0}
+Dialogue: 0,0:20:31.96,0:20:32.08,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HE0D8D5&}m -66 518 l 297 457 l 319 527 l 172 554 l 193 627 l -11 663 {\p0}
+Dialogue: 0,0:20:31.96,0:20:32.08,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD3C8C2&}m 536 501 l 729 464 l 743 513 l 546 552 {\p0}
+Dialogue: 0,0:20:32.08,0:20:32.21,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HDBD3CF&}m 127 444 l 492 410 l 508 481 l 360 497 l 376 572 l 171 592 {\p0}
+Dialogue: 0,0:20:32.08,0:20:32.21,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD3C8C2&}m 733 473 l 926 450 l 940 499 l 743 524 {\p0}
+Dialogue: 0,0:20:32.21,0:20:32.33,Draw,,0,0,0,,{\blur12\pos(0,0)\p1\c&HDCD3D1&}m 318 421 l 682 392 l 697 463 l 549 477 l 564 552 l 359 569 {\p0}
+Dialogue: 0,0:20:32.21,0:20:32.33,Draw,,0,0,0,,{\blur12\pos(0,0)\p1\c&HD7CCC7&}m 920 461 l 1113 445 l 1125 495 l 928 512 {\p0}
+Dialogue: 0,0:20:32.33,0:20:33.29,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HDCD4D2&}m 513 416 l 877 387 l 892 458 l 744 472 l 759 547 l 554 564 {\p0}
+Dialogue: 0,0:20:32.33,0:20:33.29,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD5CAC6&}m 1125 460 l 1320 444 l 1332 494 l 1133 511 {\p0}
+Dialogue: 1,0:20:31.71,0:20:31.83,OkabePhone,,0,0,0,,{\c&H978B85&\an6\fs48\be6\pos(187.6,564.6)\frx8\fry352\frz18.15}Read the mail
+Dialogue: 1,0:20:31.83,0:20:31.96,OkabePhone,,0,0,0,,{\c&H978B85&\an6\fs48\be6\pos(545.6,498.6)\frz14.05\frx0\fry358}Read the mail
+Dialogue: 1,0:20:31.96,0:20:32.08,OkabePhone,,0,0,0,,{\c&H978B85&\an6\fs48\be6\pos(732.8,486.2)\frz11.37}Read the mail
+Dialogue: 1,0:20:32.08,0:20:32.21,OkabePhone,,0,0,0,,{\c&H978B85&\an6\fs48\be6\fax0.15\frz6.117\pos(931.2,475.8)}Read the mail
+Dialogue: 1,0:20:32.21,0:20:32.33,OkabePhone,,0,0,0,,{\c&H978B85&\an6\fs48\be6\fax0.15\frz5.329\pos(1118,467)}Read the mail
+Dialogue: 1,0:20:32.33,0:20:33.29,OkabePhone,,0,0,0,,{\c&H978B85&\an6\fs48\be6\fax0.15\pos(1318,469)\frz4.465}Read the mail
+Dialogue: 1,0:20:31.96,0:20:32.08,OkabePhone,,0,0,0,,{\c&H6D6362&\fs50\be6\org(478,441)\frx6\fry0\frz12.09\pos(-94,415)}1 new mail\N{\fs100}Mayuri
+Dialogue: 1,0:20:32.08,0:20:32.21,OkabePhone,,0,0,0,,{\c&H6D6362&\fs50\be6\frx6\fry0\org(-46,463)\frz5.887\pos(166,465)}1 new mail\N{\fs100}Mayuri
+Dialogue: 1,0:20:32.21,0:20:32.33,OkabePhone,,0,0,0,,{\c&H6D6362&\fs50\be6\frx6\fry0\org(38,365)\frz4.861\pos(336,437)}1 new mail\N{\fs100}Mayuri
+Dialogue: 1,0:20:32.33,0:20:33.29,OkabePhone,,0,0,0,,{\c&H6D6362&\fs50\be6\frx6\fry0\org(208,385)\frz4.447\pos(524,437)}1 new mail\N{\fs100}Mayuri
+Dialogue: 0,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur18\pos(0,0)\p1\c&H4147B2&\clip(874,704,1322,1058)}m 1046 166 l 1059 139 l 1133 151 l 1153 419 l 1143 673 l 1149 949 l 1048 955 l 1048 1022 l 948 1010 l 947 728 l 1043 727 l 1048 406 l 1044 203 {\p0}
+Dialogue: 1,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H474ECB&\clip(902,416,1270,784)}m 1056 421 l 1153 419 l 1142 742 l 1043 727 {\p0}
+Dialogue: 2,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H535BD4&}m 1085 106 l 1110 110 l 1133 151 l 1148 542 l 1043 529 l 1044 203 l 1053 122 {\p0}
+Dialogue: 3,0:23:34.55,0:23:40.02,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H46438F&\b0\blur2\move(1126,532,1128,510)\c&H434296&\fs75\t(\fs79)}I wish{\c&H3D3C84&} to {\c&H393975&}meet{\c&H353272&} my {\c&H302F63&}Hikoboshi-sama
+Dialogue: 3,0:23:34.55,0:23:40.02,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H2D2E5B&\b0\blur2\fs75\t(\fs79)\move(1036,910,1036,908)}Mayushii
 Dialogue: 0,0:00:07.09,0:00:10.42,Default,,0000,0000,0000,,Don't panic. The worldline hasn't changed.
 Dialogue: 0,0:00:10.42,0:00:13.30,Default,,0000,0000,0000,,In which case, Mayuri and Suzuha are okay.
 Dialogue: 0,0:00:13.30,0:00:15.34,Default,,0000,0000,0000,,This can't be where they...
@@ -163,7 +197,6 @@ Dialogue: 0,0:10:29.54,0:10:32.96,Default,,0000,0000,0000,,can you guess what sh
 Dialogue: 0,0:10:36.38,0:10:39.05,Default,,0000,0000,0000,,I hear the voice of God.
 Dialogue: 0,0:10:39.05,0:10:41.09,Default,,0000,0000,0000,,God?
 Dialogue: 0,0:10:41.09,0:10:44.81,Default,,0000,0000,0000,,The future you... is calling me.
-Dialogue: 0,0:10:45.06,0:10:50.06,On Top,,0000,0000,0000,,Altair of Translational Symmetry\N- Translational Symmetry -
 Dialogue: 0,0:10:51.27,0:10:54.15,Default,,0000,0000,0000,,The future... Professor?
 Dialogue: 0,0:10:59.15,0:11:02.03,Default,,0000,0000,0000,,That's right. Can you believe it?
 Dialogue: 0,0:11:02.03,0:11:06.70,Default,,0000,0000,0000,,Me in the future sent Kagari back into the past.
@@ -299,15 +332,15 @@ Dialogue: 0,0:20:21.55,0:20:26.51,On Top,,0000,0000,0000,,{\i1}But I'm so afraid
 Dialogue: 0,0:20:24.09,0:20:25.85,Default,,0000,0000,0000,,Why?
 Dialogue: 0,0:20:25.85,0:20:27.60,Default,,0000,0000,0000,,Why?!
 Dialogue: 0,0:20:26.51,0:20:31.73,On Top,,0000,0000,0000,,{\i1}That I pray. I wonder, is that also love?{\i}
-Dialogue: 0,0:20:31.73,0:20:33.31,On Top,,0000,0000,0000,,{\i1}That I pray. I wonder, is that also love?{\i}\N“1 New Message”\N“Mayuri”
+Dialogue: 0,0:20:31.73,0:20:33.31,On Top,,0000,0000,0000,,{\i1}That I pray. I wonder, is that also love?{\i}
 Dialogue: 0,0:20:33.31,0:20:35.48,On Top,,0000,0000,0000,,{\i1}That I pray. I wonder, is that also love?{\i}
 Dialogue: 0,0:20:34.02,0:20:36.31,Default,,0000,0000,0000,,Mayuri?
 Dialogue: 0,0:20:35.48,0:20:39.40,On Top,,0000,0000,0000,,{\i1}Each and every moment we hold so dear{\i}
 Dialogue: 0,0:20:36.31,0:20:37.69,Default,,0000,0000,0000,,Dear Okarin.
 Dialogue: 0,0:20:37.69,0:20:40.69,Default,,0000,0000,0000,,Tutturu! It's Mayushii!
-Dialogue: 0,0:20:39.40,0:20:41.28,On Top,,0000,0000,0000,,{\i1}Each and every moment we hold so dear{\i}\N“Dear Okarin.”\N“Tutturu! It's Mayushii!”
+Dialogue: 0,0:20:39.40,0:20:41.28,On Top,,0000,0000,0000,,{\i1}Each and every moment we hold so dear{\i}
 Dialogue: 0,0:20:40.69,0:20:46.57,Default,,0000,0000,0000,,The truth is, I wanted to talk to you in person,\Nbut I didn't know if could get it all out.
-Dialogue: 0,0:20:41.28,0:20:42.40,On Top,,0000,0000,0000,,{\i1}Together you and I, we go back to that place{\i}\N“Dear Okarin.”\N“Tutturu! It's Mayushii!”
+Dialogue: 0,0:20:41.28,0:20:42.40,On Top,,0000,0000,0000,,{\i1}Together you and I, we go back to that place{\i}
 Dialogue: 0,0:20:42.40,0:20:46.49,On Top,,0000,0000,0000,,{\i1}Each and every moment we hold so dear{\i}
 Dialogue: 0,0:20:46.49,0:20:52.91,On Top,,0000,0000,0000,,{\i1}No matter how brilliant,{\i}\N{\i1}how bright, a worldline may be{\i}
 Dialogue: 0,0:20:46.57,0:20:52.00,Default,,0000,0000,0000,,Plus, I was worried Okarin might\Ntry to stop me, so I'll just say it here.
@@ -350,4 +383,3 @@ Dialogue: 0,0:22:40.10,0:22:46.40,On Top,,0000,0000,0000,,{\i1}Overflowing at th
 Dialogue: 0,0:22:46.40,0:22:53.53,On Top,,0000,0000,0000,,{\i1}Your words, the tears and laughter{\i}
 Dialogue: 0,0:22:53.53,0:23:00.17,On Top,,0000,0000,0000,,{\i1}Even if these memories are rewritten,{\i}
 Dialogue: 0,0:23:00.17,0:23:13.26,On Top,,0000,0000,0000,,{\i1}They'll sway in my heart, just like déjà vu{\i}
-Dialogue: 0,0:23:34.58,0:23:40.04,On Top,,0000,0000,0000,,“I wish to meet my Hikoboshi”\N“Mayushii”

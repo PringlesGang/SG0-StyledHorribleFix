@@ -14,10 +14,28 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs80\fsp-6\pos(1162.038,888.75)}Solitude
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs65.25\fs90\pos(1164.038,936.25)}of the
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs85\an4\pos(1330,948)}Mournful {\fs100\fsp-3}Flow
+Dialogue: 0,0:05:55.37,0:05:55.50,Draw,,0,0,0,,{\pos(0,0)\p1\c&H305F33&\blur4}m 719 1057 l 722 999 l 1204 945 l 1149 1010 {\p1}
+Dialogue: 1,0:05:55.37,0:05:55.50,Signs,,0,0,0,,{\an7\fs70\fax-.1\fay-0.03\xshad-6.75\yshad2.25\c&H686C9D&\4c&HFFFFFF&\pos(724.528,993.5)\frz5.715}Draw{\c&H4B878B&}ing {\c&H7379AB&}Cray{\c&H5E919B&}ons
+Dialogue: 0,0:05:55.50,0:05:58.33,Draw,,0,0,0,,{\p1\pos(0,0)\blur5\c&H416D42&}m 658 881 l 1148 821 l 1095 883 l 660 941 {\p1}
+Dialogue: 1,0:05:55.50,0:05:58.33,Signs,,0,0,0,,{\an7\fs70\fax-.1\xshad-6.75\yshad2.25\c&H686C9D&\4c&HFFFFFF&\pos(667.925,879)\frz8.246}Draw{\c&H4B878B&}ing {\c&H7379AB&}Cray{\c&H5E919B&}ons
+Dialogue: 1,0:13:18.44,0:13:23.15,Signs,,0,0,0,,{\an1\fs31\3c&H534E4E&\c&HF7F6ED&\bord3\be1\alpha&H30&\pos(720,602)}The exiled Dr. Nakabachi
+Dialogue: 1,0:13:18.44,0:13:23.15,Signs,,0,0,0,,{\an1\fs54\3c&H534E4E&\c&HF7F6ED&\bord3\be1\alpha&H30&\pos(207.057,886.25)}Japan-Russia Cabinet Meeting
+Dialogue: 1,0:13:23.15,0:13:25.61,Signs,,0,0,0,,{\an8\c&H2C2A27&\4c&H171717&\fs93\shad2.6\frz9.561\fnPlayfair Display Extrabold\frx6\fry354\org(1365.925,584.5)\pos(949.925,512.5)}Tokyo Denki University
+Dialogue: 0,0:14:36.85,0:14:39.27,Draw,,0,0,0,,{\p1\pos(0,0)\c&HFEFEFE&\blur10}m 1292 99 l 1858 -126 l 1870 39 l 1289 235 {\p0}
+Dialogue: 1,0:14:36.85,0:14:39.27,Signs,,0,0,0,,{\an4\fs200\fay-0.35\fax-0.05\c&HC7B0F6&\be5\frz360\pos(1239.283,179.5)}On Sale!
+Dialogue: 1,0:16:09.11,0:16:11.95,Signs,,0,0,0,,{\an7\move(507.17,680.5,507.17,-485)\fay-0.33\fax0.06\fs67.5\b0\blur3.5\fnPlayfair Display}Metro Police Department
+Dialogue: 0,0:16:09.11,0:16:11.95,Draw,,0,0,0,,{\move(0,0,0,-1165.5)\blur10\p1\c&HFFFFF4&}m 646 848 l 656 931 l 143 1140 l 136 1043 {\p1}
+Dialogue: 1,0:16:09.11,0:16:11.95,Signs,,0,0,0,,{\an7\fnRoboto\fs58.5\c&H6D5C4A&\blur3\fay-0.392\fax0.05\move(168.604,1046,168.604,-119.5)}Unidentified Persons Database (Female)
 Dialogue: 0,0:00:09.30,0:00:11.55,Default,,0000,0000,0000,,We're almost to Nerima Garrison!
 Dialogue: 0,0:00:11.55,0:00:12.97,Default,,0000,0000,0000,,Keep it up!
 Dialogue: 0,0:00:36.20,0:00:38.20,Default,,0000,0000,0000,,They spotted us! Run!
@@ -52,7 +70,6 @@ Dialogue: 0,0:03:52.85,0:03:55.98,Default,,0000,0000,0000,,Please, no! Please, n
 Dialogue: 0,0:03:55.98,0:03:57.90,Default,,0000,0000,0000,,Mayuri!
 Dialogue: 0,0:04:11.91,0:04:13.67,Default,,0000,0000,0000,,Welcome back, Okarin!
 Dialogue: 0,0:04:13.67,0:04:16.79,Default,,0000,0000,0000,,When Maho gets back,\Nwe can start the present exchange.
-Dialogue: 0,0:04:25.84,0:04:30.85,On Top,,0000,0000,0000,,“Solitude of the Mournful Flow - A Stray Sheep -”
 Dialogue: 0,0:04:42.61,0:04:44.45,Default,,0000,0000,0000,,Wha?!
 Dialogue: 0,0:04:54.08,0:04:55.12,Default,,0000,0000,0000,,Unbelievable...
 Dialogue: 0,0:04:55.12,0:04:56.88,Default,,0000,0000,0000,,Hmm?
@@ -75,7 +92,6 @@ Dialogue: 0,0:05:40.92,0:05:46.30,Default,,0000,0000,0000,,That was a call from 
 Dialogue: 0,0:05:46.30,0:05:48.13,Default,,0000,0000,0000,,It took longer than expected.
 Dialogue: 0,0:05:48.13,0:05:53.68,Default,,0000,0000,0000,,My apologies for keeping you\Nhere this late in the night, Lintahlo.
 Dialogue: 0,0:05:53.68,0:05:55.93,Default,,0000,0000,0000,,It's fine.
-Dialogue: 0,0:05:55.39,0:05:58.35,On Top,,0000,0000,0000,,“Drawing Crayons”
 Dialogue: 0,0:05:55.93,0:05:58.56,Default,,0000,0000,0000,,And you even let us join in on your party.
 Dialogue: 0,0:05:58.56,0:06:00.73,Default,,0000,0000,0000,,Your crayons are very cute, Professor.
 Dialogue: 0,0:06:00.73,0:06:01.94,Default,,0000,0000,0000,,Mm-hmm!
@@ -219,9 +235,7 @@ Dialogue: 0,0:13:08.53,0:13:12.54,Default,,0000,0000,0000,,If that was actually 
 Dialogue: 0,0:13:12.54,0:13:16.58,Default,,0000,0000,0000,,Then somebody has made something\Nsimilar to the PhoneWave...
 Dialogue: 0,0:13:16.58,0:13:17.54,Default,,0000,0000,0000,,Or perhaps...
 Dialogue: 0,0:13:17.54,0:13:19.75,Default,,0000,0000,0000,,The Government of Japan\Nis reaching out to Russia,
-Dialogue: 0,0:13:18.46,0:13:23.17,On Top,,0000,0000,0000,,“Japan-Russia Cabinet Meeting”
 Dialogue: 0,0:13:19.75,0:13:23.17,Default,,0000,0000,0000,,where Dr. Nakabachi defected last August—
-Dialogue: 0,0:13:23.17,0:13:25.63,On Top,,0000,0000,0000,,“Tokyo Denki University”
 Dialogue: 0,0:13:24.67,0:13:25.97,Default,,0000,0000,0000,,Need something?
 Dialogue: 0,0:13:25.97,0:13:29.60,Default,,0000,0000,0000,,No... I just wanted to hear your opinion.
 Dialogue: 0,0:13:29.60,0:13:30.97,Default,,0000,0000,0000,,Is that a bother?
@@ -244,7 +258,6 @@ Dialogue: 0,0:14:18.02,0:14:21.15,Default,,0000,0000,0000,,Makise Kurisu is dead
 Dialogue: 0,0:14:23.07,0:14:25.40,Default,,0000,0000,0000,,Sorry, I need to hang up.
 Dialogue: 0,0:14:25.40,0:14:27.15,Default,,0000,0000,0000,,Oh, okay...
 Dialogue: 0,0:14:35.45,0:14:37.96,Default,,0000,0000,0000,,The Y2K problem?
-Dialogue: 0,0:14:36.87,0:14:39.29,On Top,,0000,0000,0000,,“Now On Sale!”
 Dialogue: 0,0:14:37.96,0:14:39.50,Default,,0000,0000,0000,,Did you study it?
 Dialogue: 0,0:14:39.50,0:14:41.25,Default,,0000,0000,0000,,At the institution.
 Dialogue: 0,0:14:41.25,0:14:48.13,Default,,0000,0000,0000,,It was never made public, but the main\Nproblem was this computer, the IBN 5100.
@@ -266,7 +279,6 @@ Dialogue: 0,0:15:58.58,0:15:59.62,Default,,0000,0000,0000,,Well?
 Dialogue: 0,0:15:59.62,0:16:04.13,Default,,0000,0000,0000,,I searched through the missing\Npersons data the police had, but...
 Dialogue: 0,0:16:04.13,0:16:06.67,Default,,0000,0000,0000,,Nothing promising came up.
 Dialogue: 0,0:16:06.67,0:16:10.05,Default,,0000,0000,0000,,At first glance,\Nyou'd think this world is peaceful.
-Dialogue: 0,0:16:09.13,0:16:11.84,On Top,,0000,0000,0000,,“Metro Police Department”\N“Unidentified Persons Database (Female)”
 Dialogue: 0,0:16:10.05,0:16:13.72,Default,,0000,0000,0000,,But there's a surprising number\Nof missing and unidentified people.
 Dialogue: 0,0:16:13.72,0:16:14.93,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:16:14.93,0:16:19.06,Default,,0000,0000,0000,,By the way, you talked to Uncle Okarin about it?

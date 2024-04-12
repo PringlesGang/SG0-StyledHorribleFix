@@ -15,10 +15,77 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:05:16.17,0:05:21.17,Title,,0,0,0,,{\an3\fnPlayfair Display Medium\fs90\pos(1728,940)}Pandora{\fnPlayfair Display\fs45} of {\fs70}Provable Existence
+Dialogue: 1,0:03:25.97,0:03:27.93,Signs,,0,0,0,,{\an8\c&H2C2A27&\4c&H171717&\fs93\shad2.6\frz9.561\fnPlayfair Display\frx6\fry354\org(1365.925,584.5)\pos(955.925,520.5)}Tokyo Denki University
+Dialogue: 1,0:03:42.07,0:03:46.78,Signs,,0,0,0,,{\an8\c&H1943AC&\pos(842,500)\be4}Oden
+Dialogue: 1,0:03:42.07,0:03:46.78,Signs,,0,0,0,,{\an8\c&H122B77&\be4\frz3.439\pos(1228,370)}Oden
+Dialogue: 1,0:03:42.07,0:03:46.78,Signs,,0,0,0,,{\an8\c&H1B42AB&\be4\pos(594,358)\iclip(m 632 374 l 732 366 732 466 636 398)}Oden
+Dialogue: 0,0:05:41.32,0:05:42.32,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HF0EDEE&}m 898 328 l 1127 312 l 1130 354 l 900 369 {\p0}
+Dialogue: 1,0:05:41.32,0:05:42.32,OkabePhone,,0,0,0,,{\c&H575353&\fs40\be0.5\an5\pos(1014,342)\frz3.657}Why are you here?
+Dialogue: 0,0:05:41.32,0:05:42.32,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HE8E8E7&}m 845 481 l 1149 461 l 1157 536 l 848 554 {\p0}
+Dialogue: 1,0:05:41.32,0:05:42.32,OkabePhone,,0,0,0,,{\c&H4E4D4D&\fs40\be0.5\frz3.661\pos(852,478)}Sheesh! I told you once\Nalready >_<
+Dialogue: 1,0:05:41.32,0:05:42.32,Signs,,0,0,0,,{\fnConcert One\bord5\c&HECECEC&\3c&H4880B5&\be4\fs30\frz6.202\pos(924,690)}Hmph!     Pout!
+Dialogue: 0,0:05:41.32,0:05:42.32,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HBAB9B7&}m 875 925 l 1189 905 l 1192 980 l 878 998 {\p0}
+Dialogue: 1,0:05:41.32,0:05:42.32,OkabePhone,,0,0,0,,{\c&H444141&\fs45\be0.5\fsp-0.7\frz3.933\pos(884,918)}I was asked to be Dr.\NHiyajo's bodyguard~
+Dialogue: 0,0:05:42.32,0:05:43.82,Draw,,0,0,0,,{\pos(-20,-230)\blur5\p1\c&HF2EEEE&\clip(m 819 273 l 1144 251 1150 310 826 334)}m 845 481 l 1149 461 l 1157 536 l 848 554 {\p0}
+Dialogue: 1,0:05:42.32,0:05:43.82,OkabePhone,,0,0,0,,{\c&H4E4D4D&\fs40\be0.5\pos(838,246)\frz3.823\clip(m 819 273 l 1144 251 1150 310 826 334)}Sheesh! I told you once\Nalready >_<
+Dialogue: 1,0:05:42.32,0:05:43.82,Signs,,0,0,0,,{\bord5\fnConcert One\c&HECECEC&\3c&H4880B5&\be4\fs30\frz6.202\pos(904,458)}Hmph!     Pout!
+Dialogue: 0,0:05:42.32,0:05:43.82,Draw,,0,0,0,,{\pos(-18,-230)\blur5\p1\c&HEAE8E8&}m 875 925 l 1189 905 l 1192 980 l 878 998 {\p0}
+Dialogue: 1,0:05:42.32,0:05:43.82,OkabePhone,,0,0,0,,{\c&H444141&\fs45\be0.5\fsp-0.7\frz3.933\pos(872,684)}I was asked to be Dr.\NHiyajo's bodyguard~
+Dialogue: 0,0:05:43.82,0:05:43.94,Draw,,0,0,0,,{\blur5\p1\c&HF2EEEE&\pos(-18,148)\clip(m 818 650 l 1145 629 1157 701 814 716)}m 845 481 l 1149 461 l 1157 536 l 848 554 {\p0}
+Dialogue: 1,0:05:43.82,0:05:43.94,OkabePhone,,0,0,0,,{\c&H4E4D4D&\fs45\be0.5\frz3.823\clip(m 818 650 l 1145 629 1157 701 814 716)\pos(832,618)}Sheesh! I told you once\Nalready >_<
+Dialogue: 1,0:05:43.82,0:05:43.94,Signs,,0,0,0,,{\bord5\fnConcert One\c&HECECEC&\3c&H4880B5&\be4\fs30\frz6.202\pos(906,836)}Hmph!     Pout!
+Dialogue: 0,0:05:43.82,0:05:43.94,Draw,,0,0,0,,{\blur5\p1\c&HDBDADA&\pos(-18,144)}m 875 925 l 1189 905 l 1192 980 l 878 998 {\p0}
+Dialogue: 1,0:05:43.82,0:05:43.94,OkabePhone,,0,0,0,,{\c&H444141&\fs45\be0.5\fsp-0.7\frz3.933\pos(876,1068)}I was asked to be Dr.\NHiyajo's bodyguard~
+Dialogue: 0,0:05:43.94,0:05:44.07,Draw,,0,0,0,,{\blur5\p1\c&HF1EDED&\pos(-18,302)\clip(m 820 805 l 1144 786 1161 858 808 880)}m 845 481 l 1149 461 l 1157 536 l 848 554 {\p0}
+Dialogue: 1,0:05:43.94,0:05:44.07,OkabePhone,,0,0,0,,{\c&H4E4D4D&\blur1\fs45\be0.5\frz3.823\clip(m 820 805 l 1144 786 1161 858 808 880)\pos(832,774)}Sheesh! I told you once\Nalready >_<
+Dialogue: 1,0:05:43.94,0:05:44.07,Signs,,0,0,0,,{\bord5\fnConcert One\c&HECECEC&\3c&H4880B5&\be4\fs30\frz6.202\pos(912,992)}Hmph!     Pout!
+Dialogue: 0,0:05:44.07,0:05:44.19,Draw,,0,0,0,,{\blur5\p1\c&HE9E6E6&\pos(-20,388)\clip(m 818 893 l 1145 873 1154 945 817 964)}m 845 481 l 1149 461 l 1157 536 l 848 554 {\p0}
+Dialogue: 1,0:05:44.07,0:05:44.19,OkabePhone,,0,0,0,,{\c&H4E4D4D&\blur2\fs45\be0.5\frz3.823\clip(m 818 893 l 1145 873 1154 945 817 964)\pos(832,860)}Sheesh! I told you once\Nalready >_<
+Dialogue: 0,0:05:44.19,0:05:44.78,Draw,,0,0,0,,{\blur5\p1\c&HE9E6E5&\pos(-18,476)\clip(m 817 980 l 1144 957 1164 1033 821 1054)}m 845 481 l 1149 461 l 1157 536 l 848 554 {\p0}
+Dialogue: 1,0:05:44.19,0:05:44.78,OkabePhone,,0,0,0,,{\c&H4E4D4D&\blur4\fs45\be0.5\frz3.823\clip(m 817 980 l 1144 957 1164 1033 821 1054)\pos(830,946)}Sheesh! I told you once\Nalready >_<
+Dialogue: 0,0:09:57.99,0:09:59.45,Draw,,0,0,0,,{\blur5\p1\c&HFBF8F1&\pos(0,0)\fade(0,300)}m 1314 362 l 1560 362 l 1560 403 l 1315 403 {\p0}
+Dialogue: 1,0:09:57.99,0:09:59.45,Signs,,0,0,0,,{\c&HBCB3AC&\b0\fnNoto Sans JP Medium\fs34\an7\be1\fade(0,300)\pos(1320,354)}Subject: {\c&H888C86&\fnNoto Sans Jp}Regarding\N{\c&H888C86&\1a&HFF&}mmmiiiii{\1a&H00&}Laptop
+Dialogue: 0,0:09:59.37,0:09:59.41,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 467 988 l 595 987 l 595 1006 l 468 1006{\p0}
+Dialogue: 0,0:09:59.37,0:09:59.41,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 466 1010 l 680 1010 l 680 1030 l 467 1029 {\p0}
+Dialogue: 0,0:09:59.37,0:09:59.41,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 464 1053 l 621 1054 l 620 1075 l 464 1073 {\p0}
+Dialogue: 0,0:09:59.41,0:09:59.45,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 551 879 l 702 878 l 702 899 l 552 899 {\p0}
+Dialogue: 0,0:09:59.41,0:09:59.45,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 551 906 l 803 905 l 803 928 l 552 928 {\p0}
+Dialogue: 0,0:09:59.41,0:09:59.45,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 548 955 l 734 956 l 733 984 l 548 982 {\p0}
+Dialogue: 0,0:09:59.45,0:09:59.49,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 619 793 l 786 792 l 786 815 l 620 815 {\p0}
+Dialogue: 0,0:09:59.45,0:09:59.49,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 618 823 l 901 823 l 901 846 l 619 845 {\p0}
+Dialogue: 0,0:09:59.45,0:09:59.49,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 615 878 l 823 879 l 822 907 l 615 905 {\p0}
+Dialogue: 0,0:09:59.49,0:09:59.53,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 669 727 l 852 726 l 852 753 l 670 753 {\p0}
+Dialogue: 0,0:09:59.49,0:09:59.53,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 668 759 l 974 759 l 974 786 l 669 785 {\p0}
+Dialogue: 0,0:09:59.49,0:09:59.53,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 664 820 l 888 821 l 888 853 l 665 851 {\p0}
+Dialogue: 0,0:09:59.53,0:09:59.57,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 704 680 l 895 679 l 895 708 l 705 708 {\p0}
+Dialogue: 0,0:09:59.53,0:09:59.57,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 703 714 l 1028 714 l 1028 741 l 704 740 {\p0}
+Dialogue: 0,0:09:59.53,0:09:59.57,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 701 781 l 937 782 l 937 814 l 702 812 {\p0}
+Dialogue: 0,0:09:59.57,0:09:59.62,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 723 651 l 928 650 l 928 679 l 724 679 {\p0}
+Dialogue: 0,0:09:59.57,0:09:59.62,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 724 687 l 1062 687 l 1062 714 l 725 713 {\p0}
+Dialogue: 0,0:09:59.57,0:09:59.62,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 722 755 l 972 756 l 972 788 l 723 786 {\p0}
+Dialogue: 0,0:09:59.62,0:09:59.66,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(-4,2)}m 738 629 l 947 628 l 947 660 l 739 660 {\p0}
+Dialogue: 0,0:09:59.62,0:09:59.66,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(-4,2)}m 740 667 l 1083 667 l 1083 699 l 741 698 {\p0}
+Dialogue: 0,0:09:59.62,0:09:59.66,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 737 738 l 987 739 l 987 771 l 738 769 {\p0}
+Dialogue: 0,0:09:59.66,0:10:00.95,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 738 629 l 947 628 l 947 660 l 739 660 {\p0}
+Dialogue: 0,0:09:59.66,0:10:00.95,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 740 667 l 1083 667 l 1083 699 l 741 698 {\p0}
+Dialogue: 0,0:09:59.66,0:10:00.95,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(0,0)}m 737 738 l 987 739 l 987 771 l 738 769 {\p0}
+Dialogue: 1,0:09:59.37,0:09:59.41,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs18.5\be1\pos(464.4,982)\blur2}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs14}Will contact again once analysis\Nis complete.
+Dialogue: 1,0:09:59.41,0:09:59.45,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs22.5\be1\pos(549.2,871.6)\blur1.3}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs17.6}Will contact again once analysis\Nis complete.
+Dialogue: 1,0:09:59.45,0:09:59.49,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs26\be1\pos(614.8,782)\blur1}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs20.3}Will contact again once analysis\Nis complete.
+Dialogue: 1,0:09:59.49,0:09:59.53,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs28\be1\pos(662.8,716.4)\blur0.5}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs21.9}Will contact again once analysis\Nis complete.
+Dialogue: 1,0:09:59.53,0:09:59.57,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs29.6\be1\pos(696.4,671.6)}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs23.1}Will contact again once analysis\Nis complete.
+Dialogue: 1,0:09:59.57,0:09:59.62,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs30.9\be1\pos(723.6,639.6)}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs24.1}Will contact again once analysis\Nis complete.
+Dialogue: 1,0:09:59.62,0:09:59.66,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs31.9\be1\pos(736.4,623.6)}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs25}Will contact again once analysis\Nis complete.
+Dialogue: 1,0:09:59.66,0:10:00.95,Signs,,0,0,0,,{\an7\c&HBCB3AC&\fnNoto Sans JP Medium\b0\fs32\be1\pos(740,618)}Subject: {\fnNoto Sans JP\c&H888C86&}Regarding Laptop\N\NRetrieving from locker tonight.\N\N\N{\fs24.9}Will contact again once analysis\Nis complete.
 Dialogue: 0,0:00:15.14,0:00:18.39,Default,,0000,0000,0000,,Amadeus and Salieri...
 Dialogue: 0,0:00:18.39,0:00:20.97,Default,,0000,0000,0000,,Kurisu and me...
 Dialogue: 0,0:00:20.97,0:00:25.69,Default,,0000,0000,0000,,One was gifted with\Nnatural talent, Amadeus Mozart.
@@ -44,7 +111,6 @@ Dialogue: 0,0:01:28.63,0:01:32.63,Default,,0000,0000,0000,,Those two hold a very
 Dialogue: 0,0:01:37.05,0:01:39.76,Default,,0000,0000,0000,,I loved Kurisu...
 Dialogue: 0,0:01:44.64,0:01:47.52,Default,,0000,0000,0000,,I respected Kurisu...
 Dialogue: 0,0:01:47.52,0:01:49.81,Default,,0000,0000,0000,,I aspired to be like Kurisu...
-Dialogue: 0,0:01:52.19,0:01:56.07,On Top,,0000,0000,0000,,“Radio Kaikan Akihabara”
 Dialogue: 0,0:01:53.15,0:01:54.53,Default,,0000,0000,0000,,I...
 Dialogue: 0,0:02:11.92,0:02:17.22,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
 Dialogue: 0,0:02:17.22,0:02:23.14,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
@@ -58,12 +124,10 @@ Dialogue: 0,0:03:03.80,0:03:08.56,Default,,0000,0000,0000,,{\i1}Then you shouldn
 Dialogue: 0,0:03:08.56,0:03:14.06,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
 Dialogue: 0,0:03:14.06,0:03:19.61,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
 Dialogue: 0,0:03:19.61,0:03:24.95,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:03:25.99,0:03:27.95,On Top,,0000,0000,0000,,“Tokyo Denki University”
 Dialogue: 0,0:03:30.04,0:03:31.00,Default,,0000,0000,0000,,Hmm?
 Dialogue: 0,0:03:31.00,0:03:34.42,Default,,0000,0000,0000,,Global Brain Science\NOrganization Office Prep Room.
 Dialogue: 0,0:03:34.42,0:03:37.38,Default,,0000,0000,0000,,A fundraising plea by Leskinen.
 Dialogue: 0,0:03:37.38,0:03:43.34,Default,,0000,0000,0000,,If everyone who read this donated\Njust one dollar, I could eat a can of oden.
-Dialogue: 0,0:03:42.09,0:03:46.81,On Top,,0000,0000,0000,,“Oden”
 Dialogue: 0,0:03:43.34,0:03:48.43,Default,,0000,0000,0000,,The Professor never\Ngets tired of joking around...
 Dialogue: 0,0:03:48.43,0:03:52.69,Default,,0000,0000,0000,,Yo, Maho! Welcome to\Nour powered-up prep room!
 Dialogue: 0,0:03:52.69,0:03:55.11,Default,,0000,0000,0000,,By that you mean the table and couch?
@@ -88,12 +152,10 @@ Dialogue: 0,0:04:55.92,0:05:00.46,Default,,0000,0000,0000,,After lengthy observa
 Dialogue: 0,0:05:00.46,0:05:05.63,Default,,0000,0000,0000,,How so? You're just letting delusions\Nof love run amok in your head.
 Dialogue: 0,0:05:10.64,0:05:13.43,Default,,0000,0000,0000,,I sure missed you two going at it.
 Dialogue: 0,0:05:13.43,0:05:16.44,Default,,0000,0000,0000,,Well, shall we get our meeting started?
-Dialogue: 0,0:05:16.19,0:05:21.19,On Top,,0000,0000,0000,,“Pandora of Provable Existence - Forbidden Cubicle -”
 Dialogue: 0,0:05:16.44,0:05:17.98,Default,,0000,0000,0000,,Sure!
 Dialogue: 0,0:05:22.28,0:05:24.57,Default,,0000,0000,0000,,What the hell is this?
 Dialogue: 0,0:05:32.41,0:05:35.71,Default,,0000,0000,0000,,This room's unbelievable!
 Dialogue: 0,0:05:35.71,0:05:39.00,Default,,0000,0000,0000,,Oh, Okabe-san? You're here early.
-Dialogue: 0,0:05:41.34,0:05:43.84,On Top,,0000,0000,0000,,“Why are you here?”\N“Sheesh! I told you once already ><”\N“I was asked to be Dr. Hiyajo's bodyguard~”
 Dialogue: 0,0:05:47.76,0:05:50.18,Default,,0000,0000,0000,,Where the hell did the room go?
 Dialogue: 0,0:05:50.18,0:05:52.68,Default,,0000,0000,0000,,It's worse than it was a few days ago.
 Dialogue: 0,0:05:52.68,0:05:55.81,Default,,0000,0000,0000,,The lapse of time changes\Nboth people and things.
@@ -171,8 +233,6 @@ Dialogue: 0,0:09:50.38,0:09:52.09,Default,,0000,0000,0000,,It's been a while.
 Dialogue: 0,0:09:52.09,0:09:54.01,Default,,0000,0000,0000,,You haven't changed a bit.
 Dialogue: 0,0:09:54.01,0:09:55.34,Default,,0000,0000,0000,,Same goes for you.
 Dialogue: 0,0:09:55.34,0:09:58.18,Default,,0000,0000,0000,,Of course not. I'm AI.
-Dialogue: 0,0:09:58.01,0:09:59.39,On Top,,0000,0000,0000,,“Subject: Regarding Laptop”
-Dialogue: 0,0:09:59.39,0:10:00.97,On Top,,0000,0000,0000,,“Subject: Regarding Laptop”\N“Retrieving from locker tonight.”\N“Will contact again once analysis is complete.”
 Dialogue: 0,0:10:04.93,0:10:09.56,Default,,0000,0000,0000,,I don't know... It just doesn't feel right.
 Dialogue: 0,0:10:09.56,0:10:12.40,Default,,0000,0000,0000,,I'll have to fix it to my liking later.
 Dialogue: 0,0:10:12.40,0:10:15.99,Default,,0000,0000,0000,,The others will kill you\Nif they hear you say that.
@@ -300,7 +360,6 @@ Dialogue: 0,0:16:44.17,0:16:46.75,Default,,0000,0000,0000,,I might've got a bit 
 Dialogue: 0,0:16:48.84,0:16:52.22,Default,,0000,0000,0000,,What should we do next?\NGrab a bite or something?
 Dialogue: 0,0:16:52.22,0:16:56.34,Default,,0000,0000,0000,,No... It's already getting pretty late.
 Dialogue: 0,0:16:58.68,0:17:04.14,Default,,0000,0000,0000,,But there's somewhere I have to visit\Nbefore I go back to America...
-Dialogue: 0,0:17:04.35,0:17:13.82,On Top,,0000,0000,0000,,“Radio Kaikan Akihabara”
 Dialogue: 0,0:17:05.94,0:17:07.40,Default,,0000,0000,0000,,This place, huh?
 Dialogue: 0,0:17:07.40,0:17:11.86,Default,,0000,0000,0000,,Yeah... The place where\NMakise Kurisu lost her life.
 Dialogue: 0,0:17:11.86,0:17:14.36,Default,,0000,0000,0000,,The last place she was...

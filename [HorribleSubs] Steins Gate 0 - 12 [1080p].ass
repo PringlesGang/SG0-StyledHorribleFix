@@ -14,10 +14,41 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an3\fs100\pos(1478,944)}M{\fs70}other Goose
+Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an3\fs50\pos(1476,968)}of Mutual
+Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an1\fs120\pos(1482,980)}Recursion
+Dialogue: 0,0:04:48.39,0:04:49.85,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFCF7F3&}m 979 409 l 1055 412 l 1064 438 l 1045 451 l 974 449 {\p0}
+Dialogue: 1,0:04:48.39,0:04:49.85,Signs,,0,0,0,,{\c&H5860BD&\bord1\an7\be1\fnRounded Mplus 1c Bold\fs54\blur2\org(1106,562)\frx11\fry355\frz357.9\pos(952,396)\3c&H4A549E&}Date{\fs30}
+Dialogue: 0,0:04:48.39,0:04:49.85,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFEFFF5&\iclip(m 866 429 l 892 441 924 456 960 473 1001 500 1030 521 1069 561 805 628)}m 962 490 l 1222 491 l 1217 539 l 998 537 {\p0}
+Dialogue: 1,0:04:48.39,0:04:49.85,Signs,,0,0,0,,{\be2\c&H262626&\a7\fs25\org(1206,682)\frx7\fry357\pos(1202,476)\frz358.2\iclip(m 866 429 l 892 441 924 456 960 473 1001 500 1030 521 1069 561 805 628)}The best spot to take your date\Nthings that we recommend
+Dialogue: 0,0:04:49.85,0:04:53.35,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFCF7F3&}m 1071 480 l 1159 480 l 1157 502 l 1071 501 {\p0}
+Dialogue: 1,0:04:49.85,0:04:53.35,Signs,,0,0,0,,{\an7\c&H453D34&\be2\fs16\3c&H453D34&\org(1096,588)\frz357.4\frx14\fry353\pos(1065.334,474.666)}Akihabara Picks
+Dialogue: 1,0:11:42.05,0:11:43.18,Signs,,0,0,0,,{\an8\fnSedgwick Ave\c&H191518&\3c&HFFFFFF&\bord3\be60\fs360\frz282.8\move(626,584,626,1070)}Recruiting Warriors!
+Dialogue: 1,0:11:43.18,0:11:44.26,Signs,,0,0,0,,{\an8\fnSedgwick Ave\c&H191518&\3c&HFFFFFF&\bord3\be60\fs360\frz282.8\move(626,1070,626,1420)}Recruiting Warriors!
+Dialogue: 1,0:11:44.26,0:11:45.01,Signs,,0,0,0,,{\an8\fnSedgwick Ave\c&H191518&\3c&HFFFFFF&\bord3\be60\fs360\frz282.8\move(626,1430,626,1550)}Recruiting Warriors!
+Dialogue: 1,0:11:42.05,0:11:43.18,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,438,1272,924)}Monster Plate!!
+Dialogue: 1,0:11:43.18,0:11:44.26,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,924,1272,1274)}Monster Plate!!
+Dialogue: 1,0:11:44.26,0:11:45.01,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,1274,1272,1394)}Monster Plate!!
+Dialogue: 1,0:11:42.05,0:11:43.18,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&H3D29AE&\bord24\frz54.6\move(1272,438,1272,924)\be4}Monster Plate!!
+Dialogue: 1,0:11:43.18,0:11:44.26,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&H3D29AE&\bord24\frz54.6\move(1272,924,1272,1274)\be4}Monster Plate!!
+Dialogue: 1,0:11:44.26,0:11:45.01,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&H3D29AE&\bord24\frz54.6\move(1272,1274,1272,1394)\be4}Monster Plate!!
+Dialogue: 1,0:11:43.60,0:11:44.39,Signs,,0,0,0,,{\an8\move(960,-80,960,150)\bord8\fs90\c&HD1D8E4&\3c&H5649B8&\fnJost\blur1.4\shad3\4c&H313131&}Eating Contest!!
+Dialogue: 1,0:11:44.39,0:11:45.10,Signs,,0,0,0,,{\an8\move(960,150,960,250)\bord8\fs90\c&HD1D8E4&\3c&H5649B8&\fnJost\blur1.4\shad3\4c&H313131&}Eating Contest!!
+Dialogue: 1,0:11:45.10,0:11:46.26,Signs,,0,0,0,,{\an8\pos(960,250)\bord8\fs90\c&HD1D8E4&\3c&H5649B8&\fnJost\blur1.4\shad3\4c&H313131&}Eating Contest!!
+Dialogue: 0,0:11:50.64,0:11:53.10,Draw,,0,0,0,,{\move(0,0,-274,-130)\blur17\p1\c&H67C6DC&}m 197 294 l 882 -275 l 853 32 l 283 600 {\p0}
+Dialogue: 1,0:11:50.64,0:11:53.10,Signs,,0,0,0,,{\c&H6A64C7&\bord13\an7\shad0\3c&H627180&\fs248\fscy248\fscx145\fnAudiowide\fax-0.5\be2\frx356\fry14\move(158,164,-116,34)\frz33.25}G{\fs180}o{\fs50} {\fs248}G{\fs180}o {\fs248}C{\fs180}urry
+Dialogue: 1,0:16:11.61,0:16:25.34,Signs,,0,0,0,,{\an8\c&HB6BDC2&\fax0.35\fay-0.02\frz341.3\move(691.283,755,982,755)}Okabe Green Grocer
+Dialogue: 0,0:16:43.85,0:16:47.32,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HB8B7C1&}m 778 225 l 969 169 l 989 232 l 801 292 {\p0}
+Dialogue: 1,0:16:43.85,0:16:47.32,Signs,,0,0,0,,{\frz17.11\an8\fnNoto Sans JP Light\fs80\alpha&H0F\be2\pos(878,194)}Akemi
+Dialogue: 0,0:16:43.85,0:16:47.32,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H54588B&}m 972 620 l 1061 590 l 1071 622 l 982 651 {\p0}
+Dialogue: 1,0:16:43.85,0:16:47.32,Signs,,0,0,0,,{\an8\fnNoto Sans JP Light\fs40\alpha&H0F\blur1.5\frz17.04\pos(1016,598)\c&HE0E0F2&}End call
 Dialogue: 0,0:00:05.54,0:00:07.04,Default,,0000,0000,0000,,Kagari-chan?
 Dialogue: 0,0:00:08.50,0:00:10.13,Default,,0000,0000,0000,,Kagari-chan?
 Dialogue: 0,0:00:12.97,0:00:14.72,Default,,0000,0000,0000,,Kagari-chan!
@@ -55,7 +86,6 @@ Dialogue: 0,0:02:03.29,0:02:05.20,Default,,0000,0000,0000,,Yup! Good, good!
 Dialogue: 0,0:02:05.20,0:02:10.96,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
 Dialogue: 0,0:02:10.96,0:02:16.97,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
 Dialogue: 0,0:02:16.97,0:02:22.39,Default,,0000,0000,0000,,♪ Twinkling in the wind... ♪
-Dialogue: 0,0:02:20.01,0:02:25.01,On Top,,0000,0000,0000,,“Mother Goose of Mutual Recursion\N- Recursive Mother Goose -”
 Dialogue: 0,0:02:22.39,0:02:24.47,Default,,0000,0000,0000,,♪ Twinkling in the wind... ♪
 Dialogue: 0,0:02:40.91,0:02:46.20,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
 Dialogue: 0,0:02:46.20,0:02:52.13,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
@@ -86,9 +116,7 @@ Dialogue: 0,0:04:35.77,0:04:40.98,Default,,0000,0000,0000,,—Nope! It's super t
 Dialogue: 0,0:04:40.98,0:04:44.99,Default,,0000,0000,0000,,Thank you. I think I will.
 Dialogue: 0,0:04:44.99,0:04:47.20,Default,,0000,0000,0000,,You're very welcome!
 Dialogue: 0,0:04:47.20,0:04:48.74,Default,,0000,0000,0000,,Want some, Daru-kun?
-Dialogue: 0,0:04:48.41,0:04:49.87,On Top,,0000,0000,0000,,“Date.com”\N“to take your date”\N“we recommend”
 Dialogue: 0,0:04:48.74,0:04:50.16,Default,,0000,0000,0000,,Sure, I'll eat some.
-Dialogue: 0,0:04:49.87,0:04:53.37,On Top,,0000,0000,0000,,“Akihabara Picks”
 Dialogue: 0,0:04:50.16,0:04:53.21,Default,,0000,0000,0000,,All right! Gimme just a minute!
 Dialogue: 0,0:04:54.87,0:05:00.46,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
 Dialogue: 0,0:05:00.46,0:05:06.13,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
@@ -217,9 +245,6 @@ Dialogue: 0,0:11:31.52,0:11:33.81,Default,,0000,0000,0000,,I'm about to head int
 Dialogue: 0,0:11:34.86,0:11:35.94,Default,,0000,0000,0000,,Battle?
 Dialogue: 0,0:11:35.94,0:11:39.36,Default,,0000,0000,0000,,That's what she said, nya.
 Dialogue: 0,0:11:39.36,0:11:41.07,Default,,0000,0000,0000,,Don't tell me...
-Dialogue: 0,0:11:42.07,0:11:43.70,On Top,,0000,0000,0000,,“Recruiting Warriors!”    “Monster Plate!!”
-Dialogue: 0,0:11:43.70,0:11:46.28,On Top,,0000,0000,0000,,“Eating Contest!!”
-Dialogue: 0,0:11:50.66,0:11:53.12,On Top,,0000,0000,0000,,“GoGo Curry”
 Dialogue: 0,0:11:51.92,0:11:54.17,Default,,0000,0000,0000,,Incredible... Can you believe it?
 Dialogue: 0,0:12:08.89,0:12:12.14,Default,,0000,0000,0000,,This month's eating contest winner is...
 Dialogue: 0,0:12:12.14,0:12:17.02,Default,,0000,0000,0000,,Our first three-time winner,\NThe Silent Slaughterer!
@@ -304,7 +329,6 @@ Dialogue: 0,0:15:59.91,0:16:04.13,Default,,0000,0000,0000,,I can't believe the l
 Dialogue: 0,0:16:04.13,0:16:07.04,Default,,0000,0000,0000,,In class, we all just use\Neveryone's first names.
 Dialogue: 0,0:16:07.04,0:16:10.26,Default,,0000,0000,0000,,Well? What did your mother have to say?
 Dialogue: 0,0:16:10.26,0:16:11.72,Default,,0000,0000,0000,,That's...
-Dialogue: 0,0:16:11.63,0:16:25.35,On Top,,0000,0000,0000,,“Okabe Green Grocer”
 Dialogue: 0,0:16:11.72,0:16:13.18,Default,,0000,0000,0000,,From you!
 Dialogue: 0,0:16:13.18,0:16:13.76,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:16:13.76,0:16:16.30,Default,,0000,0000,0000,,I'm telling you, you're the one who sang it!
@@ -317,7 +341,6 @@ Dialogue: 0,0:16:33.20,0:16:36.16,Default,,0000,0000,0000,,I'm a macho psycholog
 Dialogue: 0,0:16:37.83,0:16:38.45,Default,,0000,0000,0000,,Stop it.
 Dialogue: 0,0:16:38.45,0:16:42.96,Default,,0000,0000,0000,,Anyways, that's what you used\Nto sing all the time in the bath.
 Dialogue: 0,0:16:42.96,0:16:44.08,Default,,0000,0000,0000,,I did?
-Dialogue: 0,0:16:43.87,0:16:47.34,On Top,,0000,0000,0000,,“Akemi”
 Dialogue: 0,0:16:44.08,0:16:47.59,Default,,0000,0000,0000,,That's right! And because of you,\NI can't forget it!
 Dialogue: 0,0:16:47.59,0:16:51.05,Default,,0000,0000,0000,,Um, what exactly does this mean?
 Dialogue: 0,0:16:51.05,0:16:52.59,Default,,0000,0000,0000,,I don't know.

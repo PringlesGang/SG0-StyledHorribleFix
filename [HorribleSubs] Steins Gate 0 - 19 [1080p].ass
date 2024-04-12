@@ -14,11 +14,28 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: MahoPhone,Jost,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:00.20,0:00:07.34,On Top,,0000,0000,0000,,“Ongoing Terrorist Attack in the City”\N“Public Safety Warning”
+Dialogue: 1,0:13:35.04,0:13:41.05,Title,,0,0,0,,{\an3\fsp-2\pos(1202,888)}Altair
+Dialogue: 1,0:13:35.04,0:13:41.05,Title,,0,0,0,,{\an3\fsp9\pos(1278,914)}of
+Dialogue: 1,0:13:35.04,0:13:41.05,Title,,0,0,0,,{\an3\fsp-7\pos(1272,969)}the
+Dialogue: 1,0:13:35.04,0:13:41.05,Title,,0,0,0,,{\an3\pos(1458,888)}Cyclic
+Dialogue: 1,0:13:35.04,0:13:41.05,Title,,0,0,0,,{\an3\pos(1688,942)}Coordinate
+Dialogue: 1,0:00:00.02,0:00:07.32,Signs,,0,0,0,,{\an8\fade(1000,0)\fs43\3c&H7E7068&\c&HE5EED3&\bord4\be1\alpha&H30&\pos(481.057,114.25)\1a&H3C&}Ongoing Terrorist\NAttack in the City
+Dialogue: 1,0:00:00.02,0:00:07.32,Signs,,0,0,0,,{\an8\fade(1000,0)\fs60\3c&H7E7068&\c&HE5EED3&\bord4\be1\alpha&H30&\1a&H3C&\pos(951.057,903.25)}Public Safety Warning
+Dialogue: 0,0:15:26.19,0:15:27.32,Draw,,0,0,0,,{\blur20\pos(0,0)\p1\c&HDBD5D2&}m 868 367 l 1229 422 l 1219 462 l 1358 489 l 1346 549 l 698 442 l 716 383 l 857 405 {\p0}
+Dialogue: 1,0:15:26.19,0:15:27.32,MahoPhone,,0,0,0,,{\an5\c&HACA5A3&\fs50\be2\frx6\fry2\org(1556,240)\frz350\pos(1124,496)}Unable to access\NPlease verify network connection
+Dialogue: 0,0:18:01.26,0:18:06.73,Draw,,0,0,0,,{\fade(0,2000)\blur18\pos(0,0)\p1\c&H6668B2&\clip(874,704,1322,1058)}m 1046 166 l 1059 139 l 1133 151 l 1153 419 l 1143 673 l 1149 949 l 1048 955 l 1048 1022 l 948 1010 l 947 728 l 1043 727 l 1048 406 l 1044 203 {\p0}
+Dialogue: 1,0:18:01.26,0:18:06.73,Draw,,0,0,0,,{\fade(0,2000)\blur15\pos(0,0)\p1\c&H7074C1&\clip(902,416,1270,784)}m 1056 421 l 1153 419 l 1142 742 l 1043 727 {\p0}
+Dialogue: 2,0:18:01.26,0:18:06.73,Draw,,0,0,0,,{\fade(0,2000)\blur25\pos(0,0)\p1\c&H7D89CF&}m 1085 106 l 1110 110 l 1133 151 l 1148 542 l 1043 529 l 1044 203 l 1053 122 {\p0}
+Dialogue: 3,0:18:01.26,0:18:06.73,Signs,,0,0,0,,{\an8\fade(0,2000)\frz269.8\fnPlaypen Sans\fs92\c&H6F75AD&\b0\blur2\pos(1126,532}I wish {\c&H6B6CA5&}to {\c&H6362A0&}meet {\c&H61579E&}my {\c&H584D86&}Hikoboshi
+Dialogue: 3,0:18:01.26,0:18:06.73,Signs,,0,0,0,,{\an8\fade(0,2000)\frz269.8\fnPlaypen Sans\c&H57429D&\b0\blur2\fs92\pos(1044,900)}Mayushii
 Dialogue: 0,0:00:01.87,0:00:04.88,Default,,0000,0000,0000,,We'll now take you to our coverage
 Dialogue: 0,0:00:04.88,0:00:08.55,Default,,0000,0000,0000,,of the terrorist attacks taking\Nplace in the heart of the city.
 Dialogue: 0,0:00:08.55,0:00:10.88,Default,,0000,0000,0000,,It's like a scene out of war here.
@@ -219,9 +236,7 @@ Dialogue: 0,0:13:01.73,0:13:07.74,Default,,0000,0000,0000,,I will never give up.
 Dialogue: 0,0:13:07.74,0:13:13.16,Default,,0000,0000,0000,,A thousand, ten thousand,\Nmillions of times maybe, but I will save them.
 Dialogue: 0,0:13:13.16,0:13:17.13,Default,,0000,0000,0000,,Suzuha, Mayuri, and Kagari too.
 Dialogue: 0,0:13:24.88,0:13:28.30,Default,,0000,0000,0000,,This is the first step.
-Dialogue: 0,0:13:35.06,0:13:41.07,On Top,,0000,0000,0000,,Altair of the Cyclic Coordinate\N- Time-leap Machine -
 Dialogue: 0,0:13:45.65,0:13:48.95,Default,,0000,0000,0000,,Did it... work?
-Dialogue: 0,0:13:52.54,0:13:54.45,On Top,,0000,0000,0000,,“2011/07/07 (Thu)”
 Dialogue: 0,0:13:54.79,0:13:57.92,Default,,0000,0000,0000,,July 7th... 3 o'clock?
 Dialogue: 0,0:14:01.17,0:14:03.88,Default,,0000,0000,0000,,I should still have time!
 Dialogue: 0,0:14:07.38,0:14:08.34,Default,,0000,0000,0000,,Okarin...
@@ -254,7 +269,6 @@ Dialogue: 0,0:15:14.70,0:15:18.70,Default,,0000,0000,0000,,So please, just don't
 Dialogue: 0,0:15:18.70,0:15:20.25,Default,,0000,0000,0000,,Okarin...
 Dialogue: 0,0:15:20.25,0:15:22.38,Default,,0000,0000,0000,,W-War?
 Dialogue: 0,0:15:22.38,0:15:24.75,Default,,0000,0000,0000,,I find it hard to believe, but...
-Dialogue: 0,0:15:26.21,0:15:27.34,On Top,,0000,0000,0000,,“Unable to access.”\N“Please verify network connection.”
 Dialogue: 0,0:15:29.47,0:15:32.05,Default,,0000,0000,0000,,What hour and\Nwhat minute did it all happen?
 Dialogue: 0,0:15:32.05,0:15:35.26,Default,,0000,0000,0000,,When did Mayuri and Suzuha\Nget to Radikan?
 Dialogue: 0,0:15:35.26,0:15:37.81,Default,,0000,0000,0000,,I don't know the exact times.
@@ -297,10 +311,8 @@ Dialogue: 0,0:17:38.22,0:17:42.89,Default,,0000,0000,0000,,Yeah, so let us go.
 Dialogue: 0,0:17:42.89,0:17:46.06,Default,,0000,0000,0000,,Mayushii is a lab member too.
 Dialogue: 0,0:17:46.06,0:17:51.23,Default,,0000,0000,0000,,And since my Hikoboshi is down\Nin the dumps, I'll give him a good old slap.
 Dialogue: 0,0:17:55.40,0:17:57.66,Default,,0000,0000,0000,,That's why I've decided to go.
-Dialogue: 0,0:17:57.28,0:17:59.24,On Top,,0000,0000,0000,,“Dear Okarin.\NTutturu! It's Mayushii!”
 Dialogue: 0,0:17:57.66,0:18:01.16,Default,,0000,0000,0000,,I... love Hououin Kyouma.
 Dialogue: 0,0:18:01.16,0:18:02.37,Default,,0000,0000,0000,,But, guess what?
-Dialogue: 0,0:18:01.28,0:18:05.37,On Top,,0000,0000,0000,,“I wish to meet my Hikoboshi”\N“Mayushii”
 Dialogue: 0,0:18:02.37,0:18:06.25,Default,,0000,0000,0000,,I love Okabe Rintaro even more!
 Dialogue: 0,0:18:07.04,0:18:08.71,Default,,0000,0000,0000,,Okarin...
 Dialogue: 0,0:18:19.09,0:18:22.72,Default,,0000,0000,0000,,All right.

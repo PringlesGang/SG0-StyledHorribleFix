@@ -14,10 +14,160 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an3\fs100\pos(1380,942)}Eclipse
+Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an1\fs60\pos(1386,936)}of
+Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an7\fs60\pos(1258,908)}Vibronic {\fs80}Transition
+Dialogue: 1,0:11:40.09,0:11:43.80,Signs,,0,0,0,,{\fade(1520,0)\c&H0E0C1A&\fnRoboto\fs50\blur1\frx8\fry19\org(1622,712)\frz357.6\pos(1598,428)}Happy\Nnew\NYear's
+Dialogue: 1,0:11:40.09,0:11:43.80,Signs,,0,0,0,,{\fade(1520,0)\c&H4D65D4&\fnSedgwick Ave\blur1\fs60\frz-10\pos(1694,852)}Open for business
+Dialogue: 1,0:11:40.09,0:11:43.80,Signs,,0,0,0,,{\fade(1520,0)\c&H4D65D4&\fnSedgwick Ave\blur1\fs60\frz-10\pos(1692,876)}starting the 3rd
+Dialogue: 1,0:11:43.80,0:11:46.76,Signs,,0,0,0,,{\an8\c&H0E0C1A&\fnRoboto\fs100\blur1\pos(738,76)}Happy\Nnew\NYear's
+Dialogue: 1,0:11:43.80,0:11:46.76,Signs,,0,0,0,,{\c&H4D65D4&\an8\fnSedgwick Ave\blur1\fs140\pos(990,848)}Open for business
+Dialogue: 1,0:11:43.80,0:11:46.76,Signs,,0,0,0,,{\c&H4D65D4&\an8\fnSedgwick Ave\blur1\fs140\pos(982,904)}starting the 3rd
+Dialogue: 1,0:18:46.60,0:18:49.06,Signs,,0,0,0,,{\an1\fs52.25\3c&H422C20&\c&HEAE5D3&\bord3\be1\alpha&H30&\pos(211.057,892.25)}Another Earthquake in Russia
+Dialogue: 0,0:19:11.63,0:19:14.09,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HFCF8EB&}m 175 0 l 39 1084 l 1971 1138 l 1990 -15 {\p0}
+Dialogue: 1,0:19:11.63,0:19:11.96,Signs,,0,0,0,,{\move(200,0,200,-900)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 1,0:19:11.96,0:19:12.25,Signs,,0,0,0,,{\pos(200,-900)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 1,0:19:12.25,0:19:12.92,Signs,,0,0,0,,{\move(200,-900,200,-1810)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 1,0:19:12.92,0:19:14.09,Signs,,0,0,0,,{\pos(200,-1810)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 0,0:19:31.81,0:19:37.07,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HFAF6E9&}m 367 201 l 1457 201 l 1457 260 l 367 260 {\p0}
+Dialogue: 0,0:19:31.81,0:19:37.07,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HFAF6E9&}m 351 318 l 1424 317 l 1424 376 l 1458 376 l 1458 490 l 1430 490 l 1431 548 l 1458 548 l 1458 604 l 1399 604 l 1399 664 l 1160 665 l 1160 725 l 351 725 {\p0}
+Dialogue: 0,0:19:31.81,0:19:37.07,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HF1EADC&}m 482 792 l 579 792 l 579 850 l 529 850 l 529 903 l 647 902 l 648 962 l 685 963 l 685 1021 l 725 1021 l 725 1076 l 512 1076 l 512 903 l 434 904 l 434 850 l 482 850 {\p0}
+Dialogue: 0,0:19:31.81,0:19:37.07,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HE0C097&}m 1494 323 l 1850 323 l 1850 355 l 1541 355 l 1541 387 l 1494 387 {\p0}
+Dialogue: 0,0:19:31.81,0:19:37.07,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HF0EADB&}m 1515 844 l 1827 844 l 1827 876 l 1649 876 l 1649 900 l 1515 900 {\p0}
+Dialogue: 0,0:19:31.81,0:19:37.07,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HE0C097&}m 1624 931 l 1725 931 l 1725 959 l 1624 959 {\p0}
+Dialogue: 0,0:19:31.81,0:19:37.07,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HF0EADB&}m 1493 970 l 1759 970 l 1759 1037 l 1730 1037 l 1730 1066 l 1802 1066 l 1802 1092 l 1493 1092 {\p0}
+Dialogue: 1,0:19:31.81,0:19:37.07,Signs,,0,0,0,,{\an7\fs80\fnPlayfair Display Medium\b0\c&H655248&\blur1.7\i1\c&H655248&\1a&H32&\pos(368,186)}Wolfgang Amadeus Mozart
+Dialogue: 1,0:19:31.81,0:19:37.07,Signs,,0,0,0,,{\an7\fs50\fnRoboto\blur1.9\i1\c&H655248&\1a&H32&\pos(362,322)}Wolfgang Amadeus Mozart {\b0\i0} (27 January 1756 – 5\NDecember 1791), was a composer baptised as\N{\i1}Johannes Chrysostomus Wolfgangus Theophilus\NMozart{\i0} in {\c&HDDA56B&}Salzburg{\c&H655248&}, {\c&HDDA56B&}Austria{\c&H655248&}.\N\NHe is regarded as the {\i1}prodigy{\i0} among the three great\NViennese classical masters, alongside the {\i1}father of\Nthe symphony{\i0} {\c&HDDA56B&}Haydn{\c&H655248&}, and the {\i1}master of music{\i0}\N{\c&HDDA56B&}Beethoven{\c&H655248&}.
+Dialogue: 1,0:19:31.81,0:19:37.07,Signs,,0,0,0,,{\an7\fs57\fnRoboto\blur2\c&H655248&\1a&H32&\pos(420,794)}{\alpha&FF&}iii{\alpha&00&}Contents\N{\b0\c&HDDA56B&\fs56}Life\N{\alpha&FF&}iiiiiii{\alpha&00&}Early life\N{\alpha&FF&}iiiiiii{\alpha&00&}Education\N{\alpha&FF&}iiiiiii{\alpha&00&}Mannheim
+Dialogue: 1,0:19:31.81,0:19:37.07,Signs,,0,0,0,,{\an8\fs36\fnRoboto\blur2\c&H655248&\1a&H32&\pos(1674,322)}Wolfgang Amadeus\NMozart
+Dialogue: 1,0:19:31.81,0:19:37.07,Signs,,0,0,0,,{\an7\fs30\fnRoboto\blur2.5\b0\c&H655248&\1a&H32&\pos(1506,850)}Posthumous portrait painted\Nfrom imagination, {\u1}c.{\u0} 1819
+Dialogue: 1,0:19:31.81,0:19:37.07,Signs,,0,0,0,,{\an8\fs30\fnRoboto\blur2.5\c&H655248&\1a&H32&\pos(1674,932)}General information
+Dialogue: 1,0:19:31.81,0:19:37.07,Signs,,0,0,0,,{\an7\fs32\fnRoboto\blur2.5\c&H655248&\1a&H32&\pos(1500,970)}Born{\b0\alpha&FF&}ii{\alpha&00&} 27 January 1756\N{\b1}Died{\b0\alpha&FF&}iii{\alpha&00&} 5 December 1791\N{\b1}Genre{\b0} Classical music\N{\b1}Years active{\b0} 1761 – 1791
+Dialogue: 0,0:19:51.50,0:19:55.13,Draw,,0,0,0,,{\pos(0,0)\blur7\p1\c&HF9F5E8&}m 361 201 l 482 201 l 482 268 l 361 268 {\p0}
+Dialogue: 0,0:19:51.50,0:19:55.13,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HF9F5E8&}m 361 301 l 1855 300 l 1854 362 l 1330 362 l 1330 412 l 1623 412 l 1623 474 l 1659 474 l 1659 538 l 1837 538 l 1837 594 l 1778 594 l 1778 658 l 361 658 {\p0}
+Dialogue: 0,0:19:51.50,0:19:55.13,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&HF0EADC&}m 483 762 l 573 762 l 573 817 l 644 817 l 644 871 l 527 871 l 527 991 l 684 991 l 684 1042 l 603 1042 l 603 1088 l 437 1088 l 437 817 l 483 817 {\p0}
+Dialogue: 1,0:19:51.50,0:19:55.13,Signs,,0,0,0,,{\an7\fs80\fnPlayfair Display Medium\b0\c&H655248&\blur1.6\i1\c&H655248&\1a&H32&\pos(368,186)}The Magic Flute
+Dialogue: 1,0:19:51.50,0:19:55.13,Signs,,0,0,0,,{\an7\fs50\fnRoboto\blur1.6\pos(374,312)\i1\c&H655248&\1a&H32&}The Magic Flute{\i\b0} (German: {\i1\b1}Die Zauberflöte{\i\b0}), {\c&HDDA56B&}K.{\c&H655248&} 620, is a {\i1\c&HDDA56B&}Singspiel{\i\c&H655248&} written\Nby {\c&HDDA56B&}Wolfgang Amadeus Mozart{\c&H655248&} in 1791. The piece marks Mozart's final\N{\c&HDDA56B&}opera{\c&H655248&} before his premature death, and has a Köchel number of K. 620.\NIt is still considered to be one of Mozart's greatest operas.\N\NThe work contains several lighthearted and comedic scenes, which is\Nuncommon for operas. It is famous for the Masonic elements and\Nsymbolism it contains.
+Dialogue: 1,0:19:51.50,0:19:55.13,Signs,,0,0,0,,{\an7\fs55\fnRoboto\blur1.6\c&H655248&\1a&H32&\pos(444,762)}Contents\N{\b0\c&HDDA56B&}History\NPremiere\NComposition\NRoles\NSynopsis
+Dialogue: 0,0:20:02.97,0:20:03.22,Draw,,0,0,0,,{Mayuri 1} {\move(0,900,0,320)\blur13\p1\c&HB3AFAD&\t(\c&HE1DCDB&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.22,0:20:03.39,Draw,,0,0,0,,{Mayuri 1} {\move(0,320,0,80)\blur13\p1\c&HE6E1DF&\t(\c&HEEE9E8&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.39,0:20:03.55,Draw,,0,0,0,,{Mayuri 1} {\move(0,70,0,-10)\blur13\p1\c&HEEEAE8&\t(\c&HEFEAE8&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.55,0:20:04.35,Draw,,0,0,0,,{Mayuri 1} {\pos(0,0)\blur13\p1\c&HEEEAE8&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:02.97,0:20:03.09,OkabePhone,,0,0,0,,{Mayuri 1} {\move(800,1060,800,760)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.09,0:20:03.22,OkabePhone,,0,0,0,,{Mayuri 1} {\move(800,760,800,480)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.22,0:20:03.39,OkabePhone,,0,0,0,,{Mayuri 1} {\move(800,480,800,238)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.39,0:20:03.51,OkabePhone,,0,0,0,,{Mayuri 1} {\move(800,230,800,156)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.51,0:20:04.35,OkabePhone,,0,0,0,,{Mayuri 1} {\move(800,160,800,150,0,40)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 0,0:20:02.97,0:20:03.22,Draw,,0,0,0,,{Daru 1} {\move(0,1070,0,500)\blur13\p1\c&H908B8A&\t(\c&HD2CDCB&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.22,0:20:03.39,Draw,,0,0,0,,{Daru 1} {\move(0,495,0,260)\blur13\p1\c&HDBD6D4&\t(\c&HE6E0DE&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.39,0:20:03.55,Draw,,0,0,0,,{Daru 1} {\move(0,250,0,160)\blur13\p1\c&HE7E2DF&\t(\c&HE8E3E1&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.55,0:20:04.30,Draw,,0,0,0,,{Daru 1} {\pos(0,170)\blur13\p1\c&HEAE4E2&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.30,0:20:04.35,Draw,,0,0,0,,{Daru 1} {\iclip(m 954 308 l 898 308 866 332 872 372 928 428)\pos(0,170)\blur13\p1\c&HEAE4E2&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.35,0:20:04.39,Draw,,0,0,0,,{Daru 1} {\pos(0,80)\blur13\p1\c&HEDE6E5&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:02.97,0:20:03.09,OkabePhone,,0,0,0,,{Daru 1} {\move(800,1233,800,933)\c&H604D4E&\fs60\blur1.7}Daru
+Dialogue: 1,0:20:03.09,0:20:03.22,OkabePhone,,0,0,0,,{Daru 1} {\move(800,933,800,653)\c&H604D4E&\fs60\blur1.7}Daru
+Dialogue: 1,0:20:03.22,0:20:03.39,OkabePhone,,0,0,0,,{Daru 1} {\move(800,653,800,411)\c&H604D4E&\fs60\blur1.7}Daru
+Dialogue: 1,0:20:03.39,0:20:03.51,OkabePhone,,0,0,0,,{Daru 1} {\move(800,403,800,329)\c&H604D4E&\fs60\blur1.7}Daru
+Dialogue: 1,0:20:03.51,0:20:04.30,OkabePhone,,0,0,0,,{Daru 1} {\move(800,333,800,323,0,40)\c&H604D4E&\fs60\blur1.7}Daru
+Dialogue: 1,0:20:04.30,0:20:04.35,OkabePhone,,0,0,0,,{Daru 1} {\iclip(m 954 308 l 898 308 866 332 872 372 928 428)\pos(800,323)\c&H604D4E&\fs60\blur1.7}Daru
+Dialogue: 1,0:20:04.35,0:20:04.39,OkabePhone,,0,0,0,,{Daru 1} {\pos(800,235)\c&H604D4E&\fs60\blur1.7}Daru
+Dialogue: 0,0:20:02.97,0:20:03.22,Draw,,0,0,0,,{Mayuri 2} {\move(0,1240,0,670)\blur13\p1\c&H807D7A&\t(\c&HB7B2AE&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.22,0:20:03.39,Draw,,0,0,0,,{Mayuri 2} {\move(0,665,0,430)\blur13\p1\c&HC1BBB9&\t(\c&HD6CFCD&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.39,0:20:03.55,Draw,,0,0,0,,{Mayuri 2} {\move(0,425,0,330)\blur13\p1\c&HD8D2CF&\t(\c&HDDD6D4&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.55,0:20:04.35,Draw,,0,0,0,,{Mayuri 2} {\pos(0,340)\blur13\p1\c&HDFD8D6&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.35,0:20:04.39,Draw,,0,0,0,,{Mayuri 2} {\iclip(m 880 378 l 898 400 934 416 968 426 960 340)\pos(0,250)\blur13\p1\c&HE2DAD8&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.39,0:20:04.43,Draw,,0,0,0,,{Mayuri 2} {\pos(0,40)\blur13\p1\c&HEDE7E7&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:03.09,0:20:03.22,OkabePhone,,0,0,0,,{Mayuri 2} {\move(800,1103,800,823)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.22,0:20:03.39,OkabePhone,,0,0,0,,{Mayuri 2} {\move(800,823,800,581)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.39,0:20:03.51,OkabePhone,,0,0,0,,{Mayuri 2} {\move(800,573,800,499)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.51,0:20:04.35,OkabePhone,,0,0,0,,{Mayuri 2} {\move(800,503,800,493,0,40)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.35,0:20:04.39,OkabePhone,,0,0,0,,{Mayuri 2} {\pos(800,405)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.39,0:20:04.43,OkabePhone,,0,0,0,,{Mayuri 2} {\pos(800,200)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 0,0:20:03.18,0:20:03.22,Draw,,0,0,0,,{Mayuri 3} {\pos(0,890)\blur13\p1\c&H97928E&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.22,0:20:03.39,Draw,,0,0,0,,{Mayuri 3} {\move(0,835,0,600)\blur13\p1\c&HA19A97&\t(\c&HB7B1AD&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.39,0:20:03.55,Draw,,0,0,0,,{Mayuri 3} {\move(0,595,0,500)\blur13\p1\c&HB8B0AB&\t(\c&HC2BAB6&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.55,0:20:04.05,Draw,,0,0,0,,{Mayuri 3} {\pos(0,510)\blur13\p1\c&HC2BBB7&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.05,0:20:04.30,Draw,,0,0,0,,{Mayuri 3} {\iclip(m 868 642 l 896 664 930 678 988 690 974 564)\pos(0,510)\blur13\p1\c&HC2BBB7&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.30,0:20:04.35,Draw,,0,0,0,,{Mayuri 3} {\pos(0,510)\blur13\p1\c&HC2BBB7&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.35,0:20:04.39,Draw,,0,0,0,,{Mayuri 3} {\pos(0,420)\blur13\p1\c&HD4CAC8&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.39,0:20:04.43,Draw,,0,0,0,,{Mayuri 3} {\iclip(m 878 322 l 866 340 872 368 898 398 950 422 964 314)\pos(0,210)\blur13\p1\c&HE0D9D7&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.43,0:20:04.47,Draw,,0,0,0,,{Mayuri 3} {\iclip(762,54,956,110)\pos(0,-50)\blur13\p1\c&HF0EBEA&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:03.09,0:20:03.22,OkabePhone,,0,0,0,,{Mayuri 3} {\move(800,1270,800,990)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.22,0:20:03.39,OkabePhone,,0,0,0,,{Mayuri 3} {\move(800,990,800,748)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.39,0:20:03.51,OkabePhone,,0,0,0,,{Mayuri 3} {\move(800,740,800,666)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.51,0:20:04.35,OkabePhone,,0,0,0,,{Mayuri 3} {\move(800,670,800,660,0,40)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.35,0:20:04.39,OkabePhone,,0,0,0,,{Mayuri 3} {\pos(800,572)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.39,0:20:04.43,OkabePhone,,0,0,0,,{Mayuri 3} {\iclip(m 878 322 l 866 340 872 368 898 398 950 422 964 314)\pos(800,360)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.43,0:20:04.47,OkabePhone,,0,0,0,,{Mayuri 3} {\pos(800,105)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 0,0:20:03.22,0:20:03.39,Draw,,0,0,0,,{Mayuri 4} {\move(0,1005,0,770)\p1\c&H88807C&\t(\c&H88807C&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.39,0:20:03.55,Draw,,0,0,0,,{Mayuri 4} {\move(0,765,0,670)\blur13\p1\c&H8A837E&\t(\c&H978D89&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.55,0:20:04.35,Draw,,0,0,0,,{Mayuri 4} {\pos(0,680)\blur13\p1\c&H998E8A&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.35,0:20:04.39,Draw,,0,0,0,,{Mayuri 4} {\pos(0,590)\blur13\p1\c&HABA39D&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.39,0:20:04.43,Draw,,0,0,0,,{Mayuri 4} {\pos(0,380)\blur13\p1\c&HD6CECC&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.43,0:20:04.47,Draw,,0,0,0,,{Mayuri 4} {\iclip(m 904 260 l 974 292 996 214 886 232)\pos(0,120)\blur13\p1\c&HE8E3E2&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:03.22,0:20:03.39,OkabePhone,,0,0,0,,{Mayuri 4} {\move(800,1160,800,918)\c&H423979&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.39,0:20:03.51,OkabePhone,,0,0,0,,{Mayuri 4} {\move(800,910,800,836)\c&H423979&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.51,0:20:04.35,OkabePhone,,0,0,0,,{Mayuri 4} {\move(800,840,800,830,0,40)\c&H4F458E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.35,0:20:04.39,OkabePhone,,0,0,0,,{Mayuri 4} {\pos(800,735)\c&H5C52A6&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.39,0:20:04.43,OkabePhone,,0,0,0,,{Mayuri 4} {\pos(800,530)\c&H7166C8&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.43,0:20:04.47,OkabePhone,,0,0,0,,{Mayuri 4} {\pos(800,275)\c&H7166C8&\fs60\blur1.7}Mayuri
+Dialogue: 0,0:20:03.39,0:20:03.55,Draw,,0,0,0,,{Mayuri 5} {\move(0,935,0,830)\blur13\p1\c&H6D6660&\t(\c&H6A615D&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:03.55,0:20:04.35,Draw,,0,0,0,,{Mayuri 5} {\pos(0,850)\blur13\p1\c&H69605C&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.35,0:20:04.39,Draw,,0,0,0,,{Mayuri 5} {\pos(0,760)\blur13\p1\c&H867C76&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.39,0:20:04.43,Draw,,0,0,0,,{Mayuri 5} {\pos(0,550)\blur13\p1\c&HB7AFAB&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.43,0:20:04.47,Draw,,0,0,0,,{Mayuri 5} {\pos(0,290)\blur13\p1\c&HE2DAD9&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.47,0:20:04.51,Draw,,0,0,0,,{Mayuri 5} {\iclip(m 880 214 l 890 240 918 264 958 286 998 206)\pos(0,90)\blur13\p1\c&HE9E3E2&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.51,0:20:04.55,Draw,,0,0,0,,{Mayuri 5} {\iclip(m 888 230 l 878 204 896 180 954 176 964 240)\pos(0,-10)\blur13\p1\c&HEFEAE9&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.55,0:20:04.68,Draw,,0,0,0,,{Mayuri 5} {\iclip(m 928 148 l 896 120 894 90 944 60 988 170)\pos(0,-10)\blur13\p1\c&HEFEAE9&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.68,0:20:05.01,Draw,,0,0,0,,{Mayuri 5} {\pos(0,-10)\blur13\p1\c&HEFEAE9&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:03.39,0:20:03.51,OkabePhone,,0,0,0,,{Mayuri 5} {\move(800,1075,800,1001)\c&H443636&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:03.51,0:20:04.35,OkabePhone,,0,0,0,,{Mayuri 5} {\move(800,1005,800,995,0,40)\c&H443636&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.35,0:20:04.39,OkabePhone,,0,0,0,,{Mayuri 5} {\pos(800,905)\c&H443636&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.39,0:20:04.43,OkabePhone,,0,0,0,,{Mayuri 5} {\pos(800,700)\c&H4C3D3D&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.43,0:20:04.47,OkabePhone,,0,0,0,,{Mayuri 5} {\pos(800,445)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.47,0:20:04.51,OkabePhone,,0,0,0,,{Mayuri 5} {\iclip(m 880 214 l 890 240 918 264 958 286 998 206)\pos(800,240)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.51,0:20:04.55,OkabePhone,,0,0,0,,{Mayuri 5} {\pos(800,150)\c&H604D4E&\fs60\blur1.7\iclip(m 880 200 l 894 181 925 174 996 176 988 210)}Mayuri
+Dialogue: 1,0:20:04.55,0:20:05.01,OkabePhone,,0,0,0,,{Mayuri 5} {\pos(800,150)\c&H604D4E&\fs60\blur1.7}Mayuri
+Dialogue: 0,0:20:04.39,0:20:04.43,Draw,,0,0,0,,{Lukako 1} {\pos(0,720)\blur13\p1\c&H887F7A&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.43,0:20:04.47,Draw,,0,0,0,,{Lukako 1} {\pos(0,470)\blur13\p1\c&HCBC3C0&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.47,0:20:04.51,Draw,,0,0,0,,{Lukako 1} {\pos(0,260)\blur13\p1\c&HE3DCDA&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.51,0:20:05.01,Draw,,0,0,0,,{Lukako 1} {\pos(0,170)\blur13\p1\c&HE8E1E0&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:04.39,0:20:04.43,OkabePhone,,0,0,0,,{Lukako 1} {\pos(800,870)\c&H4C3D3D&\fs60\blur1.7}Lukako
+Dialogue: 1,0:20:04.43,0:20:04.47,OkabePhone,,0,0,0,,{Lukako 1} {\pos(800,620)\c&H604D4E&\fs60\blur1.7}Lukako
+Dialogue: 1,0:20:04.47,0:20:04.51,OkabePhone,,0,0,0,,{Lukako 1} {\pos(800,410)\c&H604D4E&\fs60\blur1.7}Lukako
+Dialogue: 1,0:20:04.51,0:20:05.01,OkabePhone,,0,0,0,,{Lukako 1} {\pos(800,320)\c&H604D4E&\fs60\blur1.7}Lukako
+Dialogue: 0,0:20:04.39,0:20:04.43,Draw,,0,0,0,,{Hiyajo-san 1} {\pos(0,890)\blur13\p1\c&H665E58&}m 793 139 l 1027 139 l 1027 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.43,0:20:04.47,Draw,,0,0,0,,{Hiyajo-san 1} {\pos(0,640)\blur13\p1\c&H9F9792&}m 793 139 l 1027 139 l 1027 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.47,0:20:04.51,Draw,,0,0,0,,{Hiyajo-san 1} {\pos(0,430)\blur13\p1\c&HC6BFBB&}m 793 139 l 1027 139 l 1027 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.51,0:20:05.01,Draw,,0,0,0,,{Hiyajo-san 1} {\pos(0,340)\blur13\p1\c&HD6CFCC&}m 793 139 l 1027 139 l 1027 208 l 793 208 {\p0}
+Dialogue: 1,0:20:04.39,0:20:04.43,OkabePhone,,0,0,0,,{Hiyajo-san 1} {\pos(800,1040)\c&H443636&\fs60\blur1.7}Hiyajo-san
+Dialogue: 1,0:20:04.43,0:20:04.47,OkabePhone,,0,0,0,,{Hiyajo-san 1} {\pos(800,790)\c&H4C3D3D&\fs60\blur1.7}Hiyajo-san
+Dialogue: 1,0:20:04.47,0:20:04.51,OkabePhone,,0,0,0,,{Hiyajo-san 1} {\pos(800,580)\c&H604D4E&\fs60\blur1.7}Hiyajo-san
+Dialogue: 1,0:20:04.51,0:20:05.01,OkabePhone,,0,0,0,,{Hiyajo-san 1} {\pos(800,490)\c&H604D4E&\fs60\blur1.7}Hiyajo-san
+Dialogue: 0,0:20:04.43,0:20:04.47,Draw,,0,0,0,,{Mayuri 6} {\pos(0,810)\blur13\p1\c&H736B65&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.47,0:20:04.51,Draw,,0,0,0,,{Mayuri 6} {\pos(0,600)\blur13\p1\c&HA89E99&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.51,0:20:05.01,Draw,,0,0,0,,{Mayuri 6} {\pos(0,510)\blur13\p1\c&HC2BAB6&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:04.43,0:20:04.47,OkabePhone,,0,0,0,,{Mayuri 6} {\pos(800,964)\c&H423979&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.47,0:20:04.51,OkabePhone,,0,0,0,,{Mayuri 6} {\pos(800,756)\c&H4F458E&\fs60\blur1.7}Mayuri
+Dialogue: 1,0:20:04.51,0:20:05.01,OkabePhone,,0,0,0,,{Mayuri 6} {\pos(800,666)\c&H7166C8&\fs60\blur1.7}Mayuri
+Dialogue: 0,0:20:04.47,0:20:04.51,Draw,,0,0,0,,{Lukako 2} {\pos(0,770)\blur13\p1\c&H7C736D&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 0,0:20:04.51,0:20:05.01,Draw,,0,0,0,,{Lukako 2} {\pos(0,690)\blur13\p1\c&H918882&}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
+Dialogue: 1,0:20:04.47,0:20:04.51,OkabePhone,,0,0,0,,{Lukako 2} {\pos(800,930)\c&H443636&\fs60\blur1.7}Lukako
+Dialogue: 1,0:20:04.51,0:20:05.01,OkabePhone,,0,0,0,,{Lukako 2} {\pos(800,840)\c&H4C3D3D&\fs60\blur1.7}Lukako
+Dialogue: 0,0:20:04.51,0:20:05.01,Draw,,0,0,0,,{Professor Izaki 1} {\pos(0,860)\blur13\p1\c&H6E6560&}m 793 139 l 1027 139 l 1027 208 l 793 208 {\p0}
+Dialogue: 1,0:20:04.51,0:20:05.01,OkabePhone,,0,0,0,,{Professor Izaki 1} {\pos(800,1015)\c&H443636&\fs60\blur1.7}Professor Izaki
+Dialogue: 0,0:20:43.55,0:20:47.89,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HE7E2E0&}m 0 0 m 499 228 l 677 279 l 652 370 l 475 313{\p0}
+Dialogue: 1,0:20:43.55,0:20:47.89,OkabePhone,,0,0,0,,{\an4\frz343\c&H4B3D3D&\fs100\blur1.5\pos(484,262)}Incoming Call
+Dialogue: 0,0:20:50.14,0:20:52.10,Draw,,0,0,0,,{\pos(0,0)\blur4\p1\c&HECE5E3&}m 832 511 l 884 511 l 884 534 l 832 534{\p0}
+Dialogue: 1,0:20:50.14,0:20:52.10,OkabePhone,,0,0,0,,{\c&H352C2A&\fs25\blur1.2\an7\pos(833,509)}Incoming Call
 Dialogue: 0,0:00:05.00,0:00:06.79,Default,,0000,0000,0000,,Okabe Rintaro!
 Dialogue: 0,0:00:14.30,0:00:15.72,Default,,0000,0000,0000,,Don't move!
 Dialogue: 0,0:00:15.72,0:00:17.68,Default,,0000,0000,0000,,What the...
@@ -66,7 +216,6 @@ Dialogue: 0,0:04:22.76,0:04:26.39,Default,,0000,0000,0000,,What's the deal?\NWhy
 Dialogue: 0,0:04:26.39,0:04:28.60,Default,,0000,0000,0000,,Whoa! What the heck!? The TV!
 Dialogue: 0,0:04:28.60,0:04:30.81,Default,,0000,0000,0000,,Careful where you step!
 Dialogue: 0,0:04:30.81,0:04:32.89,Default,,0000,0000,0000,,Where's the broom and pan?
-Dialogue: 0,0:04:34.23,0:04:39.23,On Top,,0000,0000,0000,,“Eclipse of Vibronic Transition - Vibronic Transition -”
 Dialogue: 0,0:04:41.07,0:04:44.70,Default,,0000,0000,0000,,Looks like Mayuri's group\Ngot home safe and sound.
 Dialogue: 0,0:04:44.70,0:04:47.28,Default,,0000,0000,0000,,Maho-tan said she made it back to her office.
 Dialogue: 0,0:04:47.28,0:04:50.24,Default,,0000,0000,0000,,She's staying the night\Nat the institute just in case.
@@ -176,7 +325,6 @@ Dialogue: 0,0:11:23.55,0:11:25.85,Default,,0000,0000,0000,,But that's...
 Dialogue: 0,0:11:25.85,0:11:29.27,Default,,0000,0000,0000,,What can I even say to that?
 Dialogue: 0,0:11:31.60,0:11:33.52,Default,,0000,0000,0000,,You should probably sleep.
 Dialogue: 0,0:11:33.52,0:11:35.57,Default,,0000,0000,0000,,Good night.
-Dialogue: 0,0:11:43.82,0:11:46.78,On Top,,0000,0000,0000,,“Happy New Year's”\N“Open for business starting the 3rd”
 Dialogue: 0,0:11:44.41,0:11:47.29,Default,,0000,0000,0000,,Hmph, you finally showed up?
 Dialogue: 0,0:11:47.29,0:11:50.12,Default,,0000,0000,0000,,So? What the hell happened yesterday?
 Dialogue: 0,0:11:53.21,0:11:54.88,Default,,0000,0000,0000,,I've got this.
@@ -280,12 +428,9 @@ Dialogue: 0,0:17:10.23,0:17:13.53,Default,,0000,0000,0000,,So, you think that Ka
 Dialogue: 0,0:17:13.53,0:17:17.03,Default,,0000,0000,0000,,during the time she lost her memories?
 Dialogue: 0,0:17:17.03,0:17:18.16,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:17:18.16,0:17:21.45,Default,,0000,0000,0000,,In that case, why don't you contact the police?
-Dialogue: 0,0:17:18.99,0:17:24.83,On Top,,0000,0000,0000,,“Akimap”
 Dialogue: 0,0:17:21.45,0:17:27.21,Default,,0000,0000,0000,,Well, you see... She's afraid of the police.
-Dialogue: 0,0:17:26.71,0:17:33.46,On Top,,0000,0000,0000,,“Radio Center”\N“Morigori Electronics” “Forks Radio”
 Dialogue: 0,0:17:27.21,0:17:31.21,Default,,0000,0000,0000,,You never know! The police might\Nbe connected to the crime after all!
 Dialogue: 0,0:17:31.21,0:17:34.22,Default,,0000,0000,0000,,Sheesh! I don't know if I buy that...
-Dialogue: 0,0:17:33.46,0:17:36.18,On Top,,0000,0000,0000,,“Radio Kaikan Akihabara”
 Dialogue: 0,0:17:34.22,0:17:36.68,Default,,0000,0000,0000,,Uh, anyways...
 Dialogue: 0,0:17:36.68,0:17:38.39,Default,,0000,0000,0000,,They're only targeting Kagari.
 Dialogue: 0,0:17:38.39,0:17:43.39,Default,,0000,0000,0000,,Having said that, you should all\Nsteer clear of this area for the time being.
@@ -307,7 +452,6 @@ Dialogue: 0,0:18:35.15,0:18:37.65,Default,,0000,0000,0000,,Is there anything the
 Dialogue: 0,0:18:40.16,0:18:42.53,Default,,0000,0000,0000,,K-6205...
 Dialogue: 0,0:18:42.53,0:18:44.87,Default,,0000,0000,0000,,What's that mean?
 Dialogue: 0,0:18:44.87,0:18:46.70,Default,,0000,0000,0000,,Tennouji was saying...
-Dialogue: 0,0:18:46.62,0:18:49.08,On Top,,0000,0000,0000,,“Another Earthquake in Russia”
 Dialogue: 0,0:18:50.08,0:18:53.50,Default,,0000,0000,0000,,Now that I think about it,\Nthose guys said something odd.
 Dialogue: 0,0:18:53.50,0:18:54.92,Default,,0000,0000,0000,,Something odd?
 Dialogue: 0,0:18:54.92,0:19:01.30,Default,,0000,0000,0000,,Wasn't it... Yeah...\NK-6205 or something like that.
@@ -315,25 +459,19 @@ Dialogue: 0,0:19:01.30,0:19:05.26,Default,,0000,0000,0000,,The way they said it,
 Dialogue: 0,0:19:05.26,0:19:07.06,Default,,0000,0000,0000,,Phonetic code?
 Dialogue: 0,0:19:07.06,0:19:09.10,Default,,0000,0000,0000,,For military use.
 Dialogue: 0,0:19:09.10,0:19:12.52,Default,,0000,0000,0000,,More specifically, by the Western world.
-Dialogue: 0,0:19:11.65,0:19:12.06,On Top,,0000,0000,0000,,“Download the instruction manual\Nfor phone model #K6205”\N“Ranking K6205 (Red)” “Floor Materials 01 - Parcot Inc.”
-Dialogue: 0,0:19:12.06,0:19:14.11,On Top,,0000,0000,0000,,“Floor Materials 02 - We'll take\Ncare of your home renovation needs”\N“Mini Kitchen - K6205 Wine Table. Kitchen renovation...”
 Dialogue: 0,0:19:12.52,0:19:14.48,Default,,0000,0000,0000,,Hmm...
 Dialogue: 0,0:19:14.48,0:19:17.15,Default,,0000,0000,0000,,I'm only seeing stuff like product numbers.
 Dialogue: 0,0:19:18.40,0:19:20.40,Default,,0000,0000,0000,,What about Köchel numbering?
 Dialogue: 0,0:19:20.40,0:19:21.66,Default,,0000,0000,0000,,What's that?
 Dialogue: 0,0:19:21.66,0:19:25.66,Default,,0000,0000,0000,,They're numbers assigned\Nto each one of Mozart's compositions.
 Dialogue: 0,0:19:25.66,0:19:33.00,Default,,0000,0000,0000,,Then again, Mozart didn't make 6,000 songs\Nin the first place, so that can't be it.
-Dialogue: 0,0:19:31.83,0:19:37.09,On Top,,0000,0000,0000,,“Wolfgang Amadeus Mozart”
 Dialogue: 0,0:19:33.00,0:19:37.34,Default,,0000,0000,0000,,Wolfgang Amadeus Mozart...
 Dialogue: 0,0:19:37.34,0:19:42.30,Default,,0000,0000,0000,,What if it's not 6205 but part 5 of 620?
 Dialogue: 0,0:19:42.30,0:19:46.39,Default,,0000,0000,0000,,620? That's {\i1}The Magic Flute{\i}, I think.
 Dialogue: 0,0:19:48.56,0:19:50.39,Default,,0000,0000,0000,,Wow, you're right.
 Dialogue: 0,0:19:50.39,0:19:57.15,Default,,0000,0000,0000,,Um... It is famous for the Masonic\Nelements and symbolism it contains...
-Dialogue: 0,0:19:51.52,0:19:55.15,On Top,,0000,0000,0000,,“{\i1}The Magic Flute{\i} (German: {\i1}Die Zauberflöte{\i})”
 Dialogue: 0,0:19:57.15,0:19:59.11,Default,,0000,0000,0000,,Amadeus?
 Dialogue: 0,0:19:59.11,0:20:02.99,Default,,0000,0000,0000,,I wonder what's up?\NI can't connect to the Amadeus server...
-Dialogue: 0,0:20:03.28,0:20:04.53,On Top,,0000,0000,0000,,“Mayuri”\N“Daru”\N“Mayuri”\N “Mayuri”
-Dialogue: 0,0:20:04.53,0:20:05.03,On Top,,0000,0000,0000,,“Mayuri”\N“Lukako”\N“Hiyajo”\N “Mayuri”
 Dialogue: 0,0:20:05.49,0:20:07.20,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:20:09.16,0:20:10.70,Default,,0000,0000,0000,,Hi, this is Hiyajo.
 Dialogue: 0,0:20:10.70,0:20:12.46,Default,,0000,0000,0000,,Hello? It's me.
@@ -346,7 +484,6 @@ Dialogue: 0,0:20:25.18,0:20:26.93,Default,,0000,0000,0000,,I can't access it.
 Dialogue: 0,0:20:26.93,0:20:31.73,Default,,0000,0000,0000,,I don't want to think it,\Nbut it's possible someone took it over.
 Dialogue: 0,0:20:31.73,0:20:34.85,Default,,0000,0000,0000,,I'm hanging up. We'll talk later.
 Dialogue: 0,0:20:36.81,0:20:38.44,Default,,0000,0000,0000,,Okarin?
-Dialogue: 0,0:20:43.57,0:20:47.91,On Top,,0000,0000,0000,,“Incoming Call”
 Dialogue: 0,0:20:48.74,0:20:50.29,Default,,0000,0000,0000,,Amadeus...
 Dialogue: 0,0:20:58.79,0:21:00.13,Default,,0000,0000,0000,,[Kurisu]?!
 Dialogue: 0,0:21:00.13,0:21:02.97,Default,,0000,0000,0000,,Please, help me...

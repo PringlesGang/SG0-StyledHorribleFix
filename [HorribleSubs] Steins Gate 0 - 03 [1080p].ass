@@ -9,14 +9,66 @@ WrapStyle: 0
 PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: MayuriPhone,Patrick Hand,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\fsp-2\an1\pos(1102,952)}Protocol
+Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an2\fs70\fsp3\pos(1362,924)}of
+Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an2\fs50\pos(1360,948)\fsp-2}the
+Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an3\fs70\fsp-3\pos(1384,994)}Two-sided
+Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an1\fs140\pos(1390,1008)}Gospel
+Dialogue: 1,0:03:05.95,0:03:10.16,Draw,,0,0,0,,{\move(0,0,0,-904.5)\p1\c&HDBDADA&\blur10}m 1228 570 l 1468 559 l 1478 985 l 1229 983 {\p0}
+Dialogue: 1,0:03:05.95,0:03:10.16,Draw,,0,0,0,,{\move(0,904.5,0,0)\p1\c&HC9D0CE&\blur10}m 1228 818 l 1489 820 l 1478 -14 l 1226 -15 {\p0}
+Dialogue: 1,0:03:05.95,0:03:10.16,Signs,,0,0,0,,{\an6\move(1375,1602,1375,697.5)\fax0.02\fscy130\be4\fs125\c&H816551&\frz270.9}Tokyo Denki University
+Dialogue: 1,0:03:05.95,0:03:10.16,Signs,,0,0,0,,{\an7\fs67\be4\move(1242,1629.5,1242,725)\fay-0.01\c&H816551&}Building 7
+Dialogue: 0,0:03:56.38,0:03:57.59,Draw,,0,0,0,,{\fade(192,0)\p1\c&HDBD2CF&\blur10}m 519 960 l 667 1096 l 890 894 l 728 772 {\p0}
+Dialogue: 1,0:03:56.38,0:03:57.59,OkabePhone,,0,0,0,,{\fr43\fs70\c&H473F3D&\fade(192,0)\be4\pos(524.226,964)}Incoming Call:\N{\fs130\b0}Mayuri
+Dialogue: 1,0:09:30.13,0:09:32.59,Signs,,0,0,0,,{\an2\fs90\fax0.12\fay-0.02\c&H282120&\4c&H030202&\xshad4.5\yshad-2.25\frz0.512\pos(1131.358,422.25)}Brain Science Institute
+Dialogue: 1,0:10:23.97,0:10:26.52,Signs,,0,0,0,,{\fay-0.53\fs90\an8\c&H545355&\be4\pos(645.283,367)}Okabe Green Grocer
+Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 368 52 l 764 151 l 755 217 l 359 109 {\p0}
+Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 343 285 l 918 497 l 895 573 l 334 342 {\p0}
+Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 318 521 l 428 574 l 407 631 l 300 572 {\p0}
+Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 281 757 l 817 1101 l 727 1121 l 275 811 {\p0}
+Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 256 990 l 405 1110 l 329 1105 l 250 1044 {\p0}
+Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\frx358\fry358\frz345.5\org(1268,16)\pos(321,332)}Fill sadness in grief — reperative conduct{\u0}
+Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\frx358\fry358\org(1812,-98)\frz341.6\pos(214,988)}What causes dependence? How to treat it | psychol...
+Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\frx357\fry358\org(1750.679,621.75)\frz334.1\pos(201,1279)}Reperative Conduct
+Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\frx357\fry358\org(1994.679,985.75)\frz327.8\pos(161,1865)}“Reperative Conduct” is taking back
+Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\frx357\fry358\org(1698.679,1043.75)\frz328\pos(244,1909)}“Reperative conduct”
+Dialogue: 0,0:11:18.44,0:11:20.91,Draw,,0,0,0,,{\move(0,0,-70,-104)\p1\c&H335E57&\blur10}m 691 123 l 1218 526 l 1175 640 l 675 227 {\p0}
+Dialogue: 1,0:11:18.44,0:11:20.91,Signs,,0,0,0,,{\an7\fay0.81\fax-0.3\fs51.75\c&HB5B9BB&\b0\be3\org(1228,254)\frx358\fry356\frz2.55\move(626,88,558,-30)}1/120 Scale Radio-Controlled\N{\b1\fs56.25}Plastic Model Helicopter
+Dialogue: 0,0:15:43.38,0:15:44.38,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.38,0:15:44.50,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.50,0:15:44.63,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.63,0:15:44.75,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.75,0:15:44.88,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.88,0:15:44.96,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 918 436 l 948 448 958 480 954 504 945 528 931 546 798 513 844 490 860 485)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 1,0:15:43.38,0:15:44.38,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)}2 RINE messages from
+Dialogue: 1,0:15:44.38,0:15:44.50,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}2 RINE messages from
+Dialogue: 1,0:15:44.50,0:15:44.63,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}2 RINE messages from
+Dialogue: 1,0:15:44.63,0:15:44.75,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}2 RINE messages from
+Dialogue: 1,0:15:44.75,0:15:44.88,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}2 RINE messages from
+Dialogue: 1,0:15:44.88,0:15:44.96,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 918 436 l 948 448 958 480 954 504 945 528 931 546 798 513 844 490 860 485)}2 RINE messages from
+Dialogue: 1,0:15:43.38,0:15:44.38,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)}Daru-kun
+Dialogue: 1,0:15:44.38,0:15:44.50,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}Daru-kun
+Dialogue: 1,0:15:44.50,0:15:44.63,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}Daru-kun
+Dialogue: 1,0:15:44.63,0:15:44.75,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}Daru-kun
+Dialogue: 1,0:15:44.75,0:15:44.88,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}Daru-kun
+Dialogue: 0,0:15:44.96,0:15:45.34,Draw,,0,0,0,,{\p1\pos(0,0)\c&HEDEBEB&}m 928 319 l 894 362 l 1100 368 l 1131 328 {\p0}
+Dialogue: 1,0:15:44.96,0:15:45.34,MayuriPhone,,0,0,0,,{\fs33\be2.5\fax-0.8\fr-2\c&H6E6E6E&\pos(927.547,323)}Good luck, Daru-kun~~
+Dialogue: 0,0:15:44.96,0:15:45.34,Draw,,0,0,0,,{\p1\pos(0,0)\c&HE1DFE0&}m 1068 470 l 960 466 l 959 493 l 1049 497{\p0}
+Dialogue: 1,0:15:44.96,0:15:45.34,MayuriPhone,,0,0,0,,{\fs35\fax-0.8\fr-2\be2\c&H696969&\pos(974.528,462)}-dokey
 Dialogue: 0,0:00:02.46,0:00:04.29,Default,,0000,0000,0000,,Christmas Party?
 Dialogue: 0,0:00:04.29,0:00:07.79,Default,,0000,0000,0000,,Yup! I'm getting everyone\Ntogether to come to the lab.
 Dialogue: 0,0:00:07.79,0:00:10.38,Default,,0000,0000,0000,,It'd be really great if you all could come!
@@ -62,8 +114,6 @@ Dialogue: 0,0:02:38.78,0:02:43.53,Default,,0000,0000,0000,,{\i1}Then you shouldn
 Dialogue: 0,0:02:43.53,0:02:49.04,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
 Dialogue: 0,0:02:49.04,0:02:54.59,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
 Dialogue: 0,0:02:54.59,0:02:59.93,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 0,0:03:00.97,0:03:05.97,On Top,,0000,0000,0000,,“Protocol of the Two-sided Gospel - X-day Protocol -”
-Dialogue: 0,0:03:05.97,0:03:10.19,On Top,,0000,0000,0000,,“Tokyo Denki University Building 7”
 Dialogue: 0,0:03:07.35,0:03:10.23,Default,,0000,0000,0000,,I thought I told you not\Nto call me during class.
 Dialogue: 0,0:03:10.23,0:03:12.94,Default,,0000,0000,0000,,But when I contacted you,\Nthat was during your break.
 Dialogue: 0,0:03:12.94,0:03:13.90,Default,,0000,0000,0000,,What?
@@ -82,7 +132,6 @@ Dialogue: 0,0:03:47.81,0:03:49.35,Default,,0000,0000,0000,,Still...
 Dialogue: 0,0:03:49.35,0:03:52.73,Default,,0000,0000,0000,,The original me went there before, didn't they?
 Dialogue: 0,0:03:52.73,0:03:54.15,Default,,0000,0000,0000,,Well...
 Dialogue: 0,0:03:54.15,0:03:57.98,Default,,0000,0000,0000,,You're so evasive. Which is it?
-Dialogue: 0,0:03:56.40,0:03:57.61,On Top,,0000,0000,0000,,“Incoming Call: Mayuri”
 Dialogue: 0,0:03:57.98,0:04:00.40,Default,,0000,0000,0000,,Got a call. I'm hanging up.
 Dialogue: 0,0:04:02.70,0:04:04.03,Default,,0000,0000,0000,,Hello?
 Dialogue: 0,0:04:04.03,0:04:05.66,Default,,0000,0000,0000,,Ah, Okarin?
@@ -111,15 +160,12 @@ Dialogue: 0,0:04:58.92,0:04:59.75,Default,,0000,0000,0000,,I'm hanging up.
 Dialogue: 0,0:04:59.75,0:05:03.92,Default,,0000,0000,0000,,Wait. If you hold the camera so I can see,\Nyou don't have to look at the screen.
 Dialogue: 0,0:05:03.92,0:05:05.55,Default,,0000,0000,0000,,Okay.
 Dialogue: 0,0:05:08.43,0:05:10.06,Default,,0000,0000,0000,,Oh?
-Dialogue: 0,0:05:11.56,0:05:14.56,On Top,,0000,0000,0000,,“Limited Edition Complete Set with\NCollector's Box while Supplies Last”
 Dialogue: 0,0:05:11.85,0:05:15.27,Default,,0000,0000,0000,,Oh! Wait... Never mind.
 Dialogue: 0,0:05:15.27,0:05:18.10,Default,,0000,0000,0000,,It's a bit messier than I imagined.
 Dialogue: 0,0:05:19.77,0:05:22.28,Default,,0000,0000,0000,,Radikan?
 Dialogue: 0,0:05:22.28,0:05:23.03,Default,,0000,0000,0000,,Ah!
 Dialogue: 0,0:05:23.03,0:05:24.99,Default,,0000,0000,0000,,Hmph! What are you doing?!
-Dialogue: 0,0:05:24.36,0:05:26.74,On Top,,0000,0000,0000,,“Radio Kaikan Akihabara”
 Dialogue: 0,0:05:24.99,0:05:26.74,Default,,0000,0000,0000,,H-Hey!
-Dialogue: 0,0:05:26.74,0:05:30.33,On Top,,0000,0000,0000,,“Television CRT Workshop”
 Dialogue: 0,0:05:27.66,0:05:28.45,Default,,0000,0000,0000,,Ah!
 Dialogue: 0,0:05:28.45,0:05:30.16,Default,,0000,0000,0000,,Oh? If it isn't Okabe.
 Dialogue: 0,0:05:30.16,0:05:31.58,Default,,0000,0000,0000,,Hello!
@@ -169,7 +215,6 @@ Dialogue: 0,0:07:22.23,0:07:24.19,Default,,0000,0000,0000,,Of course!
 Dialogue: 0,0:07:24.19,0:07:25.98,Default,,0000,0000,0000,,You know what Mayushii thinks?
 Dialogue: 0,0:07:25.98,0:07:29.44,Default,,0000,0000,0000,,Daru-kun and Yuki-san are perfect for each other!
 Dialogue: 0,0:07:29.44,0:07:33.78,Default,,0000,0000,0000,,Fubuki-chan said,\N“No! No way is that ever happening!”
-Dialogue: 0,0:07:35.62,0:07:37.33,On Top,,0000,0000,0000,,“Radio Kaikan”
 Dialogue: 0,0:07:44.58,0:07:48.71,Default,,0000,0000,0000,,Searching for this is your and my first mission.
 Dialogue: 0,0:07:48.71,0:07:52.34,Default,,0000,0000,0000,,Um... O-Okey-dokey?
 Dialogue: 0,0:07:52.34,0:07:54.26,Default,,0000,0000,0000,,Good answer.
@@ -200,7 +245,6 @@ Dialogue: 0,0:09:11.88,0:09:14.47,Default,,0000,0000,0000,,I don't quite get it,
 Dialogue: 0,0:09:16.26,0:09:18.30,Default,,0000,0000,0000,,Big Sis... Dad...
 Dialogue: 0,0:09:18.30,0:09:22.72,Default,,0000,0000,0000,,For everyone's sake,\NI need to take Uncle Okarin with me...
 Dialogue: 0,0:09:22.72,0:09:24.98,Default,,0000,0000,0000,,To the entrance of Steins Gate.
-Dialogue: 0,0:09:30.15,0:09:32.61,On Top,,0000,0000,0000,,“Brain Science Institute”
 Dialogue: 0,0:09:31.52,0:09:34.61,Default,,0000,0000,0000,,The 24th? On Christmas Eve?
 Dialogue: 0,0:09:34.61,0:09:36.74,Default,,0000,0000,0000,,Why not get his report a different day?
 Dialogue: 0,0:09:36.74,0:09:40.37,Default,,0000,0000,0000,,Lintahlo himself said he had\Nno problems meeting up with us then.
@@ -219,14 +263,11 @@ Dialogue: 0,0:10:14.11,0:10:16.49,Default,,0000,0000,0000,,You need not worry fr
 Dialogue: 0,0:10:16.49,0:10:21.70,Default,,0000,0000,0000,,The system operates using memories,\Nwhich means it's remarkably secure.
 Dialogue: 0,0:10:21.70,0:10:23.54,Default,,0000,0000,0000,,That's not what bothers me.
 Dialogue: 0,0:10:23.54,0:10:24.99,Default,,0000,0000,0000,,Hmm?
-Dialogue: 0,0:10:23.99,0:10:26.54,On Top,,0000,0000,0000,,“Okabe Green Grocer”
 Dialogue: 0,0:10:26.12,0:10:28.71,Default,,0000,0000,0000,,What I'm worried about is...
 Dialogue: 0,0:10:36.26,0:10:37.26,Default,,0000,0000,0000,,What do you want?
 Dialogue: 0,0:10:37.26,0:10:39.13,Default,,0000,0000,0000,,Is that all you have to say?
 Dialogue: 0,0:10:39.13,0:10:41.01,Default,,0000,0000,0000,,What I'm worried about...
-Dialogue: 0,0:10:42.30,0:10:43.76,On Top,,0000,0000,0000,,“Displacement behavior.\NFinding yourself after the loss of a loved one...”\N“Why does displacement occur? An approach to coping...”
 Dialogue: 0,0:10:44.64,0:10:46.60,Default,,0000,0000,0000,,...is Okabe Rintaro.
-Dialogue: 0,0:10:50.77,0:10:52.61,On Top,,0000,0000,0000,,“Christmas Cake”
 Dialogue: 0,0:10:54.44,0:10:56.19,Default,,0000,0000,0000,,Are you getting tired of this yet?
 Dialogue: 0,0:10:56.19,0:10:59.45,Default,,0000,0000,0000,,Oh! We haven't been around that corner yet.
 Dialogue: 0,0:10:59.45,0:11:02.66,Default,,0000,0000,0000,,I won't let you make me late for the meeting.
@@ -235,7 +276,6 @@ Dialogue: 0,0:11:04.70,0:11:08.87,Default,,0000,0000,0000,,You still have 365 se
 Dialogue: 0,0:11:08.87,0:11:10.37,Default,,0000,0000,0000,,Sheesh.
 Dialogue: 0,0:11:13.00,0:11:14.71,Default,,0000,0000,0000,,Having fun?
 Dialogue: 0,0:11:14.71,0:11:17.59,Default,,0000,0000,0000,,It's frustrating that I can't move on my own.
-Dialogue: 0,0:11:18.46,0:11:20.93,On Top,,0000,0000,0000,,“1/120 Scale Radio-Controlled\NPlastic Model Helicopter”
 Dialogue: 0,0:11:19.30,0:11:20.30,Default,,0000,0000,0000,,I know!
 Dialogue: 0,0:11:20.30,0:11:23.76,Default,,0000,0000,0000,,Could you link your phone up\Nto a radio-controlled camera?
 Dialogue: 0,0:11:23.76,0:11:24.51,Default,,0000,0000,0000,,Then I could—
@@ -289,7 +329,6 @@ Dialogue: 0,0:13:44.07,0:13:45.36,Default,,0000,0000,0000,,Sorry...
 Dialogue: 0,0:13:45.36,0:13:49.62,Default,,0000,0000,0000,,I already promised my friend\NI would go to their Christmas party tonight.
 Dialogue: 0,0:13:53.45,0:13:54.83,Default,,0000,0000,0000,,Party?!
 Dialogue: 0,0:14:07.13,0:14:08.63,Default,,0000,0000,0000,,Dad?
-Dialogue: 0,0:14:09.18,0:14:11.35,On Top,,0000,0000,0000,,“Television CRT Workshop”
 Dialogue: 0,0:14:09.97,0:14:11.64,Default,,0000,0000,0000,,Wow!
 Dialogue: 0,0:14:11.64,0:14:14.72,Default,,0000,0000,0000,,What a lovely lab this is, Lintahlo!
 Dialogue: 0,0:14:14.72,0:14:17.48,Default,,0000,0000,0000,,Thank you very much for inviting us!
@@ -312,7 +351,6 @@ Dialogue: 0,0:14:58.64,0:15:05.48,Default,,0000,0000,0000,,This lab of yours is 
 Dialogue: 0,0:15:05.48,0:15:10.15,Default,,0000,0000,0000,,In fact, the one over\Nthere is astoundingly sexy.
 Dialogue: 0,0:15:10.15,0:15:11.70,Default,,0000,0000,0000,,But he's a dude.
 Dialogue: 0,0:15:13.20,0:15:17.29,Default,,0000,0000,0000,,Juicy Chicken Number One!
-Dialogue: 0,0:15:14.49,0:15:20.12,On Top,,0000,0000,0000,,“Juicy Chicken Number One”
 Dialogue: 0,0:15:17.29,0:15:20.58,Default,,0000,0000,0000,,They made a special size just for Christmas!
 Dialogue: 0,0:15:20.58,0:15:22.50,Default,,0000,0000,0000,,By the way, is Suzuha coming?
 Dialogue: 0,0:15:22.50,0:15:26.80,Default,,0000,0000,0000,,Yup! Daru-kun is on that mission as we speak.
@@ -322,15 +360,11 @@ Dialogue: 0,0:15:28.71,0:15:31.34,Default,,0000,0000,0000,,I hope he can trick h
 Dialogue: 0,0:15:31.34,0:15:32.76,Default,,0000,0000,0000,,Trick?
 Dialogue: 0,0:15:32.76,0:15:34.35,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:15:34.35,0:15:39.89,Default,,0000,0000,0000,,She wouldn't come if she knew it was\Na party, so he said he would trick her.
-Dialogue: 0,0:15:38.85,0:15:41.85,On Top,,0000,0000,0000,,“Juicy Chicken Number One”
 Dialogue: 0,0:15:39.89,0:15:44.23,Default,,0000,0000,0000,,Daru has a lot riding on his shoulders.
-Dialogue: 0,0:15:43.40,0:15:44.98,On Top,,0000,0000,0000,,“2 RINE messages from Daru”
 Dialogue: 0,0:15:44.23,0:15:45.57,Default,,0000,0000,0000,,Here it is!
-Dialogue: 0,0:15:44.98,0:15:45.36,On Top,,0000,0000,0000,,“Good luck, Daru”\N“Okey-dokey”
 Dialogue: 0,0:15:45.57,0:15:48.61,Default,,0000,0000,0000,,Daru-kun says they'll be here soon!
 Dialogue: 0,0:15:48.61,0:15:51.95,Default,,0000,0000,0000,,All right, everyone! Let's get in place!
 Dialogue: 0,0:15:51.95,0:15:53.95,Default,,0000,0000,0000,,Yeah!
-Dialogue: 0,0:15:55.45,0:16:00.66,On Top,,0000,0000,0000,,“CRT Workshop”
 Dialogue: 0,0:16:07.80,0:16:09.88,Default,,0000,0000,0000,,Hey!
 Dialogue: 0,0:16:09.88,0:16:11.67,Default,,0000,0000,0000,,I'm coming in!
 Dialogue: 0,0:16:11.67,0:16:14.22,Default,,0000,0000,0000,,I'm coming in with Suzuha!
@@ -365,7 +399,6 @@ Dialogue: 0,0:17:45.85,0:17:48.52,Default,,0000,0000,0000,,It's about time we ha
 Dialogue: 0,0:17:48.52,0:17:49.90,Default,,0000,0000,0000,,One, two...
 Dialogue: 0,0:17:49.90,0:17:52.78,Default,,0000,0000,0000,,Merry Christmas!
 Dialogue: 0,0:17:52.78,0:17:55.07,Default,,0000,0000,0000,,Cheers!
-Dialogue: 0,0:18:11.21,0:18:12.42,On Top,,0000,0000,0000,,“Juicy Chicken Number One”
 Dialogue: 0,0:18:18.34,0:18:19.64,Default,,0000,0000,0000,,Okarin?
 Dialogue: 0,0:18:19.64,0:18:22.31,Default,,0000,0000,0000,,We're about to start the present exchange.
 Dialogue: 0,0:18:22.31,0:18:24.06,Default,,0000,0000,0000,,I'll be right back.

@@ -14,10 +14,64 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:22:05.13,0:22:10.01,Title,,0,0,0,,{\an3\pos(1224,882)}Altair
+Dialogue: 1,0:22:05.13,0:22:10.01,Title,,0,0,0,,{\fs70\fsp9\an2\pos(1252,898)}of
+Dialogue: 1,0:22:05.13,0:22:10.01,Title,,0,0,0,,{\fs56\an2\pos(1250,930)}the
+Dialogue: 1,0:22:05.13,0:22:10.01,Title,,0,0,0,,{\an3\pos(1430,882)}Point
+Dialogue: 1,0:22:05.13,0:22:10.01,Title,,0,0,0,,{\an3\fs70\pos(1430,912)}at
+Dialogue: 1,0:22:05.13,0:22:10.01,Title,,0,0,0,,{\an7\fs110\pos(1434,832)}Infinity
+Dialogue: 1,0:00:53.32,0:00:56.03,Signs,,0,0,0,,{\an5\c&H2C2A27&\4c&H171717&\fs103\shad2.6\fnPlayfair Display\frx6\fry354\org(1365.925,584.5)\fade(1000,0)\frz8.867\pos(825.925,484.5)}Tokyo Denki University
+Dialogue: 1,0:02:48.64,0:02:48.77,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1098 374 l 1062 418 1422 364 1422 286 1150 330)}Tokyo Denki University
+Dialogue: 1,0:02:48.77,0:02:48.89,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1102 390 l 1084 426 1410 390 1378 304 1126 360)}Tokyo Denki University
+Dialogue: 1,0:02:48.89,0:02:49.02,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1122 388 l 1106 426 1396 378 1388 296 1174 338)}Tokyo Denki University
+Dialogue: 1,0:02:49.02,0:02:49.14,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1144 388 l 1126 428 1378 376 1392 290 1182 342)}Tokyo Denki University
+Dialogue: 1,0:02:49.14,0:02:49.27,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1180 380 l 1160 420 1390 376 1434 288 1222 334)}Tokyo Denki University
+Dialogue: 1,0:02:49.27,0:02:49.39,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1204 388 l 1190 412 1376 372 1408 304 1252 332)}Tokyo Denki University
+Dialogue: 1,0:02:49.39,0:02:49.52,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1234 378 l 1214 420 1384 372 1428 302 1284 332)}Tokyo Denki University
+Dialogue: 1,0:02:49.52,0:02:49.64,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1262 376 l 1246 416 1358 352 1342 298 1294 340)}Tokyo Denki University
+Dialogue: 1,0:02:49.64,0:02:49.77,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1282 376 l 1268 418 1358 352 1364 312 1316 334)}Tokyo Denki University
+Dialogue: 1,0:02:49.77,0:02:49.89,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)\iclip(m 1324 351 l 1298 387 1379 353 1370 305 1344 328)}Tokyo Denki University
+Dialogue: 1,0:02:49.89,0:02:50.60,Signs,,0,0,0,,{\an8\fnPlayfair Display\c&H373535&\4c&H040303&\fs50\shad2\frz9.126\frx5\fry356\be2\org(1399.925,370.5)\pos(1164,301)}Tokyo Denki University
+Dialogue: 0,0:03:31.35,0:03:32.31,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HF2F0EF&}m 1041 -22 l 1045 57 l 1376 63 l 1371 -33 {\p0}
+Dialogue: 1,0:03:31.35,0:03:32.31,OkabePhone,,0,0,0,,{\an5\c&HA89598&\fs100\blur1.5\pos(1206,20)}Understood
+Dialogue: 0,0:03:31.35,0:03:32.31,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HF0EEEE&}m 605 309 l 603 424 l 1400 432 l 1392 313 {\p0}
+Dialogue: 1,0:03:31.35,0:03:32.31,OkabePhone,,0,0,0,,{\c&H74666E&\fs85\blur1.5\pos(610,278)}If you find out anything, let me\Nknow
+Dialogue: 0,0:03:31.35,0:03:32.31,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HEEEBEB&}m 540 681 l 538 808 l 1061 810 l 1053 679 {\p0}
+Dialogue: 1,0:03:31.35,0:03:32.31,OkabePhone,,0,0,0,,{\an5\c&H675F64&\fs130\blur1.5\pos(794,738)}Nothing yet
+Dialogue: 0,0:03:32.31,0:03:33.56,Draw,,0,0,0,,{\blur10\p1\c&HF0EEEE&\pos(-2,-396)}m 605 309 l 603 424 l 1400 432 l 1392 313 {\p0}
+Dialogue: 1,0:03:32.31,0:03:33.56,OkabePhone,,0,0,0,,{\c&H74666E&\fs85\blur1.5\pos(616,-112)}If you find out anything, let me\Nknow
+Dialogue: 0,0:03:32.31,0:03:33.56,Draw,,0,0,0,,{\pos(0,-400)\blur10\p1\c&HEEEBEB&}m 540 681 l 538 808 l 1061 810 l 1053 679 {\p0}
+Dialogue: 1,0:03:32.31,0:03:33.56,OkabePhone,,0,0,0,,{\an5\c&H8A7E85&\fs130\blur1.5\pos(794,348)}Nothing yet
+Dialogue: 0,0:05:13.25,0:05:14.96,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HE0D8D4&}m 498 571 l 1401 412 l 1429 529 l 517 691 {\p0}
+Dialogue: 1,0:05:13.25,0:05:14.96,OkabePhone,,0,0,0,,{\an5\c&H9E908B&\fs160\blur2\frz9.542\pos(992,544)}1 new RINE message
+Dialogue: 0,0:09:19.70,0:09:20.53,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HA38934&}m 795 192 l 1324 187 l 1323 334 l 782 327 {\p0}
+Dialogue: 1,0:09:19.70,0:09:20.53,Signs,,0,0,0,,{\an7\fnAre You Serious\fs350\c&HFCFDF0&\blur1\bord8\pos(802,81)\3c&HAB9E7E&\alpha&30&}channel
+Dialogue: 2,0:09:19.70,0:09:20.53,Signs,,0,0,0,,{\an7\fnAre You Serious\fs350\blur2\c&HFCFDF0&\pos(802,81)\alpha&20&}channel
+Dialogue: 0,0:09:35.76,0:09:36.13,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HE0D4EC&}m 262 224 l 1422 95 l 1444 184 l 1607 170 l 1599 85 l 1961 50 l 1960 256 l 1346 319 l 1359 410 l 282 527 {\p0}
+Dialogue: 0,0:09:36.13,0:09:36.18,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HE0D4EC&\iclip(m 1326 368 l 1332 490 1430 498 1404 378)}m 262 224 l 1422 95 l 1444 184 l 1607 170 l 1599 85 l 1961 50 l 1960 256 l 1346 319 l 1359 410 l 282 527 {\p0}
+Dialogue: 0,0:09:36.18,0:09:36.22,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HE0D4EC&\iclip(m 1312 356 l 1312 482 1430 498 1404 348)}m 262 224 l 1422 95 l 1444 184 l 1607 170 l 1599 85 l 1961 50 l 1960 256 l 1346 319 l 1359 410 l 282 527 {\p0}
+Dialogue: 0,0:09:36.22,0:09:37.51,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HE0D4EC&\iclip(m 1300 356 l 1312 482 1430 498 1404 348)}m 262 224 l 1422 95 l 1444 184 l 1607 170 l 1599 85 l 1961 50 l 1960 256 l 1346 319 l 1359 410 l 282 527 {\p0}
+Dialogue: 1,0:09:35.76,0:09:37.51,Signs,,0,0,0,,{\q2\an7\fnCourier Prime\b0\c&H39363F&\fs80\fscy110\blur2\frz5.809\pos(240,258)}253 Name:KuriGohan and Kamehameha[sage] {} ID FT2Sm\N\N What you're saying makes no sense. Are you a normie\Nor something? Your statement is asinine and absurd.
+Dialogue: 0,0:09:38.26,0:09:40.26,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HB0A593&}m -19 524 l 218 504 l 236 645 l -19 672 {\p0}
+Dialogue: 1,0:09:38.26,0:09:40.26,Signs,,0,0,0,,{\an6\fnCourier Prime\b0\c&H271F1A&\fs130\blur2.5\frz6.184\pos(266,558)}Name:
+Dialogue: 0,0:09:38.26,0:09:40.26,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HEAE4D6&}m 345 495 l 842 448 l 871 568 l 356 617 {\p0}
+Dialogue: 1,0:09:39.68,0:09:39.72,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}S
+Dialogue: 1,0:09:39.72,0:09:39.80,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Sa
+Dialogue: 1,0:09:39.80,0:09:39.85,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Sal
+Dialogue: 1,0:09:39.85,0:09:39.93,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Sali
+Dialogue: 1,0:09:39.93,0:09:39.97,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Salie
+Dialogue: 1,0:09:39.97,0:09:40.05,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Salier
+Dialogue: 1,0:09:40.05,0:09:40.14,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Salieri
+Dialogue: 1,0:09:40.14,0:09:40.18,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Salieri'
+Dialogue: 1,0:09:40.18,0:09:40.26,Signs,,0,0,0,,{\an4\fnCourier Prime\b0\be3\c&H423730&\fs140\blur2\frz5.837\pos(360,556)}Salieri's
 Dialogue: 0,0:00:07.38,0:00:09.42,Default,,0000,0000,0000,,What the—?!
 Dialogue: 0,0:00:09.42,0:00:11.38,Default,,0000,0000,0000,,Hey! What was that?!
 Dialogue: 0,0:00:11.38,0:00:13.05,Default,,0000,0000,0000,,I'll raise your rent!
@@ -31,7 +85,6 @@ Dialogue: 0,0:00:32.49,0:00:36.03,Default,,0000,0000,0000,,You can't! If we run 
 Dialogue: 0,0:00:36.03,0:00:39.83,Default,,0000,0000,0000,,What a dump. And you call this a lab?
 Dialogue: 0,0:00:39.83,0:00:43.91,Default,,0000,0000,0000,,We only say that because\NOkarin gave it the name.
 Dialogue: 0,0:00:43.91,0:00:48.96,Default,,0000,0000,0000,,Kurisu actually managed to put it\Ntogether in a shoddy lab like this?
-Dialogue: 0,0:00:54.05,0:00:56.05,On Top,,0000,0000,0000,,“Tokyo Denki University”
 Dialogue: 0,0:01:16.80,0:01:22.10,Default,,0000,0000,0000,,{\i1}This is a life of fantasy,{\i}
 Dialogue: 0,0:01:22.10,0:01:28.02,Default,,0000,0000,0000,,{\i1}Unaffected still by illusions.{\i}
 Dialogue: 0,0:01:29.02,0:01:39.87,Default,,0000,0000,0000,,{\i1}Worldlines without end{\i}\N{\i1}are all deceived by an antinomy paradox{\i}
@@ -51,7 +104,6 @@ Dialogue: 0,0:02:34.78,0:02:42.03,Default,,0000,0000,0000,,As seen on page 21 of
 Dialogue: 0,0:02:42.03,0:02:45.45,Default,,0000,0000,0000,,We'll pick this back up next time.
 Dialogue: 0,0:02:45.45,0:02:47.29,Default,,0000,0000,0000,,By the way, Okabe-kun?
 Dialogue: 0,0:02:47.29,0:02:49.25,Default,,0000,0000,0000,,Y-Yeah?
-Dialogue: 0,0:02:48.66,0:02:50.62,On Top,,0000,0000,0000,,“Tokyo Denki University”
 Dialogue: 0,0:02:52.33,0:02:55.09,Default,,0000,0000,0000,,Ah, Okarin!
 Dialogue: 0,0:02:55.09,0:02:56.92,Default,,0000,0000,0000,,Sorry to keep you.
 Dialogue: 0,0:02:56.92,0:02:59.80,Default,,0000,0000,0000,,Don't be. The professor wanted to talk?
@@ -65,13 +117,10 @@ Dialogue: 0,0:03:17.40,0:03:21.24,Default,,0000,0000,0000,,But, I bet he'd be ha
 Dialogue: 0,0:03:21.24,0:03:24.95,Default,,0000,0000,0000,,Plus, so much has happened\Nwith Daru-kun and Yuki-san.
 Dialogue: 0,0:03:24.95,0:03:28.66,Default,,0000,0000,0000,,You know what I think?\NHe needs you there for him.
 Dialogue: 0,0:03:28.66,0:03:31.12,Default,,0000,0000,0000,,Yeah, but next week—
-Dialogue: 0,0:03:31.37,0:03:32.33,On Top,,0000,0000,0000,,“Got it.”\N“If you find out anything, let me know.”\N“Nothing yet”
-Dialogue: 0,0:03:32.33,0:03:33.58,On Top,,0000,0000,0000,,“Nothing yet”
 Dialogue: 0,0:03:35.50,0:03:38.59,Default,,0000,0000,0000,,Your normie life sure is taking off.
 Dialogue: 0,0:03:44.51,0:03:46.56,Default,,0000,0000,0000,,I wouldn't say that's true.
 Dialogue: 0,0:03:46.56,0:03:51.31,Default,,0000,0000,0000,,But, since I got the chance,\NI might as well try to study overseas.
 Dialogue: 0,0:03:51.31,0:03:55.48,Default,,0000,0000,0000,,I see... So it's something that you want to do.
-Dialogue: 0,0:03:54.31,0:03:56.52,On Top,,0000,0000,0000,,“Pedestrians Bicycles Only”
 Dialogue: 0,0:03:58.82,0:03:59.99,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:03:59.99,0:04:02.90,Default,,0000,0000,0000,,In that case, I think you should go for it.
 Dialogue: 0,0:04:02.90,0:04:04.95,Default,,0000,0000,0000,,It might work out for Daru too.
@@ -87,7 +136,6 @@ Dialogue: 0,0:04:35.15,0:04:36.23,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:04:36.23,0:04:40.44,Default,,0000,0000,0000,,But, when I tried to give it to\NSuzu-san before, you got super angry...
 Dialogue: 0,0:04:40.44,0:04:42.36,Default,,0000,0000,0000,,Did I really?
 Dialogue: 0,0:04:42.36,0:04:44.40,Default,,0000,0000,0000,,It's just a cheap coat.
-Dialogue: 0,0:04:48.70,0:04:49.45,On Top,,0000,0000,0000,,“Pedestrians Bicycles Only”
 Dialogue: 0,0:04:53.21,0:04:55.12,Default,,0000,0000,0000,,It's green.
 Dialogue: 0,0:04:55.12,0:04:59.42,Default,,0000,0000,0000,,Mayushii just remembered I've got\Nsomething I need to take care of.
 Dialogue: 0,0:04:59.42,0:05:01.71,Default,,0000,0000,0000,,Really?
@@ -95,7 +143,6 @@ Dialogue: 0,0:05:01.71,0:05:03.47,Default,,0000,0000,0000,,Hey, Okarin?
 Dialogue: 0,0:05:03.47,0:05:05.43,Default,,0000,0000,0000,,What?
 Dialogue: 0,0:05:05.43,0:05:07.89,Default,,0000,0000,0000,,No, never mind.
 Dialogue: 0,0:05:07.89,0:05:09.35,Default,,0000,0000,0000,,See you!
-Dialogue: 0,0:05:13.27,0:05:14.98,On Top,,0000,0000,0000,,“1 new RINE message”
 Dialogue: 0,0:05:18.15,0:05:19.77,Default,,0000,0000,0000,,Stop it!
 Dialogue: 0,0:05:19.77,0:05:22.61,Default,,0000,0000,0000,,It's not right to force him.
 Dialogue: 0,0:05:22.61,0:05:28.20,Default,,0000,0000,0000,,Why? Why do you push the weight\Nof the future solely on Okarin?
@@ -173,16 +220,12 @@ Dialogue: 0,0:09:02.91,0:09:05.50,Default,,0000,0000,0000,,It's not that I don't
 Dialogue: 0,0:09:05.50,0:09:09.17,Default,,0000,0000,0000,,Given the situation,\Nthat's not exactly on my mind...
 Dialogue: 0,0:09:09.17,0:09:13.01,Default,,0000,0000,0000,,Suzuha wanting to go back to the past and all...
 Dialogue: 0,0:09:13.01,0:09:14.13,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:09:19.72,0:09:20.56,On Top,,0000,0000,0000,,“@channel”
 Dialogue: 0,0:09:20.85,0:09:23.02,Default,,0000,0000,0000,,Something up on @channel?
 Dialogue: 0,0:09:23.02,0:09:28.90,Default,,0000,0000,0000,,No, but there's a bunch of rumors about\Nthe Chiba facility I went to with Kiryu-san.
 Dialogue: 0,0:09:28.90,0:09:33.78,Default,,0000,0000,0000,,On the occult board, I bet. Those guys\Njust make shit up for a living, I swear.
 Dialogue: 0,0:09:33.78,0:09:34.69,Default,,0000,0000,0000,,—Don't believe anything they say.
 Dialogue: 0,0:09:34.69,0:09:36.32,Default,,0000,0000,0000,,—Hmm?\N—Don't believe anything they say.
-Dialogue: 0,0:09:35.78,0:09:37.53,On Top,,0000,0000,0000,,“Name: KuriGohan and Kamehameha [sage]”\N“What you're saying makes no sense.\NAre you a normie or something? Your statement is asinine and absurd.”
 Dialogue: 0,0:09:37.53,0:09:39.49,Default,,0000,0000,0000,,This handle name...
-Dialogue: 0,0:09:38.28,0:09:39.91,On Top,,0000,0000,0000,,“Name:
-Dialogue: 0,0:09:39.91,0:09:40.28,On Top,,0000,0000,0000,,“Name: Salieri's”
 Dialogue: 0,0:09:44.00,0:09:44.87,Default,,0000,0000,0000,,Uh...
 Dialogue: 0,0:09:44.87,0:09:45.96,Default,,0000,0000,0000,,You idiot!
 Dialogue: 0,0:09:45.96,0:09:47.92,Default,,0000,0000,0000,,Is that a bunch of bananas?
@@ -393,4 +436,3 @@ Dialogue: 0,0:21:44.05,0:21:48.01,Default,,0000,0000,0000,,You know Orihime?\NIt
 Dialogue: 0,0:21:48.01,0:21:52.47,Default,,0000,0000,0000,,But, guess what? Overseas,\Nthey call it something else too...
 Dialogue: 0,0:21:52.47,0:21:55.52,Default,,0000,0000,0000,,It's the Arc-light of the Sky.
 Dialogue: 0,0:22:00.06,0:22:01.52,Default,,0000,0000,0000,,Mayuri...
-Dialogue: 0,0:22:05.15,0:22:10.03,On Top,,0000,0000,0000,,“Altair of the Point at Infinity - Vega and Altair -”

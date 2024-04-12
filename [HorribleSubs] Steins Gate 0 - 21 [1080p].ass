@@ -14,10 +14,15 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\fsp-6\pos(1418,904)}Rinascimento
+Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\fs60\pos(1438,940)}of
+Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\pos(1614,888)\fs120}I{\fs90}mage
+Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\pos(1786,942)}Formation
 Dialogue: 0,0:00:02.41,0:00:05.25,Default,,0000,0000,0000,,Theoretically, it is possible.
 Dialogue: 0,0:00:05.25,0:00:08.05,Default,,0000,0000,0000,,However, that's just in theory.
 Dialogue: 0,0:00:08.05,0:00:13.01,Default,,0000,0000,0000,,The mental burden alone will\Nbe colossal... to go back to 2011.
@@ -63,7 +68,6 @@ Dialogue: 0,0:02:33.65,0:02:35.98,Default,,0000,0000,0000,,Because I want to car
 Dialogue: 0,0:02:35.98,0:02:37.90,Default,,0000,0000,0000,,It's everyone's future.
 Dialogue: 0,0:02:43.08,0:02:44.20,Default,,0000,0000,0000,,Ready?
 Dialogue: 0,0:02:44.20,0:02:45.79,Default,,0000,0000,0000,,Do it.
-Dialogue: 0,0:03:01.97,0:03:05.47,On Top,,0000,0000,0000,,Rinascimento of Image Formation\N- Return of Phoenix -
 Dialogue: 0,0:03:36.38,0:03:38.92,Default,,0000,0000,0000,,Okabe? You're awake?
 Dialogue: 0,0:03:39.80,0:03:42.30,Default,,0000,0000,0000,,Okabe, don't move so quickly.
 Dialogue: 0,0:03:42.30,0:03:46.10,Default,,0000,0000,0000,,For the past 11 years,\Nyou've been out cold in a coma.

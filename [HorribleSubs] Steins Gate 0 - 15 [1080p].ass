@@ -14,10 +14,52 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: MahoPhone,Jost,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: MoekaPhone,Farsan,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: DaruPhone,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:11:45.97,0:11:50.98,Title,,0,0,0,,{\pos(1036,800)\fsp-3\fs70}Recognition
+Dialogue: 1,0:11:45.97,0:11:50.98,Title,,0,0,0,,{\pos(1280,820)\fs47}of the
+Dialogue: 1,0:11:45.97,0:11:50.98,Title,,0,0,0,,{\pos(1030,836)}Asymptotic Line
+Dialogue: 1,0:03:24.89,0:03:26.85,Signs,,0,0,0,,{\an8\fs40\be1\c&H25252B&\3c&H7F7F85&\bord3\fnNanum Brush Script\org(882,271)\frx14\fry22\frz333.6\pos(1154,408)\fade(500,0)}Marbled Port-Cutlet Sandwiches
+Dialogue: 1,0:03:24.89,0:03:26.85,Signs,,0,0,0,,{\an8\frx2\fry356\org(902,492)\pos(578,558)\frz5.097\c&H515081&\fs70\fnNanum Brush Script\be3\fade(500,0)\iclip(596,584,616,682)}Chicken & Rice
+Dialogue: 0,0:07:13.74,0:07:15.24,Draw,,0,0,0,,{\blur6\p1\c&H9FA1A5&\pos(0,-24)}m 896 278 l 993 312 l 971 367 l 872 332 {\p0}
+Dialogue: 1,0:07:13.74,0:07:15.24,MahoPhone,,0,0,0,,{\c&H6D696B&\fs38\be1\org(854,438)\frz339.2\frx10\fry2\pos(828,222)}Maho-san!\NHelp me!
+Dialogue: 0,0:07:51.45,0:07:53.41,Draw,,0,0,0,,{\blur9\pos(0,0)\p1\c&HE4DDDB&}m 668 591 l 780 617 l 767 659 l 803 674 l 789 733 l 637 687 {\p0}
+Dialogue: 1,0:07:51.45,0:07:53.41,OkabePhone,,0,0,0,,{\c&H716462&\fs47\be3\org(494,532)\frx0\fry354\frz343.5\pos(654,530)}Incoming Call
+Dialogue: 1,0:07:51.45,0:07:53.41,OkabePhone,,0,0,0,,{\c&H716462&\be3\org(494,532)\frx0\fry354\frz343.5\fs90\pos(650,557)}Mayuri
+Dialogue: 0,0:08:59.64,0:08:59.76,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD5D4D0&}m 683 888 l 913 913 l 908 972 l 678 950 {\p0}
+Dialogue: 0,0:08:59.76,0:08:59.89,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HEDECEE&}m 790 536 l 1020 561 l 1015 620 l 785 598 {\p0}
+Dialogue: 0,0:08:59.76,0:08:59.89,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HCACACA&}m 708 999 l 1014 1037 l 993 1132 l 698 1100 {\p0}
+Dialogue: 0,0:08:59.89,0:09:00.01,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HEFEDED&}m 886 153 l 1116 178 l 1111 237 l 881 215 {\p0}
+Dialogue: 0,0:08:59.89,0:09:00.01,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HE1E0E1&}m 808 624 l 1111 655 l 1105 699 l 1020 692 l 1017 749 l 798 725 {\p0}
+Dialogue: 0,0:09:00.01,0:09:01.60,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HE4E4E4&}m 861 410 l 1164 441 l 1158 485 l 1073 478 l 1070 535 l 851 511 {\p0}
+Dialogue: 0,0:09:00.01,0:09:01.60,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&HA3A2A2&}m 1302 962 l 1405 974 l 1399 1040 l 1297 1024 {\p0}
+Dialogue: 1,0:08:59.64,0:08:59.76,MoekaPhone,,0,0,0,,{\blur6\c&H5D5D5D&\fs36\be2\t(0,125,\blur5)\pos(679,886)\frz353.3}How do I keep the conversation\Ngoing?
+Dialogue: 1,0:08:59.76,0:08:59.89,MoekaPhone,,0,0,0,,{\blur5\c&H5D5D5D&\fs36\be2\t(0,125,\blur4)\frz353.4\pos(779,528)}How do I keep the conversation\Ngoing?
+Dialogue: 1,0:08:59.89,0:09:00.01,MoekaPhone,,0,0,0,,{\blur4\c&H5D5D5D&\fs36\be2\t(0,125,\blur2.5)\frz354.7\pos(874,148)}How do I keep the conversation\Ngoing?
+Dialogue: 1,0:08:59.76,0:08:59.89,MoekaPhone,,0,0,0,,{\blur5\c&H5D5D5D&\fs59\be2\t(0,125,\blur4)\frz351.5\pos(712,996)}Keep the conversation\Nfun and exciting.
+Dialogue: 1,0:08:59.89,0:09:00.01,MoekaPhone,,0,0,0,,{\blur4\c&H5D5D5D&\fs59\be2\t(0,125,\blur2.5)\frz354.1\pos(814,614)}Keep the conversation\Nfun and exciting.
+Dialogue: 1,0:09:00.01,0:09:01.60,MoekaPhone,,0,0,0,,{\blur2.5\c&H5D5D5D&\fs59\be2\t(0,125,\blur0)\pos(866,402)\frz354.1}Keep the conversation\Nfun and exciting.
+Dialogue: 0,0:16:28.34,0:16:28.46,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 196 985 l 300 950 l 313 984 l 209 1019 {\p0}
+Dialogue: 0,0:16:28.46,0:16:28.59,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 194 885 l 304 857 l 314 893 l 204 921 {\p0}
+Dialogue: 0,0:16:28.59,0:16:29.80,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 204 799 l 320 773 l 329 811 l 214 837 {\p0}
+Dialogue: 1,0:16:28.34,0:16:28.46,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\frz18.6\pos(256,980)}Yuki-san
+Dialogue: 1,0:16:28.46,0:16:28.59,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\pos(260,886)\frz14.77}Yuki-san
+Dialogue: 1,0:16:28.59,0:16:29.80,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\pos(272,802)\frz12.45}Yuki-san
+Dialogue: 0,0:16:28.46,0:16:28.59,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&H0F0D12&}m 208 1054 l 397 997 l 404 1043 l 214 1104 {\p0}
+Dialogue: 0,0:16:28.59,0:16:29.80,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&H0F0D12&}m 215 964 l 410 926 l 412 972 l 217 1015 {\p0}
+Dialogue: 1,0:16:28.46,0:16:28.59,DaruPhone,,0,0,0,,{\an5\c&HB19AA4&\fs35\be2\frz14.22\pos(308,1044)}Call Completed
+Dialogue: 1,0:16:28.59,0:16:29.80,DaruPhone,,0,0,0,,{\an5\c&HB19AA4&\fs35\be2\frz12.2\pos(316,968)}Call Completed
+Dialogue: 0,0:19:09.71,0:19:13.17,Draw,,0,0,0,,{\blur12\pos(0,0)\p1\c&HD8D9DA&}m 651 482 l 1188 568 l 1181 630 l 1237 645 l 1226 712 l 855 651 l 844 715 l 617 676 {\p0}
+Dialogue: 1,0:19:09.71,0:19:13.17,OkabePhone,,0,0,0,,{\c&H5B5558&\fs77\be2\fay-0.04\fax0.02\frz348.5\pos(660,474)}Think we can meet today?\NThere's so much I want to\Ntalk about.
 Dialogue: 0,0:00:02.87,0:00:04.67,Default,,0000,0000,0000,,K-Kagari?
 Dialogue: 0,0:00:04.67,0:00:06.21,Default,,0000,0000,0000,,Wait!
 Dialogue: 0,0:00:16.60,0:00:18.31,Default,,0000,0000,0000,,Kagari...
@@ -65,7 +107,6 @@ Dialogue: 0,0:03:07.14,0:03:09.35,Default,,0000,0000,0000,,I can't wait to see M
 Dialogue: 0,0:03:09.35,0:03:12.90,Default,,0000,0000,0000,,Try not to miss her. Don't forget she's so...
 Dialogue: 0,0:03:15.57,0:03:17.28,Default,,0000,0000,0000,,Hiyajo-san.
 Dialogue: 0,0:03:22.41,0:03:25.03,Default,,0000,0000,0000,,Long time no see, you guys.
-Dialogue: 0,0:03:25.12,0:03:26.87,On Top,,0000,0000,0000,,“Marbled Port-Cutlet Sandwiches”\N“Chicken & Rice”
 Dialogue: 0,0:03:26.41,0:03:28.62,Default,,0000,0000,0000,,Maho-san seems to be doing well.
 Dialogue: 0,0:03:28.62,0:03:32.50,Default,,0000,0000,0000,,Yeah, apparently she came to help the Professor.
 Dialogue: 0,0:03:32.50,0:03:34.17,Default,,0000,0000,0000,,What a busy girl.
@@ -75,7 +116,6 @@ Dialogue: 0,0:03:40.72,0:03:41.72,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:03:41.72,0:03:43.72,Default,,0000,0000,0000,,By the way, where's Hashida-san?
 Dialogue: 0,0:03:43.72,0:03:48.39,Default,,0000,0000,0000,,I guess he had something important to talk\Nwith Suzu-nya about, so he couldn't come.
 Dialogue: 0,0:03:48.39,0:03:49.56,Default,,0000,0000,0000,,Hmm...
-Dialogue: 0,0:03:49.56,0:03:51.02,On Top,,0000,0000,0000,,“Television”\N“CRT Workshop”
 Dialogue: 0,0:03:52.52,0:03:54.40,Default,,0000,0000,0000,,What the hell, Dad?!
 Dialogue: 0,0:03:54.40,0:03:56.86,Default,,0000,0000,0000,,Wh-What's that scary face for?
 Dialogue: 0,0:03:56.86,0:03:59.82,Default,,0000,0000,0000,,Put your hand on your heart and think about it.
@@ -146,7 +186,6 @@ Dialogue: 0,0:07:02.17,0:07:05.38,Default,,0000,0000,0000,,I said no such thing.
 Dialogue: 0,0:07:05.38,0:07:10.97,Default,,0000,0000,0000,,By the way, Lintahlo... How is that report\Nwe discussed the other day coming along?
 Dialogue: 0,0:07:10.97,0:07:13.09,Default,,0000,0000,0000,,Well, I have it right here.
 Dialogue: 0,0:07:13.09,0:07:15.93,Default,,0000,0000,0000,,Oho? You impress me.
-Dialogue: 0,0:07:13.76,0:07:15.26,On Top,,0000,0000,0000,,“Maho! Help me!”
 Dialogue: 0,0:07:15.93,0:07:17.27,Default,,0000,0000,0000,,Suzuha-san?
 Dialogue: 0,0:07:17.27,0:07:20.06,Default,,0000,0000,0000,,It's nothing special, but here it is.
 Dialogue: 0,0:07:20.06,0:07:22.23,Default,,0000,0000,0000,,Lintahlo.
@@ -159,7 +198,6 @@ Dialogue: 0,0:07:40.79,0:07:45.46,Default,,0000,0000,0000,,If it's good enough, 
 Dialogue: 0,0:07:45.46,0:07:46.42,Default,,0000,0000,0000,,Great.
 Dialogue: 0,0:07:46.42,0:07:48.92,Default,,0000,0000,0000,,And I'm sure Maho would love that too.
 Dialogue: 0,0:07:48.92,0:07:50.09,Default,,0000,0000,0000,,Professor!
-Dialogue: 0,0:07:51.47,0:07:53.43,On Top,,0000,0000,0000,,“Incoming Call: Mayuri”
 Dialogue: 0,0:07:53.64,0:07:54.47,Default,,0000,0000,0000,,What's up?
 Dialogue: 0,0:07:54.47,0:07:56.18,Default,,0000,0000,0000,,Ah, Okarin?
 Dialogue: 0,0:07:56.18,0:08:02.69,Default,,0000,0000,0000,,Um, a bunch of us are gathered at the lab right now,\Nso I was wondering if you wanted to join us?
@@ -176,7 +214,6 @@ Dialogue: 0,0:08:42.98,0:08:46.65,Default,,0000,0000,0000,,So, I'm thinking if y
 Dialogue: 0,0:08:46.65,0:08:49.52,Default,,0000,0000,0000,,it might make her heart flutter, you know?
 Dialogue: 0,0:08:49.52,0:08:52.49,Default,,0000,0000,0000,,Mayuri-sama! Yes, ma'am! Mayuri-sama!
 Dialogue: 0,0:08:52.49,0:08:57.78,Default,,0000,0000,0000,,To be honest, the most important thing\Nis to understand a woman's heart.
-Dialogue: 0,0:08:59.99,0:09:01.62,On Top,,0000,0000,0000,,“Keep the conversation fun and exciting.”
 Dialogue: 0,0:09:05.25,0:09:06.67,Default,,0000,0000,0000,,Well, Big Bro?
 Dialogue: 0,0:09:06.67,0:09:08.33,Default,,0000,0000,0000,,Feeling confident yet?
 Dialogue: 0,0:09:08.33,0:09:12.46,Default,,0000,0000,0000,,Huh? Uh, yeah...
@@ -225,7 +262,6 @@ Dialogue: 0,0:11:26.97,0:11:30.44,Default,,0000,0000,0000,,I have something to s
 Dialogue: 0,0:11:30.44,0:11:31.39,Default,,0000,0000,0000,,Uh...
 Dialogue: 0,0:11:31.39,0:11:33.73,Default,,0000,0000,0000,,Yuki-san, will you...
 Dialogue: 0,0:11:41.91,0:11:43.20,Default,,0000,0000,0000,,Will you...
-Dialogue: 0,0:11:45.99,0:11:51.00,On Top,,0000,0000,0000,,“Recognition of the Asymptotic Line\N- Recognize Asymptote -”
 Dialogue: 0,0:11:53.33,0:11:55.13,Default,,0000,0000,0000,,I failed...
 Dialogue: 0,0:11:55.13,0:11:58.13,Default,,0000,0000,0000,,Dad, get a hold of yourself.
 Dialogue: 0,0:11:58.13,0:12:01.09,Default,,0000,0000,0000,,It's not like you were rejected, right?
@@ -259,7 +295,6 @@ Dialogue: 0,0:13:36.39,0:13:38.90,Default,,0000,0000,0000,,I went too far as wel
 Dialogue: 0,0:13:38.90,0:13:40.57,Default,,0000,0000,0000,,No...
 Dialogue: 0,0:13:40.57,0:13:42.40,Default,,0000,0000,0000,,It's not your fault...
 Dialogue: 0,0:13:48.99,0:13:50.66,Default,,0000,0000,0000,,It's my fault.
-Dialogue: 0,0:13:49.07,0:13:53.54,On Top,,0000,0000,0000,,“Karaoke (1-Person Rooms!)”\N“The Best”\N“Game Center”
 Dialogue: 0,0:13:50.66,0:13:52.12,Default,,0000,0000,0000,,Yeah...
 Dialogue: 0,0:13:52.12,0:13:54.04,Default,,0000,0000,0000,,Just like then...
 Dialogue: 0,0:13:54.79,0:13:58.42,Default,,0000,0000,0000,,Mom! Mom!
@@ -295,7 +330,6 @@ Dialogue: 0,0:16:15.30,0:16:18.39,Default,,0000,0000,0000,,Yeah, so hey...
 Dialogue: 0,0:16:18.39,0:16:22.39,Default,,0000,0000,0000,,Tomorrow, do you want\Nto meet up with me again?!
 Dialogue: 0,0:16:22.39,0:16:24.44,Default,,0000,0000,0000,,Yeah... Yeah, yeah.
 Dialogue: 0,0:16:24.44,0:16:25.98,Default,,0000,0000,0000,,Later.
-Dialogue: 0,0:16:28.36,0:16:29.82,On Top,,0000,0000,0000,,“Yuki”\N“Call Completed”
 Dialogue: 0,0:16:32.90,0:16:34.57,Default,,0000,0000,0000,,Dad...
 Dialogue: 0,0:16:34.57,0:16:37.37,Default,,0000,0000,0000,,I can't compete with you, Dad.
 Dialogue: 0,0:16:40.45,0:16:42.46,Default,,0000,0000,0000,,Good grief...
@@ -313,7 +347,6 @@ Dialogue: 0,0:18:20.76,0:18:24.10,Default,,0000,0000,0000,,...Moe Moe Kyun!
 Dialogue: 0,0:18:29.90,0:18:31.61,Default,,0000,0000,0000,,Dad...
 Dialogue: 0,0:18:53.00,0:18:54.75,Default,,0000,0000,0000,,Thank goodness...
 Dialogue: 0,0:18:54.75,0:18:57.05,Default,,0000,0000,0000,,With this, I can...
-Dialogue: 0,0:19:09.73,0:19:13.19,On Top,,0000,0000,0000,,“Think we can meet today?\NThere's so much I want to talk about.”
 Dialogue: 0,0:19:10.10,0:19:14.52,Default,,0000,0000,0000,,Think we can meet today?\NThere's so much I want to talk about.
 Dialogue: 0,0:19:15.90,0:19:18.61,Default,,0000,0000,0000,,Lintahlo. Sorry to keep you.
 Dialogue: 0,0:19:18.61,0:19:20.70,Default,,0000,0000,0000,,Oh, no. It's okay.

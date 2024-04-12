@@ -14,22 +14,79 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: MahoPhone,Jost,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: SuzuhaPhone,Manjari,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:05.54,0:00:08.00,On Top,,0000,0000,0000,,“Kinomoto Coffee”\N“Yuzuriha”\N“Pastas” “Espresso”
-Dialogue: 0,0:00:14.43,0:00:15.68,On Top,,0000,0000,0000,,“Tutturu~\NWhere are you, Okarin?”
-Dialogue: 0,0:00:20.18,0:00:22.10,On Top,,0000,0000,0000,,“Aha, the usual cafe~\NOmw~”
+Dialogue: 1,0:05:14.00,0:05:19.00,Title,,0,0,0,,{\an3\fsp-5\pos(1254,898)}Recognition
+Dialogue: 1,0:05:14.00,0:05:19.00,Title,,0,0,0,,{\an3\fs40\pos(1278,926)}of the
+Dialogue: 1,0:05:14.00,0:05:19.00,Title,,0,0,0,,{\an3\fs80\pos(1444,898)}Elastic
+Dialogue: 1,0:05:14.00,0:05:19.00,Title,,0,0,0,,{\an3\fs80\pos(1488,946)}Limit
+Dialogue: 0,0:00:05.52,0:00:07.98,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&H204B64&}m 1358 353 l 1594 116 l 1624 188 l 1380 420 {\p0}
+Dialogue: 0,0:00:05.52,0:00:07.98,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H174159&}m 1447 705 l 1750 471 l 1809 561 l 1481 790 {\p0}
+Dialogue: 0,0:00:05.52,0:00:07.98,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&H1F5269&}m 1629 967 l 1792 879 l 1823 971 l 1657 1061 {\p0}
+Dialogue: 1,0:00:05.52,0:00:07.98,Signs,,0,0,0,,{\be3\c&H0C3554&\an5\fnRoboto\fs75\bord0.6\3c&H0C3554&\frx6\fry335\org(1554,458)\pos(1538,222)\frz31.71}Kinomoto Coffee
+Dialogue: 1,0:00:05.52,0:00:07.98,Signs,,0,0,0,,{\fnPlayfair Display Medium\c&H0C1E25\an5\blur1.5\b1\fs95\fsp4\org(1672,392)\frx14\fry341\frz40.05\pos(1496,528)}Yuzuriha
+Dialogue: 1,0:00:05.52,0:00:07.98,Signs,,0,0,0,,{\fnRounded Mplus 1c Extrabold\c&H1A2D3A&\blur1.5\an5\fs65\frx8\fry346\be2\pos(1720,968)\frz27.36}Pastas &\N{\fs62}Espresso
+Dialogue: 0,0:00:14.41,0:00:15.66,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&HE9E8E9&}m 697 566 l 1319 416 l 1350 509 l 1459 483 l 1496 581 l 740 781 {\p0}
+Dialogue: 1,0:00:14.41,0:00:15.66,OkabePhone,,0,0,0,,{\c&H726D6D&\fs120\be2\fax0.03\fay-0.02\frz13.38\pos(678,546)}Tutturu~{\fnNoto Sans JP\c&H6291D8&}♫\N{\fnPlaypen Sans\c&H726D6D&}Where are you, Okarin?
+Dialogue: 0,0:00:15.66,0:00:20.16,Draw,,0,0,0,,{\blur8\p1\c&HF0EDEE&\pos(0,0)}m 553 -45 l 605 176 l 1419 -1 {\p0}
+Dialogue: 1,0:00:15.66,0:00:20.16,OkabePhone,,0,0,0,,{\c&H726D6D&\fs120\be2\fax0.03\fay-0.02\frz10.87\pos(554,-50)}Tutturu~{\fnNoto Sans JP\c&H6291D8&}♫\N{\fnPlaypen Sans\c&H726D6D&}Where are you, Okarin?
+Dialogue: 0,0:00:20.16,0:00:22.08,Draw,,0,0,0,,{\blur8\p1\c&HE5E6E6&\pos(0,0)}m 699 558 l 1471 369 l 1493 478 l 1068 598 l 1090 693 l 747 779 {\p0}
+Dialogue: 1,0:00:20.16,0:00:22.08,OkabePhone,,0,0,0,,{\c&H726D6D&\fs130\be2\fax0.03\fay-0.02\pos(696,536)\frz12.72}Aha, the usual cafe~\NOmw~{\fnNoto Sans JP\c&H6291D8&}♫
+Dialogue: 0,0:00:56.41,0:00:58.12,Draw,,0,0,0,,{\blur15\p1\c&HFAFAFA&\pos(0,0)}m 604 232 l 1048 155 l 1065 241 l 1271 210 l 1296 302 l 643 430 {\p0}
+Dialogue: 1,0:00:56.41,0:00:58.12,OkabePhone,,0,0,0,,{\c&H6B6362&\fs115\be3\frz11.09\pos(618,210)}I went back to the\Nplace again yesterday
+Dialogue: 0,0:00:56.41,0:00:58.12,Draw,,0,0,0,,{\blur8\p1\c&HEAE9E9&\pos(0,0)}m 718 695 l 1147 604 l 1184 703 l 740 805 {\p0}
+Dialogue: 1,0:00:56.41,0:00:58.12,OkabePhone,,0,0,0,,{\c&H433E3F&\an5\fs100\be2\frz12.56\pos(946,698)}Still can't get in
+Dialogue: 0,0:00:56.41,0:00:58.12,Draw,,0,0,0,,{\blur8\p1\c&HD9D9D9&\pos(0,0)}m 1165 937 l 1510 853 l 1547 952 l 1187 1047 {\p0}
+Dialogue: 1,0:00:56.41,0:00:58.12,OkabePhone,,0,0,0,,{\c&H373535&\fs100\an5\be2\frz13.64\pos(1344,946)}Why not?
+Dialogue: 0,0:00:58.12,0:01:00.41,Draw,,0,0,0,,{\blur8\p1\c&HFFFEFF&\pos(0,0)}m 564 4 l 596 123 l 1052 46 l 1018 -63 {\p0}
+Dialogue: 1,0:00:58.12,0:01:00.41,OkabePhone,,0,0,0,,{\c&H433E3F&\an5\fs100\be2\frz7.071\pos(798,28)}Still can't get in
+Dialogue: 0,0:00:58.12,0:01:00.41,Draw,,0,0,0,,{\blur8\p1\c&HFBF8F5&\pos(0,0)}m 1027 278 l 1053 380 l 1407 310 l 1374 207 {\p0}
+Dialogue: 1,0:00:58.12,0:01:00.41,OkabePhone,,0,0,0,,{\c&H373535&\fs100\an5\be2\pos(1202,290)\frz11.29}Why not?
+Dialogue: 0,0:00:58.12,0:00:59.03,Draw,,0,0,0,,{\blur8\p1\c&HD5E8D1&\pos(0,0)}m 722 774 l 737 835 l 1030 765 l 1015 712 {\p0}
+Dialogue: 0,0:00:59.03,0:00:59.16,Draw,,0,0,0,,{\blur8\p1\c&HD5E8D1&\pos(0,0)\iclip(m 819 844 l 820 820 826 794 836 774 838 764 858 737 881 717 1002 696 1022 706 1035 718 1067 753 1080 761)}m 722 774 l 737 835 l 1030 765 l 1015 712 {\p0}
+Dialogue: 0,0:00:59.16,0:00:59.33,Draw,,0,0,0,,{\blur8\p1\c&HD5E8D1&\pos(0,0)\iclip(m 966 801 l 964 786 966 732 970 705 1198 660 1244 758)}m 722 774 l 737 835 l 1030 765 l 1015 712 {\p0}
+Dialogue: 0,0:00:59.33,0:00:59.41,Draw,,0,0,0,,{\blur8\p1\c&HD5E8D1&\pos(0,0)\iclip(m 957 790 l 958 763 964 721 968 705 1208 657 1246 733)}m 722 774 l 737 835 l 1030 765 l 1015 712 {\p0}
+Dialogue: 0,0:00:59.41,0:00:59.53,Draw,,0,0,0,,{\blur8\p1\c&HD5E8D1&\pos(0,0)\iclip(m 950 794 l 950 776 955 740 963 712 1193 656 1230 753)}m 722 774 l 737 835 l 1030 765 l 1015 712 {\p0}
+Dialogue: 0,0:00:59.53,0:00:59.62,Draw,,0,0,0,,{\blur8\p1\c&HD5E8D1&\pos(0,0)\iclip(m 957 790 l 958 763 964 721 968 705 1208 657 1246 733)}m 722 774 l 737 835 l 1030 765 l 1015 712 {\p0}
+Dialogue: 0,0:00:59.62,0:01:00.41,Draw,,0,0,0,,{\blur8\p1\c&HD5E8D1&\pos(0,0)\iclip(m 966 801 l 964 786 966 732 970 705 1198 660 1244 758)}m 722 774 l 737 835 l 1030 765 l 1015 712 {\p0}
+Dialogue: 1,0:00:58.12,0:00:59.03,OkabePhone,,0,0,0,,{\an4\c&HBFD2BA&\fs70\be3\pos(740,800)\frz12.75}File attachment
+Dialogue: 1,0:00:59.03,0:00:59.16,OkabePhone,,0,0,0,,{\an4\c&HBFD2BA&\fs70\be3\pos(740,800)\frz12.75\iclip(m 819 844 l 820 820 826 794 836 774 838 764 858 737 881 717 1002 696 1022 706 1035 718 1067 753 1080 761)}File attachment
+Dialogue: 1,0:00:59.16,0:00:59.33,OkabePhone,,0,0,0,,{\an4\c&HBFD2BA&\fs70\be3\pos(740,800)\frz12.75\iclip(m 966 801 l 964 786 966 732 970 705 1198 660 1244 758)}File attachment
+Dialogue: 1,0:00:59.33,0:00:59.41,OkabePhone,,0,0,0,,{\an4\c&HBFD2BA&\fs70\be3\pos(740,800)\frz12.75\iclip(m 957 790 l 958 763 964 721 968 705 1208 657 1246 733)}File attachment
+Dialogue: 1,0:00:59.41,0:00:59.53,OkabePhone,,0,0,0,,{\an4\c&HBFD2BA&\fs70\be3\pos(740,800)\frz12.75\iclip(m 950 794 l 950 776 955 740 963 712 1193 656 1230 753)}File attachment
+Dialogue: 1,0:00:59.53,0:00:59.62,OkabePhone,,0,0,0,,{\an4\c&HBFD2BA&\fs70\be3\pos(740,800)\frz12.75\iclip(m 957 790 l 958 763 964 721 968 705 1208 657 1246 733)}File attachment
+Dialogue: 1,0:00:59.62,0:01:00.41,OkabePhone,,0,0,0,,{\an4\c&HBFD2BA&\fs70\be3\pos(740,800)\frz12.75\iclip(m 966 801 l 964 786 966 732 970 705 1198 660 1244 758)}File attachment
+Dialogue: 1,0:07:43.69,0:07:46.19,Signs,,0,0,0,,{\org(960,540)\an2\xshad4\yshad4\fs60\blur1\4c&H4C392C&\c&H5E5741&\fnDidact Gothic\frz0.06543\t(\fs68)\move(1136,342,1155,325)}AH
+Dialogue: 1,0:07:43.69,0:07:46.19,Signs,,0,0,0,,{\an2\xshad4\yshad4\fs60\blur1\4c&H4C392C&\c&H5E5741&\fnDidact Gothic\frz358.3\frx0\fry16\t(\fs68)\move(1220,344,1248,328)}Tokyo
+Dialogue: 1,0:07:43.69,0:07:46.19,Signs,,0,0,0,,{\an2\xshad4\yshad4\fs60\blur1\4c&H4C392C&\c&H5E5741&\fnDidact Gothic\frx4\fry22\t(\fs68)\frz356.2\move(1344,354,1387,337)}General
+Dialogue: 1,0:07:43.69,0:07:46.19,Signs,,0,0,0,,{\an2\xshad4\yshad4\fs60\blur1\4c&H4C392C&\c&H5E5741&\fnDidact Gothic\frz353.3\frx8\fry16\org(1360,304)\t(\fs68)\move(1494,354,1563,332)}Hospital
+Dialogue: 0,0:10:36.44,0:10:38.03,Draw,,0,0,0,,{\blur34\p1\c&HDBD2CE&\pos(0,0)}m 658 411 l 1276 365 l 1367 630 l 700 673 {\p0}
+Dialogue: 1,0:10:36.44,0:10:38.03,MahoPhone,,0,0,0,,{\an5\c&H897776&\fs150\be2\fay-0.065\fax0.16\pos(1008,534)}1 new message\NProfessor Leskinen
+Dialogue: 0,0:12:48.70,0:12:50.20,Draw,,0,0,0,,{\blur10\p1\c&HE4E3E3&\pos(0,0)}m 688 563 l 902 510 l 923 575 l 1062 553 l 1090 624 l 725 704 {\p0}
+Dialogue: 1,0:12:48.70,0:12:50.20,SuzuhaPhone,,0,0,0,,{\c&H636061&\fs100\be1.5\frz12.23\pos(692,548)}Fubuki-shi is\NA-OK
+Dialogue: 0,0:12:50.20,0:12:50.70,Draw,,0,0,0,,{\blur10\p1\c&HE6E5E5&\pos(0,0)}m 638 347 l 852 294 l 873 359 l 1012 337 l 1040 408 l 675 488 {\p0}
+Dialogue: 1,0:12:50.20,0:12:50.70,SuzuhaPhone,,0,0,0,,{\c&H636061&\fs100\be1.5\frz12.23\pos(634,330)}Fubuki-shi is\NA-OK
+Dialogue: 0,0:12:50.20,0:12:50.70,Draw,,0,0,0,,{\blur10\p1\c&HE1E1E1&\pos(0,0)}m 841 677 l 1105 614 l 1126 679 l 1355 636 l 1383 707 l 878 818 {\p0}
+Dialogue: 1,0:12:50.20,0:12:50.70,SuzuhaPhone,,0,0,0,,{\c&H636061&\fs90\be1.5\frz13\pos(836,674)}Good to hear.\NAnd how abo{\c&H514E4F&}ut Mom?
+Dialogue: 0,0:12:50.70,0:12:52.41,Draw,,0,0,0,,{\blur10\p1\c&HE8E6E6&\pos(-96,-370)}m 841 677 l 1105 614 l 1126 679 l 1355 636 l 1383 707 l 878 818 {\p0}
+Dialogue: 1,0:12:50.70,0:12:52.41,SuzuhaPhone,,0,0,0,,{\c&H636061&\fs90\be1.5\frz13\pos(740,306)}Good to hear.\NAnd how about Mom?
+Dialogue: 1,0:12:50.70,0:12:52.41,Signs,,0,0,0,,{\an8\fs41\shad4\c&H938FC9&\4c&H201F3B&\frz13.07\pos(824,816)\blur1}Coming
+Dialogue: 1,0:12:50.70,0:12:52.41,Signs,,0,0,0,,{\an8\shad4\c&H938FC9&\4c&H201F3B&\frz13.07\fs50\pos(830,842)\blur1}Home
 Dialogue: 0,0:00:32.36,0:00:35.20,Default,,0000,0000,0000,,Suzuha!
 Dialogue: 0,0:00:35.20,0:00:36.95,Default,,0000,0000,0000,,Dad...
 Dialogue: 0,0:00:36.95,0:00:41.25,Default,,0000,0000,0000,,Why in the world are you\Nstill out in this downpour?!
 Dialogue: 0,0:00:41.25,0:00:45.08,Default,,0000,0000,0000,,It's been several months\Nsince Kagari vanished...
 Dialogue: 0,0:00:45.08,0:00:50.05,Default,,0000,0000,0000,,We tried to track down her whereabouts\Nusing all possible means, but...
 Dialogue: 0,0:00:51.88,0:00:56.43,Default,,0000,0000,0000,,In the end, we just couldn't locate her.
-Dialogue: 0,0:00:56.43,0:00:58.14,On Top,,0000,0000,0000,,“I went back to the place again”\N“Can't get in”\N“Why not?”
 Dialogue: 0,0:00:56.43,0:00:59.14,Default,,0000,0000,0000,,And the facility Moeka and I found...
-Dialogue: 0,0:00:58.14,0:01:00.43,On Top,,0000,0000,0000,,“File attachment”
 Dialogue: 0,0:00:59.14,0:01:02.14,Default,,0000,0000,0000,,We never found out exactly what it was for.
 Dialogue: 0,0:01:04.52,0:01:07.35,Default,,0000,0000,0000,,She was... brainwashed?
 Dialogue: 0,0:01:07.35,0:01:11.40,Default,,0000,0000,0000,,We don't have definitive proof though.
@@ -92,7 +149,6 @@ Dialogue: 0,0:04:49.03,0:04:50.79,Default,,0000,0000,0000,,I'm hanging up.
 Dialogue: 0,0:04:53.75,0:04:56.96,Default,,0000,0000,0000,,Salieri can't compose the songs Mozart did...
 Dialogue: 0,0:05:03.30,0:05:04.51,Default,,0000,0000,0000,,Hmm?
 Dialogue: 0,0:05:10.26,0:05:13.68,Default,,0000,0000,0000,,Was I... talking to them looking like this?!
-Dialogue: 0,0:05:14.02,0:05:19.02,On Top,,0000,0000,0000,,“Recognition of the Elastic Limit\N- Presage or Recognize -”
 Dialogue: 0,0:05:20.61,0:05:23.94,Default,,0000,0000,0000,,I wonder... Do you think this is okay?
 Dialogue: 0,0:05:23.94,0:05:26.24,Default,,0000,0000,0000,,If Okarin finds out, he'll be furious.
 Dialogue: 0,0:05:26.24,0:05:28.03,Default,,0000,0000,0000,,Would you rather convince him?
@@ -134,7 +190,6 @@ Dialogue: 0,0:07:26.15,0:07:28.86,Default,,0000,0000,0000,,I-I will not let you 
 Dialogue: 0,0:07:28.86,0:07:30.78,Default,,0000,0000,0000,,See you later, Dad.
 Dialogue: 0,0:07:30.78,0:07:33.74,Default,,0000,0000,0000,,R-Right! I'll do my best!
 Dialogue: 0,0:07:37.45,0:07:39.04,Default,,0000,0000,0000,,Isn't that...
-Dialogue: 0,0:07:43.71,0:07:46.21,On Top,,0000,0000,0000,,“AH Tokyo General Hospital”
 Dialogue: 0,0:07:50.63,0:07:51.84,Default,,0000,0000,0000,,Oh!
 Dialogue: 0,0:07:51.84,0:07:53.13,Default,,0000,0000,0000,,Ah...
 Dialogue: 0,0:07:53.13,0:07:55.43,Default,,0000,0000,0000,,Mayushii! Okarin-san!
@@ -194,7 +249,6 @@ Dialogue: 0,0:10:15.90,0:10:18.99,Default,,0000,0000,0000,,they sent the memory 
 Dialogue: 0,0:10:20.82,0:10:25.20,Default,,0000,0000,0000,,Considering the places she's\Naffiliated with capable of that...
 Dialogue: 0,0:10:25.20,0:10:30.38,Default,,0000,0000,0000,,But, make one wrong move\Nand you'd be disgracing the dead.
 Dialogue: 0,0:10:30.38,0:10:34.71,Default,,0000,0000,0000,,One wrong move and\Nthis will turn out nearly the same.
-Dialogue: 0,0:10:36.46,0:10:38.05,On Top,,0000,0000,0000,,“One new message”\N“Professor Leskinen”
 Dialogue: 0,0:10:37.17,0:10:39.47,Default,,0000,0000,0000,,Professor?
 Dialogue: 0,0:10:39.47,0:10:42.89,Default,,0000,0000,0000,,Eh? Okabe-san?
 Dialogue: 0,0:10:42.89,0:10:45.39,Default,,0000,0000,0000,,What the heck?
@@ -234,9 +288,6 @@ Dialogue: 0,0:12:29.41,0:12:32.62,Default,,0000,0000,0000,,Using it or not would
 Dialogue: 0,0:12:39.09,0:12:42.34,Default,,0000,0000,0000,,She dropped this half a year ago?
 Dialogue: 0,0:12:42.34,0:12:44.59,Default,,0000,0000,0000,,No, that can't be...
 Dialogue: 0,0:12:44.59,0:12:47.18,Default,,0000,0000,0000,,She came... here.
-Dialogue: 0,0:12:48.72,0:12:50.22,On Top,,0000,0000,0000,,“Miss Fubuki is A-OK”
-Dialogue: 0,0:12:50.22,0:12:50.72,On Top,,0000,0000,0000,,“Good to hear\NAnd how about Mom?”
-Dialogue: 0,0:12:50.72,0:12:52.43,On Top,,0000,0000,0000,,“Good to hear\NAnd how about Mom?”\N“Coming home”
 Dialogue: 0,0:12:55.44,0:12:58.48,Default,,0000,0000,0000,,I think I'll go rinse myself off.
 Dialogue: 0,0:13:31.60,0:13:32.85,Default,,0000,0000,0000,,Don't move.
 Dialogue: 0,0:13:33.89,0:13:37.27,Default,,0000,0000,0000,,If you try anything funny, I'll shoot.

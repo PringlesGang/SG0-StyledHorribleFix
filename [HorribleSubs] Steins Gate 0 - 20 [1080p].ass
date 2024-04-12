@@ -14,10 +14,22 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:12:01.99,0:12:06.99,Title,,0,0,0,,{\an3\fsp-6\pos(1412,926)}Rinascimento
+Dialogue: 1,0:12:01.99,0:12:06.99,Title,,0,0,0,,{\an3\fs60\pos(1470,960)}of{\fs30} {\fs60}the
+Dialogue: 1,0:12:01.99,0:12:06.99,Title,,0,0,0,,{\an3\fs120\pos(1788,930)}U{\fs90}nwavering
+Dialogue: 1,0:12:01.99,0:12:06.99,Title,,0,0,0,,{\an3\pos(1788,988)}Promise
+Dialogue: 0,0:06:04.67,0:06:06.63,Draw,,0,0,0,,{\pos(0,0)\p1\c&H569CAF&\blur34}m 501 372 l 432 427 l 443 629 l 1488 630 l 1513 362 {\p0}
+Dialogue: 1,0:06:04.67,0:06:06.63,Draw,,0,0,0,,{\pos(0,0)\p1\c&H13252F&\blur10}m 426 409 l 772 413 l 1038 413 l 1406 414 l 1528 413 l 1527 421 l 1242 426 l 1055 426 l 820 423 l 647 422 l 425 420 {\p0}
+Dialogue: 0,0:06:04.67,0:06:06.63,Draw,,0,0,0,,{\pos(0,0)\p1\c&H86C4D1&\blur20}m 994 687 l 1472 689 l 1465 803 l 996 794 {\p0}
+Dialogue: 2,0:06:04.67,0:06:06.63,Signs,,0,0,0,,{\fnSedgwick Ave\alpha&H60&\be3\c&H3C5E6D&\fs520\pos(966,392)}Mansei Bridge
+Dialogue: 1,0:06:04.67,0:06:06.63,Signs,,0,0,0,,{\an4\fnSedgwick Ave\alpha&HA0&\be3\c&H2F4E5A&\fs300\pos(1004,678)}Suehirocho
 Dialogue: 0,0:00:08.34,0:00:09.25,Default,,0000,0000,0000,,Okarin!
 Dialogue: 0,0:00:09.25,0:00:10.63,Default,,0000,0000,0000,,Huh?
 Dialogue: 0,0:00:13.34,0:00:15.39,Default,,0000,0000,0000,,Okabe.
@@ -70,7 +82,6 @@ Dialogue: 0,0:05:23.32,0:05:25.45,Default,,0000,0000,0000,,Okabe Rintaro!
 Dialogue: 0,0:05:30.16,0:05:31.62,Default,,0000,0000,0000,,Okabe...
 Dialogue: 0,0:05:31.62,0:05:33.95,Default,,0000,0000,0000,,...Rintaro?
 Dialogue: 0,0:05:33.95,0:05:36.00,Default,,0000,0000,0000,,That can't be!
-Dialogue: 0,0:06:04.69,0:06:06.65,On Top,,0000,0000,0000,,“Mansei Bridge”\N“Suehirocho”
 Dialogue: 0,0:06:16.75,0:06:18.21,Default,,0000,0000,0000,,{\i1}Moe moe{\i} for you.
 Dialogue: 0,0:06:18.21,0:06:19.87,Default,,0000,0000,0000,,Bakkyun-kyun.
 Dialogue: 0,0:06:30.84,0:06:32.14,Default,,0000,0000,0000,,This way.
@@ -173,7 +184,6 @@ Dialogue: 0,0:11:53.75,0:11:55.08,Default,,0000,0000,0000,,Contact?
 Dialogue: 0,0:11:55.08,0:11:56.38,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:11:56.38,0:11:58.63,Default,,0000,0000,0000,,You've been out for 11 years.
 Dialogue: 0,0:11:58.63,0:12:01.80,Default,,0000,0000,0000,,The lab members have been\Nwaiting long for this day.
-Dialogue: 0,0:12:02.01,0:12:07.01,On Top,,0000,0000,0000,,Rinascimento of the Unwavering Promise\N- Promised Rinascimento -
 Dialogue: 0,0:12:09.60,0:12:12.19,Default,,0000,0000,0000,,No issues here.
 Dialogue: 0,0:12:12.19,0:12:14.48,Default,,0000,0000,0000,,Fine here.
 Dialogue: 0,0:12:14.48,0:12:17.32,Default,,0000,0000,0000,,This is the place, right?

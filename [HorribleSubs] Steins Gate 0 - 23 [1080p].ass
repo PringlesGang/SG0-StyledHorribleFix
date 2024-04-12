@@ -14,10 +14,112 @@ ScaledBorderAndShadow: yes
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
+Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: OkabePhoneOld,Manjari,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
+Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\pos(1288,904)}Arc-light
+Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs50\pos(1162,932)}of
+Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs40\fsp-3\pos(1160,952)}the
+Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\pos(1316,960)}Point
+Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs50\pos(1350,954)}at
+Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs120\pos(1634,968)}Infinity
+Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\pos(1274,912)}Stardust
+Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\fs50\pos(1312,908)}of
+Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\pos(1314,972)}Intersected
+Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\fs120\fsp-7\fscy130\pos(1710,978)}Coordinates
+Dialogue: 0,0:00:39.60,0:00:42.60,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEAE7E6&}m 614 527 l 878 463 l 921 562 l 654 638 {\p0}
+Dialogue: 1,0:00:39.60,0:00:39.81,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yester
+Dialogue: 1,0:00:39.81,0:00:40.10,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterd
+Dialogue: 1,0:00:40.10,0:00:40.56,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterda
+Dialogue: 1,0:00:40.56,0:00:42.60,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterday
+Dialogue: 0,0:09:33.30,0:09:36.76,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HD6D0CC&}m 619 510 l 658 503 l 707 761 l 669 769 {\p0}
+Dialogue: 1,0:09:33.30,0:09:36.76,OkabePhone,,0,0,0,,{\c&H6C6563&\frz101\an5\fs40\be4\alpha&H50&\pos(660,630)}1 new RINE message
+Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&H1C2025&}m 1237 417 l 1237 585 l 940 586 l 987 412 {\p0}
+Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&HC0A3BF&}m 794 98 l 794 145 l 661 145 l 661 98 {\p0}
+Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H141C1E&}m 674 864 l 749 864 l 749 906 l 674 906 {\p0}
+Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H101D1C&}m 984 863 l 1059 863 l 1059 905 l 984 905 {\p0}
+Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H0F1B1A&}m 1135 862 l 1210 862 l 1210 904 l 1135 904 {\p0}
+Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an4\fs68\c&HECEFF1&\pos(660,122)}Incoming Call
+Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be3\an6\fs120\c&HE6E6E8&\pos(1208,498)}Mayuri
+Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(714,882)}Decline
+Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(1018,882)}Hold
+Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(1170,882)}Accept
+Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(0,0,0,-25)\blur18\p1\c&HA4A2D5&}m 537 -47 l 500 46 l 926 52 l 951 -77 {\p0}
+Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(0,0,0,-25)\blur18\p1\c&H73636D&}m 574 129 l 1060 136 l 1007 286 l 501 274 {\p0}
+Dialogue: 0,0:12:20.67,0:12:21.30,Draw,,0,0,0,,{\move(0,0,10,-7)\blur8\p1\c&H444044&}m 1134 156 l 1570 159 l 1522 283 l 1078 276 {\p0}
+Dialogue: 0,0:12:21.30,0:12:22.80,Draw,,0,0,0,,{\move(0,0,17,-17)\blur8\p1\c&H444044&}m 1141 145 l 1577 148 l 1527 275 l 1083 268 {\p0}
+Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H685B66&}m 632 288 l 894 291 l 853 443 l 579 425 {\p0}
+Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(16,0,-10,0)\blur10\p1\c&H45434C&}m 454 630 l 750 634 l 728 800 l 386 780 {\p0}
+Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(40,-26,0,0)\blur10\p1\c&H37363F&}m 284 972 l 574 983 l 553 1157 l 211 1137 {\p0}
+Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs120\c&HEEEDEF&\fax-0.49\org(960,540)\t(\fs130)\frz360\move(1350,182,1384,150,0,2114)}Call History
+Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs120\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs130)\frz359.7\move(832,170,824,136,28,2114)}Call Register
+Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs100\c&HEEEDEF&\fax-0.49\org(960,540)\t(\fs110)\frz360\move(750,-18,735,-67)}Call History
+Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\be4\fs110\c&HEEEDEF&\an7\fax-0.56\org(960,540)\t(\fs120)\move(642,328,612,310)}Mayuri
+Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs110\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs120)\move(610,642,575,652)}Lukako
+Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs110\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs120)\move(400,970,348,1008)}Daru
+Dialogue: 0,0:14:35.02,0:14:35.52,Draw,,0,0,0,,{\pos(0,0)\blur35\p1\c&H616E6E&}m 802 852 l 1338 715 l 1424 950 l 860 1087 {\p0}
+Dialogue: 1,0:14:35.02,0:14:35.52,OkabePhoneOld,,0,0,0,,{\blur3.5\an2\fs120\c&H2A3137&\frz15.47\pos(1110,982)}You have\Nnew messages
+Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&H826894&}m 412 441 l 898 322 l 924 411 l 429 530 {\p0}
+Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H61727B&}m 578 631 l 973 537 l 1001 622 l 595 716 {\p0}
+Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H192128&}m 618 758 l 850 706 l 878 791 l 1266 707 l 1303 799 l 661 948 {\p0}
+Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H13191F&}m 674 976 l 918 920 l 943 1006 l 1611 850 l 1642 941 l 703 1164 {\p0}
+Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur4\an4\fs140\c&H514E62&\frz12.97\pos(422,488)}Inbox
+Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur2.5\an4\fs90\c&HD7D7D7&\pos(578,678)\frz12.35}(No subject)
+Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur2.5\fs105\c&HD7D7D7&\frz12.97\pos(616,764)}Mayuri{\fs90}\NWanna eat some fried chicken?
+Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur2.5\fs105\c&HD7D7D7&\pos(682,978)\frz13.29}Lukako{\fs90}\NRe: Re: About my clothes
+Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H576FB8&}m 404 437 l 837 342 l 872 426 l 427 529 {\p0}
+Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H263038&}m 404 575 l 797 485 l 824 577 l 428 669 {\p0}
+Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H263038&}m 433 683 l 741 614 l 773 712 l 459 783 {\p0}
+Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H505F67&}m 465 798 l 1125 646 l 1157 744 l 491 898 {\p0}
+Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H161C23&}m 496 926 l 999 800 l 1041 914 l 522 1035 {\p0}
+Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&H38445B&\an4\pos(425,479)\frz12.99}Received mail
+Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\pos(439,616)\frz12.79}Received:
+Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\pos(461,732)}Sender:
+Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz13.21\pos(498,850)}Subject: (No subject)
+Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs120\c&HFFFFFF&\pos(508,920)\frz12.87}Turn on the TV
+Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(0,0,-20,-80)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 966 411 l 427 536 {\p0}
+Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(-20,-10,-20,-80)\blur15\p1\c&H263038&}m 405 582 l 826 483 l 858 598 l 434 691 {\p0}
+Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(-10,-10,-20,-70)\blur15\p1\c&H263038&}m 438 691 l 773 614 l 809 724 l 461 809 {\p0}
+Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(0,-10,-20,-60)\blur15\p1\c&H505F67&}m 466 804 l 1198 638 l 1239 761 l 496 926 {\p0}
+Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(0,0,-20,-40)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
+Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&H38445B&\an4\t(\fs140)\frz12.99\move(425,479,405,405)}Received mail
+Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\t(\fs140)\move(439,616,420,545)}Received:
+Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\t(\fs140)\move(461,732,448,678)}Sender:
+Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\t(\fs140)\move(498,850,485,800)\frz13.21}Subject: (No subject)
+Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs120\c&HFFFFFF&\t(\fs140)\frz12.87\move(508,920,496,880)}Turn on the TV
+Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-85,-30,-155)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 977 431 l 431 553 {\p0}
+Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-80,-28,-120)\blur15\p1\c&H263038&}m 402 577 l 853 471 l 888 591 l 434 691 {\p0}
+Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-70,-25,-100)\blur15\p1\c&H263038&}m 433 677 l 797 594 l 838 718 l 461 809 {\p0}
+Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-60,-15,-95)\blur15\p1\c&H505F67&}m 466 804 l 1258 623 l 1299 746 l 496 926 {\p0}
+Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-50,-10,-70)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
+Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&H38445B&\an4\t(\fs150)\frz12.99\move(405,405,397,346)}Received mail
+Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\frz12.79\t(\fs150)\move(420,545,410,505)}Received:
+Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\frz12.79\t(\fs150)\move(448,678,442,645)}Sender:
+Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\t(\fs150)\move(485,800,480,775)\frz13.21}Subject: (No subject)
+Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs140\c&HFFFFFF&\t(\fs150)\frz12.87\move(496,880,490,860)}Turn on the TV
+Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-30,-155)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 977 431 l 431 553 {\p0}
+Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-28,-120)\blur15\p1\c&H263038&}m 402 577 l 853 471 l 888 591 l 434 691 {\p0}
+Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-25,-100)\blur15\p1\c&H263038&}m 433 677 l 797 594 l 838 718 l 461 809 {\p0}
+Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-15,-95)\blur15\p1\c&H505F67&}m 466 804 l 1258 623 l 1299 746 l 496 926 {\p0}
+Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-10,-70)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
+Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&H38445B&\an4\frz12.99\pos(397,346)}Received mail
+Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\frz12.79\pos(410,505)}Received:
+Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\frz12.79\pos(442,645)}Sender:
+Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\pos(480,775)\frz13.21}Subject: (No subject)
+Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs150\c&HFFFFFF&\frz12.87\pos(490,860)}Turn on the TV
+Dialogue: 1,0:14:56.33,0:15:02.54,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\frz18.14\c&H373432&\fscx100\fscy100\frx358\fry358\pos(1019.5,747.5)}Ma
+Dialogue: 1,0:14:56.33,0:15:02.54,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\c&H373432&\frx4\fry10\frz18.9\pos(1103.5,718.5)}yu
+Dialogue: 1,0:14:56.33,0:15:02.54,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\frz27.45\c&H373432&\frx4\fry14\pos(1161,699)}shii
+Dialogue: 0,0:18:47.44,0:18:50.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEFD8BF&}m 955 391 l 1258 307 l 1273 349 l 964 429 {\p0}
+Dialogue: 0,0:18:47.44,0:18:50.65,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HEDEAE8&}m 998 440 l 1248 372 l 1294 505 l 1044 580 {\p0}
+Dialogue: 1,0:18:47.44,0:18:50.65,OkabePhone,,0,0,0,,{\an6\fs43\c&HF5F0EB&\fax0.04\be2\pos(1238,340)\frz15.35}Mad Scientist
+Dialogue: 1,0:18:47.44,0:18:50.65,OkabePhone,,0,0,0,,{\fs50\c&H736769&\be2\org(322,862)\frz14.58\pos(1052,628)\frx2\fry358}Trick world.\NConnect all\NPotentials.
 Dialogue: 0,0:00:15.72,0:00:19.18,Default,,0000,0000,0000,,Okabe-san? What are you doing this early?
 Dialogue: 0,0:00:19.18,0:00:21.02,Default,,0000,0000,0000,,Hiyajo-san...
 Dialogue: 0,0:00:21.02,0:00:22.81,Default,,0000,0000,0000,,I have to ask you something.
@@ -26,7 +128,6 @@ Dialogue: 0,0:00:24.14,0:00:26.81,Default,,0000,0000,0000,,Have you given up tal
 Dialogue: 0,0:00:27.94,0:00:32.44,Default,,0000,0000,0000,,Due to our D-RINE, Amadeus was lost, but...
 Dialogue: 0,0:00:32.44,0:00:37.62,Default,,0000,0000,0000,,...we still meet Hiyajo-san,\Nbut apparently for different reasons.
 Dialogue: 0,0:00:37.62,0:00:40.20,Default,,0000,0000,0000,,Even as worldlines change...
-Dialogue: 0,0:00:39.62,0:00:42.62,On Top,,0000,0000,0000,,“Yesterday”
 Dialogue: 0,0:00:40.20,0:00:43.83,Default,,0000,0000,0000,,...that fate which links us,\Nthose connections...
 Dialogue: 0,0:00:43.83,0:00:46.75,Default,,0000,0000,0000,,Do they change to bring us together as well?
 Dialogue: 0,0:00:49.38,0:00:50.63,Default,,0000,0000,0000,,Mayuri?
@@ -180,8 +281,6 @@ Dialogue: 0,0:08:55.45,0:08:57.87,Default,,0000,0000,0000,,This time...
 Dialogue: 0,0:08:57.87,0:08:59.37,Default,,0000,0000,0000,,There's nothing to fear!
 Dialogue: 0,0:09:00.33,0:09:01.87,Default,,0000,0000,0000,,This is it!
 Dialogue: 0,0:09:01.87,0:09:03.62,Default,,0000,0000,0000,,This instant!
-Dialogue: 0,0:09:20.35,0:09:25.56,On Top,,0000,0000,0000,,“Radio Kaikan”\N“Akihabara”
-Dialogue: 0,0:09:33.32,0:09:36.78,On Top,,0000,0000,0000,,“1 new RINE message”
 Dialogue: 0,0:09:37.86,0:09:40.07,Default,,0000,0000,0000,,Listen well, you fools!
 Dialogue: 0,0:09:40.07,0:09:42.49,Default,,0000,0000,0000,,Schrödinger's box has opened!
 Dialogue: 0,0:09:42.49,0:09:47.62,Default,,0000,0000,0000,,The time machine you bastards\Nsought to obtain no longer exists!
@@ -193,11 +292,9 @@ Dialogue: 0,0:10:01.22,0:10:05.73,Default,,0000,0000,0000,,No matter what... I w
 Dialogue: 0,0:10:05.73,0:10:07.27,Default,,0000,0000,0000,,That...
 Dialogue: 0,0:10:09.52,0:10:11.31,Default,,0000,0000,0000,,...is my...
 Dialogue: 0,0:10:11.31,0:10:13.23,Default,,0000,0000,0000,,...choice!
-Dialogue: 0,0:10:15.03,0:10:20.03,On Top,,0000,0000,0000,,Arc-light of the Point at Infinity\N- Arc-light of the Sky -
 Dialogue: 0,0:10:20.53,0:10:22.70,Default,,0000,0000,0000,,Eh? Huh?!
 Dialogue: 0,0:10:22.70,0:10:25.75,Default,,0000,0000,0000,,Th-There's two time machines?!
 Dialogue: 0,0:10:27.91,0:10:30.04,Default,,0000,0000,0000,,Uh, it's from me!
-Dialogue: 0,0:10:28.41,0:10:29.62,On Top,,0000,0000,0000,,“Incoming Call”\N“Mayuri”
 Dialogue: 0,0:10:30.04,0:10:31.29,Default,,0000,0000,0000,,Eh?
 Dialogue: 0,0:10:31.29,0:10:33.00,Default,,0000,0000,0000,,Wh...
 Dialogue: 0,0:10:33.00,0:10:35.26,Default,,0000,0000,0000,,What the heck?
@@ -235,7 +332,6 @@ Dialogue: 0,0:12:09.97,0:12:11.98,Default,,0000,0000,0000,,Yeah.
 Dialogue: 0,0:12:11.98,0:12:14.48,Default,,0000,0000,0000,,I'm sure it does.
 Dialogue: 0,0:12:14.48,0:12:18.07,Default,,0000,0000,0000,,The second one's gone too...
 Dialogue: 0,0:12:18.07,0:12:20.69,Default,,0000,0000,0000,,Who was that call even from?
-Dialogue: 0,0:12:20.69,0:12:22.82,On Top,,0000,0000,0000,,“Incoming Calls”\N“Mayuri”\N“Lukako”\N “Daru”
 Dialogue: 0,0:12:24.07,0:12:26.12,Default,,0000,0000,0000,,I'm sorry, Big Sis Mayu.
 Dialogue: 0,0:12:26.12,0:12:28.70,Default,,0000,0000,0000,,It's looking hopeless.
 Dialogue: 0,0:12:28.70,0:12:31.75,Default,,0000,0000,0000,,Yeah, there's no fuel, right?
@@ -273,9 +369,6 @@ Dialogue: 0,0:14:28.91,0:14:30.36,Default,,0000,0000,0000,,It's Okarin's phone.
 Dialogue: 0,0:14:30.36,0:14:31.45,Default,,0000,0000,0000,,An e-mail?
 Dialogue: 0,0:14:31.45,0:14:32.37,Default,,0000,0000,0000,,Open it.
 Dialogue: 0,0:14:32.37,0:14:34.41,Default,,0000,0000,0000,,—But...\N—Just do it.
-Dialogue: 0,0:14:35.04,0:14:35.54,On Top,,0000,0000,0000,,“You have new messages”
-Dialogue: 0,0:14:35.54,0:14:36.16,On Top,,0000,0000,0000,,“Inbox”
-Dialogue: 0,0:14:36.16,0:14:40.21,On Top,,0000,0000,0000,,“Subject: (No subject)”\N“Turn on the news...”
 Dialogue: 0,0:14:37.04,0:14:38.92,Default,,0000,0000,0000,,Turn on the news...
 Dialogue: 0,0:14:38.92,0:14:41.21,Default,,0000,0000,0000,,The news?
 Dialogue: 0,0:14:41.21,0:14:45.42,Default,,0000,0000,0000,,Despite a fire in the cargo bay,\Nthe airplane carrying Dr. Nakabachi...
@@ -283,7 +376,6 @@ Dialogue: 0,0:14:45.42,0:14:48.97,Default,,0000,0000,0000,,...managed to land in
 Dialogue: 0,0:14:48.97,0:14:52.01,Default,,0000,0000,0000,,—Oh! That's Mayushii's Metal Upa!\N—WTF?!
 Dialogue: 0,0:14:52.01,0:14:53.51,Default,,0000,0000,0000,,What's it doing in Russia?
 Dialogue: 0,0:14:53.51,0:14:56.85,Default,,0000,0000,0000,,That paper is the start of it all...
-Dialogue: 0,0:14:56.35,0:15:02.56,On Top,,0000,0000,0000,,“Mayushii's”
 Dialogue: 0,0:14:56.85,0:15:02.81,Default,,0000,0000,0000,,This pits the world's superpowers in\Nan intense race to develop a time machine.
 Dialogue: 0,0:15:02.81,0:15:06.61,Default,,0000,0000,0000,,Ultimately, it leads to world war.
 Dialogue: 0,0:15:06.61,0:15:09.65,Default,,0000,0000,0000,,The lives of 5.7 billion people are at stake.
@@ -303,7 +395,6 @@ Dialogue: 0,0:15:43.56,0:15:45.57,Default,,0000,0000,0000,,I'm tired...
 Dialogue: 0,0:15:45.57,0:15:47.28,Default,,0000,0000,0000,,I've had enough...
 Dialogue: 0,0:16:04.67,0:16:09.88,On Top,,0000,0000,0000,,{\i1}For you, billions and billions of heartbeats{\i}
 Dialogue: 0,0:16:09.88,0:16:15.89,On Top,,0000,0000,0000,,{\i1}are nothing at all, just the blink of an eye{\i}
-Dialogue: 0,0:16:09.88,0:16:15.89,On Top,,0000,0000,0120,,Stardust of Intersected Coordinates\N- Milky-way Crossing -
 Dialogue: 0,0:16:12.43,0:16:14.09,Default,,0000,0000,0000,,Greetings...
 Dialogue: 0,0:16:14.09,0:16:16.43,Default,,0000,0000,0000,,...me from 15 years ago.
 Dialogue: 0,0:16:15.89,0:16:16.55,On Top,,0000,0000,0000,,{\i1}are nothing at all; just the blink of an eye{\i}
@@ -368,7 +459,6 @@ Dialogue: 0,0:18:34.69,0:18:37.53,Default,,0000,0000,0000,,Disappearing from thi
 Dialogue: 0,0:18:37.53,0:18:40.95,Default,,0000,0000,0000,,...essentially the same as dying, is it not?
 Dialogue: 0,0:18:40.95,0:18:43.37,Default,,0000,0000,0000,,That's some crazy positive thinking.
 Dialogue: 0,0:18:43.37,0:18:46.79,Default,,0000,0000,0000,,Though, it holds up as a theory, right?
-Dialogue: 0,0:18:47.46,0:18:50.67,On Top,,0000,0000,0000,,“Mad Scientist: Trick world.\NConnect all\NPotentials.”
 Dialogue: 0,0:18:48.66,0:18:51.79,Default,,0000,0000,0000,,The world can be deceived.
 Dialogue: 0,0:18:51.79,0:18:55.67,Default,,0000,0000,0000,,My friends, thank you\Nfor following me till today!
 Dialogue: 0,0:18:55.67,0:18:59.01,Default,,0000,0000,0000,,As you know, on that day in 2011...
