@@ -1,0 +1,2 @@
+^Dialogue: [^,]*,[^,]*,[^,]*,(Default|On Top)
+^Comment: [^,]*,[^,]*,[^,]*,(Default|On Top)
