@@ -20,427 +20,426 @@ Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an3\fs100\pos(1478,944)}M{\fs70}other Goose
 Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an3\fs50\pos(1476,968)}of Mutual
 Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an1\fs120\pos(1482,980)}Recursion
-Dialogue: 0,0:04:48.39,0:04:49.85,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFCF7F3&}m 979 409 l 1055 412 l 1064 438 l 1045 451 l 974 449 {\p0}
-Dialogue: 1,0:04:48.39,0:04:49.85,Signs,,0,0,0,,{\c&H5860BD&\bord1\an7\be1\fnRounded Mplus 1c Bold\fs54\blur2\org(1106,562)\frx11\fry355\frz357.9\pos(952,396)\3c&H4A549E&}Date{\fs30}
-Dialogue: 0,0:04:48.39,0:04:49.85,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFEFFF5&\iclip(m 866 429 l 892 441 924 456 960 473 1001 500 1030 521 1069 561 805 628)}m 962 490 l 1222 491 l 1217 539 l 998 537 {\p0}
-Dialogue: 1,0:04:48.39,0:04:49.85,Signs,,0,0,0,,{\be2\c&H262626&\a7\fs25\org(1206,682)\frx7\fry357\pos(1202,476)\frz358.2\iclip(m 866 429 l 892 441 924 456 960 473 1001 500 1030 521 1069 561 805 628)}The best spot to take your date\Nthings that we recommend
-Dialogue: 0,0:04:49.85,0:04:53.35,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFCF7F3&}m 1071 480 l 1159 480 l 1157 502 l 1071 501 {\p0}
-Dialogue: 1,0:04:49.85,0:04:53.35,Signs,,0,0,0,,{\an7\c&H453D34&\be2\fs16\3c&H453D34&\org(1096,588)\frz357.4\frx14\fry353\pos(1065.334,474.666)}Akihabara Picks
+Dialogue: 0,0:04:48.43,0:04:49.89,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFCF7F3&}m 979 409 l 1055 412 l 1064 438 l 1045 451 l 974 449 {\p0}
+Dialogue: 1,0:04:48.43,0:04:49.89,Signs,,0,0,0,,{\c&H5860BD&\bord1\an7\be1\fnRounded Mplus 1c Bold\fs54\blur2\org(1106,562)\frx11\fry355\frz357.9\pos(952,396)\3c&H4A549E&}Date{\fs30}
+Dialogue: 0,0:04:48.43,0:04:49.89,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFEFFF5&\iclip(m 866 429 l 892 441 924 456 960 473 1001 500 1030 521 1069 561 805 628)}m 962 490 l 1222 491 l 1217 539 l 998 537 {\p0}
+Dialogue: 1,0:04:48.43,0:04:49.89,Signs,,0,0,0,,{\be2\c&H262626&\a7\fs25\org(1206,682)\frx7\fry357\pos(1202,476)\frz358.2\iclip(m 866 429 l 892 441 924 456 960 473 1001 500 1030 521 1069 561 805 628)}The best spot to take your date\Nthings that we recommend
+Dialogue: 0,0:04:49.89,0:04:53.39,Draw,,0,0,0,,{\pos(0,0)\blur3\p1\c&HFCF7F3&}m 1071 480 l 1159 480 l 1157 502 l 1071 501 {\p0}
+Dialogue: 1,0:04:49.89,0:04:53.39,Signs,,0,0,0,,{\an7\c&H453D34&\be2\fs16\3c&H453D34&\org(1096,588)\frz357.4\frx14\fry353\pos(1065.334,474.666)}Akihabara Picks
 Dialogue: 1,0:11:42.05,0:11:43.18,Signs,,0,0,0,,{\an8\fnSedgwick Ave\c&H191518&\3c&HFFFFFF&\bord3\be60\fs360\frz282.8\move(626,584,626,1070)}Recruiting Warriors!
 Dialogue: 1,0:11:43.18,0:11:44.26,Signs,,0,0,0,,{\an8\fnSedgwick Ave\c&H191518&\3c&HFFFFFF&\bord3\be60\fs360\frz282.8\move(626,1070,626,1420)}Recruiting Warriors!
 Dialogue: 1,0:11:44.26,0:11:45.01,Signs,,0,0,0,,{\an8\fnSedgwick Ave\c&H191518&\3c&HFFFFFF&\bord3\be60\fs360\frz282.8\move(626,1430,626,1550)}Recruiting Warriors!
-Dialogue: 1,0:11:42.05,0:11:43.18,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,438,1272,924)}Monster Plate!!
-Dialogue: 1,0:11:43.18,0:11:44.26,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,924,1272,1274)}Monster Plate!!
-Dialogue: 1,0:11:44.26,0:11:45.01,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,1274,1272,1394)}Monster Plate!!
+Dialogue: 2,0:11:42.05,0:11:43.18,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,438,1272,924)}Monster Plate!!
+Dialogue: 2,0:11:43.18,0:11:44.26,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,924,1272,1274)}Monster Plate!!
+Dialogue: 2,0:11:44.26,0:11:45.01,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&HD0D7E4&\bord10\frz54.6\move(1272,1274,1272,1394)}Monster Plate!!
 Dialogue: 1,0:11:42.05,0:11:43.18,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&H3D29AE&\bord24\frz54.6\move(1272,438,1272,924)\be4}Monster Plate!!
 Dialogue: 1,0:11:43.18,0:11:44.26,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&H3D29AE&\bord24\frz54.6\move(1272,924,1272,1274)\be4}Monster Plate!!
 Dialogue: 1,0:11:44.26,0:11:45.01,Signs,,0,0,0,,{\an8\fnAnton\fs180\c&H262429&\3c&H3D29AE&\bord24\frz54.6\move(1272,1274,1272,1394)\be4}Monster Plate!!
-Dialogue: 1,0:11:43.60,0:11:44.39,Signs,,0,0,0,,{\an8\move(960,-80,960,150)\bord8\fs90\c&HD1D8E4&\3c&H5649B8&\fnJost\blur1.4\shad3\4c&H313131&}Eating Contest!!
+Dialogue: 1,0:11:43.59,0:11:44.39,Signs,,0,0,0,,{\an8\move(960,-80,960,150)\bord8\fs90\c&HD1D8E4&\3c&H5649B8&\fnJost\blur1.4\shad3\4c&H313131&}Eating Contest!!
 Dialogue: 1,0:11:44.39,0:11:45.10,Signs,,0,0,0,,{\an8\move(960,150,960,250)\bord8\fs90\c&HD1D8E4&\3c&H5649B8&\fnJost\blur1.4\shad3\4c&H313131&}Eating Contest!!
 Dialogue: 1,0:11:45.10,0:11:46.26,Signs,,0,0,0,,{\an8\pos(960,250)\bord8\fs90\c&HD1D8E4&\3c&H5649B8&\fnJost\blur1.4\shad3\4c&H313131&}Eating Contest!!
 Dialogue: 0,0:11:50.64,0:11:53.10,Draw,,0,0,0,,{\move(0,0,-274,-130)\blur17\p1\c&H67C6DC&}m 197 294 l 882 -275 l 853 32 l 283 600 {\p0}
 Dialogue: 1,0:11:50.64,0:11:53.10,Signs,,0,0,0,,{\c&H6A64C7&\bord13\an7\shad0\3c&H627180&\fs248\fscy248\fscx145\fnAudiowide\fax-0.5\be2\frx356\fry14\move(158,164,-116,34)\frz33.25}G{\fs180}o{\fs50} {\fs248}G{\fs180}o {\fs248}C{\fs180}urry
-Dialogue: 1,0:16:11.61,0:16:25.34,Signs,,0,0,0,,{\an8\c&HB6BDC2&\fax0.35\fay-0.02\frz341.3\move(691.283,755,982,755)}Okabe Green Grocer
-Dialogue: 0,0:16:43.85,0:16:47.32,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HB8B7C1&}m 778 225 l 969 169 l 989 232 l 801 292 {\p0}
-Dialogue: 1,0:16:43.85,0:16:47.32,Signs,,0,0,0,,{\frz17.11\an8\fnNoto Sans JP Light\fs80\alpha&H0F\be2\pos(878,194)}Akemi
-Dialogue: 0,0:16:43.85,0:16:47.32,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H54588B&}m 972 620 l 1061 590 l 1071 622 l 982 651 {\p0}
-Dialogue: 1,0:16:43.85,0:16:47.32,Signs,,0,0,0,,{\an8\fnNoto Sans JP Light\fs40\alpha&H0F\blur1.5\frz17.04\pos(1016,598)\c&HE0E0F2&}End call
-Dialogue: 30,0:00:05.54,0:00:07.04,Default,,0000,0000,0000,,Kagari-chan?
-Dialogue: 30,0:00:08.50,0:00:10.13,Default,,0000,0000,0000,,Kagari-chan?
-Dialogue: 30,0:00:12.97,0:00:14.72,Default,,0000,0000,0000,,Kagari-chan!
-Dialogue: 30,0:00:18.60,0:00:19.85,Default,,0000,0000,0000,,Mommy?
-Dialogue: 30,0:00:19.85,0:00:21.89,Default,,0000,0000,0000,,How are you feeling?
-Dialogue: 30,0:00:24.39,0:00:27.27,Default,,0000,0000,0000,,Is my treatment for today all done?
-Dialogue: 30,0:00:27.27,0:00:30.03,Default,,0000,0000,0000,,Yup! You did great today!
-Dialogue: 30,0:00:30.03,0:00:31.78,Default,,0000,0000,0000,,Such a good girl!
-Dialogue: 30,0:00:32.74,0:00:37.74,Default,,0000,0000,0000,,And for the good girl Kagari-chan,\NI have some special news!
-Dialogue: 30,0:00:37.74,0:00:39.12,Default,,0000,0000,0000,,News?
-Dialogue: 30,0:00:39.12,0:00:40.29,Default,,0000,0000,0000,,Yup!
-Dialogue: 30,0:00:40.29,0:00:43.41,Default,,0000,0000,0000,,All of the paperwork is finally out of the way.
-Dialogue: 30,0:00:43.41,0:00:47.46,Default,,0000,0000,0000,,I'm sorry that it took so long,\Nbut starting today...
-Dialogue: 30,0:00:47.46,0:00:50.71,Default,,0000,0000,0000,,...I get to be your real mommy!
-Dialogue: 30,0:00:50.71,0:00:53.22,Default,,0000,0000,0000,,We can live together now!
-Dialogue: 30,0:00:57.01,0:00:59.10,Default,,0000,0000,0000,,Mommy!
-Dialogue: 30,0:00:59.10,0:01:03.27,Default,,0000,0000,0000,,Sheesh! You're such a spoiled one, Kagari-chan!
-Dialogue: 30,0:01:05.73,0:01:11.65,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
-Dialogue: 30,0:01:11.65,0:01:16.10,Default,,0000,0000,0000,,♪ The laughter of the stars. ♪
-Dialogue: 30,0:01:16.10,0:01:17.99,Default,,0000,0000,0000,,What song is that?
-Dialogue: 30,0:01:17.99,0:01:19.53,Default,,0000,0000,0000,,Hmm?
-Dialogue: 30,0:01:19.53,0:01:23.12,Default,,0000,0000,0000,,I'm glad you asked.\NIt's a very precious song to me.
-Dialogue: 30,0:01:23.12,0:01:24.54,Default,,0000,0000,0000,,Precious?
-Dialogue: 30,0:01:24.54,0:01:26.00,Default,,0000,0000,0000,,That's right!
-Dialogue: 30,0:01:26.00,0:01:30.54,Default,,0000,0000,0000,,It's all thanks to this song that Mommy\Nand Kagari-chan were able to meet.
-Dialogue: 30,0:01:30.54,0:01:31.59,Default,,0000,0000,0000,,Really?
-Dialogue: 30,0:01:31.59,0:01:36.72,Default,,0000,0000,0000,,Yup! That's why you should give it\Nyour best and try to memorize it too!
-Dialogue: 30,0:01:36.72,0:01:41.26,Default,,0000,0000,0000,,Because someday, you'll meet\Nsomebody precious to you too.
-Dialogue: 30,0:01:41.26,0:01:46.85,Default,,0000,0000,0000,,I want to learn that song too!\NTeach me Mommy's precious song!
-Dialogue: 30,0:01:46.85,0:01:48.94,Default,,0000,0000,0000,,Okay! Should we sing it together?
-Dialogue: 30,0:01:48.94,0:01:50.40,Default,,0000,0000,0000,,Yeah!
-Dialogue: 30,0:01:53.28,0:01:59.36,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
-Dialogue: 30,0:01:59.36,0:02:05.20,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
-Dialogue: 30,0:02:03.29,0:02:05.20,Default,,0000,0000,0000,,Yup! Good, good!
-Dialogue: 30,0:02:05.20,0:02:10.96,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
-Dialogue: 30,0:02:10.96,0:02:16.97,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
-Dialogue: 30,0:02:16.97,0:02:22.39,Default,,0000,0000,0000,,♪ Twinkling in the wind... ♪
-Dialogue: 30,0:02:22.39,0:02:24.47,Default,,0000,0000,0000,,♪ Twinkling in the wind... ♪
-Dialogue: 30,0:02:40.91,0:02:46.20,Default,,0000,0000,0000,,{\i1}This is a world of unreality,{\i}
-Dialogue: 30,0:02:46.20,0:02:52.13,Default,,0000,0000,0000,,{\i1}Nothing more than an imprinted vision.{\i}
-Dialogue: 30,0:02:53.13,0:03:03.97,Default,,0000,0000,0000,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-Dialogue: 30,0:03:03.97,0:03:13.69,Default,,0000,0000,0000,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
-Dialogue: 30,0:03:13.69,0:03:19.03,Default,,0000,0000,0000,,{\i1}Then I alone{\i}
-Dialogue: 30,0:03:19.03,0:03:25.78,Default,,0000,0000,0000,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
-Dialogue: 30,0:03:25.78,0:03:26.87,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
-Dialogue: 30,0:03:26.87,0:03:32.79,Default,,0000,0000,0000,,{\i1}If that moment, if that place was{\i}\N{\i1}something you thought was special to you{\i}
-Dialogue: 30,0:03:32.79,0:03:37.55,Default,,0000,0000,0000,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
-Dialogue: 30,0:03:37.55,0:03:43.05,Default,,0000,0000,0000,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
-Dialogue: 30,0:03:43.05,0:03:48.60,Default,,0000,0000,0000,,{\i1}As each and every light forms to yield Zero.{\i}
-Dialogue: 30,0:03:48.60,0:03:53.94,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 30,0:03:58.65,0:04:00.15,Default,,0000,0000,0000,,Okabe-kun!
-Dialogue: 30,0:04:00.15,0:04:01.74,Default,,0000,0000,0000,,Professor Izaki?
-Dialogue: 30,0:04:01.74,0:04:05.66,Default,,0000,0000,0000,,I must say, that report of yours\Nwas pretty darn impressive!
-Dialogue: 30,0:04:05.66,0:04:07.87,Default,,0000,0000,0000,,Th-Thank you.
-Dialogue: 30,0:04:07.87,0:04:10.62,Default,,0000,0000,0000,,Weren't you thinking about studying abroad?
-Dialogue: 30,0:04:10.62,0:04:13.37,Default,,0000,0000,0000,,Y-Yeah, tentatively...
-Dialogue: 30,0:04:13.37,0:04:15.38,Default,,0000,0000,0000,,To be honest, you had me worried,
-Dialogue: 30,0:04:15.38,0:04:20.13,Default,,0000,0000,0000,,but based on your work as of late,\Nyou might just pull it off.
-Dialogue: 30,0:04:20.13,0:04:22.05,Default,,0000,0000,0000,,Keep it the good work.
-Dialogue: 30,0:04:22.05,0:04:25.43,Default,,0000,0000,0000,,I-I will! Thank you!
-Dialogue: 30,0:04:27.18,0:04:31.73,Default,,0000,0000,0000,,Hey, Kagari-san? Want some\NJuicy Chicken Number One?
-Dialogue: 30,0:04:31.73,0:04:34.44,Default,,0000,0000,0000,,—It's Mayushii's favorite food ever!\N—Oh!
-Dialogue: 30,0:04:34.44,0:04:35.77,Default,,0000,0000,0000,,—You don't mind?\N—Hmm...
-Dialogue: 30,0:04:35.77,0:04:40.98,Default,,0000,0000,0000,,—Nope! It's super tasty,\Nso I wanted you to try some too!\N—Hmm, hmm...
-Dialogue: 30,0:04:40.98,0:04:44.99,Default,,0000,0000,0000,,Thank you. I think I will.
-Dialogue: 30,0:04:44.99,0:04:47.20,Default,,0000,0000,0000,,You're very welcome!
-Dialogue: 30,0:04:47.20,0:04:48.74,Default,,0000,0000,0000,,Want some, Daru-kun?
-Dialogue: 30,0:04:48.74,0:04:50.16,Default,,0000,0000,0000,,Sure, I'll eat some.
-Dialogue: 30,0:04:50.16,0:04:53.21,Default,,0000,0000,0000,,All right! Gimme just a minute!
-Dialogue: 30,0:04:54.87,0:05:00.46,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
-Dialogue: 30,0:05:00.46,0:05:06.13,Default,,0000,0000,0000,,♪ The laughter of the stars... ♪
-Dialogue: 30,0:05:06.13,0:05:08.05,Default,,0000,0000,0000,,♪ Twinkling in— ♪
-Dialogue: 30,0:05:08.05,0:05:08.68,Default,,0000,0000,0000,,Huh?
-Dialogue: 30,0:05:08.68,0:05:11.31,Default,,0000,0000,0000,,That song... I know it.
-Dialogue: 30,0:05:11.31,0:05:12.60,Default,,0000,0000,0000,,Kagari-san?
-Dialogue: 30,0:05:12.60,0:05:14.48,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:05:14.48,0:05:18.02,Default,,0000,0000,0000,,Long ago... Somewhere...
-Dialogue: 30,0:05:18.02,0:05:19.48,Default,,0000,0000,0000,,Somewhere...
-Dialogue: 30,0:05:19.48,0:05:21.02,Default,,0000,0000,0000,,Kagari-san?
-Dialogue: 30,0:05:22.32,0:05:23.86,Default,,0000,0000,0000,,Eh? Whoa!
-Dialogue: 30,0:05:23.86,0:05:26.32,Default,,0000,0000,0000,,Kagari-san! Hang in there!
-Dialogue: 30,0:05:26.32,0:05:28.20,Default,,0000,0000,0000,,Kagari-san!
-Dialogue: 30,0:05:34.04,0:05:35.58,Default,,0000,0000,0000,,Mayuri! How's Kagari?!
-Dialogue: 30,0:05:35.58,0:05:37.12,Default,,0000,0000,0000,,Okarin!
-Dialogue: 30,0:05:38.33,0:05:40.59,Default,,0000,0000,0000,,You said she collapsed again?
-Dialogue: 30,0:05:40.59,0:05:42.88,Default,,0000,0000,0000,,Right now, she's sleeping.
-Dialogue: 30,0:05:42.88,0:05:44.38,Default,,0000,0000,0000,,Suzuha...
-Dialogue: 30,0:05:44.38,0:05:46.38,Default,,0000,0000,0000,,Can I have a word?
-Dialogue: 30,0:05:50.26,0:05:52.18,Default,,0000,0000,0000,,It's been a while.
-Dialogue: 30,0:05:52.18,0:05:53.93,Default,,0000,0000,0000,,Yeah...
-Dialogue: 30,0:05:55.60,0:05:57.19,Default,,0000,0000,0000,,Just so you know, I'm...
-Dialogue: 30,0:05:57.19,0:06:00.02,Default,,0000,0000,0000,,...not aiming to reach Steins Gate.
-Dialogue: 30,0:06:00.02,0:06:00.98,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:06:00.98,0:06:04.53,Default,,0000,0000,0000,,I can tell without you saying.
-Dialogue: 30,0:06:04.53,0:06:06.11,Default,,0000,0000,0000,,Sorry.
-Dialogue: 30,0:06:09.11,0:06:11.53,Default,,0000,0000,0000,,I wonder if they'll ever come back?
-Dialogue: 30,0:06:11.53,0:06:12.58,Default,,0000,0000,0000,,Huh?
-Dialogue: 30,0:06:12.58,0:06:14.29,Default,,0000,0000,0000,,Kagari's memories.
-Dialogue: 30,0:06:14.29,0:06:16.37,Default,,0000,0000,0000,,Right...
-Dialogue: 30,0:06:16.37,0:06:19.37,Default,,0000,0000,0000,,But the girl's a war orphan.
-Dialogue: 30,0:06:19.37,0:06:21.46,Default,,0000,0000,0000,,Never knew her parents' faces...
-Dialogue: 30,0:06:21.46,0:06:24.92,Default,,0000,0000,0000,,Had nothing but painful memories, I'm sure.
-Dialogue: 30,0:06:24.92,0:06:30.51,Default,,0000,0000,0000,,But, her meeting Big Sis Mayu\Nchanged her life forever.
-Dialogue: 30,0:06:30.51,0:06:36.73,Default,,0000,0000,0000,,Because of Big Sis Mayu,\Nshe finally learned how to smile.
-Dialogue: 30,0:06:36.73,0:06:39.35,Default,,0000,0000,0000,,When she ran away from me...
-Dialogue: 30,0:06:39.35,0:06:43.11,Default,,0000,0000,0000,,...she pointed a gun at me.
-Dialogue: 30,0:06:43.11,0:06:47.07,Default,,0000,0000,0000,,Saying if the worldline changed,\Nshe couldn't meet Mommy anymore.
-Dialogue: 30,0:06:47.07,0:06:50.95,Default,,0000,0000,0000,,She was just 10 years old...
-Dialogue: 30,0:06:50.95,0:06:54.49,Default,,0000,0000,0000,,She might get her memories back,\Nor she might not.
-Dialogue: 30,0:06:54.49,0:06:59.04,Default,,0000,0000,0000,,But for her, I wonder which\Nis the happier outcome?
-Dialogue: 30,0:06:59.04,0:07:00.42,Default,,0000,0000,0000,,If her memory does come back,
-Dialogue: 30,0:07:00.42,0:07:06.71,Default,,0000,0000,0000,,she might remember something about the\Npeople who attacked her, so there's always that.
-Dialogue: 30,0:07:06.71,0:07:13.09,Default,,0000,0000,0000,,Either way, I plan to do all that\NI can do, and that hasn't changed.
-Dialogue: 30,0:07:15.10,0:07:18.43,Default,,0000,0000,0000,,Take care of Kagari, all right?
-Dialogue: 30,0:07:22.65,0:07:29.07,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
-Dialogue: 30,0:07:29.07,0:07:34.99,Default,,0000,0000,0000,,—♪ The laughter of the stars... ♪\N—Mommy? Mommy!
-Dialogue: 30,0:07:34.99,0:07:36.12,Default,,0000,0000,0000,,Mommy!
-Dialogue: 30,0:07:36.12,0:07:37.08,Default,,0000,0000,0000,,—Huh?\N—Eh?
-Dialogue: 30,0:07:37.08,0:07:39.66,Default,,0000,0000,0000,,U-Uh, um...
-Dialogue: 30,0:07:39.66,0:07:42.17,Default,,0000,0000,0000,,Did it... happen again?
-Dialogue: 30,0:07:42.17,0:07:43.71,Default,,0000,0000,0000,,You all right?
-Dialogue: 30,0:07:43.71,0:07:45.79,Default,,0000,0000,0000,,Yeah...
-Dialogue: 30,0:07:48.34,0:07:50.92,Default,,0000,0000,0000,,Mayuri left just a bit ago.
-Dialogue: 30,0:07:50.92,0:07:55.51,Default,,0000,0000,0000,,Guess they didn't have enough people\Nto cover the lunchtime rush.
-Dialogue: 30,0:07:55.51,0:07:58.18,Default,,0000,0000,0000,,Mayu-shi was worried sick about you.
-Dialogue: 30,0:07:58.18,0:08:00.23,Default,,0000,0000,0000,,I see...
-Dialogue: 30,0:08:04.48,0:08:07.32,Default,,0000,0000,0000,,Feel a little better now?
-Dialogue: 30,0:08:07.32,0:08:10.28,Default,,0000,0000,0000,,I heard a song.
-Dialogue: 30,0:08:10.28,0:08:12.57,Default,,0000,0000,0000,,And then, my head just...
-Dialogue: 30,0:08:12.57,0:08:14.66,Default,,0000,0000,0000,,A song?
-Dialogue: 30,0:08:14.66,0:08:16.99,Default,,0000,0000,0000,,You've heard that song before?
-Dialogue: 30,0:08:16.99,0:08:17.99,Default,,0000,0000,0000,,Yes.
-Dialogue: 30,0:08:17.99,0:08:20.08,Default,,0000,0000,0000,,It's not one you heard lately?
-Dialogue: 30,0:08:20.08,0:08:22.62,Default,,0000,0000,0000,,It's not, I don't think.
-Dialogue: 30,0:08:22.62,0:08:23.96,Default,,0000,0000,0000,,A song...
-Dialogue: 30,0:08:23.96,0:08:26.08,Default,,0000,0000,0000,,What do you think, Okarin?
-Dialogue: 30,0:08:29.34,0:08:34.05,Default,,0000,0000,0000,,You never know. It might be a hint that\Nleads to getting your memories back.
-Dialogue: 30,0:08:34.05,0:08:35.43,Default,,0000,0000,0000,,Really?
-Dialogue: 30,0:08:35.43,0:08:39.18,Default,,0000,0000,0000,,If it's not too hard on you,\Nit's something we could look into.
-Dialogue: 30,0:08:39.18,0:08:41.68,Default,,0000,0000,0000,,Oh, it's fine with me.
-Dialogue: 30,0:08:41.68,0:08:43.52,Default,,0000,0000,0000,,I'm okay now.
-Dialogue: 30,0:08:45.31,0:08:47.44,Default,,0000,0000,0000,,Hey, how was your checkup?
-Dialogue: 30,0:08:47.44,0:08:49.73,Default,,0000,0000,0000,,I'm as healthy as I've always been.
-Dialogue: 30,0:08:49.73,0:08:52.40,Default,,0000,0000,0000,,It's been half a month, for crying out loud!
-Dialogue: 30,0:08:52.40,0:08:57.62,Default,,0000,0000,0000,,Okarin-san doesn't have to keep\Ngoing in for checkups, so why do I?!
-Dialogue: 30,0:08:59.41,0:09:01.87,Default,,0000,0000,0000,,You should be happy to have no problems.
-Dialogue: 30,0:09:01.87,0:09:04.00,Default,,0000,0000,0000,,But I do have problems!
-Dialogue: 30,0:09:04.00,0:09:08.71,Default,,0000,0000,0000,,I put on fat during my hospital stay\Nand it just won't come off!
-Dialogue: 30,0:09:09.59,0:09:12.63,Default,,0000,0000,0000,,Hey, what do you say we hit up some karaoke?
-Dialogue: 30,0:09:12.63,0:09:14.34,Default,,0000,0000,0000,,Uh, sorry but...
-Dialogue: 30,0:09:14.34,0:09:17.30,Default,,0000,0000,0000,,I kinda have plans after this.
-Dialogue: 30,0:09:17.30,0:09:19.51,Default,,0000,0000,0000,,Ah, shoot! I need to hurry!
-Dialogue: 30,0:09:19.51,0:09:22.22,Default,,0000,0000,0000,,We'll do karaoke another time.
-Dialogue: 30,0:09:27.15,0:09:29.19,Default,,0000,0000,0000,,Yuki-san, in front of—
-Dialogue: 30,0:09:29.98,0:09:33.07,Default,,0000,0000,0000,,Ouch!
-Dialogue: 30,0:09:33.07,0:09:35.90,Default,,0000,0000,0000,,Jeez, I can't believe how clumsy she is!
-Dialogue: 30,0:09:35.90,0:09:37.49,Default,,0000,0000,0000,,For real.
-Dialogue: 30,0:09:38.62,0:09:41.37,Default,,0000,0000,0000,,Kagari-san! Are you better now?!
-Dialogue: 30,0:09:41.37,0:09:44.37,Default,,0000,0000,0000,,Yes, I'm sorry to have worried you.
-Dialogue: 30,0:09:44.37,0:09:49.04,Default,,0000,0000,0000,,No, Mayushii is sorry for not\Nbeing able to stay at your side!
-Dialogue: 30,0:09:51.13,0:09:52.05,Default,,0000,0000,0000,,A song?
-Dialogue: 30,0:09:52.05,0:09:55.88,Default,,0000,0000,0000,,Yes, it's that song you were singing earlier.
-Dialogue: 30,0:09:55.88,0:09:58.43,Default,,0000,0000,0000,,I feel like I've heard it somewhere.
-Dialogue: 30,0:09:58.43,0:10:01.30,Default,,0000,0000,0000,,Do you remember where you learned it from?
-Dialogue: 30,0:10:01.30,0:10:06.10,Default,,0000,0000,0000,,It's possible that song is a hint\Nto get Kagari's memories back.
-Dialogue: 30,0:10:06.10,0:10:07.94,Default,,0000,0000,0000,,Um, let's see...
-Dialogue: 30,0:10:07.94,0:10:11.52,Default,,0000,0000,0000,,Mayushii first heard that song from Suzu-san!
-Dialogue: 30,0:10:11.52,0:10:12.61,Default,,0000,0000,0000,,From Suzuha?
-Dialogue: 30,0:10:12.61,0:10:18.40,Default,,0000,0000,0000,,Yup! I sometimes hear Suzu-san singing\Nthat song while looking out the window.
-Dialogue: 30,0:10:18.40,0:10:24.49,Default,,0000,0000,0000,,So unfortunately, Mayushii doesn't\Nknow the name of the song.
-Dialogue: 30,0:10:24.49,0:10:27.50,Default,,0000,0000,0000,,Maybe it's a song that's popular in the future?
-Dialogue: 30,0:10:27.50,0:10:30.08,Default,,0000,0000,0000,,Sorry I couldn't be of any help.
-Dialogue: 30,0:10:30.08,0:10:33.09,Default,,0000,0000,0000,,No, thank you for telling us.
-Dialogue: 30,0:10:33.09,0:10:36.76,Default,,0000,0000,0000,,Hey, Okarin? Are you planning to visit Suzu-san?
-Dialogue: 30,0:10:36.76,0:10:39.59,Default,,0000,0000,0000,,Hmm? Yeah, to check with her.
-Dialogue: 30,0:10:39.59,0:10:41.55,Default,,0000,0000,0000,,Can Mayushii come too?
-Dialogue: 30,0:10:41.55,0:10:43.76,Default,,0000,0000,0000,,Really? Are you sure?
-Dialogue: 30,0:10:43.76,0:10:47.02,Default,,0000,0000,0000,,You see, it's hard to explain, but...
-Dialogue: 30,0:10:47.02,0:10:52.19,Default,,0000,0000,0000,,When I look at Kagari-san,\NMayushii just wants to do everything I can to help!
-Dialogue: 30,0:10:52.19,0:10:54.27,Default,,0000,0000,0000,,So, please?
-Dialogue: 30,0:10:54.27,0:10:56.23,Default,,0000,0000,0000,,Mayuri-san...
-Dialogue: 30,0:10:56.23,0:10:57.86,Default,,0000,0000,0000,,What about work?
-Dialogue: 30,0:10:57.86,0:11:01.03,Default,,0000,0000,0000,,The peak has passed, so it's fine, nya!
-Dialogue: 30,0:11:01.03,0:11:04.16,Default,,0000,0000,0000,,Anyways, I'll give Suzuha a ring.
-Dialogue: 30,0:11:09.79,0:11:11.29,Default,,0000,0000,0000,,She might be working.
-Dialogue: 30,0:11:11.29,0:11:14.25,Default,,0000,0000,0000,,If that was the case,\Nshe should be on lunch break.
-Dialogue: 30,0:11:14.25,0:11:17.21,Default,,0000,0000,0000,,I passed Suzu-nya outside a bit ago.
-Dialogue: 30,0:11:17.21,0:11:18.80,Default,,0000,0000,0000,,Really?
-Dialogue: 30,0:11:21.43,0:11:23.60,Default,,0000,0000,0000,,Hmm? Suzu-nya?
-Dialogue: 30,0:11:23.60,0:11:24.97,Default,,0000,0000,0000,,Big Sis Rumi?
-Dialogue: 30,0:11:24.97,0:11:27.81,Default,,0000,0000,0000,,What's with the scary-looking face?
-Dialogue: 30,0:11:29.48,0:11:31.52,Default,,0000,0000,0000,,Well, it's...
-Dialogue: 30,0:11:31.52,0:11:33.81,Default,,0000,0000,0000,,I'm about to head into battle.
-Dialogue: 30,0:11:34.86,0:11:35.94,Default,,0000,0000,0000,,Battle?
-Dialogue: 30,0:11:35.94,0:11:39.36,Default,,0000,0000,0000,,That's what she said, nya.
-Dialogue: 30,0:11:39.36,0:11:41.07,Default,,0000,0000,0000,,Don't tell me...
-Dialogue: 30,0:11:51.92,0:11:54.17,Default,,0000,0000,0000,,Incredible... Can you believe it?
-Dialogue: 30,0:12:08.89,0:12:12.14,Default,,0000,0000,0000,,This month's eating contest winner is...
-Dialogue: 30,0:12:12.14,0:12:17.02,Default,,0000,0000,0000,,Our first three-time winner,\NThe Silent Slaughterer!
-Dialogue: 30,0:12:17.02,0:12:19.23,Default,,0000,0000,0000,,And I'm not even stuffed yet.
-Dialogue: 30,0:12:19.82,0:12:22.07,Default,,0000,0000,0000,,Huh?
-Dialogue: 30,0:12:22.07,0:12:24.11,Default,,0000,0000,0000,,Eat what you can when you can.
-Dialogue: 30,0:12:24.11,0:12:27.62,Default,,0000,0000,0000,,It's an important rule to live by\Nfor survival on the battlefield.
-Dialogue: 30,0:12:27.62,0:12:29.83,Default,,0000,0000,0000,,You had me worried there.
-Dialogue: 30,0:12:32.00,0:12:33.62,Default,,0000,0000,0000,,Aw, man...
-Dialogue: 30,0:12:33.62,0:12:35.96,Default,,0000,0000,0000,,Can't believe you heard me singing.
-Dialogue: 30,0:12:35.96,0:12:38.29,Default,,0000,0000,0000,,It's very cute of you!
-Dialogue: 30,0:12:38.29,0:12:40.51,Default,,0000,0000,0000,,Please spare me, Big Sis Mayu.
-Dialogue: 30,0:12:40.51,0:12:44.26,Default,,0000,0000,0000,,Do you remember where\Nyou heard that song, Suzuha?
-Dialogue: 30,0:12:44.26,0:12:45.30,Default,,0000,0000,0000,,Mo—
-Dialogue: 30,0:12:45.30,0:12:48.22,Default,,0000,0000,0000,,I mean, Yuki-san was singing it.
-Dialogue: 30,0:12:48.22,0:12:50.14,Default,,0000,0000,0000,,Yuki-san was?
-Dialogue: 30,0:12:54.35,0:12:57.77,Default,,0000,0000,0000,,If you heard it from Yuki-san,\Nyou mean in the future?
-Dialogue: 30,0:12:57.77,0:13:01.73,Default,,0000,0000,0000,,Yeah... Mom was always singing\Nwhen she cooked our meals.
-Dialogue: 30,0:13:01.73,0:13:06.82,Default,,0000,0000,0000,,So, it's possible that Kagari learned\Nit from you or Yuki-san too?
-Dialogue: 30,0:13:06.82,0:13:08.70,Default,,0000,0000,0000,,Not possible.
-Dialogue: 30,0:13:08.70,0:13:13.41,Default,,0000,0000,0000,,Kagari was adopted by\NBig Sis Mayu only after Mom died.
-Dialogue: 30,0:13:13.41,0:13:16.58,Default,,0000,0000,0000,,I never sang in front of Kagari either.
-Dialogue: 30,0:13:18.04,0:13:25.05,Default,,0000,0000,0000,,Kagari from Mayuri... Mayuri from Suzuha...\NSuzuha learned it from Yuki-san...
-Dialogue: 30,0:13:25.05,0:13:27.09,Default,,0000,0000,0000,,This is just like the telephone game...
-Dialogue: 30,0:13:29.05,0:13:30.14,Default,,0000,0000,0000,,No good?
-Dialogue: 30,0:13:30.14,0:13:33.10,Default,,0000,0000,0000,,Yeah, maybe Yuki-san is working.
-Dialogue: 30,0:13:33.10,0:13:36.81,Default,,0000,0000,0000,,Oh well. We'll just have\Nto wait until she calls back.
-Dialogue: 30,0:13:36.81,0:13:38.86,Default,,0000,0000,0000,,Um, Okabe-san?
-Dialogue: 30,0:13:38.86,0:13:41.02,Default,,0000,0000,0000,,—Over there...\N—Hmm?
-Dialogue: 30,0:13:41.02,0:13:43.82,Default,,0000,0000,0000,,Hey, it's Yuki-san!
-Dialogue: 30,0:13:43.82,0:13:46.90,Default,,0000,0000,0000,,Wait... She's together with... Daru?!
-Dialogue: 30,0:13:46.90,0:13:48.20,Default,,0000,0000,0000,,Ooh!
-Dialogue: 30,0:13:50.74,0:13:53.91,Default,,0000,0000,0000,,There's some sauce on the side of your mouth.
-Dialogue: 30,0:13:53.91,0:13:54.83,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:13:54.83,0:13:56.46,Default,,0000,0000,0000,,I-I'll wipe it myself!
-Dialogue: 30,0:13:56.46,0:14:02.59,Default,,0000,0000,0000,,D-Don't try cleaning my disgusting face\Nor it'll ruin your handkerchief!
-Dialogue: 30,0:13:57.56,0:14:00.04,Default,,0000,0000,0000,,I got it. Hold still, okay?
-Dialogue: 30,0:14:02.59,0:14:05.13,Default,,0000,0000,0000,,It's not disgusting at all.
-Dialogue: 30,0:14:08.55,0:14:10.85,Default,,0000,0000,0000,,Hey, hey! Are they on a date?!
-Dialogue: 30,0:14:10.85,0:14:12.22,Default,,0000,0000,0000,,It's a date!
-Dialogue: 30,0:14:12.22,0:14:14.64,Default,,0000,0000,0000,,So those two are seeing each other?
-Dialogue: 30,0:14:14.64,0:14:18.06,Default,,0000,0000,0000,,That rascal, saying he had somewhere to be...
-Dialogue: 30,0:14:18.06,0:14:19.69,Default,,0000,0000,0000,,What to do, Okarin?
-Dialogue: 30,0:14:19.69,0:14:21.98,Default,,0000,0000,0000,,Well, we can't get in their way.
-Dialogue: 30,0:14:21.98,0:14:24.82,Default,,0000,0000,0000,,We'll ask later. Is that okay, Kagari?
-Dialogue: 30,0:14:24.82,0:14:27.40,Default,,0000,0000,0000,,Yes, though...
-Dialogue: 30,0:14:27.40,0:14:29.03,Default,,0000,0000,0000,,Hmm?
-Dialogue: 30,0:14:31.62,0:14:33.41,Default,,0000,0000,0000,,Ah...
-Dialogue: 30,0:14:33.41,0:14:35.79,Default,,0000,0000,0000,,We're sorry for intruding...
-Dialogue: 30,0:14:35.79,0:14:39.58,Default,,0000,0000,0000,,Don't be. Like they say, the more the merrier.
-Dialogue: 30,0:14:39.58,0:14:41.42,Default,,0000,0000,0000,,Right?
-Dialogue: 30,0:14:41.42,0:14:43.13,Default,,0000,0000,0000,,Yeah, sure...
-Dialogue: 30,0:14:43.13,0:14:45.42,Default,,0000,0000,0000,,So, about that song...
-Dialogue: 30,0:14:45.42,0:14:50.18,Default,,0000,0000,0000,,Well you see, I sometimes help out\Nteaching at a baking class.
-Dialogue: 30,0:14:50.18,0:14:51.01,Default,,0000,0000,0000,,Hmm?
-Dialogue: 30,0:14:51.01,0:14:54.81,Default,,0000,0000,0000,,Yuki-san makes the most\Ndelicious sweets you'll ever have!
-Dialogue: 30,0:14:54.81,0:14:55.89,Default,,0000,0000,0000,,Yeah?
-Dialogue: 30,0:14:55.89,0:14:58.68,Default,,0000,0000,0000,,Should we make some together next time?
-Dialogue: 30,0:14:58.68,0:15:00.23,Default,,0000,0000,0000,,Yes, of course!
-Dialogue: 30,0:15:00.23,0:15:01.90,Default,,0000,0000,0000,,H-Hold on.
-Dialogue: 30,0:15:01.90,0:15:04.27,Default,,0000,0000,0000,,What does that have to do with the song?
-Dialogue: 30,0:15:04.27,0:15:08.65,Default,,0000,0000,0000,,One of the students that comes\Nto our class is always singing it.
-Dialogue: 30,0:15:08.65,0:15:10.74,Default,,0000,0000,0000,,They sing that song?
-Dialogue: 30,0:15:10.74,0:15:11.91,Default,,0000,0000,0000,,Yeah.
-Dialogue: 30,0:15:11.91,0:15:14.16,Default,,0000,0000,0000,,Before long, it got stuck in my head.
-Dialogue: 30,0:15:14.16,0:15:17.41,Default,,0000,0000,0000,,And that person who\Nsang it is someone we know?
-Dialogue: 30,0:15:17.41,0:15:21.83,Default,,0000,0000,0000,,I'm not so sure. I'd say they're\Nsome 20 years older than us.
-Dialogue: 30,0:15:21.83,0:15:24.50,Default,,0000,0000,0000,,Not seeming very likely then.
-Dialogue: 30,0:15:26.17,0:15:30.17,Default,,0000,0000,0000,,That's right. I thought\Nit'd be easier just to ask.
-Dialogue: 30,0:15:30.17,0:15:32.59,Default,,0000,0000,0000,,Sure, I'll put him on.
-Dialogue: 30,0:15:32.59,0:15:35.10,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:15:35.10,0:15:36.01,Default,,0000,0000,0000,,Hello?
-Dialogue: 30,0:15:36.01,0:15:38.18,Default,,0000,0000,0000,,Uh, sorry about this.
-Dialogue: 30,0:15:38.18,0:15:40.64,Default,,0000,0000,0000,,This is Okabe, a friend of Amane-san's.
-Dialogue: 30,0:15:40.64,0:15:41.52,Default,,0000,0000,0000,,Okabe?
-Dialogue: 30,0:15:41.52,0:15:46.32,Default,,0000,0000,0000,,Right. To be honest,\NI just wanted to ask about that song.
-Dialogue: 30,0:15:46.32,0:15:49.15,Default,,0000,0000,0000,,That voice... Is that you, Rintaro?
-Dialogue: 30,0:15:49.15,0:15:52.11,Default,,0000,0000,0000,,—Huh?\N—It's me! Me!
-Dialogue: 30,0:15:52.11,0:15:54.28,Default,,0000,0000,0000,,That voice! It can't be!
-Dialogue: 30,0:15:54.28,0:15:59.25,Default,,0000,0000,0000,,Excuse me? Don't tell me you forgot\Nthe beautiful voice of your own mother.
-Dialogue: 30,0:15:59.91,0:16:04.13,Default,,0000,0000,0000,,I can't believe the lady turned\Nout to be your mother...
-Dialogue: 30,0:16:04.13,0:16:07.04,Default,,0000,0000,0000,,In class, we all just use\Neveryone's first names.
-Dialogue: 30,0:16:07.04,0:16:10.26,Default,,0000,0000,0000,,Well? What did your mother have to say?
-Dialogue: 30,0:16:10.26,0:16:11.72,Default,,0000,0000,0000,,That's...
-Dialogue: 30,0:16:11.72,0:16:13.18,Default,,0000,0000,0000,,From you!
-Dialogue: 30,0:16:13.18,0:16:13.76,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:16:13.76,0:16:16.30,Default,,0000,0000,0000,,I'm telling you, you're the one who sang it!
-Dialogue: 30,0:16:16.30,0:16:18.06,Default,,0000,0000,0000,,I-I did?!
-Dialogue: 30,0:16:18.06,0:16:21.18,Default,,0000,0000,0000,,What are you talking about?\NI don't even know the song!
-Dialogue: 30,0:16:21.18,0:16:27.77,Default,,0000,0000,0000,,Remember? Back when you were in middle school\Nand Mayuri-chan was down in the dumps?
-Dialogue: 30,0:16:27.77,0:16:30.99,Default,,0000,0000,0000,,It was around the time\Nyou started acting all weird.
-Dialogue: 30,0:16:30.99,0:16:33.20,Default,,0000,0000,0000,,Uh, what was it again?
-Dialogue: 30,0:16:33.20,0:16:36.16,Default,,0000,0000,0000,,I'm a macho psychologist!
-Dialogue: 30,0:16:37.83,0:16:38.45,Default,,0000,0000,0000,,Stop it.
-Dialogue: 30,0:16:38.45,0:16:42.96,Default,,0000,0000,0000,,Anyways, that's what you used\Nto sing all the time in the bath.
-Dialogue: 30,0:16:42.96,0:16:44.08,Default,,0000,0000,0000,,I did?
-Dialogue: 30,0:16:44.08,0:16:47.59,Default,,0000,0000,0000,,That's right! And because of you,\NI can't forget it!
-Dialogue: 30,0:16:47.59,0:16:51.05,Default,,0000,0000,0000,,Um, what exactly does this mean?
-Dialogue: 30,0:16:51.05,0:16:52.59,Default,,0000,0000,0000,,I don't know.
-Dialogue: 30,0:16:52.59,0:16:56.47,Default,,0000,0000,0000,,I can't recall ever singing\Nthat song in the first place.
-Dialogue: 30,0:16:56.47,0:16:58.68,Default,,0000,0000,0000,,Have you heard him sing it, Mayuri-san?
-Dialogue: 30,0:16:58.68,0:17:01.68,Default,,0000,0000,0000,,Mayushii doesn't remember that either.
-Dialogue: 30,0:17:02.77,0:17:06.56,Default,,0000,0000,0000,,We're all stuck in the same spot as Kagari now.
-Dialogue: 30,0:17:06.56,0:17:12.32,Default,,0000,0000,0000,,Um, did I hear that right about\NMayuri-san being down in the dumps?
-Dialogue: 30,0:17:12.32,0:17:14.20,Default,,0000,0000,0000,,Well, stuff happened.
-Dialogue: 30,0:17:14.20,0:17:18.07,Default,,0000,0000,0000,,Hey, Okarin. Do you think we should go?
-Dialogue: 30,0:17:18.07,0:17:20.37,Default,,0000,0000,0000,,Go? You mean there?
-Dialogue: 30,0:17:20.37,0:17:25.12,Default,,0000,0000,0000,,Yeah. You never know!\NMaybe you'll remember something!
-Dialogue: 30,0:17:32.96,0:17:37.22,Default,,0000,0000,0000,,Grandma will be so happy\Nyou came to visit, Okarin.
-Dialogue: 30,0:17:37.22,0:17:39.55,Default,,0000,0000,0000,,We're going to see your grandma?
-Dialogue: 30,0:17:39.55,0:17:43.81,Default,,0000,0000,0000,,Yup! And I'll introduce you\Nto her too, Kagari-san!
-Dialogue: 30,0:17:43.81,0:17:46.77,Default,,0000,0000,0000,,And tell her you're Mayushii's beloved friend!
-Dialogue: 30,0:17:46.77,0:17:48.73,Default,,0000,0000,0000,,Mayuri-san...
-Dialogue: 30,0:17:51.11,0:17:52.86,Default,,0000,0000,0000,,This is...
-Dialogue: 30,0:17:52.86,0:17:56.20,Default,,0000,0000,0000,,Well, Okarin? Do you remember anything?
-Dialogue: 30,0:17:56.20,0:17:57.61,Default,,0000,0000,0000,,No...
-Dialogue: 30,0:17:57.61,0:17:59.49,Default,,0000,0000,0000,,I see...
-Dialogue: 30,0:17:59.49,0:18:02.29,Default,,0000,0000,0000,,You'll talk to your grandma, right?
-Dialogue: 30,0:18:02.29,0:18:03.95,Default,,0000,0000,0000,,Oh, right!
-Dialogue: 30,0:18:03.95,0:18:07.25,Default,,0000,0000,0000,,Sorry. I'll only be a minute.
-Dialogue: 30,0:18:10.92,0:18:13.63,Default,,0000,0000,0000,,It's been a while, Grandma.
-Dialogue: 30,0:18:13.63,0:18:17.90,Default,,0000,0000,0000,,Guess what? I made a\Nnew friend named Kagari-san!
-Dialogue: 30,0:18:18.22,0:18:21.35,Default,,0000,0000,0000,,—This is like a ritual for her.
-Dialogue: 30,0:18:18.22,0:18:24.35,Default,,0000,0000,0000,,—But the thing is, Kagari-san has amnesia.
-Dialogue: 30,0:18:21.35,0:18:22.82,Default,,0000,0000,0000,,—A ritual?
-Dialogue: 30,0:18:24.35,0:18:30.31,Default,,0000,0000,0000,,To lose all your memories of the past,\Nthat has to be so sad...
-Dialogue: 30,0:18:30.31,0:18:32.69,Default,,0000,0000,0000,,I wonder if she'll get them back?
-Dialogue: 30,0:18:35.69,0:18:38.53,Default,,0000,0000,0000,,It'd be nice if they came back...
-Dialogue: 30,0:18:41.82,0:18:46.04,Default,,0000,0000,0000,,Whoa! Mayuri, it's raining! Let's take cover!
-Dialogue: 30,0:18:51.29,0:18:53.63,Default,,0000,0000,0000,,It sure came pouring down...
-Dialogue: 30,0:18:53.63,0:18:55.71,Default,,0000,0000,0000,,We're totally drenched!
-Dialogue: 30,0:18:55.71,0:18:58.42,Default,,0000,0000,0000,,We should've brought umbrellas.
-Dialogue: 30,0:19:02.26,0:19:05.68,Default,,0000,0000,0000,,I know! We can go to Mayushii's house and—
-Dialogue: 30,0:19:07.48,0:19:09.64,Default,,0000,0000,0000,,Kagari-san?
-Dialogue: 30,0:19:09.64,0:19:11.65,Default,,0000,0000,0000,,This is...
-Dialogue: 30,0:19:20.32,0:19:22.16,Default,,0000,0000,0000,,Mommy...
-Dialogue: 30,0:19:38.26,0:19:38.88,Default,,0000,0000,0000,,Kagari-san?
-Dialogue: 30,0:19:38.88,0:19:40.13,Default,,0000,0000,0000,,This is...
-Dialogue: 30,0:19:40.13,0:19:41.22,Default,,0000,0000,0000,,Kagari?
-Dialogue: 30,0:19:41.22,0:19:42.47,Default,,0000,0000,0000,,Kagari!
-Dialogue: 30,0:19:46.68,0:19:48.39,Default,,0000,0000,0000,,Kagari!
-Dialogue: 30,0:20:03.45,0:20:05.16,Default,,0000,0000,0000,,I miss you!
-Dialogue: 30,0:20:08.91,0:20:11.96,Default,,0000,0000,0000,,I miss you, Mommy!
-Dialogue: 30,0:20:11.96,0:20:13.50,Default,,0000,0000,0000,,Mommy!
-Dialogue: 30,0:20:14.25,0:20:15.50,Default,,0000,0000,0000,,Mommy!
-Dialogue: 30,0:20:17.13,0:20:19.38,Default,,0000,0000,0000,,Mommy!
-Dialogue: 30,0:20:23.13,0:20:26.60,Default,,0000,0000,0000,,Kagari-san?
-Dialogue: 30,0:20:26.60,0:20:28.14,Default,,0000,0000,0000,,M-Mommy?
-Dialogue: 30,0:20:28.14,0:20:31.77,Default,,0000,0000,0000,,Thank goodness! You finally woke up!
-Dialogue: 30,0:20:32.94,0:20:34.52,Default,,0000,0000,0000,,Mommy...
-Dialogue: 30,0:20:34.52,0:20:36.65,Default,,0000,0000,0000,,Kagari?
-Dialogue: 30,0:20:38.23,0:20:41.19,Default,,0000,0000,0000,,Mommy!
-Dialogue: 30,0:20:38.23,0:20:43.50,On Top,,0000,0000,0000,,{\i1}There's just one thing I'm searching for...{\i}
-Dialogue: 30,0:20:41.19,0:20:42.49,Default,,0000,0000,0000,,Huh? Huh?!
-Dialogue: 30,0:20:42.49,0:20:47.16,Default,,0000,0000,0000,,I missed you, Mommy!
-Dialogue: 30,0:20:44.90,0:20:50.05,On Top,,0000,0000,0000,,{\i1}The laughter of the stars{\i}
-Dialogue: 30,0:20:47.16,0:20:50.62,Default,,0000,0000,0000,,M-Mayushii isn't a mommy.
-Dialogue: 30,0:20:50.62,0:20:53.62,Default,,0000,0000,0000,,No... Mommy is mommy.
-Dialogue: 30,0:20:51.00,0:20:56.00,On Top,,0000,0000,0000,,{\i1}Twinkling in the wind{\i}
-Dialogue: 30,0:20:53.62,0:20:56.13,Default,,0000,0000,0000,,The mommy I love so much!
-Dialogue: 30,0:20:56.13,0:20:58.50,Default,,0000,0000,0000,,Mommy Mayuri!
-Dialogue: 30,0:20:56.50,0:21:03.80,On Top,,0000,0000,0000,,{\i1}You can grab it if you reach out your hand{\i}
-Dialogue: 30,0:20:58.50,0:21:01.67,Default,,0000,0000,0000,,Did her memories actually come back?
-Dialogue: 30,0:21:01.67,0:21:03.38,Default,,0000,0000,0000,,I finally found you!
-Dialogue: 30,0:21:03.38,0:21:04.93,Default,,0000,0000,0000,,Finally!
-Dialogue: 30,0:21:03.90,0:21:09.80,On Top,,0000,0000,0000,,{\i1}Fish swim about{\i}
-Dialogue: 30,0:21:07.30,0:21:09.51,Default,,0000,0000,0000,,U-Um...
-Dialogue: 30,0:21:10.05,0:21:16.60,On Top,,0000,0000,0000,,{\i1}Enveloped by the gentle rain{\i}
-Dialogue: 30,0:21:16.27,0:21:17.98,Default,,0000,0000,0000,,It's okay.
-Dialogue: 30,0:21:16.70,0:21:23.05,On Top,,0000,0000,0000,,{\i1}I've always wished to bring my cheek{\i}
-Dialogue: 30,0:21:17.98,0:21:20.98,Default,,0000,0000,0000,,It's all right now.
-Dialogue: 30,0:21:20.98,0:21:23.03,Default,,0000,0000,0000,,Mommy!
-Dialogue: 30,0:21:23.15,0:21:29.15,On Top,,0000,0000,0000,,{\i1}Closer to your warm, broad back{\i}
-Dialogue: 30,0:21:29.30,0:21:32.40,On Top,,0000,0000,0000,,{\i1}Just close your eyes{\i}
-Dialogue: 30,0:21:32.50,0:21:35.40,On Top,,0000,0000,0000,,{\i1}And surely you'll see{\i}
-Dialogue: 30,0:21:35.60,0:21:41.95,On Top,,0000,0000,0000,,{\i1}A guiding light to save a lost one like you{\i}
-Dialogue: 30,0:21:42.10,0:21:45.50,On Top,,0000,0000,0000,,{\i1}Just listen carefully{\i}
-Dialogue: 30,0:21:45.60,0:21:48.40,On Top,,0000,0000,0000,,{\i1}And surely you'll hear{\i}
-Dialogue: 30,0:21:48.60,0:21:59.60,On Top,,0000,0000,0000,,{\i1}A song to gently awaken a slumbering one like you{\i}
-Dialogue: 30,0:22:03.30,0:22:05.90,On Top,,0000,0000,0000,,{\i1}I've always, always{\i}
-Dialogue: 30,0:22:06.60,0:22:08.60,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:08.80,0:22:15.30,On Top,,0000,0000,0000,,{\i1}Been by your side...{\i}
-Dialogue: 30,0:22:16.15,0:22:18.80,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:19.35,0:22:21.90,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:22.05,0:22:28.60,On Top,,0000,0000,0000,,{\i1}And forever...{\i}
-Dialogue: 30,0:22:29.20,0:22:31.90,On Top,,0000,0000,0000,,{\i1}I will always, always{\i}
-Dialogue: 30,0:22:32.40,0:22:34.60,On Top,,0000,0000,0000,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:34.90,0:22:40.50,On Top,,0000,0000,0000,,{\i1}Be by your side...{\i}
-Dialogue: 30,0:22:40.70,0:22:49.50,On Top,,0000,0000,0000,,{\i1}To protect the smile of a gentle one like you{\i}
-Dialogue: 30,0:22:56.00,0:23:02.46,Default,,0000,0000,0000,,♪ There's just one thing I'm searching for... ♪
-Dialogue: 30,0:23:02.46,0:23:04.75,Default,,0000,0000,0000,,—♪ The— ♪\N—U-Um...
-Dialogue: 30,0:23:06.42,0:23:08.59,Default,,0000,0000,0000,,Uh, um...
-Dialogue: 30,0:23:12.43,0:23:15.14,Default,,0000,0000,0000,,That was beautiful just now...
-Dialogue: 30,0:23:15.14,0:23:16.93,Default,,0000,0000,0000,,That song.
-Dialogue: 30,0:23:21.98,0:23:22.94,Default,,0000,0000,0000,,It's Mommy's.
-Dialogue: 30,0:23:22.94,0:23:24.57,Default,,0000,0000,0000,,Huh?
-Dialogue: 30,0:23:26.32,0:23:29.07,Default,,0000,0000,0000,,The song of the mommy I love.
-Dialogue: 30,0:23:31.61,0:23:34.95,Default,,0000,0000,0000,,Runaway K-6205.
-Dialogue: 30,0:23:34.95,0:23:38.25,Default,,0000,0000,0000,,Shiina Kagari has been found.
+Dialogue: 1,0:16:11.61,0:16:25.33,Signs,,0,0,0,,{\an8\c&HB6BDC2&\fax0.35\fay-0.02\frz341.3\move(691.283,755,982,755)}Okabe Green Grocer
+Dialogue: 0,0:16:43.85,0:16:47.31,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HB8B7C1&}m 778 225 l 969 169 l 989 232 l 801 292 {\p0}
+Dialogue: 1,0:16:43.85,0:16:47.31,Signs,,0,0,0,,{\frz17.11\an8\fnNoto Sans JP Light\fs80\alpha&H0F\be2\pos(878,194)}Akemi-san
+Dialogue: 0,0:16:43.85,0:16:47.31,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H54588B&}m 972 620 l 1061 590 l 1071 622 l 982 651 {\p0}
+Dialogue: 1,0:16:43.85,0:16:47.31,Signs,,0,0,0,,{\an8\fnNoto Sans JP Light\fs40\alpha&H0F\blur1.5\frz17.04\pos(1016,598)\c&HE0E0F2&}End call
+Dialogue: 30,0:00:05.54,0:00:07.04,Default,,0,0,0,,Kagari-chan?
+Dialogue: 30,0:00:08.50,0:00:10.13,Default,,0,0,0,,Kagari-chan?
+Dialogue: 30,0:00:12.97,0:00:14.72,Default,,0,0,0,,Kagari-chan!
+Dialogue: 30,0:00:18.60,0:00:19.85,Default,,0,0,0,,Mommy?
+Dialogue: 30,0:00:19.85,0:00:21.89,Default,,0,0,0,,How are you feeling?
+Dialogue: 30,0:00:24.39,0:00:27.27,Default,,0,0,0,,Is my treatment for today all done?
+Dialogue: 30,0:00:27.27,0:00:30.03,Default,,0,0,0,,Yup! You did great today!
+Dialogue: 30,0:00:30.03,0:00:31.78,Default,,0,0,0,,Such a good girl!
+Dialogue: 30,0:00:32.74,0:00:37.74,Default,,0,0,0,,And for the good girl Kagari-chan,\NI have some special news!
+Dialogue: 30,0:00:37.74,0:00:39.12,Default,,0,0,0,,News?
+Dialogue: 30,0:00:39.12,0:00:40.29,Default,,0,0,0,,Yup!
+Dialogue: 30,0:00:40.29,0:00:43.41,Default,,0,0,0,,All of the paperwork is finally out of the way.
+Dialogue: 30,0:00:43.41,0:00:47.46,Default,,0,0,0,,I'm sorry that it took so long,\Nbut starting today...
+Dialogue: 30,0:00:47.46,0:00:50.71,Default,,0,0,0,,...I get to be your real mommy!
+Dialogue: 30,0:00:50.71,0:00:53.22,Default,,0,0,0,,We can live together now!
+Dialogue: 30,0:00:57.01,0:00:59.10,Default,,0,0,0,,Mommy!
+Dialogue: 30,0:00:59.10,0:01:03.27,Default,,0,0,0,,Sheesh! You're such a spoiled one, Kagari-chan!
+Dialogue: 30,0:01:05.73,0:01:11.65,Default,,0,0,0,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 30,0:01:11.65,0:01:16.10,Default,,0,0,0,,♪ The laughter of the stars. ♪
+Dialogue: 30,0:01:16.10,0:01:17.99,Default,,0,0,0,,What song is that?
+Dialogue: 30,0:01:17.99,0:01:19.53,Default,,0,0,0,,Hmm?
+Dialogue: 30,0:01:19.53,0:01:23.12,Default,,0,0,0,,I'm glad you asked.\NIt's a very precious song to me.
+Dialogue: 30,0:01:23.12,0:01:24.54,Default,,0,0,0,,Precious?
+Dialogue: 30,0:01:24.54,0:01:26.00,Default,,0,0,0,,That's right!
+Dialogue: 30,0:01:26.00,0:01:30.54,Default,,0,0,0,,It's all thanks to this song that Mommy\Nand Kagari-chan were able to meet.
+Dialogue: 30,0:01:30.54,0:01:31.59,Default,,0,0,0,,Really?
+Dialogue: 30,0:01:31.59,0:01:36.72,Default,,0,0,0,,Yup! That's why you should give it\Nyour best and try to memorize it too!
+Dialogue: 30,0:01:36.72,0:01:41.26,Default,,0,0,0,,Because someday, you'll meet\Nsomebody precious to you too.
+Dialogue: 30,0:01:41.26,0:01:46.85,Default,,0,0,0,,I want to learn that song too!\NTeach me Mommy's precious song!
+Dialogue: 30,0:01:46.85,0:01:48.94,Default,,0,0,0,,Okay! Should we sing it together?
+Dialogue: 30,0:01:48.94,0:01:50.40,Default,,0,0,0,,Yeah!
+Dialogue: 30,0:01:53.28,0:01:59.36,Default,,0,0,0,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 30,0:01:59.36,0:02:05.20,Default,,0,0,0,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 30,0:02:03.29,0:02:05.20,Default,,0,0,0,,Yup! Good, good!
+Dialogue: 30,0:02:05.20,0:02:10.96,Default,,0,0,0,,♪ The laughter of the stars... ♪
+Dialogue: 30,0:02:10.96,0:02:16.97,Default,,0,0,0,,♪ The laughter of the stars... ♪
+Dialogue: 30,0:02:16.97,0:02:22.39,Default,,0,0,0,,♪ Twinkling in the wind... ♪
+Dialogue: 30,0:02:22.39,0:02:24.47,Default,,0,0,0,,♪ Twinkling in the wind... ♪
+Dialogue: 30,0:02:40.91,0:02:46.20,Default,,0,0,0,,{\i1}This is a world of unreality,{\i}
+Dialogue: 30,0:02:46.20,0:02:52.13,Default,,0,0,0,,{\i1}Nothing more than an imprinted vision.{\i}
+Dialogue: 30,0:02:53.13,0:03:03.97,Default,,0,0,0,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
+Dialogue: 30,0:03:03.97,0:03:13.69,Default,,0,0,0,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
+Dialogue: 30,0:03:13.69,0:03:19.03,Default,,0,0,0,,{\i1}Then I alone{\i}
+Dialogue: 30,0:03:19.03,0:03:25.78,Default,,0,0,0,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
+Dialogue: 30,0:03:25.78,0:03:26.87,Default,,0,0,0,,{\i1}I can fly high{\i}
+Dialogue: 30,0:03:26.87,0:03:32.79,Default,,0,0,0,,{\i1}If that moment, if that place was{\i}\N{\i1}something you thought was special to you{\i}
+Dialogue: 30,0:03:32.79,0:03:37.55,Default,,0,0,0,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
+Dialogue: 30,0:03:37.55,0:03:43.05,Default,,0,0,0,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
+Dialogue: 30,0:03:43.05,0:03:48.60,Default,,0,0,0,,{\i1}As each and every light forms to yield Zero.{\i}
+Dialogue: 30,0:03:48.60,0:03:53.94,Default,,0,0,0,,{\i1}There is no God. Wonderful new world.{\i}
+Dialogue: 30,0:03:58.65,0:04:00.15,Default,,0,0,0,,Okabe-kun!
+Dialogue: 30,0:04:00.15,0:04:01.74,Default,,0,0,0,,Professor Izaki?
+Dialogue: 30,0:04:01.74,0:04:05.66,Default,,0,0,0,,I must say, that report of yours\Nwas pretty darn impressive!
+Dialogue: 30,0:04:05.66,0:04:07.87,Default,,0,0,0,,Th-Thank you.
+Dialogue: 30,0:04:07.87,0:04:10.62,Default,,0,0,0,,Weren't you thinking about studying abroad?
+Dialogue: 30,0:04:10.62,0:04:13.37,Default,,0,0,0,,Y-Yeah, tentatively...
+Dialogue: 30,0:04:13.37,0:04:15.38,Default,,0,0,0,,To be honest, you had me worried,
+Dialogue: 30,0:04:15.38,0:04:20.13,Default,,0,0,0,,but based on your work as of late,\Nyou might just pull it off.
+Dialogue: 30,0:04:20.13,0:04:22.05,Default,,0,0,0,,Keep it the good work.
+Dialogue: 30,0:04:22.05,0:04:25.43,Default,,0,0,0,,I-I will! Thank you!
+Dialogue: 30,0:04:27.18,0:04:31.73,Default,,0,0,0,,Hey, Kagari-san? Want some\NJuicy Chicken Number One?
+Dialogue: 30,0:04:31.73,0:04:34.44,Default,,0,0,0,,—It's Mayushii's favorite food ever!\N—Oh!
+Dialogue: 30,0:04:34.44,0:04:35.77,Default,,0,0,0,,—You don't mind?\N—Hmm...
+Dialogue: 30,0:04:35.77,0:04:40.98,Default,,0,0,0,,—Nope! It's super tasty,\Nso I wanted you to try some too!\N—Hmm, hmm...
+Dialogue: 30,0:04:40.98,0:04:44.99,Default,,0,0,0,,Thank you. I think I will.
+Dialogue: 30,0:04:44.99,0:04:47.20,Default,,0,0,0,,You're very welcome!
+Dialogue: 30,0:04:47.20,0:04:48.74,Default,,0,0,0,,Want some, Daru-kun?
+Dialogue: 30,0:04:48.74,0:04:50.16,Default,,0,0,0,,Sure, I'll eat some.
+Dialogue: 30,0:04:50.16,0:04:53.21,Default,,0,0,0,,All right! Gimme just a minute!
+Dialogue: 30,0:04:54.87,0:05:00.46,Default,,0,0,0,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 30,0:05:00.46,0:05:06.13,Default,,0,0,0,,♪ The laughter of the stars... ♪
+Dialogue: 30,0:05:06.13,0:05:08.05,Default,,0,0,0,,♪ Twinkling in— ♪
+Dialogue: 30,0:05:08.05,0:05:08.68,Default,,0,0,0,,Huh?
+Dialogue: 30,0:05:08.68,0:05:11.31,Default,,0,0,0,,That song... I know it.
+Dialogue: 30,0:05:11.31,0:05:12.60,Default,,0,0,0,,Kagari-san?
+Dialogue: 30,0:05:12.60,0:05:14.48,Default,,0,0,0,,Eh?
+Dialogue: 30,0:05:14.48,0:05:18.02,Default,,0,0,0,,Long ago... Somewhere...
+Dialogue: 30,0:05:18.02,0:05:19.48,Default,,0,0,0,,Somewhere...
+Dialogue: 30,0:05:19.48,0:05:21.02,Default,,0,0,0,,Kagari-san?
+Dialogue: 30,0:05:22.32,0:05:23.86,Default,,0,0,0,,Eh? Whoa!
+Dialogue: 30,0:05:23.86,0:05:26.32,Default,,0,0,0,,Kagari-san! Hang in there!
+Dialogue: 30,0:05:26.32,0:05:28.20,Default,,0,0,0,,Kagari-san!
+Dialogue: 30,0:05:34.04,0:05:35.58,Default,,0,0,0,,Mayuri! How's Kagari?!
+Dialogue: 30,0:05:35.58,0:05:37.12,Default,,0,0,0,,Okarin!
+Dialogue: 30,0:05:38.33,0:05:40.59,Default,,0,0,0,,You said she collapsed again?
+Dialogue: 30,0:05:40.59,0:05:42.88,Default,,0,0,0,,Right now, she's sleeping.
+Dialogue: 30,0:05:42.88,0:05:44.38,Default,,0,0,0,,Suzuha...
+Dialogue: 30,0:05:44.38,0:05:46.38,Default,,0,0,0,,Can I have a word?
+Dialogue: 30,0:05:50.26,0:05:52.18,Default,,0,0,0,,It's been a while.
+Dialogue: 30,0:05:52.18,0:05:53.93,Default,,0,0,0,,Yeah...
+Dialogue: 30,0:05:55.60,0:05:57.19,Default,,0,0,0,,Just so you know, I'm...
+Dialogue: 30,0:05:57.19,0:06:00.02,Default,,0,0,0,,...not aiming to reach Steins Gate.
+Dialogue: 30,0:06:00.02,0:06:00.98,Default,,0,0,0,,Eh?
+Dialogue: 30,0:06:00.98,0:06:04.53,Default,,0,0,0,,I can tell without you saying.
+Dialogue: 30,0:06:04.53,0:06:06.11,Default,,0,0,0,,Sorry.
+Dialogue: 30,0:06:09.11,0:06:11.53,Default,,0,0,0,,I wonder if they'll ever come back?
+Dialogue: 30,0:06:11.53,0:06:12.58,Default,,0,0,0,,Huh?
+Dialogue: 30,0:06:12.58,0:06:14.29,Default,,0,0,0,,Kagari's memories.
+Dialogue: 30,0:06:14.29,0:06:16.37,Default,,0,0,0,,Right...
+Dialogue: 30,0:06:16.37,0:06:19.37,Default,,0,0,0,,But the girl's a war orphan.
+Dialogue: 30,0:06:19.37,0:06:21.46,Default,,0,0,0,,Never knew her parents' faces...
+Dialogue: 30,0:06:21.46,0:06:24.92,Default,,0,0,0,,Had nothing but painful memories, I'm sure.
+Dialogue: 30,0:06:24.92,0:06:30.51,Default,,0,0,0,,But, her meeting Big Sis Mayu\Nchanged her life forever.
+Dialogue: 30,0:06:30.51,0:06:36.73,Default,,0,0,0,,Because of Big Sis Mayu,\Nshe finally learned how to smile.
+Dialogue: 30,0:06:36.73,0:06:39.35,Default,,0,0,0,,When she ran away from me...
+Dialogue: 30,0:06:39.35,0:06:43.11,Default,,0,0,0,,...she pointed a gun at me.
+Dialogue: 30,0:06:43.11,0:06:47.07,Default,,0,0,0,,Saying if the worldline changed,\Nshe couldn't meet Mommy anymore.
+Dialogue: 30,0:06:47.07,0:06:50.95,Default,,0,0,0,,She was just 10 years old...
+Dialogue: 30,0:06:50.95,0:06:54.49,Default,,0,0,0,,She might get her memories back,\Nor she might not.
+Dialogue: 30,0:06:54.49,0:06:59.04,Default,,0,0,0,,But for her, I wonder which\Nis the happier outcome?
+Dialogue: 30,0:06:59.04,0:07:00.42,Default,,0,0,0,,If her memory does come back,
+Dialogue: 30,0:07:00.42,0:07:06.71,Default,,0,0,0,,she might remember something about the\Npeople who attacked her, so there's always that.
+Dialogue: 30,0:07:06.71,0:07:13.09,Default,,0,0,0,,Either way, I plan to do all that\NI can do, and that hasn't changed.
+Dialogue: 30,0:07:15.10,0:07:18.43,Default,,0,0,0,,Take care of Kagari, all right?
+Dialogue: 30,0:07:22.65,0:07:29.07,Default,,0,0,0,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 30,0:07:29.07,0:07:34.99,Default,,0,0,0,,—♪ The laughter of the stars... ♪\N—Mommy? Mommy!
+Dialogue: 30,0:07:34.99,0:07:36.12,Default,,0,0,0,,Mommy!
+Dialogue: 30,0:07:36.12,0:07:37.08,Default,,0,0,0,,—Huh?\N—Eh?
+Dialogue: 30,0:07:37.08,0:07:39.66,Default,,0,0,0,,U-Uh, um...
+Dialogue: 30,0:07:39.66,0:07:42.17,Default,,0,0,0,,Did it... happen again?
+Dialogue: 30,0:07:42.17,0:07:43.71,Default,,0,0,0,,You all right?
+Dialogue: 30,0:07:43.71,0:07:45.79,Default,,0,0,0,,Yeah...
+Dialogue: 30,0:07:48.34,0:07:50.92,Default,,0,0,0,,Mayuri left just a bit ago.
+Dialogue: 30,0:07:50.92,0:07:55.51,Default,,0,0,0,,Guess they didn't have enough people\Nto cover the lunchtime rush.
+Dialogue: 30,0:07:55.51,0:07:58.18,Default,,0,0,0,,Mayu-shi was worried sick about you.
+Dialogue: 30,0:07:58.18,0:08:00.23,Default,,0,0,0,,I see...
+Dialogue: 30,0:08:04.48,0:08:07.32,Default,,0,0,0,,Feel a little better now?
+Dialogue: 30,0:08:07.32,0:08:10.28,Default,,0,0,0,,I heard a song.
+Dialogue: 30,0:08:10.28,0:08:12.57,Default,,0,0,0,,And then, my head just...
+Dialogue: 30,0:08:12.57,0:08:14.66,Default,,0,0,0,,A song?
+Dialogue: 30,0:08:14.66,0:08:16.99,Default,,0,0,0,,You've heard that song before?
+Dialogue: 30,0:08:16.99,0:08:17.99,Default,,0,0,0,,Yes.
+Dialogue: 30,0:08:17.99,0:08:20.08,Default,,0,0,0,,It's not one you heard lately?
+Dialogue: 30,0:08:20.08,0:08:22.62,Default,,0,0,0,,It's not, I don't think.
+Dialogue: 30,0:08:22.62,0:08:23.96,Default,,0,0,0,,A song...
+Dialogue: 30,0:08:23.96,0:08:26.08,Default,,0,0,0,,What do you think, Okarin?
+Dialogue: 30,0:08:29.34,0:08:34.05,Default,,0,0,0,,You never know. It might be a hint that\Nleads to getting your memories back.
+Dialogue: 30,0:08:34.05,0:08:35.43,Default,,0,0,0,,Really?
+Dialogue: 30,0:08:35.43,0:08:39.18,Default,,0,0,0,,If it's not too hard on you,\Nit's something we could look into.
+Dialogue: 30,0:08:39.18,0:08:41.68,Default,,0,0,0,,Oh, it's fine with me.
+Dialogue: 30,0:08:41.68,0:08:43.52,Default,,0,0,0,,I'm okay now.
+Dialogue: 30,0:08:45.31,0:08:47.44,Default,,0,0,0,,Hey, how was your checkup?
+Dialogue: 30,0:08:47.44,0:08:49.73,Default,,0,0,0,,I'm as healthy as I've always been.
+Dialogue: 30,0:08:49.73,0:08:52.40,Default,,0,0,0,,It's been half a month, for crying out loud!
+Dialogue: 30,0:08:52.40,0:08:57.62,Default,,0,0,0,,Okarin-san doesn't have to keep\Ngoing in for checkups, so why do I?!
+Dialogue: 30,0:08:59.41,0:09:01.87,Default,,0,0,0,,You should be happy to have no problems.
+Dialogue: 30,0:09:01.87,0:09:04.00,Default,,0,0,0,,But I do have problems!
+Dialogue: 30,0:09:04.00,0:09:08.71,Default,,0,0,0,,I put on fat during my hospital stay\Nand it just won't come off!
+Dialogue: 30,0:09:09.59,0:09:12.63,Default,,0,0,0,,Hey, what do you say we hit up some karaoke?
+Dialogue: 30,0:09:12.63,0:09:14.34,Default,,0,0,0,,Uh, sorry but...
+Dialogue: 30,0:09:14.34,0:09:17.30,Default,,0,0,0,,I kinda have plans after this.
+Dialogue: 30,0:09:17.30,0:09:19.51,Default,,0,0,0,,Ah, shoot! I need to hurry!
+Dialogue: 30,0:09:19.51,0:09:22.22,Default,,0,0,0,,We'll do karaoke another time.
+Dialogue: 30,0:09:27.15,0:09:29.19,Default,,0,0,0,,Yuki-san, in front of—
+Dialogue: 30,0:09:29.98,0:09:33.07,Default,,0,0,0,,Ouch!
+Dialogue: 30,0:09:33.07,0:09:35.90,Default,,0,0,0,,Jeez, I can't believe how clumsy she is!
+Dialogue: 30,0:09:35.90,0:09:37.49,Default,,0,0,0,,For real.
+Dialogue: 30,0:09:38.62,0:09:41.37,Default,,0,0,0,,Kagari-san! Are you better now?!
+Dialogue: 30,0:09:41.37,0:09:44.37,Default,,0,0,0,,Yes, I'm sorry to have worried you.
+Dialogue: 30,0:09:44.37,0:09:49.04,Default,,0,0,0,,No, Mayushii is sorry for not\Nbeing able to stay at your side!
+Dialogue: 30,0:09:51.13,0:09:52.05,Default,,0,0,0,,A song?
+Dialogue: 30,0:09:52.05,0:09:55.88,Default,,0,0,0,,Yes, it's that song you were singing earlier.
+Dialogue: 30,0:09:55.88,0:09:58.43,Default,,0,0,0,,I feel like I've heard it somewhere.
+Dialogue: 30,0:09:58.43,0:10:01.30,Default,,0,0,0,,Do you remember where you learned it from?
+Dialogue: 30,0:10:01.30,0:10:06.10,Default,,0,0,0,,It's possible that song is a hint\Nto get Kagari's memories back.
+Dialogue: 30,0:10:06.10,0:10:07.94,Default,,0,0,0,,Um, let's see...
+Dialogue: 30,0:10:07.94,0:10:11.52,Default,,0,0,0,,Mayushii first heard that song from Suzu-san!
+Dialogue: 30,0:10:11.52,0:10:12.61,Default,,0,0,0,,From Suzuha?
+Dialogue: 30,0:10:12.61,0:10:18.40,Default,,0,0,0,,Yup! I sometimes hear Suzu-san singing\Nthat song while looking out the window.
+Dialogue: 30,0:10:18.40,0:10:24.49,Default,,0,0,0,,So unfortunately, Mayushii doesn't\Nknow the name of the song.
+Dialogue: 30,0:10:24.49,0:10:27.50,Default,,0,0,0,,Maybe it's a song that's popular in the future?
+Dialogue: 30,0:10:27.50,0:10:30.08,Default,,0,0,0,,Sorry I couldn't be of any help.
+Dialogue: 30,0:10:30.08,0:10:33.09,Default,,0,0,0,,No, thank you for telling us.
+Dialogue: 30,0:10:33.09,0:10:36.76,Default,,0,0,0,,Hey, Okarin? Are you planning to visit Suzu-san?
+Dialogue: 30,0:10:36.76,0:10:39.59,Default,,0,0,0,,Hmm? Yeah, to check with her.
+Dialogue: 30,0:10:39.59,0:10:41.55,Default,,0,0,0,,Can Mayushii come too?
+Dialogue: 30,0:10:41.55,0:10:43.76,Default,,0,0,0,,Really? Are you sure?
+Dialogue: 30,0:10:43.76,0:10:47.02,Default,,0,0,0,,You see, it's hard to explain, but...
+Dialogue: 30,0:10:47.02,0:10:52.19,Default,,0,0,0,,When I look at Kagari-san,\NMayushii just wants to do everything I can to help!
+Dialogue: 30,0:10:52.19,0:10:54.27,Default,,0,0,0,,So, please?
+Dialogue: 30,0:10:54.27,0:10:56.23,Default,,0,0,0,,Mayuri-san...
+Dialogue: 30,0:10:56.23,0:10:57.86,Default,,0,0,0,,What about work?
+Dialogue: 30,0:10:57.86,0:11:01.03,Default,,0,0,0,,The peak has passed, so it's fine, nya!
+Dialogue: 30,0:11:01.03,0:11:04.16,Default,,0,0,0,,Anyways, I'll give Suzuha a ring.
+Dialogue: 30,0:11:09.79,0:11:11.29,Default,,0,0,0,,She might be working.
+Dialogue: 30,0:11:11.29,0:11:14.25,Default,,0,0,0,,If that was the case,\Nshe should be on lunch break.
+Dialogue: 30,0:11:14.25,0:11:17.21,Default,,0,0,0,,I passed Suzu-nya outside a bit ago.
+Dialogue: 30,0:11:17.21,0:11:18.80,Default,,0,0,0,,Really?
+Dialogue: 30,0:11:21.43,0:11:23.60,Default,,0,0,0,,Hmm? Suzu-nya?
+Dialogue: 30,0:11:23.60,0:11:24.97,Default,,0,0,0,,Big Sis Rumi?
+Dialogue: 30,0:11:24.97,0:11:27.81,Default,,0,0,0,,What's with the scary-looking face?
+Dialogue: 30,0:11:29.48,0:11:31.52,Default,,0,0,0,,Well, it's...
+Dialogue: 30,0:11:31.52,0:11:33.81,Default,,0,0,0,,I'm about to head into battle.
+Dialogue: 30,0:11:34.86,0:11:35.94,Default,,0,0,0,,Battle?
+Dialogue: 30,0:11:35.94,0:11:39.36,Default,,0,0,0,,That's what she said, nya.
+Dialogue: 30,0:11:39.36,0:11:41.07,Default,,0,0,0,,Don't tell me...
+Dialogue: 30,0:11:51.92,0:11:54.17,Default,,0,0,0,,Incredible... Can you believe it?
+Dialogue: 30,0:12:08.89,0:12:12.14,Default,,0,0,0,,This month's eating contest winner is...
+Dialogue: 30,0:12:12.14,0:12:17.02,Default,,0,0,0,,Our first three-time winner,\NThe Silent Slaughterer!
+Dialogue: 30,0:12:17.02,0:12:19.23,Default,,0,0,0,,And I'm not even stuffed yet.
+Dialogue: 30,0:12:19.82,0:12:22.07,Default,,0,0,0,,Huh?
+Dialogue: 30,0:12:22.07,0:12:24.11,Default,,0,0,0,,Eat what you can when you can.
+Dialogue: 30,0:12:24.11,0:12:27.62,Default,,0,0,0,,It's an important rule to live by\Nfor survival on the battlefield.
+Dialogue: 30,0:12:27.62,0:12:29.83,Default,,0,0,0,,You had me worried there.
+Dialogue: 30,0:12:32.00,0:12:33.62,Default,,0,0,0,,Aw, man...
+Dialogue: 30,0:12:33.62,0:12:35.96,Default,,0,0,0,,Can't believe you heard me singing.
+Dialogue: 30,0:12:35.96,0:12:38.29,Default,,0,0,0,,It's very cute of you!
+Dialogue: 30,0:12:38.29,0:12:40.51,Default,,0,0,0,,Please spare me, Big Sis Mayu.
+Dialogue: 30,0:12:40.51,0:12:44.26,Default,,0,0,0,,Do you remember where\Nyou heard that song, Suzuha?
+Dialogue: 30,0:12:44.26,0:12:45.30,Default,,0,0,0,,Mo—
+Dialogue: 30,0:12:45.30,0:12:48.22,Default,,0,0,0,,I mean, Yuki-san was singing it.
+Dialogue: 30,0:12:48.22,0:12:50.14,Default,,0,0,0,,Yuki-san was?
+Dialogue: 30,0:12:54.35,0:12:57.77,Default,,0,0,0,,If you heard it from Yuki-san,\Nyou mean in the future?
+Dialogue: 30,0:12:57.77,0:13:01.73,Default,,0,0,0,,Yeah... Mom was always singing\Nwhen she cooked our meals.
+Dialogue: 30,0:13:01.73,0:13:06.82,Default,,0,0,0,,So, it's possible that Kagari learned\Nit from you or Yuki-san too?
+Dialogue: 30,0:13:06.82,0:13:08.70,Default,,0,0,0,,Not possible.
+Dialogue: 30,0:13:08.70,0:13:13.41,Default,,0,0,0,,Kagari was adopted by\NBig Sis Mayu only after Mom died.
+Dialogue: 30,0:13:13.41,0:13:16.58,Default,,0,0,0,,I never sang in front of Kagari either.
+Dialogue: 30,0:13:18.04,0:13:25.05,Default,,0,0,0,,Kagari from Mayuri... Mayuri from Suzuha...\NSuzuha learned it from Yuki-san...
+Dialogue: 30,0:13:25.05,0:13:27.09,Default,,0,0,0,,This is just like the telephone game...
+Dialogue: 30,0:13:29.05,0:13:30.14,Default,,0,0,0,,No good?
+Dialogue: 30,0:13:30.14,0:13:33.10,Default,,0,0,0,,Yeah, maybe Yuki-san is working.
+Dialogue: 30,0:13:33.10,0:13:36.81,Default,,0,0,0,,Oh well. We'll just have\Nto wait until she calls back.
+Dialogue: 30,0:13:36.81,0:13:38.86,Default,,0,0,0,,Um, Okabe-san?
+Dialogue: 30,0:13:38.86,0:13:41.02,Default,,0,0,0,,—Over there...\N—Hmm?
+Dialogue: 30,0:13:41.02,0:13:43.82,Default,,0,0,0,,Hey, it's Yuki-san!
+Dialogue: 30,0:13:43.82,0:13:46.90,Default,,0,0,0,,Wait... She's together with... Daru?!
+Dialogue: 30,0:13:46.90,0:13:48.20,Default,,0,0,0,,Ooh!
+Dialogue: 30,0:13:50.74,0:13:53.91,Default,,0,0,0,,There's some sauce on the side of your mouth.
+Dialogue: 30,0:13:53.91,0:13:54.83,Default,,0,0,0,,Eh?
+Dialogue: 30,0:13:54.83,0:13:56.46,Default,,0,0,0,,I-I'll wipe it myself!
+Dialogue: 30,0:13:56.46,0:14:02.59,Default,,0,0,0,,D-Don't try cleaning my disgusting face\Nor it'll ruin your handkerchief!
+Dialogue: 30,0:13:57.56,0:14:00.04,Default,,0,0,0,,I got it. Hold still, okay?
+Dialogue: 30,0:14:02.59,0:14:05.13,Default,,0,0,0,,It's not disgusting at all.
+Dialogue: 30,0:14:08.55,0:14:10.85,Default,,0,0,0,,Hey, hey! Are they on a date?!
+Dialogue: 30,0:14:10.85,0:14:12.22,Default,,0,0,0,,It's a date!
+Dialogue: 30,0:14:12.22,0:14:14.64,Default,,0,0,0,,So those two are seeing each other?
+Dialogue: 30,0:14:14.64,0:14:18.06,Default,,0,0,0,,That rascal, saying he had somewhere to be...
+Dialogue: 30,0:14:18.06,0:14:19.69,Default,,0,0,0,,What to do, Okarin?
+Dialogue: 30,0:14:19.69,0:14:21.98,Default,,0,0,0,,Well, we can't get in their way.
+Dialogue: 30,0:14:21.98,0:14:24.82,Default,,0,0,0,,We'll ask later. Is that okay, Kagari?
+Dialogue: 30,0:14:24.82,0:14:27.40,Default,,0,0,0,,Yes, though...
+Dialogue: 30,0:14:27.40,0:14:29.03,Default,,0,0,0,,Hmm?
+Dialogue: 30,0:14:31.62,0:14:33.41,Default,,0,0,0,,Ah...
+Dialogue: 30,0:14:33.41,0:14:35.79,Default,,0,0,0,,We're sorry for intruding...
+Dialogue: 30,0:14:35.79,0:14:39.58,Default,,0,0,0,,Don't be. Like they say, the more the merrier.
+Dialogue: 30,0:14:39.58,0:14:41.42,Default,,0,0,0,,Right?
+Dialogue: 30,0:14:41.42,0:14:43.13,Default,,0,0,0,,Yeah, sure...
+Dialogue: 30,0:14:43.13,0:14:45.42,Default,,0,0,0,,So, about that song...
+Dialogue: 30,0:14:45.42,0:14:50.18,Default,,0,0,0,,Well you see, I sometimes help out\Nteaching at a baking class.
+Dialogue: 30,0:14:50.18,0:14:51.01,Default,,0,0,0,,Hmm?
+Dialogue: 30,0:14:51.01,0:14:54.81,Default,,0,0,0,,Yuki-san makes the most\Ndelicious sweets you'll ever have!
+Dialogue: 30,0:14:54.81,0:14:55.89,Default,,0,0,0,,Yeah?
+Dialogue: 30,0:14:55.89,0:14:58.68,Default,,0,0,0,,Should we make some together next time?
+Dialogue: 30,0:14:58.68,0:15:00.23,Default,,0,0,0,,Yes, of course!
+Dialogue: 30,0:15:00.23,0:15:01.90,Default,,0,0,0,,H-Hold on.
+Dialogue: 30,0:15:01.90,0:15:04.27,Default,,0,0,0,,What does that have to do with the song?
+Dialogue: 30,0:15:04.27,0:15:08.65,Default,,0,0,0,,One of the students that comes\Nto our class is always singing it.
+Dialogue: 30,0:15:08.65,0:15:10.74,Default,,0,0,0,,They sing that song?
+Dialogue: 30,0:15:10.74,0:15:11.91,Default,,0,0,0,,Yeah.
+Dialogue: 30,0:15:11.91,0:15:14.16,Default,,0,0,0,,Before long, it got stuck in my head.
+Dialogue: 30,0:15:14.16,0:15:17.41,Default,,0,0,0,,And that person who\Nsang it is someone we know?
+Dialogue: 30,0:15:17.41,0:15:21.83,Default,,0,0,0,,I'm not so sure. I'd say they're\Nsome 20 years older than us.
+Dialogue: 30,0:15:21.83,0:15:24.50,Default,,0,0,0,,Not seeming very likely then.
+Dialogue: 30,0:15:26.17,0:15:30.17,Default,,0,0,0,,That's right. I thought\Nit'd be easier just to ask.
+Dialogue: 30,0:15:30.17,0:15:32.59,Default,,0,0,0,,Sure, I'll put him on.
+Dialogue: 30,0:15:32.59,0:15:35.10,Default,,0,0,0,,Eh?
+Dialogue: 30,0:15:35.10,0:15:36.01,Default,,0,0,0,,Hello?
+Dialogue: 30,0:15:36.01,0:15:38.18,Default,,0,0,0,,Uh, sorry about this.
+Dialogue: 30,0:15:38.18,0:15:40.64,Default,,0,0,0,,This is Okabe, a friend of Amane-san's.
+Dialogue: 30,0:15:40.64,0:15:41.52,Default,,0,0,0,,Okabe?
+Dialogue: 30,0:15:41.52,0:15:46.32,Default,,0,0,0,,Right. To be honest,\NI just wanted to ask about that song.
+Dialogue: 30,0:15:46.32,0:15:49.15,Default,,0,0,0,,That voice... Is that you, Rintaro?
+Dialogue: 30,0:15:49.15,0:15:52.11,Default,,0,0,0,,—Huh?\N—It's me! Me!
+Dialogue: 30,0:15:52.11,0:15:54.28,Default,,0,0,0,,That voice! It can't be!
+Dialogue: 30,0:15:54.28,0:15:59.25,Default,,0,0,0,,Excuse me? Don't tell me you forgot\Nthe beautiful voice of your own mother.
+Dialogue: 30,0:15:59.91,0:16:04.13,Default,,0,0,0,,I can't believe the lady turned\Nout to be your mother...
+Dialogue: 30,0:16:04.13,0:16:07.04,Default,,0,0,0,,In class, we all just use\Neveryone's first names.
+Dialogue: 30,0:16:07.04,0:16:10.26,Default,,0,0,0,,Well? What did your mother have to say?
+Dialogue: 30,0:16:10.26,0:16:11.72,Default,,0,0,0,,That's...
+Dialogue: 30,0:16:11.72,0:16:13.18,Default,,0,0,0,,From you!
+Dialogue: 30,0:16:13.18,0:16:13.76,Default,,0,0,0,,Eh?
+Dialogue: 30,0:16:13.76,0:16:16.30,Default,,0,0,0,,I'm telling you, you're the one who sang it!
+Dialogue: 30,0:16:16.30,0:16:18.06,Default,,0,0,0,,I-I did?!
+Dialogue: 30,0:16:18.06,0:16:21.18,Default,,0,0,0,,What are you talking about?\NI don't even know the song!
+Dialogue: 30,0:16:21.18,0:16:27.77,Default,,0,0,0,,Remember? Back when you were in middle school\Nand Mayuri-chan was down in the dumps?
+Dialogue: 30,0:16:27.77,0:16:30.99,Default,,0,0,0,,It was around the time\Nyou started acting all weird.
+Dialogue: 30,0:16:30.99,0:16:33.20,Default,,0,0,0,,Uh, what was it again?
+Dialogue: 30,0:16:33.20,0:16:36.16,Default,,0,0,0,,I'm a macho psychologist!
+Dialogue: 30,0:16:37.83,0:16:38.45,Default,,0,0,0,,Stop it.
+Dialogue: 30,0:16:38.45,0:16:42.96,Default,,0,0,0,,Anyways, that's what you used\Nto sing all the time in the bath.
+Dialogue: 30,0:16:42.96,0:16:44.08,Default,,0,0,0,,I did?
+Dialogue: 30,0:16:44.08,0:16:47.59,Default,,0,0,0,,That's right! And because of you,\NI can't forget it!
+Dialogue: 30,0:16:47.59,0:16:51.05,Default,,0,0,0,,Um, what exactly does this mean?
+Dialogue: 30,0:16:51.05,0:16:52.59,Default,,0,0,0,,I don't know.
+Dialogue: 30,0:16:52.59,0:16:56.47,Default,,0,0,0,,I can't recall ever singing\Nthat song in the first place.
+Dialogue: 30,0:16:56.47,0:16:58.68,Default,,0,0,0,,Have you heard him sing it, Mayuri-san?
+Dialogue: 30,0:16:58.68,0:17:01.68,Default,,0,0,0,,Mayushii doesn't remember that either.
+Dialogue: 30,0:17:02.77,0:17:06.56,Default,,0,0,0,,We're all stuck in the same spot as Kagari now.
+Dialogue: 30,0:17:06.56,0:17:12.32,Default,,0,0,0,,Um, did I hear that right about\NMayuri-san being down in the dumps?
+Dialogue: 30,0:17:12.32,0:17:14.20,Default,,0,0,0,,Well, stuff happened.
+Dialogue: 30,0:17:14.20,0:17:18.07,Default,,0,0,0,,Hey, Okarin. Do you think we should go?
+Dialogue: 30,0:17:18.07,0:17:20.37,Default,,0,0,0,,Go? You mean there?
+Dialogue: 30,0:17:20.37,0:17:25.12,Default,,0,0,0,,Yeah. You never know!\NMaybe you'll remember something!
+Dialogue: 30,0:17:32.96,0:17:37.22,Default,,0,0,0,,Grandma will be so happy\Nyou came to visit, Okarin.
+Dialogue: 30,0:17:37.22,0:17:39.55,Default,,0,0,0,,We're going to see your grandma?
+Dialogue: 30,0:17:39.55,0:17:43.81,Default,,0,0,0,,Yup! And I'll introduce you\Nto her too, Kagari-san!
+Dialogue: 30,0:17:43.81,0:17:46.77,Default,,0,0,0,,And tell her you're Mayushii's beloved friend!
+Dialogue: 30,0:17:46.77,0:17:48.73,Default,,0,0,0,,Mayuri-san...
+Dialogue: 30,0:17:51.11,0:17:52.86,Default,,0,0,0,,This is...
+Dialogue: 30,0:17:52.86,0:17:56.20,Default,,0,0,0,,Well, Okarin? Do you remember anything?
+Dialogue: 30,0:17:56.20,0:17:57.61,Default,,0,0,0,,No...
+Dialogue: 30,0:17:57.61,0:17:59.49,Default,,0,0,0,,I see...
+Dialogue: 30,0:17:59.49,0:18:02.29,Default,,0,0,0,,You'll talk to your grandma, right?
+Dialogue: 30,0:18:02.29,0:18:03.95,Default,,0,0,0,,Oh, right!
+Dialogue: 30,0:18:03.95,0:18:07.25,Default,,0,0,0,,Sorry. I'll only be a minute.
+Dialogue: 30,0:18:10.92,0:18:13.63,Default,,0,0,0,,It's been a while, Grandma.
+Dialogue: 30,0:18:13.63,0:18:17.90,Default,,0,0,0,,Guess what? I made a\Nnew friend named Kagari-san!
+Dialogue: 30,0:18:18.22,0:18:21.35,Default,,0,0,0,,—This is like a ritual for her.
+Dialogue: 30,0:18:18.22,0:18:24.35,Default,,0,0,0,,—But the thing is, Kagari-san has amnesia.
+Dialogue: 30,0:18:21.35,0:18:22.82,Default,,0,0,0,,—A ritual?
+Dialogue: 30,0:18:24.35,0:18:30.31,Default,,0,0,0,,To lose all your memories of the past,\Nthat has to be so sad...
+Dialogue: 30,0:18:30.31,0:18:32.69,Default,,0,0,0,,I wonder if she'll get them back?
+Dialogue: 30,0:18:35.69,0:18:38.53,Default,,0,0,0,,It'd be nice if they came back...
+Dialogue: 30,0:18:41.82,0:18:46.04,Default,,0,0,0,,Whoa! Mayuri, it's raining! Let's take cover!
+Dialogue: 30,0:18:51.29,0:18:53.63,Default,,0,0,0,,It sure came pouring down...
+Dialogue: 30,0:18:53.63,0:18:55.71,Default,,0,0,0,,We're totally drenched!
+Dialogue: 30,0:18:55.71,0:18:58.42,Default,,0,0,0,,We should've brought umbrellas.
+Dialogue: 30,0:19:02.26,0:19:05.68,Default,,0,0,0,,I know! We can go to Mayushii's house and—
+Dialogue: 30,0:19:07.48,0:19:09.64,Default,,0,0,0,,Kagari-san?
+Dialogue: 30,0:19:09.64,0:19:11.65,Default,,0,0,0,,This is...
+Dialogue: 30,0:19:20.32,0:19:22.16,Default,,0,0,0,,Mommy...
+Dialogue: 30,0:19:38.26,0:19:38.88,Default,,0,0,0,,Kagari-san?
+Dialogue: 30,0:19:38.88,0:19:40.13,Default,,0,0,0,,This is...
+Dialogue: 30,0:19:40.13,0:19:41.22,Default,,0,0,0,,Kagari?
+Dialogue: 30,0:19:41.22,0:19:42.47,Default,,0,0,0,,Kagari!
+Dialogue: 30,0:19:46.68,0:19:48.39,Default,,0,0,0,,Kagari!
+Dialogue: 30,0:20:03.45,0:20:05.16,Default,,0,0,0,,I miss you!
+Dialogue: 30,0:20:08.91,0:20:11.96,Default,,0,0,0,,I miss you, Mommy!
+Dialogue: 30,0:20:11.96,0:20:13.50,Default,,0,0,0,,Mommy!
+Dialogue: 30,0:20:14.25,0:20:15.50,Default,,0,0,0,,Mommy!
+Dialogue: 30,0:20:17.13,0:20:19.38,Default,,0,0,0,,Mommy!
+Dialogue: 30,0:20:23.13,0:20:26.60,Default,,0,0,0,,Kagari-san?
+Dialogue: 30,0:20:26.60,0:20:28.14,Default,,0,0,0,,M-Mommy?
+Dialogue: 30,0:20:28.14,0:20:31.77,Default,,0,0,0,,Thank goodness! You finally woke up!
+Dialogue: 30,0:20:32.94,0:20:34.52,Default,,0,0,0,,Mommy...
+Dialogue: 30,0:20:34.52,0:20:36.65,Default,,0,0,0,,Kagari?
+Dialogue: 30,0:20:38.23,0:20:41.19,Default,,0,0,0,,Mommy!
+Dialogue: 30,0:20:38.23,0:20:43.50,On Top,,0,0,0,,{\i1}There's just one thing I'm searching for...{\i}
+Dialogue: 30,0:20:41.19,0:20:42.49,Default,,0,0,0,,Huh? Huh?!
+Dialogue: 30,0:20:42.49,0:20:47.16,Default,,0,0,0,,I missed you, Mommy!
+Dialogue: 30,0:20:44.90,0:20:50.05,On Top,,0,0,0,,{\i1}The laughter of the stars{\i}
+Dialogue: 30,0:20:47.16,0:20:50.62,Default,,0,0,0,,M-Mayushii isn't a mommy.
+Dialogue: 30,0:20:50.62,0:20:53.62,Default,,0,0,0,,No... Mommy is mommy.
+Dialogue: 30,0:20:51.00,0:20:56.00,On Top,,0,0,0,,{\i1}Twinkling in the wind{\i}
+Dialogue: 30,0:20:53.62,0:20:56.13,Default,,0,0,0,,The mommy I love so much!
+Dialogue: 30,0:20:56.13,0:20:58.50,Default,,0,0,0,,Mommy Mayuri!
+Dialogue: 30,0:20:56.50,0:21:03.80,On Top,,0,0,0,,{\i1}You can grab it if you reach out your hand{\i}
+Dialogue: 30,0:20:58.50,0:21:01.67,Default,,0,0,0,,Did her memories actually come back?
+Dialogue: 30,0:21:01.67,0:21:03.38,Default,,0,0,0,,I finally found you!
+Dialogue: 30,0:21:03.38,0:21:04.93,Default,,0,0,0,,Finally!
+Dialogue: 30,0:21:03.90,0:21:09.80,On Top,,0,0,0,,{\i1}Fish swim about{\i}
+Dialogue: 30,0:21:07.30,0:21:09.51,Default,,0,0,0,,U-Um...
+Dialogue: 30,0:21:10.05,0:21:16.60,On Top,,0,0,0,,{\i1}Enveloped by the gentle rain{\i}
+Dialogue: 30,0:21:16.27,0:21:17.98,Default,,0,0,0,,It's okay.
+Dialogue: 30,0:21:16.70,0:21:23.05,On Top,,0,0,0,,{\i1}I've always wished to bring my cheek{\i}
+Dialogue: 30,0:21:17.98,0:21:20.98,Default,,0,0,0,,It's all right now.
+Dialogue: 30,0:21:20.98,0:21:23.03,Default,,0,0,0,,Mommy!
+Dialogue: 30,0:21:23.15,0:21:29.15,On Top,,0,0,0,,{\i1}Closer to your warm, broad back{\i}
+Dialogue: 30,0:21:29.30,0:21:32.40,On Top,,0,0,0,,{\i1}Just close your eyes{\i}
+Dialogue: 30,0:21:32.50,0:21:35.40,On Top,,0,0,0,,{\i1}And surely you'll see{\i}
+Dialogue: 30,0:21:35.60,0:21:41.95,On Top,,0,0,0,,{\i1}A guiding light to save a lost one like you{\i}
+Dialogue: 30,0:21:42.10,0:21:45.50,On Top,,0,0,0,,{\i1}Just listen carefully{\i}
+Dialogue: 30,0:21:45.60,0:21:48.40,On Top,,0,0,0,,{\i1}And surely you'll hear{\i}
+Dialogue: 30,0:21:48.60,0:21:59.60,On Top,,0,0,0,,{\i1}A song to gently awaken a slumbering one like you{\i}
+Dialogue: 30,0:22:03.30,0:22:05.90,On Top,,0,0,0,,{\i1}I've always, always{\i}
+Dialogue: 30,0:22:06.60,0:22:08.60,On Top,,0,0,0,,{\i1}Always, always{\i}
+Dialogue: 30,0:22:08.80,0:22:15.30,On Top,,0,0,0,,{\i1}Been by your side...{\i}
+Dialogue: 30,0:22:16.15,0:22:18.80,On Top,,0,0,0,,{\i1}Always, always{\i}
+Dialogue: 30,0:22:19.35,0:22:21.90,On Top,,0,0,0,,{\i1}Always, always{\i}
+Dialogue: 30,0:22:22.05,0:22:28.60,On Top,,0,0,0,,{\i1}And forever...{\i}
+Dialogue: 30,0:22:29.20,0:22:31.90,On Top,,0,0,0,,{\i1}I will always, always{\i}
+Dialogue: 30,0:22:32.40,0:22:34.60,On Top,,0,0,0,,{\i1}Always, always{\i}
+Dialogue: 30,0:22:34.90,0:22:40.50,On Top,,0,0,0,,{\i1}Be by your side...{\i}
+Dialogue: 30,0:22:40.70,0:22:49.50,On Top,,0,0,0,,{\i1}To protect the smile of a gentle one like you{\i}
+Dialogue: 30,0:22:56.00,0:23:02.46,Default,,0,0,0,,♪ There's just one thing I'm searching for... ♪
+Dialogue: 30,0:23:02.46,0:23:04.75,Default,,0,0,0,,—♪ The— ♪\N—U-Um...
+Dialogue: 30,0:23:06.42,0:23:08.59,Default,,0,0,0,,Uh, um...
+Dialogue: 30,0:23:12.43,0:23:15.14,Default,,0,0,0,,That was beautiful just now...
+Dialogue: 30,0:23:15.14,0:23:16.93,Default,,0,0,0,,That song.
+Dialogue: 30,0:23:21.98,0:23:22.94,Default,,0,0,0,,It's Mommy's.
+Dialogue: 30,0:23:22.94,0:23:24.57,Default,,0,0,0,,Huh?
+Dialogue: 30,0:23:26.32,0:23:29.07,Default,,0,0,0,,The song of the mommy I love.
+Dialogue: 30,0:23:31.61,0:23:34.95,Default,,0,0,0,,Runaway K-6205.
+Dialogue: 30,0:23:34.95,0:23:38.25,Default,,0,0,0,,Shiina Kagari has been found.

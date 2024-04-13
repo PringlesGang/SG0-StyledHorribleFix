@@ -22,475 +22,474 @@ Style: LectureProgramme,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
-Comment: 0,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,,function getPos(str) { return str.match(/\(.*\)/g).slice(1, -1) }
-Comment: 0,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,,function arrayConcat(total, cur) { return total + '{' + cur + "}," }
-Comment: 0,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,,lines.map(getPos).reduce(arrayConcat, '{').slice(0, -1) + '}'
-Comment: 0,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,code once,pos = {{1746.286,965.429},{1740.571,959.714},{1736,959.714},{1729.143,959.714},{1725.714,965.429},{1721.143,970},{1725.714,965.429},{1729.143,957.429},{1733.714,957.429},{1739.429,958.571},{1746.286,964.286},{1747.429,968.857},{1745.143,963.143},{1747.429,960.857},{1744,956.286},{1740.571,947.143},{1740.571,943.714},{1738.286,936.857},{1734.857,930},{1734.857,922},{1736,915.143},{1730.286,909.429},{1729.143,898},{1730.286,890},{1725.714,888.857},{1723.429,874},{1723.429,866},{1722.286,860.286},{1722.286,851.143},{1722.286,838.571},{1723.429,823.714},{1722.286,811.143},{1723.429,795.143},{1730.286,779.143},{1730.286,770},{1730.286,758.571},{1734.857,742.571},{1733.714,732.286},{1736,718.571},{1739.429,708.286},{1740.571,699.143},{1739.429,686.571},{1744,679.714},{1745.143,667.143},{1745.143,655.714},{1747.429,646.571},{1746.286,637.429},{1747.429,622.571},{1745.143,605.429},{1747.429,592.857},{1745.143,581.429},{1740.571,562},{1739.429,551.714},{1741.714,539.143},{1734.857,524.286},{1736,514},{1736.571,502.286}}
-Comment: 0,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,code once,function x(index) return pos[index][1] - 1736.571 end
-Comment: 0,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,code once,function y(index) return pos[index][2]  - 502.286 end
-Comment: 1,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H949495&\blur20\pos(!x($layer)!,!y($layer)!)}m 58 287 l 350 187 l 724 137 l 970 127 l 987 318 l 788 323 l 534 342 l 67 435 {\p0}
-Comment: 1,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H6B6C6B&\blur40\pos(!x($layer)!,!y($layer)!)}m 892 130 l 1175 117 l 1492 145 l 1503 346 l 1132 312 l 893 320 {\p0}
-Comment: 1,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H181818&\blur8\pos(!x($layer)!,!y($layer)!)}m 26 513 l 97 483 l 197 452 l 296 429 l 437 403 l 564 388 l 579 477 l 493 482 l 403 496 l 208 533 l 87 572 l 16 601 {\p0}
-Comment: 1,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H7D7D7D&\blur20\pos(!x($layer)!,!y($layer)!)}m -51 641 l 92 592 l 307 538 l 557 497 l 809 489 l 818 613 l 659 646 l 537 700 l 338 744 l 156 830 l -67 912 {\p0}
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 88!,!y($layer) + 334!)\fay-0.2\frz4.589}Aki
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.15\frz4.589\pos(!x($layer) + 176!,!y($layer) + 308!)}haba
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.1\pos(!x($layer) + 299.6!,!y($layer) + 279.2!)\frz6.517}ra
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 369.6!,!y($layer) + 265.2!)\fax\fay-0.03\frz5.974}Tech
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz5.228\pos(!x($layer) + 497.6!,!y($layer) + 247.2!)}no Forum
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz3.016\pos(!x($layer) + 765.6!,!y($layer) + 223.2!)}2010
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\fax0.045\frz1.999\pos(!x($layer) + 895.6!,!y($layer) + 217.2!)}Lecture
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay0.04\fax0.1\pos(!x($layer) + 1099.6!,!y($layer) + 217.2!)}Program
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.35\fax0.1\pos(!x($layer) + 15.6!,!y($layer) + 541.2!)}Art
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.29\fax0.07\pos(!x($layer) + 102.8!,!y($layer) + 511.6!)\frz359.6}ificial
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.18\fax0.08\pos(!x($layer) + 260.8!,!y($layer) + 467.6!)}Intel
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.13\fax0.08\pos(!x($layer) + 382.8!,!y($layer) + 445.6!)\frz0.5602}ligence
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fscy90\fay0.03\frz0.2437\fay-0.06\fax0.05\pos(!x($layer) + 574.8!,!y($layer) + 419.6!)}Revolution
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 44!,!y($layer) + 716!)}Ale
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 78!,!y($layer) + 650!)}xis
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz5.343\pos(!x($layer) + 212!,!y($layer) + 604!)}Les
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz4.749\pos(!x($layer) + 354!,!y($layer) + 576!)}kin
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\frz5.305\pos(!x($layer) + 490!,!y($layer) + 559.333!)}en
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 28!,!y($layer) + 784!)}Victor
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 720.667!)}Chond
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992\pos(!x($layer) + 218.667!,!y($layer) + 676.668!)}ria
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 281.334!,!y($layer) + 658.666!)}Univ
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 369.334!,!y($layer) + 641.999!)}ersity
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 483.067!,!y($layer) + 627.6!)\frz6.459}professor
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 18!,!y($layer) + 826!)}Brain
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 767.667!)}Science
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992.1\pos(!x($layer) + 248!,!y($layer) + 715!)}In
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 291!,!y($layer) + 703!)}stitute
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 424!,!y($layer) + 679!)}Chief
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 540!,!y($layer) + 665!)\frz6.459}Resear
-Comment: 2,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.1\fscy90\fax0.07\pos(!x($layer) + 672!,!y($layer) + 655!)\frz6.459}cher
-Comment: 1,0:16:54.49,0:16:54.61,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,965.429)}
-Comment: 2,0:16:54.61,0:16:54.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,959.714)}
-Comment: 3,0:16:54.74,0:16:54.86,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,959.714)}
-Comment: 4,0:16:54.86,0:16:54.99,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,959.714)}
-Comment: 5,0:16:54.99,0:16:55.11,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
-Comment: 6,0:16:55.11,0:16:55.24,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1721.143,970)}
-Comment: 7,0:16:55.24,0:16:55.37,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
-Comment: 8,0:16:55.37,0:16:55.49,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,957.429)}
-Comment: 9,0:16:55.49,0:16:55.62,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,957.429)}
-Comment: 10,0:16:55.62,0:16:55.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,958.571)}
-Comment: 11,0:16:55.74,0:16:55.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,964.286)}
-Comment: 12,0:16:55.87,0:16:55.99,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,968.857)}
-Comment: 13,0:16:55.99,0:16:56.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,963.143)}
-Comment: 14,0:16:56.03,0:16:56.07,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,960.857)}
-Comment: 15,0:16:56.07,0:16:56.12,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,956.286)}
-Comment: 16,0:16:56.12,0:16:56.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,947.143)}
-Comment: 17,0:16:56.16,0:16:56.20,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,943.714)}
-Comment: 18,0:16:56.20,0:16:56.24,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1738.286,936.857)}
-Comment: 19,0:16:56.24,0:16:56.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,930)}
-Comment: 20,0:16:56.28,0:16:56.32,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,922)}
-Comment: 21,0:16:56.32,0:16:56.37,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,915.143)}
-Comment: 22,0:16:56.37,0:16:56.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,909.429)}
-Comment: 23,0:16:56.41,0:16:56.45,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,898)}
-Comment: 24,0:16:56.45,0:16:56.49,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,890)}
-Comment: 25,0:16:56.49,0:16:56.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,888.857)}
-Comment: 26,0:16:56.53,0:16:56.57,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,874)}
-Comment: 27,0:16:56.57,0:16:56.62,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,866)}
-Comment: 28,0:16:56.62,0:16:56.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,860.286)}
-Comment: 29,0:16:56.66,0:16:56.70,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,851.143)}
-Comment: 30,0:16:56.70,0:16:56.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,838.571)}
-Comment: 31,0:16:56.74,0:16:56.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,823.714)}
-Comment: 32,0:16:56.78,0:16:56.82,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,811.143)}
-Comment: 33,0:16:56.82,0:16:56.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,795.143)}
-Comment: 34,0:16:56.87,0:16:56.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,779.143)}
-Comment: 35,0:16:56.91,0:16:56.95,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,770)}
-Comment: 36,0:16:56.95,0:16:56.99,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,758.571)}
-Comment: 37,0:16:56.99,0:16:57.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,742.571)}
-Comment: 38,0:16:57.03,0:16:57.08,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,732.286)}
-Comment: 39,0:16:57.08,0:16:57.12,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,718.571)}
-Comment: 40,0:16:57.12,0:16:57.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,708.286)}
-Comment: 41,0:16:57.16,0:16:57.20,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,699.143)}
-Comment: 42,0:16:57.20,0:16:57.24,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,686.571)}
-Comment: 43,0:16:57.24,0:16:57.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,679.714)}
-Comment: 44,0:16:57.28,0:16:57.33,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,667.143)}
-Comment: 45,0:16:57.33,0:16:57.37,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,655.714)}
-Comment: 46,0:16:57.37,0:16:57.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,646.571)}
-Comment: 47,0:16:57.41,0:16:57.45,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,637.429)}
-Comment: 48,0:16:57.45,0:16:57.49,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,622.571)}
-Comment: 49,0:16:57.49,0:16:57.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,605.429)}
-Comment: 50,0:16:57.53,0:16:57.58,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,592.857)}
-Comment: 51,0:16:57.58,0:16:57.62,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,581.429)}
-Comment: 52,0:16:57.62,0:16:57.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,562)}
-Comment: 53,0:16:57.66,0:16:57.70,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,551.714)}
-Comment: 54,0:16:57.70,0:16:57.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1741.714,539.143)}
-Comment: 55,0:16:57.74,0:16:57.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,524.286)}
-Comment: 56,0:16:57.78,0:16:57.83,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,514)}
-Comment: 57,0:16:57.83,0:16:57.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736.571,502.286)}
-Dialogue: 1,0:10:30.94,0:10:35.94,Title,,0,0,0,,{\an3\pos(1684,686)\fsp16}Missing Link
-Dialogue: 1,0:10:30.94,0:10:35.94,Title,,0,0,0,,{\pos(1142,658)\fs60\fsp4}of
-Dialogue: 1,0:10:30.94,0:10:35.94,Title,,0,0,0,,{\pos(1144,700)\fs40}the
-Dialogue: 1,0:10:30.94,0:10:35.94,Title,,0,0,0,,{\pos(1194,640)\fsp4\fs120}Annihilator
+Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,,function getPos(str) { return str.match(/\(.*\)/g).slice(1, -1) }
+Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,,function arrayConcat(total, cur) { return total + '{' + cur + "}," }
+Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,,lines.map(getPos).reduce(arrayConcat, '{').slice(0, -1) + '}'
+Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,code once,pos = {{1746.286,965.429},{1740.571,959.714},{1736,959.714},{1729.143,959.714},{1725.714,965.429},{1721.143,970},{1725.714,965.429},{1729.143,957.429},{1733.714,957.429},{1739.429,958.571},{1746.286,964.286},{1747.429,968.857},{1745.143,963.143},{1747.429,960.857},{1744,956.286},{1740.571,947.143},{1740.571,943.714},{1738.286,936.857},{1734.857,930},{1734.857,922},{1736,915.143},{1730.286,909.429},{1729.143,898},{1730.286,890},{1725.714,888.857},{1723.429,874},{1723.429,866},{1722.286,860.286},{1722.286,851.143},{1722.286,838.571},{1723.429,823.714},{1722.286,811.143},{1723.429,795.143},{1730.286,779.143},{1730.286,770},{1730.286,758.571},{1734.857,742.571},{1733.714,732.286},{1736,718.571},{1739.429,708.286},{1740.571,699.143},{1739.429,686.571},{1744,679.714},{1745.143,667.143},{1745.143,655.714},{1747.429,646.571},{1746.286,637.429},{1747.429,622.571},{1745.143,605.429},{1747.429,592.857},{1745.143,581.429},{1740.571,562},{1739.429,551.714},{1741.714,539.143},{1734.857,524.286},{1736,514},{1736.571,502.286}}
+Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,code once,function x(index) return pos[index][1] - 1736.571 end
+Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,code once,function y(index) return pos[index][2]  - 502.286 end
+Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H949495&\blur20\pos(!x($layer)!,!y($layer)!)}m 58 287 l 350 187 l 724 137 l 970 127 l 987 318 l 788 323 l 534 342 l 67 435 {\p0}
+Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H6B6C6B&\blur40\pos(!x($layer)!,!y($layer)!)}m 892 130 l 1175 117 l 1492 145 l 1503 346 l 1132 312 l 893 320 {\p0}
+Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H181818&\blur8\pos(!x($layer)!,!y($layer)!)}m 26 513 l 97 483 l 197 452 l 296 429 l 437 403 l 564 388 l 579 477 l 493 482 l 403 496 l 208 533 l 87 572 l 16 601 {\p0}
+Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H7D7D7D&\blur20\pos(!x($layer)!,!y($layer)!)}m -51 641 l 92 592 l 307 538 l 557 497 l 809 489 l 818 613 l 659 646 l 537 700 l 338 744 l 156 830 l -67 912 {\p0}
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 88!,!y($layer) + 334!)\fay-0.2\frz4.589}Aki
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.15\frz4.589\pos(!x($layer) + 176!,!y($layer) + 308!)}haba
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.1\pos(!x($layer) + 299.6!,!y($layer) + 279.2!)\frz6.517}ra
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 369.6!,!y($layer) + 265.2!)\fax\fay-0.03\frz5.974}Tech
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz5.228\pos(!x($layer) + 497.6!,!y($layer) + 247.2!)}no Forum
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz3.016\pos(!x($layer) + 765.6!,!y($layer) + 223.2!)}2010
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\fax0.045\frz1.999\pos(!x($layer) + 895.6!,!y($layer) + 217.2!)}Lecture
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay0.04\fax0.1\pos(!x($layer) + 1099.6!,!y($layer) + 217.2!)}Program
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.35\fax0.1\pos(!x($layer) + 15.6!,!y($layer) + 541.2!)}Art
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.29\fax0.07\pos(!x($layer) + 102.8!,!y($layer) + 511.6!)\frz359.6}ificial
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.18\fax0.08\pos(!x($layer) + 260.8!,!y($layer) + 467.6!)}Intel
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.13\fax0.08\pos(!x($layer) + 382.8!,!y($layer) + 445.6!)\frz0.5602}ligence
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fscy90\fay0.03\frz0.2437\fay-0.06\fax0.05\pos(!x($layer) + 574.8!,!y($layer) + 419.6!)}Revolution
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 44!,!y($layer) + 716!)}Ale
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 78!,!y($layer) + 650!)}xis
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz5.343\pos(!x($layer) + 212!,!y($layer) + 604!)}Les
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz4.749\pos(!x($layer) + 354!,!y($layer) + 576!)}kin
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\frz5.305\pos(!x($layer) + 490!,!y($layer) + 559.333!)}en
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 28!,!y($layer) + 784!)}Victor
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 720.667!)}Chond
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992\pos(!x($layer) + 218.667!,!y($layer) + 676.668!)}ria
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 281.334!,!y($layer) + 658.666!)}Univ
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 369.334!,!y($layer) + 641.999!)}ersity
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 483.067!,!y($layer) + 627.6!)\frz6.459}professor
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 18!,!y($layer) + 826!)}Brain
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 767.667!)}Science
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992.1\pos(!x($layer) + 248!,!y($layer) + 715!)}In
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 291!,!y($layer) + 703!)}stitute
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 424!,!y($layer) + 679!)}Chief
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 540!,!y($layer) + 665!)\frz6.459}Resear
+Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.1\fscy90\fax0.07\pos(!x($layer) + 672!,!y($layer) + 655!)\frz6.459}cher
+Comment: 1,0:16:54.53,0:16:54.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,965.429)}
+Comment: 2,0:16:54.66,0:16:54.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,959.714)}
+Comment: 3,0:16:54.78,0:16:54.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,959.714)}
+Comment: 4,0:16:54.91,0:16:55.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,959.714)}
+Comment: 5,0:16:55.03,0:16:55.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
+Comment: 6,0:16:55.16,0:16:55.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1721.143,970)}
+Comment: 7,0:16:55.28,0:16:55.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
+Comment: 8,0:16:55.41,0:16:55.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,957.429)}
+Comment: 9,0:16:55.53,0:16:55.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,957.429)}
+Comment: 10,0:16:55.66,0:16:55.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,958.571)}
+Comment: 11,0:16:55.78,0:16:55.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,964.286)}
+Comment: 12,0:16:55.91,0:16:56.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,968.857)}
+Comment: 13,0:16:56.03,0:16:56.07,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,963.143)}
+Comment: 14,0:16:56.07,0:16:56.11,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,960.857)}
+Comment: 15,0:16:56.11,0:16:56.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,956.286)}
+Comment: 16,0:16:56.16,0:16:56.20,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,947.143)}
+Comment: 17,0:16:56.20,0:16:56.24,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,943.714)}
+Comment: 18,0:16:56.24,0:16:56.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1738.286,936.857)}
+Comment: 19,0:16:56.28,0:16:56.32,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,930)}
+Comment: 20,0:16:56.32,0:16:56.37,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,922)}
+Comment: 21,0:16:56.37,0:16:56.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,915.143)}
+Comment: 22,0:16:56.41,0:16:56.45,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,909.429)}
+Comment: 23,0:16:56.45,0:16:56.49,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,898)}
+Comment: 24,0:16:56.49,0:16:56.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,890)}
+Comment: 25,0:16:56.53,0:16:56.57,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,888.857)}
+Comment: 26,0:16:56.57,0:16:56.62,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,874)}
+Comment: 27,0:16:56.62,0:16:56.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,866)}
+Comment: 28,0:16:56.66,0:16:56.70,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,860.286)}
+Comment: 29,0:16:56.70,0:16:56.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,851.143)}
+Comment: 30,0:16:56.74,0:16:56.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,838.571)}
+Comment: 31,0:16:56.78,0:16:56.82,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,823.714)}
+Comment: 32,0:16:56.82,0:16:56.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,811.143)}
+Comment: 33,0:16:56.87,0:16:56.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,795.143)}
+Comment: 34,0:16:56.91,0:16:56.95,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,779.143)}
+Comment: 35,0:16:56.95,0:16:56.99,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,770)}
+Comment: 36,0:16:56.99,0:16:57.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,758.571)}
+Comment: 37,0:16:57.03,0:16:57.07,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,742.571)}
+Comment: 38,0:16:57.07,0:16:57.12,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,732.286)}
+Comment: 39,0:16:57.12,0:16:57.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,718.571)}
+Comment: 40,0:16:57.16,0:16:57.20,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,708.286)}
+Comment: 41,0:16:57.20,0:16:57.24,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,699.143)}
+Comment: 42,0:16:57.24,0:16:57.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,686.571)}
+Comment: 43,0:16:57.28,0:16:57.32,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,679.714)}
+Comment: 44,0:16:57.32,0:16:57.37,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,667.143)}
+Comment: 45,0:16:57.37,0:16:57.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,655.714)}
+Comment: 46,0:16:57.41,0:16:57.45,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,646.571)}
+Comment: 47,0:16:57.45,0:16:57.49,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,637.429)}
+Comment: 48,0:16:57.49,0:16:57.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,622.571)}
+Comment: 49,0:16:57.53,0:16:57.57,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,605.429)}
+Comment: 50,0:16:57.57,0:16:57.62,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,592.857)}
+Comment: 51,0:16:57.62,0:16:57.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,581.429)}
+Comment: 52,0:16:57.66,0:16:57.70,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,562)}
+Comment: 53,0:16:57.70,0:16:57.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,551.714)}
+Comment: 54,0:16:57.74,0:16:57.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1741.714,539.143)}
+Comment: 55,0:16:57.78,0:16:57.82,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,524.286)}
+Comment: 56,0:16:57.82,0:16:57.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,514)}
+Comment: 57,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736.571,502.286)}
+Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\an3\pos(1684,686)\fsp16}Missing Link
+Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1142,658)\fs60\fsp4}of
+Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1144,700)\fs40}the
+Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1194,640)\fsp4\fs120}Annihilator
 Dialogue: 1,0:01:24.18,0:01:27.15,Signs,,0,0,0,,{\an8\pos(1433.434,111.5)\fs64\1c&H493C97&\3c&H201A40&\fnConcert One\frz309\be1.5\frx352\fry326}Christmas\NSale
-Dialogue: 1,0:06:00.54,0:06:02.30,Signs,,0,0,0,,{\an8\c&H556353&\frx4\fry-2\frz-33\fnSpecial Elite\fs90\t(\frx6,\fry-5,\frz-32)\be3\1a&H4B&\move(639.245,1322.5,774,649,0,1742)} Braun Tube Workshop
-Dialogue: 1,0:09:26.46,0:09:29.42,Signs,,0,0,0,,{\an1\pos(1119.057,92.25)\fs32.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}New strain of encephalitis
-Dialogue: 1,0:09:26.46,0:09:29.42,Signs,,0,0,0,,{\an1\pos(611.057,792.25)\fs52.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}No cases have yet to be reported in Japan.
-Dialogue: 1,0:13:18.06,0:13:18.65,Signs,,0,0,0,,{\an7\c&H3B3637&\fs135\blur3.5\be4\frz290.5\fax0.1\fnPatrick Hand\b1\move(775.925,201.5,771.925,149.75,22,564)}I failed I failed I failed I failed\N{\fax-0.1}I failed I failed I failed I failed
-Dialogue: 1,0:13:18.65,0:13:19.07,Signs,,0,0,0,,{\an7\c&H5B5158&\fs100\shad0\blur3.5\be4\fnPatrick Hand\b1\move(911.925,115.5,925.925,95.75,26,401)\frz269.9}I failed I failed I failed I failed I failed\NI failed I failed I failed I failed I failed
-Dialogue: 0,0:15:54.85,0:15:56.76,Draw,,0,0,0,,{\pos(0,0)\p1\c&HE4DBD8&\blur10}m 556 349 l 902 371 l 829 522 l 444 482 {\p0}
-Dialogue: 0,0:15:54.85,0:15:56.76,Draw,,0,0,0,,{\pos(0,0)\p1\c&HD9CFCA&\blur10}m 1018 474 l 1225 494 l 1198 546 l 991 523 {\p0}
-Dialogue: 1,0:15:54.85,0:15:56.76,OkabePhone,,0,0,0,,{\an7\org(1568.075,476)\pos(434.075,418)\fs74\c&H675855&\be3\frx16\fry0\frz355.2}1 New Message\N{\fs100}Professor Izaki
-Dialogue: 1,0:15:54.85,0:15:56.76,OkabePhone,,0,0,0,,{\an6\org(2000.075,596)\pos(1148.075,580)\fs45\b1\c&H958B85&\be3\frx16\fry0\frz355.2}View mail
-Dialogue: 0,0:15:56.76,0:16:01.10,Draw,,0,0,0,,{\move(0,0,0,500)\p1\c&HEBE5E4&\blur30}m -35 0 l -35 563 l 678 1046 l 1920 1080 l 1920 759 l -35 -656 {\p0}
-Dialogue: 0,0:15:56.76,0:16:01.10,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HEDE7E6&\blur30}m 325 21 l 227 -50 l 616 -49 l 716 34 l 1908 912 l 2323 1197 l 2135 1349 l 1721 1049 {\p0}
-Dialogue: 0,0:15:56.76,0:16:01.10,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HECE6E6&\blur30}m 672 -35 l 890 124 l 977 41 l 1300 281 l 1447 137 l 879 -192 {\p0}
-Dialogue: 1,0:15:56.76,0:16:01.10,OkabePhone,,0,0,0,,{\an7\move(600,-947.5,600,-450)\fs130\c&HC2AFAD&\be3\frz323.3}From: Professor Izaki\N\N{\fs100}To: Okabe Rintaro
-Dialogue: 1,0:15:56.76,0:16:01.10,OkabePhone,,0,0,0,,{\a9\move(330,-597.5,330,-100)\fs160\c&H604C4C&\be3\frz323.3}Regarding tomorrow's seminar
-Dialogue: 1,0:15:56.76,0:16:01.10,OkabePhone,,0,0,0,,{\an7\move(50,-597.5,50,-100)\fr-38\fs160\c&H604C4C&\be3}We're all going out for some drinks after\Nthe seminar. If you've got some free time, would you care to join us?
-Dialogue: 1,0:16:43.85,0:16:48.02,Signs,,0,0,0,,{\a9\move(1358.491,720,1335.849,742.5)\c&H504C43&\3c&H645F52&\bord2.25\shad2.25\fr24\fs74.25\frx358\fry3\fs100}DEC 2010\N{\fs80}10 FR–11 SA\NUPX Theater
-Dialogue: 1,0:16:57.87,0:17:01.12,Signs,,0,0,0,,{\q2\an7\fs150\c&H101010&\fade(0,1000)\fnPlayfair Display Medium\be8\frz2.002\fay-0.025\move(370,718,88,718,0,3195)}Viktor Chondria University Professor\NBrain Science Institute Chief Researcher
-Dialogue: 0,0:20:43.55,0:20:48.56,Draw,,0,0,0,,{\pos(0,0)\p1\c&HFFFFFB&\blur15}m 860 7 l 1007 119 l 1326 385 l 1270 517 l 1139 384 l 1091 526 l 860 181 l 881 96 l 849 60 {\p0}
-Dialogue: 1,0:20:43.55,0:20:48.56,Signs,,0,0,0,,{\org(1136,1250)\pos(276,958)\c&H7D7A74&\fs80\be3\fnPlayfair Display\frz293.7\frx356\fry328}An Analysis of Neural Pulse Signals\N{\fs50}in Relation to Memories Stored in the Temporal Lobe
-Dialogue: 30,0:00:15.47,0:00:19.51,Default,,0000,0000,0000,,So this is where you've been, Big Sis Mayu.
-Dialogue: 30,0:00:19.51,0:00:21.27,Default,,0000,0000,0000,,Suzu-chan...
-Dialogue: 30,0:00:21.27,0:00:23.39,Default,,0000,0000,0000,,Dad and the others are looking for you.
-Dialogue: 30,0:00:23.39,0:00:26.73,Default,,0000,0000,0000,,They said they're about\Nto kick off the operation.
-Dialogue: 30,0:00:26.73,0:00:28.19,Default,,0000,0000,0000,,Big Sis Mayu?
-Dialogue: 30,0:00:32.07,0:00:33.36,Default,,0000,0000,0000,,What if?
-Dialogue: 30,0:00:34.49,0:00:36.45,Default,,0000,0000,0000,,What if back then...
-Dialogue: 30,0:00:37.87,0:00:40.66,Default,,0000,0000,0000,,...had I reached out this hand...
-Dialogue: 30,0:00:40.66,0:00:44.12,Default,,0000,0000,0000,,...would this future be any different?
-Dialogue: 30,0:00:57.18,0:01:04.85,Default,,0000,0000,0000,,That day, if my Hikoboshi had come back\Nto life, it might have changed everything.
-Dialogue: 30,0:01:07.40,0:01:09.98,Default,,0000,0000,0000,,What if back then...
-Dialogue: 30,0:01:09.98,0:01:12.28,Default,,0000,0000,0000,,...had I reached out this hand...
-Dialogue: 30,0:01:40.14,0:01:43.60,Default,,0000,0000,0000,,You are passing down,\Nsinking through your past...
-Dialogue: 30,0:01:43.60,0:01:45.18,Default,,0000,0000,0000,,Deeper...
-Dialogue: 30,0:01:45.18,0:01:49.73,Default,,0000,0000,0000,,As you go even deeper, you then see a light.
-Dialogue: 30,0:01:49.73,0:01:51.94,Default,,0000,0000,0000,,What color is that light?
-Dialogue: 30,0:01:51.94,0:01:53.57,Default,,0000,0000,0000,,Red...
-Dialogue: 30,0:01:53.57,0:01:58.32,Default,,0000,0000,0000,,Within that light stands\Nsomeone important to you.
-Dialogue: 30,0:01:58.32,0:02:01.12,Default,,0000,0000,0000,,Is that person your family?
-Dialogue: 30,0:02:01.12,0:02:02.70,Default,,0000,0000,0000,,No...
-Dialogue: 30,0:02:02.70,0:02:05.83,Default,,0000,0000,0000,,Then a friend, or perhaps lover?
-Dialogue: 30,0:02:05.83,0:02:07.96,Default,,0000,0000,0000,,We're not even friends...
-Dialogue: 30,0:02:07.96,0:02:10.79,Default,,0000,0000,0000,,She and I are...
-Dialogue: 30,0:02:18.76,0:02:21.51,Default,,0000,0000,0000,,Ah! Okarin!
-Dialogue: 30,0:02:24.77,0:02:28.60,Default,,0000,0000,0000,,What gives? I said you\Ndidn't have to wait for me.
-Dialogue: 30,0:02:30.56,0:02:32.56,Default,,0000,0000,0000,,How was it?
-Dialogue: 30,0:02:32.56,0:02:33.82,Default,,0000,0000,0000,,Uh, well...
-Dialogue: 30,0:02:33.82,0:02:37.61,Default,,0000,0000,0000,,Turns out hypnotherapy\Nwasn't that big of a deal.
-Dialogue: 30,0:02:37.61,0:02:39.03,Default,,0000,0000,0000,,He said I'll be fine.
-Dialogue: 30,0:02:39.03,0:02:40.86,Default,,0000,0000,0000,,Really?
-Dialogue: 30,0:02:40.86,0:02:44.58,Default,,0000,0000,0000,,Yeah, but I'll need to keep up\Nthe counseling for a while.
-Dialogue: 30,0:02:44.58,0:02:48.00,Default,,0000,0000,0000,,You were right. I'm glad I gave it a shot.
-Dialogue: 30,0:02:48.00,0:02:49.50,Default,,0000,0000,0000,,That's a relief.
-Dialogue: 30,0:02:49.50,0:02:52.96,Default,,0000,0000,0000,,Lately, you seemed to be having it rough.
-Dialogue: 30,0:02:52.96,0:02:54.54,Default,,0000,0000,0000,,Sorry to worry you.
-Dialogue: 30,0:02:54.54,0:02:55.80,Default,,0000,0000,0000,,It's okay.
-Dialogue: 30,0:02:55.80,0:02:57.80,Default,,0000,0000,0000,,Wanna go grab a bite?
-Dialogue: 30,0:02:57.80,0:02:59.34,Default,,0000,0000,0000,,My treat.
-Dialogue: 30,0:03:01.13,0:03:05.35,Default,,0000,0000,0000,,In that case, can we head over to Akiba?
-Dialogue: 30,0:03:05.35,0:03:09.48,Default,,0000,0000,0000,,Luka-kun and Faris-chan\Ninvited me out a bit ago.
-Dialogue: 30,0:03:09.48,0:03:12.02,Default,,0000,0000,0000,,Akihabara, huh?
-Dialogue: 30,0:03:12.02,0:03:13.31,Default,,0000,0000,0000,,That a no?
-Dialogue: 30,0:03:16.61,0:03:18.94,Default,,0000,0000,0000,,No, let's go.
-Dialogue: 30,0:03:20.40,0:03:21.74,Default,,0000,0000,0000,,Wonderful!
-Dialogue: 30,0:03:21.74,0:03:24.74,Default,,0000,0000,0000,,I'll let those guys know we're coming.
-Dialogue: 30,0:03:24.74,0:03:27.54,Default,,0000,0000,0000,,Faris-chan? Guess what?
-Dialogue: 30,0:03:27.54,0:03:30.66,Default,,0000,0000,0000,,It's already December...
-Dialogue: 30,0:03:32.29,0:03:34.96,Default,,0000,0000,0000,,It feels like that summer...
-Dialogue: 30,0:03:34.96,0:03:36.67,Default,,0000,0000,0000,,...was just days ago.
-Dialogue: 30,0:03:49.31,0:03:54.31,Default,,0000,0000,0000,,Um, they said they'd be\Nwaiting here somewhere... Oh!
-Dialogue: 30,0:03:54.31,0:03:55.94,Default,,0000,0000,0000,,Luka-kun! Faris-chan!
-Dialogue: 30,0:03:55.94,0:03:56.94,Default,,0000,0000,0000,,Tutturu!
-Dialogue: 30,0:03:56.94,0:03:58.90,Default,,0000,0000,0000,,Hello, Mayuri-chan.
-Dialogue: 30,0:03:58.90,0:04:01.53,Default,,0000,0000,0000,,Oh! It's Kyouma!
-Dialogue: 30,0:04:01.53,0:04:04.91,Default,,0000,0000,0000,,It's been a while, Lukako, Faris.
-Dialogue: 30,0:04:04.91,0:04:06.12,Default,,0000,0000,0000,,Okabe-san...
-Dialogue: 30,0:04:06.12,0:04:09.58,Default,,0000,0000,0000,,Kyouma! I missed you, nya!
-Dialogue: 30,0:04:09.58,0:04:11.37,Default,,0000,0000,0000,,Hey! Cut it out!
-Dialogue: 30,0:04:11.37,0:04:14.83,Default,,0000,0000,0000,,What for, meow?\NKyouma knows he likes it, meow!
-Dialogue: 30,0:04:14.83,0:04:17.96,Default,,0000,0000,0000,,First off, quit with the calling me Kyouma.
-Dialogue: 30,0:04:17.96,0:04:18.96,Default,,0000,0000,0000,,Nyan? Why?{Consistency with the 0 VN}
-Dialogue: 30,0:04:18.96,0:04:21.05,Default,,0000,0000,0000,,That's from the Dark Past.
-Dialogue: 30,0:04:21.05,0:04:25.26,Default,,0000,0000,0000,,Is that what you call the dark ages\Nkept secret by a cult of medieval wizards?!
-Dialogue: 30,0:04:25.26,0:04:26.68,Default,,0000,0000,0000,,Not even close.
-Dialogue: 30,0:04:26.68,0:04:28.68,Default,,0000,0000,0000,,It's so good to see you again.
-Dialogue: 30,0:04:28.68,0:04:33.10,Default,,0000,0000,0000,,I go to the lab from time to time,\Nbut never see you there.
-Dialogue: 30,0:04:33.10,0:04:34.60,Default,,0000,0000,0000,,I've been busy with things.
-Dialogue: 30,0:04:34.60,0:04:37.77,Default,,0000,0000,0000,,Don't tell me you're part\Nof a secret organization!
-Dialogue: 30,0:04:37.77,0:04:40.07,Default,,0000,0000,0000,,No, I'm swamped with college seminars.
-Dialogue: 30,0:04:40.07,0:04:41.23,Default,,0000,0000,0000,,Nya?
-Dialogue: 30,0:04:41.23,0:04:42.69,Default,,0000,0000,0000,,Plus, club and stuff.
-Dialogue: 30,0:04:42.69,0:04:43.86,Default,,0000,0000,0000,,Nya nya?
-Dialogue: 30,0:04:43.86,0:04:45.70,Default,,0000,0000,0000,,Okabe-san is in a club?
-Dialogue: 30,0:04:45.70,0:04:48.41,Default,,0000,0000,0000,,Researching UFOs and\Nmythical creatures and stuff?
-Dialogue: 30,0:04:48.41,0:04:50.79,Default,,0000,0000,0000,,No, the tennis club.
-Dialogue: 30,0:04:51.75,0:04:54.33,Default,,0000,0000,0000,,What?!
-Dialogue: 30,0:04:54.33,0:04:58.04,Default,,0000,0000,0000,,'Cuz my associate professor\Nat college advises the club.
-Dialogue: 30,0:04:58.04,0:05:00.05,Default,,0000,0000,0000,,So now you're doing tennis.
-Dialogue: 30,0:05:00.05,0:05:02.46,Default,,0000,0000,0000,,Look out Wimbledon, here he comes.
-Dialogue: 30,0:05:02.46,0:05:05.47,Default,,0000,0000,0000,,So, practice is why you've been so busy?
-Dialogue: 30,0:05:05.47,0:05:08.89,Default,,0000,0000,0000,,N-No, it's not exactly that intensive.
-Dialogue: 30,0:05:08.89,0:05:10.64,Default,,0000,0000,0000,,Then what else are you doing, meow?
-Dialogue: 30,0:05:10.64,0:05:13.31,Default,,0000,0000,0000,,If you must know, g-group dates and stuff.
-Dialogue: 30,0:05:13.31,0:05:14.23,Default,,0000,0000,0000,,Group...
-Dialogue: 30,0:05:14.23,0:05:15.14,Default,,0000,0000,0000,,...dates?!
-Dialogue: 30,0:05:15.14,0:05:16.98,Default,,0000,0000,0000,,What?!
-Dialogue: 30,0:05:16.98,0:05:18.73,Default,,0000,0000,0000,,Okabe-san is going on group dates?!
-Dialogue: 30,0:05:18.73,0:05:21.53,Default,,0000,0000,0000,,How could you?! That hurts! That's pathetic!
-Dialogue: 30,0:05:21.53,0:05:23.28,Default,,0000,0000,0000,,You disgust me, mister! Disgust me!
-Dialogue: 30,0:05:23.28,0:05:25.57,Default,,0000,0000,0000,,What's gotten into you?
-Dialogue: 30,0:05:25.57,0:05:27.28,Default,,0000,0000,0000,,Don't be so mean, guys.
-Dialogue: 30,0:05:27.28,0:05:29.66,Default,,0000,0000,0000,,I'm a normal college student, you know.
-Dialogue: 30,0:05:29.66,0:05:31.16,Default,,0000,0000,0000,,You're lewd! So lewd!
-Dialogue: 30,0:05:31.16,0:05:32.62,Default,,0000,0000,0000,,Explain yourself, Kyouma!
-Dialogue: 30,0:05:32.62,0:05:34.50,Default,,0000,0000,0000,,How could you, Okabe-san?
-Dialogue: 30,0:05:34.50,0:05:36.67,Default,,0000,0000,0000,,—Erm...\N—A message from Yuki-san!
-Dialogue: 30,0:05:36.67,0:05:38.38,Default,,0000,0000,0000,,Something happen?
-Dialogue: 30,0:05:38.38,0:05:39.50,Default,,0000,0000,0000,,No...
-Dialogue: 30,0:05:39.50,0:05:44.42,Default,,0000,0000,0000,,She said if I'm around Akiba, she\Nwants to meet up and show me something.
-Dialogue: 30,0:05:44.42,0:05:46.63,Default,,0000,0000,0000,,At the lab.
-Dialogue: 30,0:05:58.02,0:05:59.52,Default,,0000,0000,0000,,It's fine.
-Dialogue: 30,0:05:59.52,0:06:01.36,Default,,0000,0000,0000,,Let's go.
-Dialogue: 30,0:06:01.36,0:06:04.03,Default,,0000,0000,0000,,Grr...
-Dialogue: 30,0:06:04.03,0:06:05.74,Default,,0000,0000,0000,,This calls for war!
-Dialogue: 30,0:06:05.74,0:06:08.07,Default,,0000,0000,0000,,Commence trolling!
-Dialogue: 30,0:06:08.07,0:06:11.66,Default,,0000,0000,0000,,“Normals Must Die-P”\Nwasn't our comrade after all!
-Dialogue: 30,0:06:11.66,0:06:14.83,Default,,0000,0000,0000,,You've been married to “Parthenon,” you fake!
-Dialogue: 30,0:06:14.83,0:06:15.87,Default,,0000,0000,0000,,Dad...
-Dialogue: 30,0:06:15.87,0:06:20.42,Default,,0000,0000,0000,,Whoa! @channel and Twipo\Nare already filled with flaming!
-Dialogue: 30,0:06:20.42,0:06:24.84,Default,,0000,0000,0000,,I'm late to the show! How could I miss this?!
-Dialogue: 30,0:06:25.59,0:06:29.47,Default,,0000,0000,0000,,Listen to me, or else.
-Dialogue: 30,0:06:29.47,0:06:33.05,Default,,0000,0000,0000,,S-Suzuha! Stop it or daddy will get angry.
-Dialogue: 30,0:06:33.05,0:06:35.27,Default,,0000,0000,0000,,I'm already plenty angry with you.
-Dialogue: 30,0:06:35.27,0:06:37.85,Default,,0000,0000,0000,,Right, sorry...
-Dialogue: 30,0:06:37.85,0:06:39.85,Default,,0000,0000,0000,,For crying out loud...
-Dialogue: 30,0:06:39.85,0:06:43.82,Default,,0000,0000,0000,,All you ever do around here is nap,\Nplay games, and browse the net all day.
-Dialogue: 30,0:06:43.82,0:06:46.82,Default,,0000,0000,0000,,But researching time machines\Ntakes it all out of me.
-Dialogue: 30,0:06:46.82,0:06:50.66,Default,,0000,0000,0000,,Plus, we've got one already,\Nbut you won't let me touch it.
-Dialogue: 30,0:06:50.66,0:06:53.70,Default,,0000,0000,0000,,Because it's one you invented in the future.
-Dialogue: 30,0:06:53.70,0:06:58.50,Default,,0000,0000,0000,,If you saw it now, it's possible\Nthat might cause a time paradox.
-Dialogue: 30,0:06:58.50,0:07:01.33,Default,,0000,0000,0000,,Since it's guaranteed that I make it, who cares?
-Dialogue: 30,0:07:01.33,0:07:03.46,Default,,0000,0000,0000,,Means I can procrastinate now!
-Dialogue: 30,0:07:03.46,0:07:07.80,Default,,0000,0000,0000,,I'm telling you, it's time\Nyou worked on it seriously.
-Dialogue: 30,0:07:07.80,0:07:11.47,Default,,0000,0000,0000,,Mom always gets mad at you in\Nthe future for saying stuff like that.
-Dialogue: 30,0:07:11.47,0:07:15.01,Default,,0000,0000,0000,,I'd welcome her wrath if\Nyou know what I mean. Huff huff...
-Dialogue: 30,0:07:15.01,0:07:16.14,Default,,0000,0000,0000,,Dad!
-Dialogue: 30,0:07:16.14,0:07:18.06,Default,,0000,0000,0000,,Please forget I said that.
-Dialogue: 30,0:07:18.06,0:07:21.02,Default,,0000,0000,0000,,There's something you always said in the future.
-Dialogue: 30,0:07:21.02,0:07:23.94,Default,,0000,0000,0000,,That this worldline was\Nthe worst one imaginable...
-Dialogue: 30,0:07:23.94,0:07:27.32,Default,,0000,0000,0000,,...but having me was the\Nbest thing that ever happened.
-Dialogue: 30,0:07:27.32,0:07:34.03,Default,,0000,0000,0000,,I came here to convince Uncle Okarin so\Nthat we could somehow change that future.
-Dialogue: 30,0:07:34.03,0:07:38.75,Default,,0000,0000,0000,,And yet, ever since that day,\Nhe hasn't come back here once.
-Dialogue: 30,0:07:42.25,0:07:43.67,Default,,0000,0000,0000,,Someone's here.
-Dialogue: 30,0:07:45.63,0:07:48.17,Default,,0000,0000,0000,,Huh? Could it be Okarin?
-Dialogue: 30,0:07:48.17,0:07:50.38,Default,,0000,0000,0000,,No, I hear boots.
-Dialogue: 30,0:07:50.38,0:07:51.22,Default,,0000,0000,0000,,It's Mom.
-Dialogue: 30,0:07:51.22,0:07:52.43,Default,,0000,0000,0000,,Eh?!
-Dialogue: 30,0:07:53.47,0:07:54.64,Default,,0000,0000,0000,,Suzuha, hide!
-Dialogue: 30,0:07:54.64,0:07:56.26,Default,,0000,0000,0000,,Okey-dokey!
-Dialogue: 30,0:08:03.85,0:08:05.61,Default,,0000,0000,0000,,Come on in.
-Dialogue: 30,0:08:07.32,0:08:09.48,Default,,0000,0000,0000,,Hello!
-Dialogue: 30,0:08:11.32,0:08:15.12,Default,,0000,0000,0000,,A-Amane-shi? What brings you here?
-Dialogue: 30,0:08:16.37,0:08:18.16,Default,,0000,0000,0000,,Hmm? Mayuri-chan isn't around?
-Dialogue: 30,0:08:18.16,0:08:21.12,Default,,0000,0000,0000,,Mayu-shi? Not yet...
-Dialogue: 30,0:08:21.12,0:08:23.50,Default,,0000,0000,0000,,I think I got here a bit early.
-Dialogue: 30,0:08:23.50,0:08:26.04,Default,,0000,0000,0000,,She said she would meet up with me here.
-Dialogue: 30,0:08:26.04,0:08:27.09,Default,,0000,0000,0000,,Yeah?
-Dialogue: 30,0:08:27.09,0:08:29.05,Default,,0000,0000,0000,,Mind if I wait inside?
-Dialogue: 30,0:08:29.05,0:08:30.51,Default,,0000,0000,0000,,S-Sure...
-Dialogue: 30,0:08:30.51,0:08:32.47,Default,,0000,0000,0000,,Thank you.
-Dialogue: 30,0:08:32.47,0:08:35.97,Default,,0000,0000,0000,,Um, is little sister out in town today?
-Dialogue: 30,0:08:35.97,0:08:38.39,Default,,0000,0000,0000,,Huh? Little sister? Whose?
-Dialogue: 30,0:08:38.39,0:08:40.97,Default,,0000,0000,0000,,Whose? Yours...
-Dialogue: 30,0:08:40.97,0:08:44.69,Default,,0000,0000,0000,,Mine? All my little sisters\Nexist only in 2D form—
-Dialogue: 30,0:08:44.69,0:08:47.77,Default,,0000,0000,0000,,Ah! Y-You must mean Suzuha!
-Dialogue: 30,0:08:47.77,0:08:49.44,Default,,0000,0000,0000,,Who else would I mean?
-Dialogue: 30,0:08:49.44,0:08:52.53,Default,,0000,0000,0000,,Uh, well... Nobody?
-Dialogue: 30,0:08:55.20,0:08:57.20,Default,,0000,0000,0000,,Tutturu!
-Dialogue: 30,0:08:58.24,0:08:59.74,Default,,0000,0000,0000,,Mayuri-chan!
-Dialogue: 30,0:08:59.74,0:09:01.58,Default,,0000,0000,0000,,Tutturu, Yuki-san!
-Dialogue: 30,0:09:01.58,0:09:02.79,Default,,0000,0000,0000,,Nyan nyan!
-Dialogue: 30,0:09:02.79,0:09:04.83,Default,,0000,0000,0000,,Faris-san and Luka-san came too!
-Dialogue: 30,0:09:04.83,0:09:07.71,Default,,0000,0000,0000,,Faris-tan!
-Dialogue: 30,0:09:07.71,0:09:09.75,Default,,0000,0000,0000,,Huh? Ah...
-Dialogue: 30,0:09:11.84,0:09:14.67,Default,,0000,0000,0000,,This place hasn't changed a bit.
-Dialogue: 30,0:09:17.05,0:09:18.68,Default,,0000,0000,0000,,Okarin!
-Dialogue: 30,0:09:22.89,0:09:24.31,Default,,0000,0000,0000,,Can I come in?
-Dialogue: 30,0:09:27.10,0:09:29.44,Default,,0000,0000,0000,,...hallucinations and memory problems,
-Dialogue: 30,0:09:29.44,0:09:34.49,On Top,,0000,0000,0000,,prompting the Ministry of\NHealth to urge caution when traveling.
-Dialogue: 30,0:09:30.27,0:09:34.49,Default,,0000,0000,0000,,I-It's your own lab, so you don't have to ask.
-Dialogue: 30,0:09:34.49,0:09:35.82,Default,,0000,0000,0000,,I suppose so.
-Dialogue: 30,0:09:34.49,0:09:35.82,On Top,,0000,0000,0000,,Continuing with the news...
-Dialogue: 30,0:09:35.82,0:09:39.12,Default,,0000,0000,0000,,Oh! Your clothes are so cute, Yuki-san!
-Dialogue: 30,0:09:35.82,0:09:39.12,On Top,,0000,0000,0000,,Earlier, Russia experienced\Na magnitude 6 earthquake.
-Dialogue: 30,0:09:39.12,0:09:42.24,Default,,0000,0000,0000,,I wanted to show you\N'cuz I knew you would say that.
-Dialogue: 30,0:09:42.24,0:09:44.79,Default,,0000,0000,0000,,Let Faris see it too!
-Dialogue: 30,0:09:44.79,0:09:46.92,Default,,0000,0000,0000,,We've got Dk Pepper to drink if you—
-Dialogue: 30,0:09:46.92,0:09:49.29,Default,,0000,0000,0000,,Wait, Okarin! Where are you going?
-Dialogue: 30,0:09:49.29,0:09:51.34,Default,,0000,0000,0000,,Where? Just to the toilet...
-Dialogue: 30,0:09:51.34,0:09:52.88,Default,,0000,0000,0000,,Uh...
-Dialogue: 30,0:10:19.11,0:10:21.20,Default,,0000,0000,0000,,—Okarin?!\N—Okabe-san!
-Dialogue: 30,0:10:25.54,0:10:28.12,Default,,0000,0000,0000,,Suzu-san...
-Dialogue: 30,0:10:28.12,0:10:29.75,Default,,0000,0000,0000,,H-Hi there.
-Dialogue: 30,0:10:38.88,0:10:40.39,Default,,0000,0000,0000,,Ta-da!
-Dialogue: 30,0:10:41.30,0:10:42.39,Default,,0000,0000,0000,,Very cute!
-Dialogue: 30,0:10:42.39,0:10:43.76,Default,,0000,0000,0000,,Me like, nya!
-Dialogue: 30,0:10:43.76,0:10:46.68,Default,,0000,0000,0000,,A feast for the eyes! I'll have seconds!
-Dialogue: 30,0:10:47.81,0:10:49.85,Default,,0000,0000,0000,,Hmm? Where's Okarin?
-Dialogue: 30,0:10:49.85,0:10:52.31,Default,,0000,0000,0000,,He went with Suzuha-san to the roof.
-Dialogue: 30,0:10:52.31,0:10:55.23,Default,,0000,0000,0000,,They wanted to talk about something.
-Dialogue: 30,0:10:55.23,0:10:56.40,Default,,0000,0000,0000,,I see...
-Dialogue: 30,0:11:02.74,0:11:06.12,Default,,0000,0000,0000,,You didn't have to pretend\Nlike this in the first place.
-Dialogue: 30,0:11:06.12,0:11:10.54,Default,,0000,0000,0000,,Saying you're Daru's little sister\Nonly made yourself more suspicious.
-Dialogue: 30,0:11:10.54,0:11:15.00,Default,,0000,0000,0000,,Yeah, but I didn't think Mom\Nwould wanna get to know me so much.
-Dialogue: 30,0:11:15.00,0:11:17.55,Default,,0000,0000,0000,,Yuki-san and Daru first met at...
-Dialogue: 30,0:11:17.55,0:11:19.17,Default,,0000,0000,0000,,Summer ComiMa.
-Dialogue: 30,0:11:19.17,0:11:23.26,Default,,0000,0000,0000,,She was a cosplay friend of Big Sis Mayu,\Nbut in time, she started coming here.
-Dialogue: 30,0:11:24.72,0:11:26.56,Default,,0000,0000,0000,,Owowow...
-Dialogue: 30,0:11:26.56,0:11:27.97,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:11:33.10,0:11:35.40,Default,,0000,0000,0000,,Which is how we met.
-Dialogue: 30,0:11:35.40,0:11:37.36,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:11:37.36,0:11:41.57,Default,,0000,0000,0000,,But you're the one she gives birth to.\NHer future daughter.
-Dialogue: 30,0:11:41.57,0:11:44.91,Default,,0000,0000,0000,,Maybe she feels something.
-Dialogue: 30,0:11:47.49,0:11:51.54,Default,,0000,0000,0000,,Dad said he'll explain\Neverything to her sooner or later.
-Dialogue: 30,0:11:53.46,0:11:58.21,Default,,0000,0000,0000,,But man, Daru and that girl...
-Dialogue: 30,0:11:58.21,0:12:03.13,Default,,0000,0000,0000,,The fact that I'm here means\Nthat future hasn't changed.
-Dialogue: 30,0:12:11.85,0:12:13.27,Default,,0000,0000,0000,,Such peace...
-Dialogue: 30,0:12:15.31,0:12:23.70,Default,,0000,0000,0000,,By the time I'd grown up, you'd only\Nsee scenes like these in photos and videos.
-Dialogue: 30,0:12:23.70,0:12:25.74,Default,,0000,0000,0000,,World War III...
-Dialogue: 30,0:12:25.74,0:12:26.74,Default,,0000,0000,0000,,Yeah.
-Dialogue: 30,0:12:26.74,0:12:29.29,Default,,0000,0000,0000,,Because Dad and the others\Nwere building a time machine,
-Dialogue: 30,0:12:29.29,0:12:31.70,Default,,0000,0000,0000,,we were seen as a rebel organization.
-Dialogue: 30,0:12:31.70,0:12:35.33,Default,,0000,0000,0000,,But Daru, Yuki-san, and you somehow escaped?
-Dialogue: 30,0:12:35.33,0:12:36.54,Default,,0000,0000,0000,,No...
-Dialogue: 30,0:12:36.54,0:12:41.55,Default,,0000,0000,0000,,My mom tried to protect me from a military\Ndrone and was mowed down by machine guns.
-Dialogue: 30,0:12:45.76,0:12:49.39,Default,,0000,0000,0000,,I saw her get ripped\Nto shreds right before my eyes.
-Dialogue: 30,0:12:49.39,0:12:52.02,Default,,0000,0000,0000,,I was practically bathed in her blood.
-Dialogue: 30,0:12:55.56,0:12:58.31,Default,,0000,0000,0000,,Uncle Okarin...
-Dialogue: 30,0:12:58.31,0:13:03.32,Default,,0000,0000,0000,,All that lies ahead in this worldline is hell.
-Dialogue: 30,0:13:03.32,0:13:08.49,Default,,0000,0000,0000,,The conflict over time machines makes\Ncountry fight country and many people die.
-Dialogue: 30,0:13:08.49,0:13:11.04,Default,,0000,0000,0000,,It's a world of nothing but horror and despair.
-Dialogue: 30,0:13:11.04,0:13:14.87,Default,,0000,0000,0000,,The lives of 5.7 billion people\Nare on the line here.
-Dialogue: 30,0:13:14.87,0:13:17.38,Default,,0000,0000,0000,,This future...
-Dialogue: 30,0:13:17.38,0:13:19.42,Default,,0000,0000,0000,,I'm begging you...
-Dialogue: 30,0:13:19.42,0:13:22.21,Default,,0000,0000,0000,,Uncle Okarin...
-Dialogue: 30,0:13:22.21,0:13:23.76,Default,,0000,0000,0000,,I can't...
-Dialogue: 30,0:13:23.76,0:13:24.72,Default,,0000,0000,0000,,Uncle!
-Dialogue: 30,0:13:24.72,0:13:29.05,Default,,0000,0000,0000,,I've drifted through so many\Nworldlines, I've lost count...
-Dialogue: 30,0:13:29.05,0:13:33.93,Default,,0000,0000,0000,,No matter the worldline, I've witnessed\Ntime machines toy with everyone's fate.
-Dialogue: 30,0:13:33.93,0:13:37.02,Default,,0000,0000,0000,,I've even seen you meet your doom.
-Dialogue: 30,0:13:37.02,0:13:40.31,Default,,0000,0000,0000,,And over and over, it never ends.
-Dialogue: 30,0:13:40.31,0:13:44.36,Default,,0000,0000,0000,,Believe me, I learned the\Nlimits of what someone can do.
-Dialogue: 30,0:13:44.36,0:13:47.45,Default,,0000,0000,0000,,No matter what I try, I'm powerless.
-Dialogue: 30,0:13:48.95,0:13:52.08,Default,,0000,0000,0000,,But you have changed worldlines before.
-Dialogue: 30,0:13:52.08,0:13:54.33,Default,,0000,0000,0000,,You said it yourself.
-Dialogue: 30,0:13:54.33,0:13:55.62,Default,,0000,0000,0000,,Uncle...
-Dialogue: 30,0:13:55.62,0:13:56.54,Default,,0000,0000,0000,,In that case—
-Dialogue: 30,0:13:56.54,0:13:57.87,Default,,0000,0000,0000,,It's no use!
-Dialogue: 30,0:13:57.87,0:14:00.50,Default,,0000,0000,0000,,You can't just change\Nthe past to switch worldlines!
-Dialogue: 30,0:14:00.50,0:14:03.50,Default,,0000,0000,0000,,It breaks the rules which govern our universe!
-Dialogue: 30,0:14:03.50,0:14:07.01,Default,,0000,0000,0000,,Humans like us can't just\Ntamper with the province of God!
-Dialogue: 30,0:14:07.01,0:14:09.43,Default,,0000,0000,0000,,The moment we start meddling,\Nwe get punished!
-Dialogue: 30,0:14:09.43,0:14:13.22,Default,,0000,0000,0000,,It's terrible! Enough that you\Nwant to clamp shut your eyes!
-Dialogue: 30,0:14:13.22,0:14:15.31,Default,,0000,0000,0000,,Is that your answer?
-Dialogue: 30,0:14:21.61,0:14:25.53,Default,,0000,0000,0000,,There's still time.
-Dialogue: 30,0:14:25.53,0:14:27.90,Default,,0000,0000,0000,,I want you to reconsider.
-Dialogue: 30,0:14:27.90,0:14:29.24,Default,,0000,0000,0000,,I...
-Dialogue: 30,0:14:30.49,0:14:33.20,Default,,0000,0000,0000,,...have not given up.
-Dialogue: 30,0:14:34.04,0:14:37.50,Default,,0000,0000,0000,,In the end, I guess Suzu-san didn't come back.
-Dialogue: 30,0:14:37.50,0:14:38.96,Default,,0000,0000,0000,,Yeah...
-Dialogue: 30,0:14:38.96,0:14:41.58,Default,,0000,0000,0000,,The two of you didn't fight, did you?
-Dialogue: 30,0:14:41.58,0:14:43.50,Default,,0000,0000,0000,,That's not what happened.
-Dialogue: 30,0:14:43.50,0:14:45.51,Default,,0000,0000,0000,,I see.
-Dialogue: 30,0:14:45.51,0:14:49.93,Default,,0000,0000,0000,,Whew! It's getting pretty nippy, isn't it?
-Dialogue: 30,0:14:54.81,0:14:59.39,Default,,0000,0000,0000,,The lab was so lively for a change, it was fun.
-Dialogue: 30,0:14:59.39,0:15:00.56,Default,,0000,0000,0000,,Yeah?
-Dialogue: 30,0:15:00.56,0:15:01.85,Default,,0000,0000,0000,,Yup!
-Dialogue: 30,0:15:01.85,0:15:08.95,Default,,0000,0000,0000,,Somehow, going to the lab lately\Nhas left me feeling really lonely.
-Dialogue: 30,0:15:08.95,0:15:10.70,Default,,0000,0000,0000,,Isn't Daru there?
-Dialogue: 30,0:15:10.70,0:15:11.86,Default,,0000,0000,0000,,Yeah...
-Dialogue: 30,0:15:11.86,0:15:17.79,Default,,0000,0000,0000,,But before, Mayushii used to wait\Nat the lab all by herself for you.
-Dialogue: 30,0:15:17.79,0:15:20.83,Default,,0000,0000,0000,,That's why I shouldn't feel lonely at all.
-Dialogue: 30,0:15:20.83,0:15:27.46,Default,,0000,0000,0000,,I don't know why, but I feel\Nso lonely it makes me want to cry.
-Dialogue: 30,0:15:27.46,0:15:32.09,Default,,0000,0000,0000,,It's like, it used to be a lot more fun.
-Dialogue: 30,0:15:32.09,0:15:33.64,Default,,0000,0000,0000,,It's an illusion.
-Dialogue: 30,0:15:33.64,0:15:34.55,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:15:34.55,0:15:36.60,Default,,0000,0000,0000,,An illusion.
-Dialogue: 30,0:15:36.60,0:15:43.19,Default,,0000,0000,0000,,The only people that ever came\Nto the lab were you, me, and Daru.
-Dialogue: 30,0:15:43.19,0:15:46.32,Default,,0000,0000,0000,,Yeah, you're right.
-Dialogue: 30,0:15:53.91,0:15:56.24,Default,,0000,0000,0000,,What's wrong?
-Dialogue: 30,0:15:56.24,0:15:57.41,Default,,0000,0000,0000,,Nothing.
-Dialogue: 30,0:15:57.41,0:16:02.00,Default,,0000,0000,0000,,People from Viktor Chondria University\Nare giving a seminar in Akiba tomorrow.
-Dialogue: 30,0:16:02.00,0:16:07.92,Default,,0000,0000,0000,,I was hoping to talk with their professor,\Nbut I guess they're all out drinking.
-Dialogue: 30,0:16:07.92,0:16:09.46,Default,,0000,0000,0000,,I see!
-Dialogue: 30,0:16:09.46,0:16:12.34,Default,,0000,0000,0000,,You're like a full-fledged normal now.
-Dialogue: 30,0:16:12.34,0:16:15.93,Default,,0000,0000,0000,,Mayushii will be fine by herself.
-Dialogue: 30,0:16:15.93,0:16:16.80,Default,,0000,0000,0000,,Okay.
-Dialogue: 30,0:16:16.80,0:16:18.76,Default,,0000,0000,0000,,Sorry to ditch you.
-Dialogue: 30,0:16:36.74,0:16:39.24,Default,,0000,0000,0000,,Cheers!
-Dialogue: 30,0:16:45.42,0:16:48.42,Default,,0000,0000,0000,,Artificial Intelligence Revolution...
-Dialogue: 30,0:16:48.42,0:16:50.84,Default,,0000,0000,0000,,Viktor Chondria University.
-Dialogue: 30,0:16:50.84,0:16:53.47,Default,,0000,0000,0000,,Professor Alexis Leskinen.
-Dialogue: 30,0:16:59.18,0:17:02.64,Default,,0000,0000,0000,,That's... the college she went to.
-Dialogue: 30,0:17:06.56,0:17:10.86,Default,,0000,0000,0000,,I think... I'm dying.
-Dialogue: 30,0:17:10.86,0:17:13.57,Default,,0000,0000,0000,,I don't want to die...
-Dialogue: 30,0:17:55.19,0:17:56.90,Default,,0000,0000,0000,,Hey, you.
-Dialogue: 30,0:17:59.70,0:18:01.66,Default,,0000,0000,0000,,I'm talking to you.
-Dialogue: 30,0:18:03.49,0:18:05.62,Default,,0000,0000,0000,,Which way is the staff room?
-Dialogue: 30,0:18:09.21,0:18:11.13,Default,,0000,0000,0000,,Huh?
-Dialogue: 30,0:18:11.13,0:18:15.05,Default,,0000,0000,0000,,Uh, this is a college seminar conference...
-Dialogue: 30,0:18:15.05,0:18:17.01,Default,,0000,0000,0000,,Of course I know that!
-Dialogue: 30,0:18:17.01,0:18:18.63,Default,,0000,0000,0000,,It's the same thing, over and over...
-Dialogue: 30,0:18:18.63,0:18:19.93,Default,,0000,0000,0000,,Over and over?
-Dialogue: 30,0:18:19.93,0:18:23.81,Default,,0000,0000,0000,,You're the fourth person\Nto tell me that since coming here.
-Dialogue: 30,0:18:23.81,0:18:26.27,Default,,0000,0000,0000,,Viktor Chondria University...
-Dialogue: 30,0:18:26.27,0:18:28.94,Default,,0000,0000,0000,,Brain Science Institute.
-Dialogue: 30,0:18:28.94,0:18:31.06,Default,,0000,0000,0000,,Oh, I get it. You found this and—
-Dialogue: 30,0:18:31.06,0:18:32.90,Default,,0000,0000,0000,,Fourth time to hear that too!
-Dialogue: 30,0:18:34.82,0:18:38.32,Default,,0000,0000,0000,,Viktor Chondria University has...
-Dialogue: 30,0:18:38.32,0:18:39.41,Default,,0000,0000,0000,,...middle schoolers?
-Dialogue: 30,0:18:39.41,0:18:41.24,Default,,0000,0000,0000,,If you're gonna be dumb, do it elsewhere.
-Dialogue: 30,0:18:41.24,0:18:44.20,Default,,0000,0000,0000,,There's no university\Nthat takes middle schoolers.
-Dialogue: 30,0:18:44.20,0:18:46.58,Default,,0000,0000,0000,,21 years old?
-Dialogue: 30,0:18:46.58,0:18:49.21,Default,,0000,0000,0000,,In other words, I'm a full-grown woman!
-Dialogue: 30,0:18:49.21,0:18:53.09,Default,,0000,0000,0000,,Not in middle school, not elementary\Nschool, and not preschool either!
-Dialogue: 30,0:18:53.09,0:18:54.38,Default,,0000,0000,0000,,Got a problem?
-Dialogue: 30,0:18:54.38,0:18:57.30,Default,,0000,0000,0000,,But... Never mind.
-Dialogue: 30,0:18:58.26,0:19:00.09,Default,,0000,0000,0000,,I was in the wrong.
-Dialogue: 30,0:19:00.09,0:19:01.30,Default,,0000,0000,0000,,I'm sorry.
-Dialogue: 30,0:19:02.43,0:19:04.47,Default,,0000,0000,0000,,Hmph. Whatever.
-Dialogue: 30,0:19:04.47,0:19:07.39,Default,,0000,0000,0000,,The same thing happens\Nno matter what country I go to.
-Dialogue: 30,0:19:07.39,0:19:08.64,Default,,0000,0000,0000,,Big surprise.
-Dialogue: 30,0:19:08.64,0:19:09.77,Default,,0000,0000,0000,,Did you say something?
-Dialogue: 30,0:19:09.77,0:19:12.15,Default,,0000,0000,0000,,N-No, nothing.
-Dialogue: 30,0:19:13.81,0:19:15.78,Default,,0000,0000,0000,,Uh, it's not that way.
-Dialogue: 30,0:19:15.78,0:19:20.40,Default,,0000,0000,0000,,Staff room? Go out that way\Nand it's the door at the end of the hall.
-Dialogue: 30,0:19:23.82,0:19:25.41,Default,,0000,0000,0000,,Thanks.
-Dialogue: 30,0:19:27.12,0:19:29.00,Default,,0000,0000,0000,,21 years old, huh?
-Dialogue: 30,0:19:29.00,0:19:32.88,Default,,0000,0000,0000,,If Daru saw her, he'd shout,\N“Legal loli for the win!”
-Dialogue: 30,0:19:36.34,0:19:39.42,Default,,0000,0000,0000,,Kiryu Moeka?!
-Dialogue: 30,0:19:41.84,0:19:43.51,Default,,0000,0000,0000,,Why?!
-Dialogue: 30,0:19:43.51,0:19:45.97,Default,,0000,0000,0000,,Why is Moeka here?!
-Dialogue: 30,0:19:45.97,0:19:48.43,Default,,0000,0000,0000,,No... Not again!
-Dialogue: 30,0:19:48.43,0:19:51.52,Default,,0000,0000,0000,,Calm down! This is a Beta worldline!
-Dialogue: 30,0:19:51.52,0:19:55.06,Default,,0000,0000,0000,,It's not like that other worldline!
-Dialogue: 30,0:19:55.06,0:19:56.61,Default,,0000,0000,0000,,It's not...
-Dialogue: 30,0:20:05.57,0:20:08.74,Default,,0000,0000,0000,,Is that... the girl from earlier?
-Dialogue: 30,0:20:14.42,0:20:16.25,Default,,0000,0000,0000,,Hi, everyone.
-Dialogue: 30,0:20:17.59,0:20:21.84,Default,,0000,0000,0000,,Thank you for attending my seminar today.
-Dialogue: 30,0:20:21.84,0:20:27.64,Default,,0000,0000,0000,,I am Alexis Leskinen from Viktor Chondria\NUniversity's Brain Science Institute.
-Dialogue: 30,0:20:27.64,0:20:31.39,Default,,0000,0000,0000,,I'm his interpreter and assistant, Hiyajo Maho.
-Dialogue: 30,0:20:35.23,0:20:39.07,Default,,0000,0000,0000,,Our topic for today is the Artificial\NIntelligence Revolution, however...
-Dialogue: 30,0:20:39.07,0:20:43.95,Default,,0000,0000,0000,,Before we get into that, there's\Na paper I would like to introduce.
-Dialogue: 30,0:20:46.20,0:20:51.79,Default,,0000,0000,0000,,This paper was published by\Na female researcher at our lab.
-Dialogue: 30,0:20:51.79,0:20:57.67,Default,,0000,0000,0000,,Our memories are stored in the cerebral cortex.\NMore specifically, within the temporal lobe.
-Dialogue: 30,0:20:57.67,0:21:01.63,Default,,0000,0000,0000,,Memories are retrieved\Nsimilarly to flash memory.
-Dialogue: 30,0:21:01.63,0:21:07.64,Default,,0000,0000,0000,,The brain operates by sending\Nelectrical signals between neurons.
-Dialogue: 30,0:21:07.64,0:21:14.19,Default,,0000,0000,0000,,Ultimately, it is the pattern of these electrical\Nsignals which create and reinforce memories.
-Dialogue: 30,0:21:17.02,0:21:23.19,Default,,0000,0000,0000,,I regret to say the woman who proposed\Nthis theory passed away at the age of 17.
-Dialogue: 30,0:21:23.19,0:21:28.37,Default,,0000,0000,0000,,But using her theory as a foundation,\Nwe were able to construct a special system.
-Dialogue: 30,0:21:28.37,0:21:33.00,Default,,0000,0000,0000,,That is, a system which\Npreserves human memory as data.
-Dialogue: 30,0:21:36.12,0:21:40.38,Default,,0000,0000,0000,,Unlike previous programs,\Nwhich fall short of possessing identity,
-Dialogue: 30,0:21:40.38,0:21:44.97,Default,,0000,0000,0000,,we've developed an AI with\Ndata drawn from human memories.
-Dialogue: 30,0:21:44.97,0:21:47.72,Default,,0000,0000,0000,,It has feelings and memories, just like a human.
-Dialogue: 30,0:21:47.72,0:21:50.93,Default,,0000,0000,0000,,An artificial intelligence with a soul.
-Dialogue: 30,0:21:50.93,0:21:55.77,Default,,0000,0000,0000,,The genius of Makise Kurisu and\Nher theory enabled us to build this system.
-Dialogue: 30,0:21:55.77,0:21:59.98,Default,,0000,0000,0000,,Without further ado, we would\Nlike to demonstrate said AI.
-Dialogue: 30,0:22:02.61,0:22:03.94,Default,,0000,0000,0000,,Amadeus.
-Dialogue: 30,0:22:03.94,0:22:05.94,Default,,0000,0000,0000,,
+Dialogue: 1,0:06:00.59,0:06:02.34,Signs,,0,0,0,,{\an8\c&H556353&\frx4\fry-2\frz-33\fnSpecial Elite\fs90\t(\frx6,\fry-5,\frz-32)\be3\1a&H4B&\move(639.245,1322.5,774,649,0,1742)} Braun Tube Workshop
+Dialogue: 1,0:09:26.50,0:09:29.46,Signs,,0,0,0,,{\an1\pos(1119.057,92.25)\fs32.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}New strain of encephalitis
+Dialogue: 1,0:09:26.50,0:09:29.46,Signs,,0,0,0,,{\an1\pos(611.057,792.25)\fs52.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}No cases have yet to be reported in Japan.
+Dialogue: 1,0:13:18.11,0:13:18.69,Signs,,0,0,0,,{\an7\c&H3B3637&\fs135\blur3.5\be4\frz290.5\fax0.1\fnPatrick Hand\b1\move(775.925,201.5,771.925,149.75,22,564)}I failed I failed I failed I failed\N{\fax-0.1}I failed I failed I failed I failed
+Dialogue: 1,0:13:18.69,0:13:19.11,Signs,,0,0,0,,{\an7\c&H5B5158&\fs100\shad0\blur3.5\be4\fnPatrick Hand\b1\move(911.925,115.5,925.925,95.75,26,401)\frz269.9}I failed I failed I failed I failed I failed\NI failed I failed I failed I failed I failed
+Dialogue: 0,0:15:54.89,0:15:56.81,Draw,,0,0,0,,{\pos(0,0)\p1\c&HE4DBD8&\blur10}m 556 349 l 902 371 l 829 522 l 444 482 {\p0}
+Dialogue: 0,0:15:54.89,0:15:56.81,Draw,,0,0,0,,{\pos(0,0)\p1\c&HD9CFCA&\blur10}m 1018 474 l 1225 494 l 1198 546 l 991 523 {\p0}
+Dialogue: 1,0:15:54.89,0:15:56.81,OkabePhone,,0,0,0,,{\an7\org(1568.075,476)\pos(434.075,418)\fs74\c&H675855&\be3\frx16\fry0\frz355.2}1 New Message\N{\fs100}Professor Izaki
+Dialogue: 1,0:15:54.89,0:15:56.81,OkabePhone,,0,0,0,,{\an6\org(2000.075,596)\pos(1148.075,580)\fs45\b1\c&H958B85&\be3\frx16\fry0\frz355.2}View mail
+Dialogue: 0,0:15:56.81,0:16:01.14,Draw,,0,0,0,,{\move(0,0,0,500)\p1\c&HEBE5E4&\blur30}m -35 0 l -35 563 l 678 1046 l 1920 1080 l 1920 759 l -35 -656 {\p0}
+Dialogue: 0,0:15:56.81,0:16:01.14,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HEDE7E6&\blur30}m 325 21 l 227 -50 l 616 -49 l 716 34 l 1908 912 l 2323 1197 l 2135 1349 l 1721 1049 {\p0}
+Dialogue: 0,0:15:56.81,0:16:01.14,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HECE6E6&\blur30}m 672 -35 l 890 124 l 977 41 l 1300 281 l 1447 137 l 879 -192 {\p0}
+Dialogue: 1,0:15:56.81,0:16:01.14,OkabePhone,,0,0,0,,{\an7\move(600,-947.5,600,-450)\fs130\c&HC2AFAD&\be3\frz323.3}From: Professor Izaki\N\N{\fs100}To: Okabe Rintaro
+Dialogue: 1,0:15:56.81,0:16:01.14,OkabePhone,,0,0,0,,{\a9\move(330,-597.5,330,-100)\fs160\c&H604C4C&\be3\frz323.3}Regarding tomorrow's seminar
+Dialogue: 1,0:15:56.81,0:16:01.14,OkabePhone,,0,0,0,,{\an7\move(50,-597.5,50,-100)\fr-38\fs160\c&H604C4C&\be3}We're all going out for some drinks after\Nthe seminar. If you've got some free time, would you care to join us?
+Dialogue: 1,0:16:43.89,0:16:48.07,Signs,,0,0,0,,{\a9\move(1358.491,720,1335.849,742.5)\c&H504C43&\3c&H645F52&\bord2.25\shad2.25\fr24\fs74.25\frx358\fry3\fs100}DEC 2010\N{\fs80}10 FR–11 SA\NUPX Theater
+Dialogue: 1,0:16:57.91,0:17:01.16,Signs,,0,0,0,,{\q2\an7\fs150\c&H101010&\fade(0,1000)\fnPlayfair Display Medium\be8\frz2.002\fay-0.025\move(370,718,88,718,0,3195)}Viktor Chondria University Professor\NBrain Science Institute Chief Researcher
+Dialogue: 0,0:20:43.59,0:20:48.60,Draw,,0,0,0,,{\pos(0,0)\p1\c&HFFFFFB&\blur15}m 860 7 l 1007 119 l 1326 385 l 1270 517 l 1139 384 l 1091 526 l 860 181 l 881 96 l 849 60 {\p0}
+Dialogue: 1,0:20:43.59,0:20:48.60,Signs,,0,0,0,,{\org(1136,1250)\pos(276,958)\c&H7D7A74&\fs80\be3\fnPlayfair Display\frz293.7\frx356\fry328}An Analysis of Neural Pulse Signals\N{\fs50}in Relation to Memories Stored in the Temporal Lobe
+Dialogue: 30,0:00:15.47,0:00:19.51,Default,,0,0,0,,So this is where you've been, Big Sis Mayu.
+Dialogue: 30,0:00:19.51,0:00:21.27,Default,,0,0,0,,Suzu-chan...
+Dialogue: 30,0:00:21.27,0:00:23.39,Default,,0,0,0,,Dad and the others are looking for you.
+Dialogue: 30,0:00:23.39,0:00:26.73,Default,,0,0,0,,They said they're about\Nto kick off the operation.
+Dialogue: 30,0:00:26.73,0:00:28.19,Default,,0,0,0,,Big Sis Mayu?
+Dialogue: 30,0:00:32.07,0:00:33.36,Default,,0,0,0,,What if?
+Dialogue: 30,0:00:34.49,0:00:36.45,Default,,0,0,0,,What if back then...
+Dialogue: 30,0:00:37.87,0:00:40.66,Default,,0,0,0,,...had I reached out this hand...
+Dialogue: 30,0:00:40.66,0:00:44.12,Default,,0,0,0,,...would this future be any different?
+Dialogue: 30,0:00:57.18,0:01:04.85,Default,,0,0,0,,That day, if my Hikoboshi had come back\Nto life, it might have changed everything.
+Dialogue: 30,0:01:07.40,0:01:09.98,Default,,0,0,0,,What if back then...
+Dialogue: 30,0:01:09.98,0:01:12.28,Default,,0,0,0,,...had I reached out this hand...
+Dialogue: 30,0:01:40.14,0:01:43.60,Default,,0,0,0,,You are passing down,\Nsinking through your past...
+Dialogue: 30,0:01:43.60,0:01:45.18,Default,,0,0,0,,Deeper...
+Dialogue: 30,0:01:45.18,0:01:49.73,Default,,0,0,0,,As you go even deeper, you then see a light.
+Dialogue: 30,0:01:49.73,0:01:51.94,Default,,0,0,0,,What color is that light?
+Dialogue: 30,0:01:51.94,0:01:53.57,Default,,0,0,0,,Red...
+Dialogue: 30,0:01:53.57,0:01:58.32,Default,,0,0,0,,Within that light stands\Nsomeone important to you.
+Dialogue: 30,0:01:58.32,0:02:01.12,Default,,0,0,0,,Is that person your family?
+Dialogue: 30,0:02:01.12,0:02:02.70,Default,,0,0,0,,No...
+Dialogue: 30,0:02:02.70,0:02:05.83,Default,,0,0,0,,Then a friend, or perhaps lover?
+Dialogue: 30,0:02:05.83,0:02:07.96,Default,,0,0,0,,We're not even friends...
+Dialogue: 30,0:02:07.96,0:02:10.79,Default,,0,0,0,,She and I are...
+Dialogue: 30,0:02:18.76,0:02:21.51,Default,,0,0,0,,Ah! Okarin!
+Dialogue: 30,0:02:24.77,0:02:28.60,Default,,0,0,0,,What gives? I said you\Ndidn't have to wait for me.
+Dialogue: 30,0:02:30.56,0:02:32.56,Default,,0,0,0,,How was it?
+Dialogue: 30,0:02:32.56,0:02:33.82,Default,,0,0,0,,Uh, well...
+Dialogue: 30,0:02:33.82,0:02:37.61,Default,,0,0,0,,Turns out hypnotherapy\Nwasn't that big of a deal.
+Dialogue: 30,0:02:37.61,0:02:39.03,Default,,0,0,0,,He said I'll be fine.
+Dialogue: 30,0:02:39.03,0:02:40.86,Default,,0,0,0,,Really?
+Dialogue: 30,0:02:40.86,0:02:44.58,Default,,0,0,0,,Yeah, but I'll need to keep up\Nthe counseling for a while.
+Dialogue: 30,0:02:44.58,0:02:48.00,Default,,0,0,0,,You were right. I'm glad I gave it a shot.
+Dialogue: 30,0:02:48.00,0:02:49.50,Default,,0,0,0,,That's a relief.
+Dialogue: 30,0:02:49.50,0:02:52.96,Default,,0,0,0,,Lately, you seemed to be having it rough.
+Dialogue: 30,0:02:52.96,0:02:54.54,Default,,0,0,0,,Sorry to worry you.
+Dialogue: 30,0:02:54.54,0:02:55.80,Default,,0,0,0,,It's okay.
+Dialogue: 30,0:02:55.80,0:02:57.80,Default,,0,0,0,,Wanna go grab a bite?
+Dialogue: 30,0:02:57.80,0:02:59.34,Default,,0,0,0,,My treat.
+Dialogue: 30,0:03:01.13,0:03:05.35,Default,,0,0,0,,In that case, can we head over to Akiba?
+Dialogue: 30,0:03:05.35,0:03:09.48,Default,,0,0,0,,Luka-kun and Faris-chan\Ninvited me out a bit ago.
+Dialogue: 30,0:03:09.48,0:03:12.02,Default,,0,0,0,,Akihabara, huh?
+Dialogue: 30,0:03:12.02,0:03:13.31,Default,,0,0,0,,That a no?
+Dialogue: 30,0:03:16.61,0:03:18.94,Default,,0,0,0,,No, let's go.
+Dialogue: 30,0:03:20.40,0:03:21.74,Default,,0,0,0,,Wonderful!
+Dialogue: 30,0:03:21.74,0:03:24.74,Default,,0,0,0,,I'll let those guys know we're coming.
+Dialogue: 30,0:03:24.74,0:03:27.54,Default,,0,0,0,,Faris-chan? Guess what?
+Dialogue: 30,0:03:27.54,0:03:30.66,Default,,0,0,0,,It's already December...
+Dialogue: 30,0:03:32.29,0:03:34.96,Default,,0,0,0,,It feels like that summer...
+Dialogue: 30,0:03:34.96,0:03:36.67,Default,,0,0,0,,...was just days ago.
+Dialogue: 30,0:03:49.31,0:03:54.31,Default,,0,0,0,,Um, they said they'd be\Nwaiting here somewhere... Oh!
+Dialogue: 30,0:03:54.31,0:03:55.94,Default,,0,0,0,,Luka-kun! Faris-chan!
+Dialogue: 30,0:03:55.94,0:03:56.94,Default,,0,0,0,,Tutturu!
+Dialogue: 30,0:03:56.94,0:03:58.90,Default,,0,0,0,,Hello, Mayuri-chan.
+Dialogue: 30,0:03:58.90,0:04:01.53,Default,,0,0,0,,Oh! It's Kyouma!
+Dialogue: 30,0:04:01.53,0:04:04.91,Default,,0,0,0,,It's been a while, Lukako, Faris.
+Dialogue: 30,0:04:04.91,0:04:06.12,Default,,0,0,0,,Okabe-san...
+Dialogue: 30,0:04:06.12,0:04:09.58,Default,,0,0,0,,Kyouma! I missed you, nya!
+Dialogue: 30,0:04:09.58,0:04:11.37,Default,,0,0,0,,Hey! Cut it out!
+Dialogue: 30,0:04:11.37,0:04:14.83,Default,,0,0,0,,What for, meow?\NKyouma knows he likes it, meow!
+Dialogue: 30,0:04:14.83,0:04:17.96,Default,,0,0,0,,First off, quit with the calling me Kyouma.
+Dialogue: 30,0:04:17.96,0:04:18.96,Default,,0,0,0,,Nyan? Why?{Consistency with the 0 VN}
+Dialogue: 30,0:04:18.96,0:04:21.05,Default,,0,0,0,,That's from the Dark Past.
+Dialogue: 30,0:04:21.05,0:04:25.26,Default,,0,0,0,,Is that what you call the dark ages\Nkept secret by a cult of medieval wizards?!
+Dialogue: 30,0:04:25.26,0:04:26.68,Default,,0,0,0,,Not even close.
+Dialogue: 30,0:04:26.68,0:04:28.68,Default,,0,0,0,,It's so good to see you again.
+Dialogue: 30,0:04:28.68,0:04:33.10,Default,,0,0,0,,I go to the lab from time to time,\Nbut never see you there.
+Dialogue: 30,0:04:33.10,0:04:34.60,Default,,0,0,0,,I've been busy with things.
+Dialogue: 30,0:04:34.60,0:04:37.77,Default,,0,0,0,,Don't tell me you're part\Nof a secret organization!
+Dialogue: 30,0:04:37.77,0:04:40.07,Default,,0,0,0,,No, I'm swamped with college seminars.
+Dialogue: 30,0:04:40.07,0:04:41.23,Default,,0,0,0,,Nya?
+Dialogue: 30,0:04:41.23,0:04:42.69,Default,,0,0,0,,Plus, club and stuff.
+Dialogue: 30,0:04:42.69,0:04:43.86,Default,,0,0,0,,Nya nya?
+Dialogue: 30,0:04:43.86,0:04:45.70,Default,,0,0,0,,Okabe-san is in a club?
+Dialogue: 30,0:04:45.70,0:04:48.41,Default,,0,0,0,,Researching UFOs and\Nmythical creatures and stuff?
+Dialogue: 30,0:04:48.41,0:04:50.79,Default,,0,0,0,,No, the tennis club.
+Dialogue: 30,0:04:51.75,0:04:54.33,Default,,0,0,0,,What?!
+Dialogue: 30,0:04:54.33,0:04:58.04,Default,,0,0,0,,'Cuz my associate professor\Nat college advises the club.
+Dialogue: 30,0:04:58.04,0:05:00.05,Default,,0,0,0,,So now you're doing tennis.
+Dialogue: 30,0:05:00.05,0:05:02.46,Default,,0,0,0,,Look out Wimbledon, here he comes.
+Dialogue: 30,0:05:02.46,0:05:05.47,Default,,0,0,0,,So, practice is why you've been so busy?
+Dialogue: 30,0:05:05.47,0:05:08.89,Default,,0,0,0,,N-No, it's not exactly that intensive.
+Dialogue: 30,0:05:08.89,0:05:10.64,Default,,0,0,0,,Then what else are you doing, meow?
+Dialogue: 30,0:05:10.64,0:05:13.31,Default,,0,0,0,,If you must know, g-group dates and stuff.
+Dialogue: 30,0:05:13.31,0:05:14.23,Default,,0,0,0,,Group...
+Dialogue: 30,0:05:14.23,0:05:15.14,Default,,0,0,0,,...dates?!
+Dialogue: 30,0:05:15.14,0:05:16.98,Default,,0,0,0,,What?!
+Dialogue: 30,0:05:16.98,0:05:18.73,Default,,0,0,0,,Okabe-san is going on group dates?!
+Dialogue: 30,0:05:18.73,0:05:21.53,Default,,0,0,0,,How could you?! That hurts! That's pathetic!
+Dialogue: 30,0:05:21.53,0:05:23.28,Default,,0,0,0,,You disgust me, mister! Disgust me!
+Dialogue: 30,0:05:23.28,0:05:25.57,Default,,0,0,0,,What's gotten into you?
+Dialogue: 30,0:05:25.57,0:05:27.28,Default,,0,0,0,,Don't be so mean, guys.
+Dialogue: 30,0:05:27.28,0:05:29.66,Default,,0,0,0,,I'm a normal college student, you know.
+Dialogue: 30,0:05:29.66,0:05:31.16,Default,,0,0,0,,You're lewd! So lewd!
+Dialogue: 30,0:05:31.16,0:05:32.62,Default,,0,0,0,,Explain yourself, Kyouma!
+Dialogue: 30,0:05:32.62,0:05:34.50,Default,,0,0,0,,How could you, Okabe-san?
+Dialogue: 30,0:05:34.50,0:05:36.67,Default,,0,0,0,,—Erm...\N—A message from Yuki-san!
+Dialogue: 30,0:05:36.67,0:05:38.38,Default,,0,0,0,,Something happen?
+Dialogue: 30,0:05:38.38,0:05:39.50,Default,,0,0,0,,No...
+Dialogue: 30,0:05:39.50,0:05:44.42,Default,,0,0,0,,She said if I'm around Akiba, she\Nwants to meet up and show me something.
+Dialogue: 30,0:05:44.42,0:05:46.63,Default,,0,0,0,,At the lab.
+Dialogue: 30,0:05:58.02,0:05:59.52,Default,,0,0,0,,It's fine.
+Dialogue: 30,0:05:59.52,0:06:01.36,Default,,0,0,0,,Let's go.
+Dialogue: 30,0:06:01.36,0:06:04.03,Default,,0,0,0,,Grr...
+Dialogue: 30,0:06:04.03,0:06:05.74,Default,,0,0,0,,This calls for war!
+Dialogue: 30,0:06:05.74,0:06:08.07,Default,,0,0,0,,Commence trolling!
+Dialogue: 30,0:06:08.07,0:06:11.66,Default,,0,0,0,,“Normals Must Die-P”\Nwasn't our comrade after all!
+Dialogue: 30,0:06:11.66,0:06:14.83,Default,,0,0,0,,You've been married to “Parthenon,” you fake!
+Dialogue: 30,0:06:14.83,0:06:15.87,Default,,0,0,0,,Dad...
+Dialogue: 30,0:06:15.87,0:06:20.42,Default,,0,0,0,,Whoa! @channel and Twipo\Nare already filled with flaming!
+Dialogue: 30,0:06:20.42,0:06:24.84,Default,,0,0,0,,I'm late to the show! How could I miss this?!
+Dialogue: 30,0:06:25.59,0:06:29.47,Default,,0,0,0,,Listen to me, or else.
+Dialogue: 30,0:06:29.47,0:06:33.05,Default,,0,0,0,,S-Suzuha! Stop it or daddy will get angry.
+Dialogue: 30,0:06:33.05,0:06:35.27,Default,,0,0,0,,I'm already plenty angry with you.
+Dialogue: 30,0:06:35.27,0:06:37.85,Default,,0,0,0,,Right, sorry...
+Dialogue: 30,0:06:37.85,0:06:39.85,Default,,0,0,0,,For crying out loud...
+Dialogue: 30,0:06:39.85,0:06:43.82,Default,,0,0,0,,All you ever do around here is nap,\Nplay games, and browse the net all day.
+Dialogue: 30,0:06:43.82,0:06:46.82,Default,,0,0,0,,But researching time machines\Ntakes it all out of me.
+Dialogue: 30,0:06:46.82,0:06:50.66,Default,,0,0,0,,Plus, we've got one already,\Nbut you won't let me touch it.
+Dialogue: 30,0:06:50.66,0:06:53.70,Default,,0,0,0,,Because it's one you invented in the future.
+Dialogue: 30,0:06:53.70,0:06:58.50,Default,,0,0,0,,If you saw it now, it's possible\Nthat might cause a time paradox.
+Dialogue: 30,0:06:58.50,0:07:01.33,Default,,0,0,0,,Since it's guaranteed that I make it, who cares?
+Dialogue: 30,0:07:01.33,0:07:03.46,Default,,0,0,0,,Means I can procrastinate now!
+Dialogue: 30,0:07:03.46,0:07:07.80,Default,,0,0,0,,I'm telling you, it's time\Nyou worked on it seriously.
+Dialogue: 30,0:07:07.80,0:07:11.47,Default,,0,0,0,,Mom always gets mad at you in\Nthe future for saying stuff like that.
+Dialogue: 30,0:07:11.47,0:07:15.01,Default,,0,0,0,,I'd welcome her wrath if\Nyou know what I mean. Huff huff...
+Dialogue: 30,0:07:15.01,0:07:16.14,Default,,0,0,0,,Dad!
+Dialogue: 30,0:07:16.14,0:07:18.06,Default,,0,0,0,,Please forget I said that.
+Dialogue: 30,0:07:18.06,0:07:21.02,Default,,0,0,0,,There's something you always said in the future.
+Dialogue: 30,0:07:21.02,0:07:23.94,Default,,0,0,0,,That this worldline was\Nthe worst one imaginable...
+Dialogue: 30,0:07:23.94,0:07:27.32,Default,,0,0,0,,...but having me was the\Nbest thing that ever happened.
+Dialogue: 30,0:07:27.32,0:07:34.03,Default,,0,0,0,,I came here to convince Uncle Okarin so\Nthat we could somehow change that future.
+Dialogue: 30,0:07:34.03,0:07:38.75,Default,,0,0,0,,And yet, ever since that day,\Nhe hasn't come back here once.
+Dialogue: 30,0:07:42.25,0:07:43.67,Default,,0,0,0,,Someone's here.
+Dialogue: 30,0:07:45.63,0:07:48.17,Default,,0,0,0,,Huh? Could it be Okarin?
+Dialogue: 30,0:07:48.17,0:07:50.38,Default,,0,0,0,,No, I hear boots.
+Dialogue: 30,0:07:50.38,0:07:51.22,Default,,0,0,0,,It's Mom.
+Dialogue: 30,0:07:51.22,0:07:52.43,Default,,0,0,0,,Eh?!
+Dialogue: 30,0:07:53.47,0:07:54.64,Default,,0,0,0,,Suzuha, hide!
+Dialogue: 30,0:07:54.64,0:07:56.26,Default,,0,0,0,,Okey-dokey!
+Dialogue: 30,0:08:03.85,0:08:05.61,Default,,0,0,0,,Come on in.
+Dialogue: 30,0:08:07.32,0:08:09.48,Default,,0,0,0,,Hello!
+Dialogue: 30,0:08:11.32,0:08:15.12,Default,,0,0,0,,A-Amane-shi? What brings you here?
+Dialogue: 30,0:08:16.37,0:08:18.16,Default,,0,0,0,,Hmm? Mayuri-chan isn't around?
+Dialogue: 30,0:08:18.16,0:08:21.12,Default,,0,0,0,,Mayu-shi? Not yet...
+Dialogue: 30,0:08:21.12,0:08:23.50,Default,,0,0,0,,I think I got here a bit early.
+Dialogue: 30,0:08:23.50,0:08:26.04,Default,,0,0,0,,She said she would meet up with me here.
+Dialogue: 30,0:08:26.04,0:08:27.09,Default,,0,0,0,,Yeah?
+Dialogue: 30,0:08:27.09,0:08:29.05,Default,,0,0,0,,Mind if I wait inside?
+Dialogue: 30,0:08:29.05,0:08:30.51,Default,,0,0,0,,S-Sure...
+Dialogue: 30,0:08:30.51,0:08:32.47,Default,,0,0,0,,Thank you.
+Dialogue: 30,0:08:32.47,0:08:35.97,Default,,0,0,0,,Um, is little sister out in town today?
+Dialogue: 30,0:08:35.97,0:08:38.39,Default,,0,0,0,,Huh? Little sister? Whose?
+Dialogue: 30,0:08:38.39,0:08:40.97,Default,,0,0,0,,Whose? Yours...
+Dialogue: 30,0:08:40.97,0:08:44.69,Default,,0,0,0,,Mine? All my little sisters\Nexist only in 2D form—
+Dialogue: 30,0:08:44.69,0:08:47.77,Default,,0,0,0,,Ah! Y-You must mean Suzuha!
+Dialogue: 30,0:08:47.77,0:08:49.44,Default,,0,0,0,,Who else would I mean?
+Dialogue: 30,0:08:49.44,0:08:52.53,Default,,0,0,0,,Uh, well... Nobody?
+Dialogue: 30,0:08:55.20,0:08:57.20,Default,,0,0,0,,Tutturu!
+Dialogue: 30,0:08:58.24,0:08:59.74,Default,,0,0,0,,Mayuri-chan!
+Dialogue: 30,0:08:59.74,0:09:01.58,Default,,0,0,0,,Tutturu, Yuki-san!
+Dialogue: 30,0:09:01.58,0:09:02.79,Default,,0,0,0,,Nyan nyan!
+Dialogue: 30,0:09:02.79,0:09:04.83,Default,,0,0,0,,Faris-san and Luka-san came too!
+Dialogue: 30,0:09:04.83,0:09:07.71,Default,,0,0,0,,Faris-tan!
+Dialogue: 30,0:09:07.71,0:09:09.75,Default,,0,0,0,,Huh? Ah...
+Dialogue: 30,0:09:11.84,0:09:14.67,Default,,0,0,0,,This place hasn't changed a bit.
+Dialogue: 30,0:09:17.05,0:09:18.68,Default,,0,0,0,,Okarin!
+Dialogue: 30,0:09:22.89,0:09:24.31,Default,,0,0,0,,Can I come in?
+Dialogue: 30,0:09:27.10,0:09:29.44,Default,,0,0,0,,...hallucinations and memory problems,
+Dialogue: 30,0:09:29.44,0:09:34.49,On Top,,0,0,0,,prompting the Ministry of\NHealth to urge caution when traveling.
+Dialogue: 30,0:09:30.27,0:09:34.49,Default,,0,0,0,,I-It's your own lab, so you don't have to ask.
+Dialogue: 30,0:09:34.49,0:09:35.82,Default,,0,0,0,,I suppose so.
+Dialogue: 30,0:09:34.49,0:09:35.82,On Top,,0,0,0,,Continuing with the news...
+Dialogue: 30,0:09:35.82,0:09:39.12,Default,,0,0,0,,Oh! Your clothes are so cute, Yuki-san!
+Dialogue: 30,0:09:35.82,0:09:39.12,On Top,,0,0,0,,Earlier, Russia experienced\Na magnitude 6 earthquake.
+Dialogue: 30,0:09:39.12,0:09:42.24,Default,,0,0,0,,I wanted to show you\N'cuz I knew you would say that.
+Dialogue: 30,0:09:42.24,0:09:44.79,Default,,0,0,0,,Let Faris see it too!
+Dialogue: 30,0:09:44.79,0:09:46.92,Default,,0,0,0,,We've got Dk Pepper to drink if you—
+Dialogue: 30,0:09:46.92,0:09:49.29,Default,,0,0,0,,Wait, Okarin! Where are you going?
+Dialogue: 30,0:09:49.29,0:09:51.34,Default,,0,0,0,,Where? Just to the toilet...
+Dialogue: 30,0:09:51.34,0:09:52.88,Default,,0,0,0,,Uh...
+Dialogue: 30,0:10:19.11,0:10:21.20,Default,,0,0,0,,—Okarin?!\N—Okabe-san!
+Dialogue: 30,0:10:25.54,0:10:28.12,Default,,0,0,0,,Suzu-san...
+Dialogue: 30,0:10:28.12,0:10:29.75,Default,,0,0,0,,H-Hi there.
+Dialogue: 30,0:10:38.88,0:10:40.39,Default,,0,0,0,,Ta-da!
+Dialogue: 30,0:10:41.30,0:10:42.39,Default,,0,0,0,,Very cute!
+Dialogue: 30,0:10:42.39,0:10:43.76,Default,,0,0,0,,Me like, nya!
+Dialogue: 30,0:10:43.76,0:10:46.68,Default,,0,0,0,,A feast for the eyes! I'll have seconds!
+Dialogue: 30,0:10:47.81,0:10:49.85,Default,,0,0,0,,Hmm? Where's Okarin?
+Dialogue: 30,0:10:49.85,0:10:52.31,Default,,0,0,0,,He went with Suzuha-san to the roof.
+Dialogue: 30,0:10:52.31,0:10:55.23,Default,,0,0,0,,They wanted to talk about something.
+Dialogue: 30,0:10:55.23,0:10:56.40,Default,,0,0,0,,I see...
+Dialogue: 30,0:11:02.74,0:11:06.12,Default,,0,0,0,,You didn't have to pretend\Nlike this in the first place.
+Dialogue: 30,0:11:06.12,0:11:10.54,Default,,0,0,0,,Saying you're Daru's little sister\Nonly made yourself more suspicious.
+Dialogue: 30,0:11:10.54,0:11:15.00,Default,,0,0,0,,Yeah, but I didn't think Mom\Nwould wanna get to know me so much.
+Dialogue: 30,0:11:15.00,0:11:17.55,Default,,0,0,0,,Yuki-san and Daru first met at...
+Dialogue: 30,0:11:17.55,0:11:19.17,Default,,0,0,0,,Summer ComiMa.
+Dialogue: 30,0:11:19.17,0:11:23.26,Default,,0,0,0,,She was a cosplay friend of Big Sis Mayu,\Nbut in time, she started coming here.
+Dialogue: 30,0:11:24.72,0:11:26.56,Default,,0,0,0,,Owowow...
+Dialogue: 30,0:11:26.56,0:11:27.97,Default,,0,0,0,,Eh?
+Dialogue: 30,0:11:33.10,0:11:35.40,Default,,0,0,0,,Which is how we met.
+Dialogue: 30,0:11:35.40,0:11:37.36,Default,,0,0,0,,Eh?
+Dialogue: 30,0:11:37.36,0:11:41.57,Default,,0,0,0,,But you're the one she gives birth to.\NHer future daughter.
+Dialogue: 30,0:11:41.57,0:11:44.91,Default,,0,0,0,,Maybe she feels something.
+Dialogue: 30,0:11:47.49,0:11:51.54,Default,,0,0,0,,Dad said he'll explain\Neverything to her sooner or later.
+Dialogue: 30,0:11:53.46,0:11:58.21,Default,,0,0,0,,But man, Daru and that girl...
+Dialogue: 30,0:11:58.21,0:12:03.13,Default,,0,0,0,,The fact that I'm here means\Nthat future hasn't changed.
+Dialogue: 30,0:12:11.85,0:12:13.27,Default,,0,0,0,,Such peace...
+Dialogue: 30,0:12:15.31,0:12:23.70,Default,,0,0,0,,By the time I'd grown up, you'd only\Nsee scenes like these in photos and videos.
+Dialogue: 30,0:12:23.70,0:12:25.74,Default,,0,0,0,,World War III...
+Dialogue: 30,0:12:25.74,0:12:26.74,Default,,0,0,0,,Yeah.
+Dialogue: 30,0:12:26.74,0:12:29.29,Default,,0,0,0,,Because Dad and the others\Nwere building a time machine,
+Dialogue: 30,0:12:29.29,0:12:31.70,Default,,0,0,0,,we were seen as a rebel organization.
+Dialogue: 30,0:12:31.70,0:12:35.33,Default,,0,0,0,,But Daru, Yuki-san, and you somehow escaped?
+Dialogue: 30,0:12:35.33,0:12:36.54,Default,,0,0,0,,No...
+Dialogue: 30,0:12:36.54,0:12:41.55,Default,,0,0,0,,My mom tried to protect me from a military\Ndrone and was mowed down by machine guns.
+Dialogue: 30,0:12:45.76,0:12:49.39,Default,,0,0,0,,I saw her get ripped\Nto shreds right before my eyes.
+Dialogue: 30,0:12:49.39,0:12:52.02,Default,,0,0,0,,I was practically bathed in her blood.
+Dialogue: 30,0:12:55.56,0:12:58.31,Default,,0,0,0,,Uncle Okarin...
+Dialogue: 30,0:12:58.31,0:13:03.32,Default,,0,0,0,,All that lies ahead in this worldline is hell.
+Dialogue: 30,0:13:03.32,0:13:08.49,Default,,0,0,0,,The conflict over time machines makes\Ncountry fight country and many people die.
+Dialogue: 30,0:13:08.49,0:13:11.04,Default,,0,0,0,,It's a world of nothing but horror and despair.
+Dialogue: 30,0:13:11.04,0:13:14.87,Default,,0,0,0,,The lives of 5.7 billion people\Nare on the line here.
+Dialogue: 30,0:13:14.87,0:13:17.38,Default,,0,0,0,,This future...
+Dialogue: 30,0:13:17.38,0:13:19.42,Default,,0,0,0,,I'm begging you...
+Dialogue: 30,0:13:19.42,0:13:22.21,Default,,0,0,0,,Uncle Okarin...
+Dialogue: 30,0:13:22.21,0:13:23.76,Default,,0,0,0,,I can't...
+Dialogue: 30,0:13:23.76,0:13:24.72,Default,,0,0,0,,Uncle!
+Dialogue: 30,0:13:24.72,0:13:29.05,Default,,0,0,0,,I've drifted through so many\Nworldlines, I've lost count...
+Dialogue: 30,0:13:29.05,0:13:33.93,Default,,0,0,0,,No matter the worldline, I've witnessed\Ntime machines toy with everyone's fate.
+Dialogue: 30,0:13:33.93,0:13:37.02,Default,,0,0,0,,I've even seen you meet your doom.
+Dialogue: 30,0:13:37.02,0:13:40.31,Default,,0,0,0,,And over and over, it never ends.
+Dialogue: 30,0:13:40.31,0:13:44.36,Default,,0,0,0,,Believe me, I learned the\Nlimits of what someone can do.
+Dialogue: 30,0:13:44.36,0:13:47.45,Default,,0,0,0,,No matter what I try, I'm powerless.
+Dialogue: 30,0:13:48.95,0:13:52.08,Default,,0,0,0,,But you have changed worldlines before.
+Dialogue: 30,0:13:52.08,0:13:54.33,Default,,0,0,0,,You said it yourself.
+Dialogue: 30,0:13:54.33,0:13:55.62,Default,,0,0,0,,Uncle...
+Dialogue: 30,0:13:55.62,0:13:56.54,Default,,0,0,0,,In that case—
+Dialogue: 30,0:13:56.54,0:13:57.87,Default,,0,0,0,,It's no use!
+Dialogue: 30,0:13:57.87,0:14:00.50,Default,,0,0,0,,You can't just change\Nthe past to switch worldlines!
+Dialogue: 30,0:14:00.50,0:14:03.50,Default,,0,0,0,,It breaks the rules which govern our universe!
+Dialogue: 30,0:14:03.50,0:14:07.01,Default,,0,0,0,,Humans like us can't just\Ntamper with the province of God!
+Dialogue: 30,0:14:07.01,0:14:09.43,Default,,0,0,0,,The moment we start meddling,\Nwe get punished!
+Dialogue: 30,0:14:09.43,0:14:13.22,Default,,0,0,0,,It's terrible! Enough that you\Nwant to clamp shut your eyes!
+Dialogue: 30,0:14:13.22,0:14:15.31,Default,,0,0,0,,Is that your answer?
+Dialogue: 30,0:14:21.61,0:14:25.53,Default,,0,0,0,,There's still time.
+Dialogue: 30,0:14:25.53,0:14:27.90,Default,,0,0,0,,I want you to reconsider.
+Dialogue: 30,0:14:27.90,0:14:29.24,Default,,0,0,0,,I...
+Dialogue: 30,0:14:30.49,0:14:33.20,Default,,0,0,0,,...have not given up.
+Dialogue: 30,0:14:34.04,0:14:37.50,Default,,0,0,0,,In the end, I guess Suzu-san didn't come back.
+Dialogue: 30,0:14:37.50,0:14:38.96,Default,,0,0,0,,Yeah...
+Dialogue: 30,0:14:38.96,0:14:41.58,Default,,0,0,0,,The two of you didn't fight, did you?
+Dialogue: 30,0:14:41.58,0:14:43.50,Default,,0,0,0,,That's not what happened.
+Dialogue: 30,0:14:43.50,0:14:45.51,Default,,0,0,0,,I see.
+Dialogue: 30,0:14:45.51,0:14:49.93,Default,,0,0,0,,Whew! It's getting pretty nippy, isn't it?
+Dialogue: 30,0:14:54.81,0:14:59.39,Default,,0,0,0,,The lab was so lively for a change, it was fun.
+Dialogue: 30,0:14:59.39,0:15:00.56,Default,,0,0,0,,Yeah?
+Dialogue: 30,0:15:00.56,0:15:01.85,Default,,0,0,0,,Yup!
+Dialogue: 30,0:15:01.85,0:15:08.95,Default,,0,0,0,,Somehow, going to the lab lately\Nhas left me feeling really lonely.
+Dialogue: 30,0:15:08.95,0:15:10.70,Default,,0,0,0,,Isn't Daru there?
+Dialogue: 30,0:15:10.70,0:15:11.86,Default,,0,0,0,,Yeah...
+Dialogue: 30,0:15:11.86,0:15:17.79,Default,,0,0,0,,But before, Mayushii used to wait\Nat the lab all by herself for you.
+Dialogue: 30,0:15:17.79,0:15:20.83,Default,,0,0,0,,That's why I shouldn't feel lonely at all.
+Dialogue: 30,0:15:20.83,0:15:27.46,Default,,0,0,0,,I don't know why, but I feel\Nso lonely it makes me want to cry.
+Dialogue: 30,0:15:27.46,0:15:32.09,Default,,0,0,0,,It's like, it used to be a lot more fun.
+Dialogue: 30,0:15:32.09,0:15:33.64,Default,,0,0,0,,It's an illusion.
+Dialogue: 30,0:15:33.64,0:15:34.55,Default,,0,0,0,,Eh?
+Dialogue: 30,0:15:34.55,0:15:36.60,Default,,0,0,0,,An illusion.
+Dialogue: 30,0:15:36.60,0:15:43.19,Default,,0,0,0,,The only people that ever came\Nto the lab were you, me, and Daru.
+Dialogue: 30,0:15:43.19,0:15:46.32,Default,,0,0,0,,Yeah, you're right.
+Dialogue: 30,0:15:53.91,0:15:56.24,Default,,0,0,0,,What's wrong?
+Dialogue: 30,0:15:56.24,0:15:57.41,Default,,0,0,0,,Nothing.
+Dialogue: 30,0:15:57.41,0:16:02.00,Default,,0,0,0,,People from Viktor Chondria University\Nare giving a seminar in Akiba tomorrow.
+Dialogue: 30,0:16:02.00,0:16:07.92,Default,,0,0,0,,I was hoping to talk with their professor,\Nbut I guess they're all out drinking.
+Dialogue: 30,0:16:07.92,0:16:09.46,Default,,0,0,0,,I see!
+Dialogue: 30,0:16:09.46,0:16:12.34,Default,,0,0,0,,You're like a full-fledged normal now.
+Dialogue: 30,0:16:12.34,0:16:15.93,Default,,0,0,0,,Mayushii will be fine by herself.
+Dialogue: 30,0:16:15.93,0:16:16.80,Default,,0,0,0,,Okay.
+Dialogue: 30,0:16:16.80,0:16:18.76,Default,,0,0,0,,Sorry to ditch you.
+Dialogue: 30,0:16:36.74,0:16:39.24,Default,,0,0,0,,Cheers!
+Dialogue: 30,0:16:45.42,0:16:48.42,Default,,0,0,0,,Artificial Intelligence Revolution...
+Dialogue: 30,0:16:48.42,0:16:50.84,Default,,0,0,0,,Viktor Chondria University.
+Dialogue: 30,0:16:50.84,0:16:53.47,Default,,0,0,0,,Professor Alexis Leskinen.
+Dialogue: 30,0:16:59.18,0:17:02.64,Default,,0,0,0,,That's... the college she went to.
+Dialogue: 30,0:17:06.56,0:17:10.86,Default,,0,0,0,,I think... I'm dying.
+Dialogue: 30,0:17:10.86,0:17:13.57,Default,,0,0,0,,I don't want to die...
+Dialogue: 30,0:17:55.19,0:17:56.90,Default,,0,0,0,,Hey, you.
+Dialogue: 30,0:17:59.70,0:18:01.66,Default,,0,0,0,,I'm talking to you.
+Dialogue: 30,0:18:03.49,0:18:05.62,Default,,0,0,0,,Which way is the staff room?
+Dialogue: 30,0:18:09.21,0:18:11.13,Default,,0,0,0,,Huh?
+Dialogue: 30,0:18:11.13,0:18:15.05,Default,,0,0,0,,Uh, this is a college seminar conference...
+Dialogue: 30,0:18:15.05,0:18:17.01,Default,,0,0,0,,Of course I know that!
+Dialogue: 30,0:18:17.01,0:18:18.63,Default,,0,0,0,,It's the same thing, over and over...
+Dialogue: 30,0:18:18.63,0:18:19.93,Default,,0,0,0,,Over and over?
+Dialogue: 30,0:18:19.93,0:18:23.81,Default,,0,0,0,,You're the fourth person\Nto tell me that since coming here.
+Dialogue: 30,0:18:23.81,0:18:26.27,Default,,0,0,0,,Viktor Chondria University...
+Dialogue: 30,0:18:26.27,0:18:28.94,Default,,0,0,0,,Brain Science Institute.
+Dialogue: 30,0:18:28.94,0:18:31.06,Default,,0,0,0,,Oh, I get it. You found this and—
+Dialogue: 30,0:18:31.06,0:18:32.90,Default,,0,0,0,,Fourth time to hear that too!
+Dialogue: 30,0:18:34.82,0:18:38.32,Default,,0,0,0,,Viktor Chondria University has...
+Dialogue: 30,0:18:38.32,0:18:39.41,Default,,0,0,0,,...middle schoolers?
+Dialogue: 30,0:18:39.41,0:18:41.24,Default,,0,0,0,,If you're gonna be dumb, do it elsewhere.
+Dialogue: 30,0:18:41.24,0:18:44.20,Default,,0,0,0,,There's no university\Nthat takes middle schoolers.
+Dialogue: 30,0:18:44.20,0:18:46.58,Default,,0,0,0,,21 years old?
+Dialogue: 30,0:18:46.58,0:18:49.21,Default,,0,0,0,,In other words, I'm a full-grown woman!
+Dialogue: 30,0:18:49.21,0:18:53.09,Default,,0,0,0,,Not in middle school, not elementary\Nschool, and not preschool either!
+Dialogue: 30,0:18:53.09,0:18:54.38,Default,,0,0,0,,Got a problem?
+Dialogue: 30,0:18:54.38,0:18:57.30,Default,,0,0,0,,But... Never mind.
+Dialogue: 30,0:18:58.26,0:19:00.09,Default,,0,0,0,,I was in the wrong.
+Dialogue: 30,0:19:00.09,0:19:01.30,Default,,0,0,0,,I'm sorry.
+Dialogue: 30,0:19:02.43,0:19:04.47,Default,,0,0,0,,Hmph. Whatever.
+Dialogue: 30,0:19:04.47,0:19:07.39,Default,,0,0,0,,The same thing happens\Nno matter what country I go to.
+Dialogue: 30,0:19:07.39,0:19:08.64,Default,,0,0,0,,Big surprise.
+Dialogue: 30,0:19:08.64,0:19:09.77,Default,,0,0,0,,Did you say something?
+Dialogue: 30,0:19:09.77,0:19:12.15,Default,,0,0,0,,N-No, nothing.
+Dialogue: 30,0:19:13.81,0:19:15.78,Default,,0,0,0,,Uh, it's not that way.
+Dialogue: 30,0:19:15.78,0:19:20.40,Default,,0,0,0,,Staff room? Go out that way\Nand it's the door at the end of the hall.
+Dialogue: 30,0:19:23.82,0:19:25.41,Default,,0,0,0,,Thanks.
+Dialogue: 30,0:19:27.12,0:19:29.00,Default,,0,0,0,,21 years old, huh?
+Dialogue: 30,0:19:29.00,0:19:32.88,Default,,0,0,0,,If Daru saw her, he'd shout,\N“Legal loli for the win!”
+Dialogue: 30,0:19:36.34,0:19:39.42,Default,,0,0,0,,Kiryu Moeka?!
+Dialogue: 30,0:19:41.84,0:19:43.51,Default,,0,0,0,,Why?!
+Dialogue: 30,0:19:43.51,0:19:45.97,Default,,0,0,0,,Why is Moeka here?!
+Dialogue: 30,0:19:45.97,0:19:48.43,Default,,0,0,0,,No... Not again!
+Dialogue: 30,0:19:48.43,0:19:51.52,Default,,0,0,0,,Calm down! This is a Beta worldline!
+Dialogue: 30,0:19:51.52,0:19:55.06,Default,,0,0,0,,It's not like that other worldline!
+Dialogue: 30,0:19:55.06,0:19:56.61,Default,,0,0,0,,It's not...
+Dialogue: 30,0:20:05.57,0:20:08.74,Default,,0,0,0,,Is that... the girl from earlier?
+Dialogue: 30,0:20:14.42,0:20:16.25,Default,,0,0,0,,Hi, everyone.
+Dialogue: 30,0:20:17.59,0:20:21.84,Default,,0,0,0,,Thank you for attending my seminar today.
+Dialogue: 30,0:20:21.84,0:20:27.64,Default,,0,0,0,,I am Alexis Leskinen from Viktor Chondria\NUniversity's Brain Science Institute.
+Dialogue: 30,0:20:27.64,0:20:31.39,Default,,0,0,0,,I'm his interpreter and assistant, Hiyajo Maho.
+Dialogue: 30,0:20:35.23,0:20:39.07,Default,,0,0,0,,Our topic for today is the Artificial\NIntelligence Revolution, however...
+Dialogue: 30,0:20:39.07,0:20:43.95,Default,,0,0,0,,Before we get into that, there's\Na paper I would like to introduce.
+Dialogue: 30,0:20:46.20,0:20:51.79,Default,,0,0,0,,This paper was published by\Na female researcher at our lab.
+Dialogue: 30,0:20:51.79,0:20:57.67,Default,,0,0,0,,Our memories are stored in the cerebral cortex.\NMore specifically, within the temporal lobe.
+Dialogue: 30,0:20:57.67,0:21:01.63,Default,,0,0,0,,Memories are retrieved\Nsimilarly to flash memory.
+Dialogue: 30,0:21:01.63,0:21:07.64,Default,,0,0,0,,The brain operates by sending\Nelectrical signals between neurons.
+Dialogue: 30,0:21:07.64,0:21:14.19,Default,,0,0,0,,Ultimately, it is the pattern of these electrical\Nsignals which create and reinforce memories.
+Dialogue: 30,0:21:17.02,0:21:23.19,Default,,0,0,0,,I regret to say the woman who proposed\Nthis theory passed away at the age of 17.
+Dialogue: 30,0:21:23.19,0:21:28.37,Default,,0,0,0,,But using her theory as a foundation,\Nwe were able to construct a special system.
+Dialogue: 30,0:21:28.37,0:21:33.00,Default,,0,0,0,,That is, a system which\Npreserves human memory as data.
+Dialogue: 30,0:21:36.12,0:21:40.38,Default,,0,0,0,,Unlike previous programs,\Nwhich fall short of possessing identity,
+Dialogue: 30,0:21:40.38,0:21:44.97,Default,,0,0,0,,we've developed an AI with\Ndata drawn from human memories.
+Dialogue: 30,0:21:44.97,0:21:47.72,Default,,0,0,0,,It has feelings and memories, just like a human.
+Dialogue: 30,0:21:47.72,0:21:50.93,Default,,0,0,0,,An artificial intelligence with a soul.
+Dialogue: 30,0:21:50.93,0:21:55.77,Default,,0,0,0,,The genius of Makise Kurisu and\Nher theory enabled us to build this system.
+Dialogue: 30,0:21:55.77,0:21:59.98,Default,,0,0,0,,Without further ado, we would\Nlike to demonstrate said AI.
+Dialogue: 30,0:22:02.61,0:22:03.94,Default,,0,0,0,,Amadeus.
+Dialogue: 30,0:22:03.94,0:22:05.94,Default,,0,0,0,,

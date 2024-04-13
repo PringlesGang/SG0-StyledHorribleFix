@@ -1,9 +1,5 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
-; Subs edited by Woute and Davixxa for consistency
-; Subs styled by PringlesGang
-; Fatima translation by Rigs
-; https://bitbucket.org/Woote/horriblefix/overview
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -21,7 +17,6 @@ Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\an3\fsp-2\pos(1200,876)}Altair
 Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\an3\pos(1246,916)}of
 Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\fsp-4\pos(1240,796)}Translational
@@ -52,334 +47,334 @@ Dialogue: 1,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H474ECB&\c
 Dialogue: 2,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H535BD4&}m 1085 106 l 1110 110 l 1133 151 l 1148 542 l 1043 529 l 1044 203 l 1053 122 {\p0}
 Dialogue: 3,0:23:34.55,0:23:40.02,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H46438F&\b0\blur2\move(1126,532,1128,510)\c&H434296&\fs75\t(\fs79)}I wish{\c&H3D3C84&} to {\c&H393975&}meet{\c&H353272&} my {\c&H302F63&}Hikoboshi-sama
 Dialogue: 3,0:23:34.55,0:23:40.02,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H2D2E5B&\b0\blur2\fs75\t(\fs79)\move(1036,910,1036,908)}Mayushii
-Dialogue: 30,0:00:07.09,0:00:10.42,Default,,0000,0000,0000,,Don't panic. The worldline hasn't changed.
-Dialogue: 30,0:00:10.42,0:00:13.30,Default,,0000,0000,0000,,In which case, Mayuri and Suzuha are okay.
-Dialogue: 30,0:00:13.30,0:00:15.34,Default,,0000,0000,0000,,This can't be where they...
-Dialogue: 30,0:00:21.27,0:00:22.89,Default,,0000,0000,0000,,Mayuri...
-Dialogue: 30,0:00:24.06,0:00:26.69,Default,,0000,0000,0000,,Howdy, Lintahlo.
-Dialogue: 30,0:00:29.94,0:00:31.86,Default,,0000,0000,0000,,Professor Leskinen?
-Dialogue: 30,0:00:49.80,0:00:55.10,Default,,0000,0000,0000,,{\i1}This is a life of fantasy,{\i}
-Dialogue: 30,0:00:55.10,0:01:01.02,Default,,0000,0000,0000,,{\i1}Unaffected still by illusions.{\i}
-Dialogue: 30,0:01:02.02,0:01:12.87,Default,,0000,0000,0000,,{\i1}Worldlines without end{\i}\N{\i1}are all deceived by an antinomy paradox{\i}
-Dialogue: 30,0:01:12.87,0:01:22.59,Default,,0000,0000,0000,,{\i1}If I can dominate these emotions,{\i}\N{\i1}orbital ordering replacing even common sense,{\i}
-Dialogue: 30,0:01:22.59,0:01:24.77,Default,,0000,0000,0000,,{\i1}Then my suffering{\i}
-Dialogue: 30,0:01:24.87,0:01:27.92,Default,,0000,0000,0000,,{\i1}alone{\i}
-Dialogue: 30,0:01:27.92,0:01:34.68,Default,,0000,0000,0000,,{\i1}is the gap to cross in this algorithm{\i}
-Dialogue: 30,0:01:34.68,0:01:35.77,Default,,0000,0000,0000,,{\i1}I can fly high{\i}
-Dialogue: 30,0:01:35.77,0:01:38.52,Default,,0000,0000,0000,,{\i1}Signs of love, words of love...{\i}
-Dialogue: 30,0:01:38.62,0:01:41.69,Default,,0000,0000,0000,,{\i1}The memories flow back with total clarity{\i}
-Dialogue: 30,0:01:41.69,0:01:46.46,Default,,0000,0000,0000,,{\i1}Never again will I forsake what lies beyond,{\i}
-Dialogue: 30,0:01:46.46,0:01:51.95,Default,,0000,0000,0000,,{\i1}I want always to be by your side, hand-in-hand,{\i}
-Dialogue: 30,0:01:51.95,0:01:57.50,Default,,0000,0000,0000,,{\i1}As this quantum entanglement forms Zero{\i}
-Dialogue: 30,0:01:57.50,0:02:02.83,Default,,0000,0000,0000,,{\i1}There is no God. Wonderful new world.{\i}
-Dialogue: 30,0:02:09.25,0:02:10.88,Default,,0000,0000,0000,,Big Sis Mayu!
-Dialogue: 30,0:02:14.84,0:02:16.59,Default,,0000,0000,0000,,Reyes?
-Dialogue: 30,0:02:20.55,0:02:22.80,Default,,0000,0000,0000,,What did you do... to Mommy?
-Dialogue: 30,0:02:22.80,0:02:24.10,Default,,0000,0000,0000,,Eh?
-Dialogue: 30,0:02:35.73,0:02:37.15,Default,,0000,0000,0000,,O-Open Fire!
-Dialogue: 30,0:02:52.46,0:02:53.84,Default,,0000,0000,0000,,Don't be afraid!
-Dialogue: 30,0:02:59.22,0:03:02.01,Default,,0000,0000,0000,,Aim for the body! Slow down her movements!
-Dialogue: 30,0:03:06.89,0:03:08.73,Default,,0000,0000,0000,,Kagari!
-Dialogue: 30,0:03:14.56,0:03:17.57,Default,,0000,0000,0000,,Curious how it's going up there on the roof?
-Dialogue: 30,0:03:17.57,0:03:19.36,Default,,0000,0000,0000,,What do you mean by that?
-Dialogue: 30,0:03:19.36,0:03:21.20,Default,,0000,0000,0000,,What are you doing here?
-Dialogue: 30,0:03:21.20,0:03:25.03,Default,,0000,0000,0000,,It's not good manners to answer\Na question with a question, Lintahlo.
-Dialogue: 30,0:03:25.03,0:03:27.74,Default,,0000,0000,0000,,I'll dock your grades.
-Dialogue: 30,0:03:27.74,0:03:32.37,Default,,0000,0000,0000,,Though, to think you'd\Nshow up here so quickly...
-Dialogue: 30,0:03:32.37,0:03:37.55,Default,,0000,0000,0000,,Who was it? Who gave you the big hint?
-Dialogue: 30,0:03:37.55,0:03:42.09,Default,,0000,0000,0000,,Maho? No... I suppose\Nif it's anyone, it's [Kurisu].
-Dialogue: 30,0:03:42.09,0:03:44.39,Default,,0000,0000,0000,,[Kurisu]?
-Dialogue: 30,0:03:44.39,0:03:46.22,Default,,0000,0000,0000,,Our Father and God...
-Dialogue: 30,0:03:46.22,0:03:53.23,Default,,0000,0000,0000,,To Amadeus, the professor who created\Nthe system is both father and God...
-Dialogue: 30,0:03:53.23,0:03:55.90,Default,,0000,0000,0000,,Did she really say something like that?
-Dialogue: 30,0:03:55.90,0:03:58.44,Default,,0000,0000,0000,,Has a nice ring to it.
-Dialogue: 30,0:03:58.44,0:04:03.82,Default,,0000,0000,0000,,I feel kinda slick, for her\Nto praise me as a god like that.
-Dialogue: 30,0:04:03.82,0:04:06.74,Default,,0000,0000,0000,,But, she also had this to say...
-Dialogue: 30,0:04:06.74,0:04:08.87,Default,,0000,0000,0000,,Our most secret domains were unveiled,
-Dialogue: 30,0:04:08.87,0:04:12.75,Default,,0000,0000,0000,,so we may tell Father the secrets of\Nmanipulating time and where they're at.
-Dialogue: 30,0:04:14.00,0:04:15.50,Default,,0000,0000,0000,,So dim, Lintahlo.
-Dialogue: 30,0:04:15.50,0:04:20.42,Default,,0000,0000,0000,,If you got a message saying all that,\Nyou should know the answer already.
-Dialogue: 30,0:04:21.80,0:04:25.14,Default,,0000,0000,0000,,I'm afraid to say you're in too deep.
-Dialogue: 30,0:04:25.14,0:04:27.80,Default,,0000,0000,0000,,You... Who the hell are you?!
-Dialogue: 30,0:04:29.18,0:04:31.18,Default,,0000,0000,0000,,A scientist.
-Dialogue: 30,0:04:31.18,0:04:35.77,Default,,0000,0000,0000,,Though, science isn't\Nalways a charity, you know?
-Dialogue: 30,0:04:35.77,0:04:39.77,Default,,0000,0000,0000,,Perhaps you've heard of\Nthe company Strategic Focus?
-Dialogue: 30,0:04:39.77,0:04:42.90,Default,,0000,0000,0000,,Strat... You mean Stratfo?!
-Dialogue: 30,0:04:42.90,0:04:47.91,Default,,0000,0000,0000,,It's a private intelligence agency called\Na shadow CIA, among other things.
-Dialogue: 30,0:04:47.91,0:04:50.37,Default,,0000,0000,0000,,Then you... from the very beginning!
-Dialogue: 30,0:04:50.37,0:04:52.58,Default,,0000,0000,0000,,America, Russia...
-Dialogue: 30,0:04:52.58,0:04:59.63,Default,,0000,0000,0000,,All the great powers escalate the conflict\Nto obtain a time machine starting this very day.
-Dialogue: 30,0:04:59.63,0:05:05.55,Default,,0000,0000,0000,,I couldn't exactly act before that point\Nbecause everything was to converge.
-Dialogue: 30,0:05:05.55,0:05:10.35,Default,,0000,0000,0000,,I've been itching with excitement\Nfor this day to finally come.
-Dialogue: 30,0:05:10.35,0:05:14.60,Default,,0000,0000,0000,,I take it you know\Nwhat I'm getting at, Lintahlo.
-Dialogue: 30,0:05:14.60,0:05:16.56,Default,,0000,0000,0000,,What the hell is going on?
-Dialogue: 30,0:05:16.56,0:05:19.48,Default,,0000,0000,0000,,How does he know all that?
-Dialogue: 30,0:05:19.48,0:05:22.57,Default,,0000,0000,0000,,Was it Hiyajo-san? Don't tell me she...
-Dialogue: 30,0:05:22.57,0:05:23.90,Default,,0000,0000,0000,,No, it can't be...
-Dialogue: 30,0:05:23.90,0:05:28.57,Default,,0000,0000,0000,,Kurisu's memories in Amadeus are\Nall from before she came to Japan.
-Dialogue: 30,0:05:28.57,0:05:30.37,Default,,0000,0000,0000,,Then who could have...?
-Dialogue: 30,0:05:32.04,0:05:37.29,Default,,0000,0000,0000,,The look on your face says you're dying\Nto know how I possibly knew all that.
-Dialogue: 30,0:05:37.29,0:05:38.54,Default,,0000,0000,0000,,There's someone, right?
-Dialogue: 30,0:05:38.54,0:05:43.67,Default,,0000,0000,0000,,One who knows everything,\Nbeing a little messenger from the future...
-Dialogue: 30,0:05:45.22,0:05:46.76,Default,,0000,0000,0000,,Kagari?!
-Dialogue: 30,0:05:48.97,0:05:50.51,Default,,0000,0000,0000,,Big Sis Mayu.
-Dialogue: 30,0:05:50.51,0:05:53.81,Default,,0000,0000,0000,,Suzu-san...
-Dialogue: 30,0:05:53.81,0:05:58.60,Default,,0000,0000,0000,,Stay still. That ricochet had to have\Ngrazed you, but you're still bleeding.
-Dialogue: 30,0:05:58.60,0:06:00.15,Default,,0000,0000,0000,,That's...
-Dialogue: 30,0:06:04.36,0:06:05.82,Default,,0000,0000,0000,,Don't look!
-Dialogue: 30,0:06:17.83,0:06:19.29,Default,,0000,0000,0000,,Mommy...
-Dialogue: 30,0:06:27.05,0:06:28.63,Default,,0000,0000,0000,,Mommy...
-Dialogue: 30,0:06:28.63,0:06:30.05,Default,,0000,0000,0000,,What did you do...
-Dialogue: 30,0:06:30.05,0:06:32.26,Default,,0000,0000,0000,,...to Mommy?!
-Dialogue: 30,0:06:33.81,0:06:39.10,Default,,0000,0000,0000,,Are they still at it? And here\NI told her to avoid making a fuss...
-Dialogue: 30,0:06:50.86,0:06:51.99,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:06:53.20,0:06:54.78,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:07:09.88,0:07:11.34,Default,,0000,0000,0000,,Kagari?
-Dialogue: 30,0:07:11.34,0:07:13.35,Default,,0000,0000,0000,,Don't, Big Sis Mayu!
-Dialogue: 30,0:07:13.35,0:07:15.56,Default,,0000,0000,0000,,What... is this?
-Dialogue: 30,0:07:15.56,0:07:17.35,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:07:22.56,0:07:23.90,Default,,0000,0000,0000,,Mommy...
-Dialogue: 30,0:07:23.90,0:07:26.19,Default,,0000,0000,0000,,Mommy, this isn't...
-Dialogue: 30,0:07:26.19,0:07:29.78,Default,,0000,0000,0000,,I was... because Mommy...
-Dialogue: 30,0:07:31.36,0:07:33.16,Default,,0000,0000,0000,,Mommy...
-Dialogue: 30,0:07:33.16,0:07:36.70,Default,,0000,0000,0000,,Mommy... I'm sorry, Mommy.
-Dialogue: 30,0:07:36.70,0:07:38.16,Default,,0000,0000,0000,,Kagari!
-Dialogue: 30,0:07:45.54,0:07:46.54,Default,,0000,0000,0000,,Mommy...
-Dialogue: 30,0:07:46.54,0:07:48.55,Default,,0000,0000,0000,,Stay still.
-Dialogue: 30,0:07:48.55,0:07:50.80,Default,,0000,0000,0000,,Suzu-san...
-Dialogue: 30,0:07:50.80,0:07:51.88,Default,,0000,0000,0000,,How's Mayuri?!
-Dialogue: 30,0:07:51.88,0:07:54.89,Default,,0000,0000,0000,,Her head is a bit cut up, but she's fine.
-Dialogue: 30,0:07:54.89,0:07:56.55,Default,,0000,0000,0000,,No other injuries.
-Dialogue: 30,0:07:56.55,0:07:59.89,Default,,0000,0000,0000,,Good... Mayuri's okay.
-Dialogue: 30,0:07:59.89,0:08:02.31,Default,,0000,0000,0000,,I see... Thank goodness.
-Dialogue: 30,0:08:02.31,0:08:04.02,Default,,0000,0000,0000,,Don't try to talk.
-Dialogue: 30,0:08:04.02,0:08:07.82,Default,,0000,0000,0000,,It's okay, don't worry about me.
-Dialogue: 30,0:08:07.82,0:08:12.95,Default,,0000,0000,0000,,Because, even though I'm like this,\NI don't feel the pain at all...
-Dialogue: 30,0:08:12.95,0:08:14.74,Default,,0000,0000,0000,,Don't try to be tough. Just—
-Dialogue: 30,0:08:14.74,0:08:18.03,Default,,0000,0000,0000,,I hear the voice of God...
-Dialogue: 30,0:08:18.03,0:08:22.71,Default,,0000,0000,0000,,Telling me it doesn't hurt...\NTelling me not to suffer...
-Dialogue: 30,0:08:22.71,0:08:26.00,Default,,0000,0000,0000,,That's why... this doesn't...
-Dialogue: 30,0:08:26.00,0:08:28.67,Default,,0000,0000,0000,,Kagari... Kagari!
-Dialogue: 30,0:08:31.80,0:08:35.39,Default,,0000,0000,0000,,Suzu-san.
-Dialogue: 30,0:08:35.39,0:08:37.01,Default,,0000,0000,0000,,Kagari-chan.
-Dialogue: 30,0:08:37.01,0:08:40.18,Default,,0000,0000,0000,,Mommy? Thank goodness...
-Dialogue: 30,0:08:40.18,0:08:42.02,Default,,0000,0000,0000,,Kagari...
-Dialogue: 30,0:08:42.02,0:08:45.15,Default,,0000,0000,0000,,Big Sis Suzuha...
-Dialogue: 30,0:08:45.15,0:08:46.94,Default,,0000,0000,0000,,I'm sorry.
-Dialogue: 30,0:08:46.94,0:08:52.94,Default,,0000,0000,0000,,Whenever I hear the voice of God,\Neverything in my head gets messed up.
-Dialogue: 30,0:08:52.94,0:08:58.78,Default,,0000,0000,0000,,God tells me... what I must do... and I do it.
-Dialogue: 30,0:08:58.78,0:09:02.33,Default,,0000,0000,0000,,I'm... sorry...
-Dialogue: 30,0:09:02.33,0:09:04.08,Default,,0000,0000,0000,,—Kagari-chan!\N—Kagari-chan!
-Dialogue: 30,0:09:05.83,0:09:09.79,Default,,0000,0000,0000,,Looks like I missed the big party.
-Dialogue: 30,0:09:09.79,0:09:14.72,Default,,0000,0000,0000,,The future's brainwashing and enhancement\Ntechniques sure are incredible.
-Dialogue: 30,0:09:14.72,0:09:15.97,Default,,0000,0000,0000,,Professor!
-Dialogue: 30,0:09:15.97,0:09:18.39,Default,,0000,0000,0000,,You did this... to Kagari!
-Dialogue: 30,0:09:18.39,0:09:21.51,Default,,0000,0000,0000,,No, it was more of a joint effort.
-Dialogue: 30,0:09:21.51,0:09:24.43,Default,,0000,0000,0000,,By me... and well, me.
-Dialogue: 30,0:09:24.43,0:09:27.48,Default,,0000,0000,0000,,I don't know what exactly\Nyou're getting at, but...
-Dialogue: 30,0:09:27.48,0:09:30.73,Default,,0000,0000,0000,,It's all your fault this happened to Kagari!
-Dialogue: 30,0:09:30.73,0:09:32.78,Default,,0000,0000,0000,,What if I said you're right?
-Dialogue: 30,0:09:38.74,0:09:40.62,Default,,0000,0000,0000,,You bastard!
-Dialogue: 30,0:09:40.62,0:09:43.37,Default,,0000,0000,0000,,Good on you for stopping.
-Dialogue: 30,0:09:43.37,0:09:45.75,Default,,0000,0000,0000,,Suzuha, I'm sorry...
-Dialogue: 30,0:09:49.92,0:09:51.54,Default,,0000,0000,0000,,Suzuha!
-Dialogue: 30,0:09:55.88,0:09:57.63,Default,,0000,0000,0000,,Professor...
-Dialogue: 30,0:09:59.47,0:10:03.56,Default,,0000,0000,0000,,Maho, isn't this crazy? Hard to believe, I know.
-Dialogue: 30,0:10:03.56,0:10:08.10,Default,,0000,0000,0000,,However, this was all destined\Nto happen ahead of time.
-Dialogue: 30,0:10:08.10,0:10:10.19,Default,,0000,0000,0000,,Destined to happen?
-Dialogue: 30,0:10:10.19,0:10:14.28,Default,,0000,0000,0000,,Observation and insight\Nis what sets scientists apart.
-Dialogue: 30,0:10:14.28,0:10:20.16,Default,,0000,0000,0000,,Didn't you hear what I said?\NThis is a joint effort between me and myself.
-Dialogue: 30,0:10:20.16,0:10:22.20,Default,,0000,0000,0000,,Spanning across time.
-Dialogue: 30,0:10:22.20,0:10:23.45,Default,,0000,0000,0000,,Time?!
-Dialogue: 30,0:10:23.45,0:10:24.45,Default,,0000,0000,0000,,It can't be!
-Dialogue: 30,0:10:24.45,0:10:29.54,Default,,0000,0000,0000,,13 years ago, when for the\Nvery first time Kagari approached me,
-Dialogue: 30,0:10:29.54,0:10:32.96,Default,,0000,0000,0000,,can you guess what she said?
-Dialogue: 30,0:10:36.38,0:10:39.05,Default,,0000,0000,0000,,I hear the voice of God.
-Dialogue: 30,0:10:39.05,0:10:41.09,Default,,0000,0000,0000,,God?
-Dialogue: 30,0:10:41.09,0:10:44.81,Default,,0000,0000,0000,,The future you... is calling me.
-Dialogue: 30,0:10:51.27,0:10:54.15,Default,,0000,0000,0000,,The future... Professor?
-Dialogue: 30,0:10:59.15,0:11:02.03,Default,,0000,0000,0000,,That's right. Can you believe it?
-Dialogue: 30,0:11:02.03,0:11:06.70,Default,,0000,0000,0000,,Me in the future sent Kagari back into the past.
-Dialogue: 30,0:11:06.70,0:11:10.62,Default,,0000,0000,0000,,All so I could obtain\Nthe power of manipulating time.
-Dialogue: 30,0:11:10.62,0:11:12.54,Default,,0000,0000,0000,,The future you did?
-Dialogue: 30,0:11:12.54,0:11:14.63,Default,,0000,0000,0000,,Then, Kagari was...
-Dialogue: 30,0:11:14.63,0:11:17.13,Default,,0000,0000,0000,,And what an intricate plan it was.
-Dialogue: 30,0:11:17.13,0:11:22.39,Default,,0000,0000,0000,,In order to track the movements of the\Nresistance you form in the distant future...
-Dialogue: 30,0:11:22.39,0:11:27.64,Default,,0000,0000,0000,,...I trained countless young girls\Nand boys to act as spies and infiltrate in.
-Dialogue: 30,0:11:27.64,0:11:31.77,Default,,0000,0000,0000,,You're all so softhearted,\Nyou fell right for the bait.
-Dialogue: 30,0:11:33.15,0:11:37.07,Default,,0000,0000,0000,,But see, then came the pinnacle of my plan.
-Dialogue: 30,0:11:37.07,0:11:41.49,Default,,0000,0000,0000,,If somehow or another,\Nyou managed to escape to the past...
-Dialogue: 30,0:11:41.49,0:11:47.45,Default,,0000,0000,0000,,I made sure to send along a messenger\Nto my past self... using brainwashing.
-Dialogue: 30,0:11:52.08,0:11:55.21,Default,,0000,0000,0000,,I could hardly believe it myself.
-Dialogue: 30,0:11:55.21,0:12:01.34,Default,,0000,0000,0000,,But the more and more I researched,\NI began to realize her story checked out.
-Dialogue: 30,0:12:01.34,0:12:07.39,Default,,0000,0000,0000,,I concluded the time machine was real\Nand that Kagari actually came from the future.
-Dialogue: 30,0:12:07.39,0:12:10.85,Default,,0000,0000,0000,,Then, did you make Amadeus because...
-Dialogue: 30,0:12:10.85,0:12:14.56,Default,,0000,0000,0000,,Correct. Because Kurisu goes and dies.
-Dialogue: 30,0:12:14.56,0:12:18.40,Default,,0000,0000,0000,,I needed a system that preserved\Nher precious time machine theory
-Dialogue: 30,0:12:18.40,0:12:21.15,Default,,0000,0000,0000,,and all those memories of hers.
-Dialogue: 30,0:12:21.15,0:12:23.99,Default,,0000,0000,0000,,Professor! That's what you did it for?!
-Dialogue: 30,0:12:23.99,0:12:27.99,Default,,0000,0000,0000,,You basically let Kurisu die?! Professor!
-Dialogue: 30,0:12:27.99,0:12:34.87,Default,,0000,0000,0000,,Everything I did was long, tiresome groundwork\Nto come steal the time machine today.
-Dialogue: 30,0:12:34.87,0:12:38.13,Default,,0000,0000,0000,,Defy causality, overcome convergence...
-Dialogue: 30,0:12:38.13,0:12:40.46,Default,,0000,0000,0000,,It's the grand plan of my future self,
-Dialogue: 30,0:12:40.46,0:12:45.13,Default,,0000,0000,0000,,all so I can shape the\Nways of this world on my own.
-Dialogue: 30,0:12:46.51,0:12:48.05,Default,,0000,0000,0000,,You would go that far?!
-Dialogue: 30,0:12:48.05,0:12:52.10,Default,,0000,0000,0000,,Once you obtained the time machine,\Nwhat were you planning to do?!
-Dialogue: 30,0:12:52.10,0:12:56.85,Default,,0000,0000,0000,,Lintahlo... You fail to grasp\Nthe essence of science.
-Dialogue: 30,0:12:58.48,0:13:00.19,Default,,0000,0000,0000,,The thing about scientists...
-Dialogue: 30,0:13:00.19,0:13:03.28,Default,,0000,0000,0000,,We experiment in hopes\Nthat our theories prove true,
-Dialogue: 30,0:13:03.28,0:13:06.66,Default,,0000,0000,0000,,and observing just that is what we live for.
-Dialogue: 30,0:13:06.66,0:13:11.87,Default,,0000,0000,0000,,The future me has such a theory\Nand the past me will set out to prove it.
-Dialogue: 30,0:13:11.87,0:13:15.29,Default,,0000,0000,0000,,That's all it is. It's what I always do.
-Dialogue: 30,0:13:15.29,0:13:17.50,Default,,0000,0000,0000,,You'll make a time paradox!
-Dialogue: 30,0:13:17.50,0:13:21.05,Default,,0000,0000,0000,,Aren't you afraid of breaking\Nthe world beyond repair?!
-Dialogue: 30,0:13:21.05,0:13:25.26,Default,,0000,0000,0000,,If that sort of thing does happen,\NI'd like to see it for myself.
-Dialogue: 30,0:13:31.76,0:13:37.23,Default,,0000,0000,0000,,I guess if she's dead, all that future\Nbrainwashing doesn't help all too much.
-Dialogue: 30,0:13:39.94,0:13:41.69,Default,,0000,0000,0000,,You...
-Dialogue: 30,0:13:41.69,0:13:44.61,Default,,0000,0000,0000,,You're a true mad scientist!
-Dialogue: 30,0:13:48.66,0:13:52.37,Default,,0000,0000,0000,,I couldn't ask for a better\Ncompliment than that, Lintahlo!
-Dialogue: 30,0:13:54.16,0:13:56.71,Default,,0000,0000,0000,,Could you step out of my way now?
-Dialogue: 30,0:14:01.92,0:14:04.96,Default,,0000,0000,0000,,This place will be a battlefield before long.
-Dialogue: 30,0:14:04.96,0:14:07.93,Default,,0000,0000,0000,,With this time machine at the center of it all.
-Dialogue: 30,0:14:07.93,0:14:10.05,Default,,0000,0000,0000,,Battlefield?
-Dialogue: 30,0:14:10.05,0:14:13.47,Default,,0000,0000,0000,,There's Dr. Nakabachi's paper\Nwho defected to Russia.
-Dialogue: 30,0:14:13.47,0:14:19.06,Default,,0000,0000,0000,,Plus, there's the info regarding the\Ntime machine I handed over to Stratfo.
-Dialogue: 30,0:14:19.06,0:14:25.86,Default,,0000,0000,0000,,That information war evolves into both sides\Nshowing up in force this very day, of all days.
-Dialogue: 30,0:14:25.86,0:14:28.95,Default,,0000,0000,0000,,History says the\Ntime machine is destroyed here.
-Dialogue: 30,0:14:28.95,0:14:35.29,Default,,0000,0000,0000,,But it doesn't exist for another 25 years\Nwhen it's developed based on the theory.
-Dialogue: 30,0:14:35.29,0:14:39.42,Default,,0000,0000,0000,,Though, what if someone\Nstole it at the perfect time?
-Dialogue: 30,0:14:39.42,0:14:44.13,Default,,0000,0000,0000,,What if they fake its destruction\Nand went into the past?
-Dialogue: 30,0:14:44.13,0:14:46.67,Default,,0000,0000,0000,,Is that what your plan is?!
-Dialogue: 30,0:14:46.67,0:14:49.72,Default,,0000,0000,0000,,It's been 10 odd years since meeting Kagari.
-Dialogue: 30,0:14:49.72,0:14:51.64,Default,,0000,0000,0000,,Such a long time...
-Dialogue: 30,0:14:53.10,0:14:57.10,Default,,0000,0000,0000,,—I've come so far, but it's time—\N—I hear...
-Dialogue: 30,0:14:57.10,0:14:59.64,Default,,0000,0000,0000,,I hear...
-Dialogue: 30,0:14:59.64,0:15:01.69,Default,,0000,0000,0000,,...the voice of God.
-Dialogue: 30,0:15:03.44,0:15:05.32,Default,,0000,0000,0000,,Get your hands off me.
-Dialogue: 30,0:15:24.25,0:15:26.75,Default,,0000,0000,0000,,It's too early to get knocked out!
-Dialogue: 30,0:15:26.75,0:15:30.13,Default,,0000,0000,0000,,Kagari suffered a\Nthousand times worse than this!
-Dialogue: 30,0:15:30.13,0:15:31.59,Default,,0000,0000,0000,,Way worse! Way worse!
-Dialogue: 30,0:15:31.59,0:15:34.18,Default,,0000,0000,0000,,—She hurt way worse than this!\N—Stop it, Suzuha!
-Dialogue: 30,0:15:34.18,0:15:37.18,Default,,0000,0000,0000,,Get up! You damn... You damn...!
-Dialogue: 30,0:15:37.18,0:15:38.64,Default,,0000,0000,0000,,Suzuha!
-Dialogue: 30,0:15:38.64,0:15:41.39,Default,,0000,0000,0000,,Let go! Don't stop me!
-Dialogue: 30,0:15:41.39,0:15:43.77,Default,,0000,0000,0000,,Suzuha!
-Dialogue: 30,0:15:43.77,0:15:45.77,Default,,0000,0000,0000,,That's enough, Suzuha.
-Dialogue: 30,0:15:47.69,0:15:49.49,Default,,0000,0000,0000,,Dad...
-Dialogue: 30,0:15:49.49,0:15:53.24,Default,,0000,0000,0000,,If you kill the guy, you're the same as him.
-Dialogue: 30,0:16:11.72,0:16:13.55,Default,,0000,0000,0000,,Kagari-chan...
-Dialogue: 30,0:16:13.55,0:16:15.18,Default,,0000,0000,0000,,Kagari-chan!
-Dialogue: 30,0:16:17.76,0:16:21.64,Default,,0000,0000,0000,,Kagari-chan? Look, it's Suzu-san.
-Dialogue: 30,0:16:21.64,0:16:29.03,Default,,0000,0000,0000,,It's the same hand that...\Nheld mine when... I was... scared.
-Dialogue: 30,0:16:29.03,0:16:30.65,Default,,0000,0000,0000,,So warm...
-Dialogue: 30,0:16:30.65,0:16:32.40,Default,,0000,0000,0000,,Kagari...
-Dialogue: 30,0:16:32.40,0:16:37.99,Default,,0000,0000,0000,,I'm sorry, Big Sis Suzuha...
-Dialogue: 30,0:16:37.99,0:16:39.41,Default,,0000,0000,0000,,Sorry...
-Dialogue: 30,0:16:41.12,0:16:45.92,Default,,0000,0000,0000,,Kagari... Kagari!
-Dialogue: 30,0:16:45.92,0:16:47.67,Default,,0000,0000,0000,,Why?
-Dialogue: 30,0:16:47.67,0:16:49.55,Default,,0000,0000,0000,,Why did it come to this?
-Dialogue: 30,0:16:52.59,0:16:53.76,Default,,0000,0000,0000,,What the—
-Dialogue: 30,0:16:56.26,0:16:57.39,Default,,0000,0000,0000,,Run!
-Dialogue: 30,0:17:05.52,0:17:06.44,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:17:06.44,0:17:08.27,Default,,0000,0000,0000,,It's okay! She's not hurt!
-Dialogue: 30,0:17:10.36,0:17:11.86,Default,,0000,0000,0000,,Find the professor!
-Dialogue: 30,0:17:16.99,0:17:18.24,Default,,0000,0000,0000,,This is...
-Dialogue: 30,0:17:18.24,0:17:21.12,Default,,0000,0000,0000,,Suzu-san, let's go!
-Dialogue: 30,0:17:21.12,0:17:23.91,Default,,0000,0000,0000,,The time machine will be destroyed soon, right?
-Dialogue: 30,0:17:27.04,0:17:31.34,Default,,0000,0000,0000,,We have to go before that!\NGo, and change the future!
-Dialogue: 30,0:17:32.96,0:17:34.17,Default,,0000,0000,0000,,Is that DURPA?!
-Dialogue: 30,0:17:34.17,0:17:36.18,Default,,0000,0000,0000,,For Kagari-chan too!
-Dialogue: 30,0:17:37.59,0:17:38.47,Default,,0000,0000,0000,,Get in!
-Dialogue: 30,0:17:38.47,0:17:39.51,Default,,0000,0000,0000,,Right!
-Dialogue: 30,0:17:39.51,0:17:41.93,Default,,0000,0000,0000,,W-Wait, Mayuri!
-Dialogue: 30,0:17:46.64,0:17:48.10,Default,,0000,0000,0000,,Okarin!
-Dialogue: 30,0:17:50.31,0:17:52.36,Default,,0000,0000,0000,,Why?
-Dialogue: 30,0:17:52.36,0:17:55.78,Default,,0000,0000,0000,,Why do you think you've got to do this?!
-Dialogue: 30,0:17:55.78,0:17:57.86,Default,,0000,0000,0000,,Mayuri! Mayuri!
-Dialogue: 30,0:17:57.86,0:18:00.66,Default,,0000,0000,0000,,Mayushii has to go!
-Dialogue: 30,0:18:01.83,0:18:05.79,Default,,0000,0000,0000,,Because, this is...
-Dialogue: 30,0:18:05.79,0:18:08.54,Default,,0000,0000,0000,,...Operation Arc-light!
-Dialogue: 30,0:18:11.34,0:18:14.30,Default,,0000,0000,0000,,Arc-light?
-Dialogue: 30,0:18:14.30,0:18:16.05,Default,,0000,0000,0000,,Big Sis Mayu!
-Dialogue: 30,0:18:16.05,0:18:18.93,Default,,0000,0000,0000,,Mayuri! Wait, Mayuri!
-Dialogue: 30,0:18:21.30,0:18:22.47,Default,,0000,0000,0000,,Suzuha...
-Dialogue: 30,0:18:22.47,0:18:24.93,Default,,0000,0000,0000,,Shit! Secure the target!
-Dialogue: 30,0:18:29.15,0:18:30.52,Default,,0000,0000,0000,,Owowow...
-Dialogue: 30,0:18:30.52,0:18:33.73,Default,,0000,0000,0000,,Is this seriously happening in Tokyo?!
-Dialogue: 30,0:18:33.73,0:18:34.90,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:18:34.90,0:18:35.86,Default,,0000,0000,0000,,Here we go.
-Dialogue: 30,0:18:35.86,0:18:37.24,Default,,0000,0000,0000,,Right!
-Dialogue: 30,0:18:52.08,0:18:54.30,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:19:12.69,0:19:16.36,Default,,0000,0000,0000,,This is... the time machine's.
-Dialogue: 30,0:19:16.36,0:19:18.49,Default,,0000,0000,0000,,Did they not make it in time?
-Dialogue: 30,0:19:19.86,0:19:21.53,Default,,0000,0000,0000,,Suzuha...
-Dialogue: 30,0:19:22.49,0:19:23.82,Default,,0000,0000,0000,,Mayuri...
-Dialogue: 30,0:19:25.49,0:19:27.24,Default,,0000,0000,0000,,Mayuri...
-Dialogue: 30,0:19:30.92,0:19:32.92,Default,,0000,0000,0000,,Okabe-san?
-Dialogue: 30,0:19:35.13,0:19:36.71,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:19:41.80,0:19:45.14,Default,,0000,0000,0000,,Mayuri... Mayuri!
-Dialogue: 30,0:19:46.97,0:19:48.68,Default,,0000,0000,0000,,Mayuri!
-Dialogue: 30,0:19:53.48,0:19:55.61,Default,,0000,0000,0000,,It's still incomplete.
-Dialogue: 30,0:19:57.69,0:19:59.36,Default,,0000,0000,0000,,Why?
-Dialogue: 30,0:19:59.36,0:20:02.86,Default,,0000,0000,0000,,Why did this happen?
-Dialogue: 30,0:20:02.86,0:20:04.37,Default,,0000,0000,0000,,Okarin...
-Dialogue: 30,0:20:08.41,0:20:13.87,Default,,0000,0000,0000,,I... I chose this worldline because\NI thought it was the best choice!
-Dialogue: 30,0:20:08.95,0:20:13.04,On Top,,0000,0000,0000,,{\i1}I can't become Orihime{\i}
-Dialogue: 30,0:20:13.87,0:20:19.59,Default,,0000,0000,0000,,This... This was the one and only\Nworldline built upon Kurisu's sacrifice!
-Dialogue: 30,0:20:14.79,0:20:21.55,On Top,,0000,0000,0000,,{\i1}My strength alone is not enough to support you{\i}
-Dialogue: 30,0:20:19.59,0:20:24.09,Default,,0000,0000,0000,,And yet... And yet, why?
-Dialogue: 30,0:20:21.55,0:20:26.51,On Top,,0000,0000,0000,,{\i1}But I'm so afraid of being apart{\i}
-Dialogue: 30,0:20:24.09,0:20:25.85,Default,,0000,0000,0000,,Why?
-Dialogue: 30,0:20:25.85,0:20:27.60,Default,,0000,0000,0000,,Why?!
-Dialogue: 30,0:20:26.51,0:20:31.73,On Top,,0000,0000,0000,,{\i1}That I pray. I wonder, is that also love?{\i}
-Dialogue: 30,0:20:31.73,0:20:33.31,On Top,,0000,0000,0000,,{\i1}That I pray. I wonder, is that also love?{\i}
-Dialogue: 30,0:20:33.31,0:20:35.48,On Top,,0000,0000,0000,,{\i1}That I pray. I wonder, is that also love?{\i}
-Dialogue: 30,0:20:34.02,0:20:36.31,Default,,0000,0000,0000,,Mayuri?
-Dialogue: 30,0:20:35.48,0:20:39.40,On Top,,0000,0000,0000,,{\i1}Each and every moment we hold so dear{\i}
-Dialogue: 30,0:20:36.31,0:20:37.69,Default,,0000,0000,0000,,Dear Okarin.
-Dialogue: 30,0:20:37.69,0:20:40.69,Default,,0000,0000,0000,,Tutturu! It's Mayushii!
-Dialogue: 30,0:20:39.40,0:20:41.28,On Top,,0000,0000,0000,,{\i1}Each and every moment we hold so dear{\i}
-Dialogue: 30,0:20:40.69,0:20:46.57,Default,,0000,0000,0000,,The truth is, I wanted to talk to you in person,\Nbut I didn't know if could get it all out.
-Dialogue: 30,0:20:41.28,0:20:42.40,On Top,,0000,0000,0000,,{\i1}Together you and I, we go back to that place{\i}
-Dialogue: 30,0:20:42.40,0:20:46.49,On Top,,0000,0000,0000,,{\i1}Each and every moment we hold so dear{\i}
-Dialogue: 30,0:20:46.49,0:20:52.91,On Top,,0000,0000,0000,,{\i1}No matter how brilliant,{\i}\N{\i1}how bright, a worldline may be{\i}
-Dialogue: 30,0:20:46.57,0:20:52.00,Default,,0000,0000,0000,,Plus, I was worried Okarin might\Ntry to stop me, so I'll just say it here.
-Dialogue: 30,0:20:52.00,0:20:55.33,Default,,0000,0000,0000,,I'm going with Suzu-san to the past.
-Dialogue: 30,0:20:52.91,0:20:59.21,On Top,,0000,0000,0000,,{\i1}There will be sadness,{\i}\N{\i1}delight, and farewells too{\i}
-Dialogue: 30,0:20:55.33,0:20:59.09,Default,,0000,0000,0000,,You'll probably be upset and are wondering why.
-Dialogue: 30,0:20:59.09,0:21:03.38,Default,,0000,0000,0000,,But, this is something I have to do.
-Dialogue: 30,0:20:59.21,0:21:05.68,On Top,,0000,0000,0000,,{\i1}With tears still in my eyes,{\i}\N{\i1}I raise my hand and slap your cheek{\i}
-Dialogue: 30,0:21:03.38,0:21:07.18,Default,,0000,0000,0000,,Because that day, I was the one who did it.
-Dialogue: 30,0:21:05.68,0:21:12.77,On Top,,0000,0000,0000,,{\i1}In that instant, something changes{\i}
-Dialogue: 30,0:21:07.18,0:21:10.18,Default,,0000,0000,0000,,No matter how bad things got,
-Dialogue: 30,0:21:10.18,0:21:14.27,Default,,0000,0000,0000,,my strong, strong Hikoboshi would\Nget back up with a great big laugh.
-Dialogue: 30,0:21:12.77,0:21:19.11,On Top,,0000,0000,0000,,{\i1}Though there's something our eyes{\i}\N{\i1}can't see, that's what we must protect{\i}
-Dialogue: 30,0:21:14.27,0:21:19.11,Default,,0000,0000,0000,,But I'm the one who hid him\Nbehind a bunch of dark clouds.
-Dialogue: 30,0:21:19.11,0:21:22.28,Default,,0000,0000,0000,,You see, I think I was wrong.
-Dialogue: 30,0:21:19.11,0:21:30.58,On Top,,0000,0000,0000,,{\i1}Even if it costs our lives,{\i}\N{\i1}that is the choice we all make{\i}
-Dialogue: 30,0:21:22.28,0:21:28.03,Default,,0000,0000,0000,,Everyone wasn't pushing the\Nweight of the future solely on Okarin.
-Dialogue: 30,0:21:28.03,0:21:32.70,Default,,0000,0000,0000,,Steins Gate must be\Nsomething we all find together.
-Dialogue: 30,0:21:32.70,0:21:34.54,Default,,0000,0000,0000,,Everyone's at your side.
-Dialogue: 30,0:21:34.54,0:21:38.00,Default,,0000,0000,0000,,Daru-kun's there, Suzu-san's there...
-Dialogue: 30,0:21:34.91,0:21:41.13,On Top,,0000,0000,0000,,{\i1}Crossing a great sea{\i}
-Dialogue: 30,0:21:38.00,0:21:43.55,Default,,0000,0000,0000,,...Luka-kun's there,\NFaris-chan's there, Yuki-san's there...
-Dialogue: 30,0:21:41.13,0:21:46.76,On Top,,0000,0000,0000,,{\i1}To reach the next important divergence{\i}
-Dialogue: 30,0:21:43.55,0:21:46.51,Default,,0000,0000,0000,,...and even Maho-san's there too.
-Dialogue: 30,0:21:46.51,0:21:49.39,Default,,0000,0000,0000,,So now it's my turn.
-Dialogue: 30,0:21:46.76,0:21:55.39,On Top,,0000,0000,0000,,{\i1}And the hero of our new future story{\i}
-Dialogue: 30,0:21:49.39,0:21:57.39,Default,,0000,0000,0000,,After all, since I'm Lab Member 002,\Nthis'll be my first very big mission!
-Dialogue: 30,0:21:55.39,0:22:02.82,On Top,,0000,0000,0000,,{\i1}We'll someday meet. Until that day{\i}
-Dialogue: 30,0:21:57.39,0:22:01.48,Default,,0000,0000,0000,,I'm sure Okarin will be worried,\Nbut it'll all be okay.
-Dialogue: 30,0:22:01.48,0:22:08.70,Default,,0000,0000,0000,,Besides, even if something does happen,\NI know in my heart that you'll come to save me.
-Dialogue: 30,0:22:08.70,0:22:15.91,Default,,0000,0000,0000,,The Hououin Kyouma I love so much will\Ncome swooping in on a brand-new time machine.
-Dialogue: 30,0:22:15.91,0:22:18.71,Default,,0000,0000,0000,,That's why I've decided to go.
-Dialogue: 30,0:22:18.71,0:22:23.09,Default,,0000,0000,0000,,I promise I'll come back,\Nso just wait for me, okay?
-Dialogue: 30,0:22:25.17,0:22:29.93,Default,,0000,0000,0000,,I... love Hououin Kyouma.
-Dialogue: 30,0:22:27.30,0:22:33.68,On Top,,0000,0000,0000,,{\i1}I stretch my hand to {\i}\N{\i1}the twinkling stars in the night sky{\i}
-Dialogue: 30,0:22:29.93,0:22:31.55,Default,,0000,0000,0000,,But, guess what?
-Dialogue: 30,0:22:31.55,0:22:35.85,Default,,0000,0000,0000,,I love Okabe Rintaro even more!
-Dialogue: 30,0:22:33.68,0:22:40.10,On Top,,0000,0000,0000,,{\i1}Both the memories and warm days revive,{\i}
-Dialogue: 30,0:22:40.10,0:22:46.40,On Top,,0000,0000,0000,,{\i1}Overflowing at that moment, at that place{\i}
-Dialogue: 30,0:22:46.40,0:22:53.53,On Top,,0000,0000,0000,,{\i1}Your words, the tears and laughter{\i}
-Dialogue: 30,0:22:53.53,0:23:00.17,On Top,,0000,0000,0000,,{\i1}Even if these memories are rewritten,{\i}
-Dialogue: 30,0:23:00.17,0:23:13.26,On Top,,0000,0000,0000,,{\i1}They'll sway in my heart, just like déjà vu{\i}
+Dialogue: 30,0:00:07.09,0:00:10.42,Default,,0,0,0,,Don't panic. The worldline hasn't changed.
+Dialogue: 30,0:00:10.42,0:00:13.30,Default,,0,0,0,,In which case, Mayuri and Suzuha are okay.
+Dialogue: 30,0:00:13.30,0:00:15.34,Default,,0,0,0,,This can't be where they...
+Dialogue: 30,0:00:21.27,0:00:22.89,Default,,0,0,0,,Mayuri...
+Dialogue: 30,0:00:24.06,0:00:26.69,Default,,0,0,0,,Howdy, Lintahlo.
+Dialogue: 30,0:00:29.94,0:00:31.86,Default,,0,0,0,,Professor Leskinen?
+Dialogue: 30,0:00:49.80,0:00:55.10,Default,,0,0,0,,{\i1}This is a life of fantasy,{\i}
+Dialogue: 30,0:00:55.10,0:01:01.02,Default,,0,0,0,,{\i1}Unaffected still by illusions.{\i}
+Dialogue: 30,0:01:02.02,0:01:12.87,Default,,0,0,0,,{\i1}Worldlines without end{\i}\N{\i1}are all deceived by an antinomy paradox{\i}
+Dialogue: 30,0:01:12.87,0:01:22.59,Default,,0,0,0,,{\i1}If I can dominate these emotions,{\i}\N{\i1}orbital ordering replacing even common sense,{\i}
+Dialogue: 30,0:01:22.59,0:01:24.77,Default,,0,0,0,,{\i1}Then my suffering{\i}
+Dialogue: 30,0:01:24.87,0:01:27.92,Default,,0,0,0,,{\i1}alone{\i}
+Dialogue: 30,0:01:27.92,0:01:34.68,Default,,0,0,0,,{\i1}is the gap to cross in this algorithm{\i}
+Dialogue: 30,0:01:34.68,0:01:35.77,Default,,0,0,0,,{\i1}I can fly high{\i}
+Dialogue: 30,0:01:35.77,0:01:38.52,Default,,0,0,0,,{\i1}Signs of love, words of love...{\i}
+Dialogue: 30,0:01:38.62,0:01:41.69,Default,,0,0,0,,{\i1}The memories flow back with total clarity{\i}
+Dialogue: 30,0:01:41.69,0:01:46.46,Default,,0,0,0,,{\i1}Never again will I forsake what lies beyond,{\i}
+Dialogue: 30,0:01:46.46,0:01:51.95,Default,,0,0,0,,{\i1}I want always to be by your side, hand-in-hand,{\i}
+Dialogue: 30,0:01:51.95,0:01:57.50,Default,,0,0,0,,{\i1}As this quantum entanglement forms Zero{\i}
+Dialogue: 30,0:01:57.50,0:02:02.83,Default,,0,0,0,,{\i1}There is no God. Wonderful new world.{\i}
+Dialogue: 30,0:02:09.25,0:02:10.88,Default,,0,0,0,,Big Sis Mayu!
+Dialogue: 30,0:02:14.84,0:02:16.59,Default,,0,0,0,,Reyes?
+Dialogue: 30,0:02:20.55,0:02:22.80,Default,,0,0,0,,What did you do... to Mommy?
+Dialogue: 30,0:02:22.80,0:02:24.10,Default,,0,0,0,,Eh?
+Dialogue: 30,0:02:35.73,0:02:37.15,Default,,0,0,0,,O-Open Fire!
+Dialogue: 30,0:02:52.46,0:02:53.84,Default,,0,0,0,,Don't be afraid!
+Dialogue: 30,0:02:59.22,0:03:02.01,Default,,0,0,0,,Aim for the body! Slow down her movements!
+Dialogue: 30,0:03:06.89,0:03:08.73,Default,,0,0,0,,Kagari!
+Dialogue: 30,0:03:14.56,0:03:17.57,Default,,0,0,0,,Curious how it's going up there on the roof?
+Dialogue: 30,0:03:17.57,0:03:19.36,Default,,0,0,0,,What do you mean by that?
+Dialogue: 30,0:03:19.36,0:03:21.20,Default,,0,0,0,,What are you doing here?
+Dialogue: 30,0:03:21.20,0:03:25.03,Default,,0,0,0,,It's not good manners to answer\Na question with a question, Lintahlo.
+Dialogue: 30,0:03:25.03,0:03:27.74,Default,,0,0,0,,I'll dock your grades.
+Dialogue: 30,0:03:27.74,0:03:32.37,Default,,0,0,0,,Though, to think you'd\Nshow up here so quickly...
+Dialogue: 30,0:03:32.37,0:03:37.55,Default,,0,0,0,,Who was it? Who gave you the big hint?
+Dialogue: 30,0:03:37.55,0:03:42.09,Default,,0,0,0,,Maho? No... I suppose\Nif it's anyone, it's [Kurisu].
+Dialogue: 30,0:03:42.09,0:03:44.39,Default,,0,0,0,,[Kurisu]?
+Dialogue: 30,0:03:44.39,0:03:46.22,Default,,0,0,0,,Our Father and God...
+Dialogue: 30,0:03:46.22,0:03:53.23,Default,,0,0,0,,To Amadeus, the professor who created\Nthe system is both father and God...
+Dialogue: 30,0:03:53.23,0:03:55.90,Default,,0,0,0,,Did she really say something like that?
+Dialogue: 30,0:03:55.90,0:03:58.44,Default,,0,0,0,,Has a nice ring to it.
+Dialogue: 30,0:03:58.44,0:04:03.82,Default,,0,0,0,,I feel kinda slick, for her\Nto praise me as a god like that.
+Dialogue: 30,0:04:03.82,0:04:06.74,Default,,0,0,0,,But, she also had this to say...
+Dialogue: 30,0:04:06.74,0:04:08.87,Default,,0,0,0,,Our most secret domains were unveiled,
+Dialogue: 30,0:04:08.87,0:04:12.75,Default,,0,0,0,,so we may tell Father the secrets of\Nmanipulating time and where they're at.
+Dialogue: 30,0:04:14.00,0:04:15.50,Default,,0,0,0,,So dim, Lintahlo.
+Dialogue: 30,0:04:15.50,0:04:20.42,Default,,0,0,0,,If you got a message saying all that,\Nyou should know the answer already.
+Dialogue: 30,0:04:21.80,0:04:25.14,Default,,0,0,0,,I'm afraid to say you're in too deep.
+Dialogue: 30,0:04:25.14,0:04:27.80,Default,,0,0,0,,You... Who the hell are you?!
+Dialogue: 30,0:04:29.18,0:04:31.18,Default,,0,0,0,,A scientist.
+Dialogue: 30,0:04:31.18,0:04:35.77,Default,,0,0,0,,Though, science isn't\Nalways a charity, you know?
+Dialogue: 30,0:04:35.77,0:04:39.77,Default,,0,0,0,,Perhaps you've heard of\Nthe company Strategic Focus?
+Dialogue: 30,0:04:39.77,0:04:42.90,Default,,0,0,0,,Strat... You mean Stratfo?!
+Dialogue: 30,0:04:42.90,0:04:47.91,Default,,0,0,0,,It's a private intelligence agency called\Na shadow CIA, among other things.
+Dialogue: 30,0:04:47.91,0:04:50.37,Default,,0,0,0,,Then you... from the very beginning!
+Dialogue: 30,0:04:50.37,0:04:52.58,Default,,0,0,0,,America, Russia...
+Dialogue: 30,0:04:52.58,0:04:59.63,Default,,0,0,0,,All the great powers escalate the conflict\Nto obtain a time machine starting this very day.
+Dialogue: 30,0:04:59.63,0:05:05.55,Default,,0,0,0,,I couldn't exactly act before that point\Nbecause everything was to converge.
+Dialogue: 30,0:05:05.55,0:05:10.35,Default,,0,0,0,,I've been itching with excitement\Nfor this day to finally come.
+Dialogue: 30,0:05:10.35,0:05:14.60,Default,,0,0,0,,I take it you know\Nwhat I'm getting at, Lintahlo.
+Dialogue: 30,0:05:14.60,0:05:16.56,Default,,0,0,0,,What the hell is going on?
+Dialogue: 30,0:05:16.56,0:05:19.48,Default,,0,0,0,,How does he know all that?
+Dialogue: 30,0:05:19.48,0:05:22.57,Default,,0,0,0,,Was it Hiyajo-san? Don't tell me she...
+Dialogue: 30,0:05:22.57,0:05:23.90,Default,,0,0,0,,No, it can't be...
+Dialogue: 30,0:05:23.90,0:05:28.57,Default,,0,0,0,,Kurisu's memories in Amadeus are\Nall from before she came to Japan.
+Dialogue: 30,0:05:28.57,0:05:30.37,Default,,0,0,0,,Then who could have...?
+Dialogue: 30,0:05:32.04,0:05:37.29,Default,,0,0,0,,The look on your face says you're dying\Nto know how I possibly knew all that.
+Dialogue: 30,0:05:37.29,0:05:38.54,Default,,0,0,0,,There's someone, right?
+Dialogue: 30,0:05:38.54,0:05:43.67,Default,,0,0,0,,One who knows everything,\Nbeing a little messenger from the future...
+Dialogue: 30,0:05:45.22,0:05:46.76,Default,,0,0,0,,Kagari?!
+Dialogue: 30,0:05:48.97,0:05:50.51,Default,,0,0,0,,Big Sis Mayu.
+Dialogue: 30,0:05:50.51,0:05:53.81,Default,,0,0,0,,Suzu-san...
+Dialogue: 30,0:05:53.81,0:05:58.60,Default,,0,0,0,,Stay still. That ricochet had to have\Ngrazed you, but you're still bleeding.
+Dialogue: 30,0:05:58.60,0:06:00.15,Default,,0,0,0,,That's...
+Dialogue: 30,0:06:04.36,0:06:05.82,Default,,0,0,0,,Don't look!
+Dialogue: 30,0:06:17.83,0:06:19.29,Default,,0,0,0,,Mommy...
+Dialogue: 30,0:06:27.05,0:06:28.63,Default,,0,0,0,,Mommy...
+Dialogue: 30,0:06:28.63,0:06:30.05,Default,,0,0,0,,What did you do...
+Dialogue: 30,0:06:30.05,0:06:32.26,Default,,0,0,0,,...to Mommy?!
+Dialogue: 30,0:06:33.81,0:06:39.10,Default,,0,0,0,,Are they still at it? And here\NI told her to avoid making a fuss...
+Dialogue: 30,0:06:50.86,0:06:51.99,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:06:53.20,0:06:54.78,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:07:09.88,0:07:11.34,Default,,0,0,0,,Kagari?
+Dialogue: 30,0:07:11.34,0:07:13.35,Default,,0,0,0,,Don't, Big Sis Mayu!
+Dialogue: 30,0:07:13.35,0:07:15.56,Default,,0,0,0,,What... is this?
+Dialogue: 30,0:07:15.56,0:07:17.35,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:07:22.56,0:07:23.90,Default,,0,0,0,,Mommy...
+Dialogue: 30,0:07:23.90,0:07:26.19,Default,,0,0,0,,Mommy, this isn't...
+Dialogue: 30,0:07:26.19,0:07:29.78,Default,,0,0,0,,I was... because Mommy...
+Dialogue: 30,0:07:31.36,0:07:33.16,Default,,0,0,0,,Mommy...
+Dialogue: 30,0:07:33.16,0:07:36.70,Default,,0,0,0,,Mommy... I'm sorry, Mommy.
+Dialogue: 30,0:07:36.70,0:07:38.16,Default,,0,0,0,,Kagari!
+Dialogue: 30,0:07:45.54,0:07:46.54,Default,,0,0,0,,Mommy...
+Dialogue: 30,0:07:46.54,0:07:48.55,Default,,0,0,0,,Stay still.
+Dialogue: 30,0:07:48.55,0:07:50.80,Default,,0,0,0,,Suzu-san...
+Dialogue: 30,0:07:50.80,0:07:51.88,Default,,0,0,0,,How's Mayuri?!
+Dialogue: 30,0:07:51.88,0:07:54.89,Default,,0,0,0,,Her head is a bit cut up, but she's fine.
+Dialogue: 30,0:07:54.89,0:07:56.55,Default,,0,0,0,,No other injuries.
+Dialogue: 30,0:07:56.55,0:07:59.89,Default,,0,0,0,,Good... Mayuri's okay.
+Dialogue: 30,0:07:59.89,0:08:02.31,Default,,0,0,0,,I see... Thank goodness.
+Dialogue: 30,0:08:02.31,0:08:04.02,Default,,0,0,0,,Don't try to talk.
+Dialogue: 30,0:08:04.02,0:08:07.82,Default,,0,0,0,,It's okay, don't worry about me.
+Dialogue: 30,0:08:07.82,0:08:12.95,Default,,0,0,0,,Because, even though I'm like this,\NI don't feel the pain at all...
+Dialogue: 30,0:08:12.95,0:08:14.74,Default,,0,0,0,,Don't try to be tough. Just—
+Dialogue: 30,0:08:14.74,0:08:18.03,Default,,0,0,0,,I hear the voice of God...
+Dialogue: 30,0:08:18.03,0:08:22.71,Default,,0,0,0,,Telling me it doesn't hurt...\NTelling me not to suffer...
+Dialogue: 30,0:08:22.71,0:08:26.00,Default,,0,0,0,,That's why... this doesn't...
+Dialogue: 30,0:08:26.00,0:08:28.67,Default,,0,0,0,,Kagari... Kagari!
+Dialogue: 30,0:08:31.80,0:08:35.39,Default,,0,0,0,,Suzu-san.
+Dialogue: 30,0:08:35.39,0:08:37.01,Default,,0,0,0,,Kagari-chan.
+Dialogue: 30,0:08:37.01,0:08:40.18,Default,,0,0,0,,Mommy? Thank goodness...
+Dialogue: 30,0:08:40.18,0:08:42.02,Default,,0,0,0,,Kagari...
+Dialogue: 30,0:08:42.02,0:08:45.15,Default,,0,0,0,,Big Sis Suzuha...
+Dialogue: 30,0:08:45.15,0:08:46.94,Default,,0,0,0,,I'm sorry.
+Dialogue: 30,0:08:46.94,0:08:52.94,Default,,0,0,0,,Whenever I hear the voice of God,\Neverything in my head gets messed up.
+Dialogue: 30,0:08:52.94,0:08:58.78,Default,,0,0,0,,God tells me... what I must do... and I do it.
+Dialogue: 30,0:08:58.78,0:09:02.33,Default,,0,0,0,,I'm... sorry...
+Dialogue: 30,0:09:02.33,0:09:04.08,Default,,0,0,0,,—Kagari-chan!\N—Kagari-chan!
+Dialogue: 30,0:09:05.83,0:09:09.79,Default,,0,0,0,,Looks like I missed the big party.
+Dialogue: 30,0:09:09.79,0:09:14.72,Default,,0,0,0,,The future's brainwashing and enhancement\Ntechniques sure are incredible.
+Dialogue: 30,0:09:14.72,0:09:15.97,Default,,0,0,0,,Professor!
+Dialogue: 30,0:09:15.97,0:09:18.39,Default,,0,0,0,,You did this... to Kagari!
+Dialogue: 30,0:09:18.39,0:09:21.51,Default,,0,0,0,,No, it was more of a joint effort.
+Dialogue: 30,0:09:21.51,0:09:24.43,Default,,0,0,0,,By me... and well, me.
+Dialogue: 30,0:09:24.43,0:09:27.48,Default,,0,0,0,,I don't know what exactly\Nyou're getting at, but...
+Dialogue: 30,0:09:27.48,0:09:30.73,Default,,0,0,0,,It's all your fault this happened to Kagari!
+Dialogue: 30,0:09:30.73,0:09:32.78,Default,,0,0,0,,What if I said you're right?
+Dialogue: 30,0:09:38.74,0:09:40.62,Default,,0,0,0,,You bastard!
+Dialogue: 30,0:09:40.62,0:09:43.37,Default,,0,0,0,,Good on you for stopping.
+Dialogue: 30,0:09:43.37,0:09:45.75,Default,,0,0,0,,Suzuha, I'm sorry...
+Dialogue: 30,0:09:49.92,0:09:51.54,Default,,0,0,0,,Suzuha!
+Dialogue: 30,0:09:55.88,0:09:57.63,Default,,0,0,0,,Professor...
+Dialogue: 30,0:09:59.47,0:10:03.56,Default,,0,0,0,,Maho, isn't this crazy? Hard to believe, I know.
+Dialogue: 30,0:10:03.56,0:10:08.10,Default,,0,0,0,,However, this was all destined\Nto happen ahead of time.
+Dialogue: 30,0:10:08.10,0:10:10.19,Default,,0,0,0,,Destined to happen?
+Dialogue: 30,0:10:10.19,0:10:14.28,Default,,0,0,0,,Observation and insight\Nis what sets scientists apart.
+Dialogue: 30,0:10:14.28,0:10:20.16,Default,,0,0,0,,Didn't you hear what I said?\NThis is a joint effort between me and myself.
+Dialogue: 30,0:10:20.16,0:10:22.20,Default,,0,0,0,,Spanning across time.
+Dialogue: 30,0:10:22.20,0:10:23.45,Default,,0,0,0,,Time?!
+Dialogue: 30,0:10:23.45,0:10:24.45,Default,,0,0,0,,It can't be!
+Dialogue: 30,0:10:24.45,0:10:29.54,Default,,0,0,0,,13 years ago, when for the\Nvery first time Kagari approached me,
+Dialogue: 30,0:10:29.54,0:10:32.96,Default,,0,0,0,,can you guess what she said?
+Dialogue: 30,0:10:36.38,0:10:39.05,Default,,0,0,0,,I hear the voice of God.
+Dialogue: 30,0:10:39.05,0:10:41.09,Default,,0,0,0,,God?
+Dialogue: 30,0:10:41.09,0:10:44.81,Default,,0,0,0,,The future you... is calling me.
+Dialogue: 30,0:10:51.27,0:10:54.15,Default,,0,0,0,,The future... Professor?
+Dialogue: 30,0:10:59.15,0:11:02.03,Default,,0,0,0,,That's right. Can you believe it?
+Dialogue: 30,0:11:02.03,0:11:06.70,Default,,0,0,0,,Me in the future sent Kagari back into the past.
+Dialogue: 30,0:11:06.70,0:11:10.62,Default,,0,0,0,,All so I could obtain\Nthe power of manipulating time.
+Dialogue: 30,0:11:10.62,0:11:12.54,Default,,0,0,0,,The future you did?
+Dialogue: 30,0:11:12.54,0:11:14.63,Default,,0,0,0,,Then, Kagari was...
+Dialogue: 30,0:11:14.63,0:11:17.13,Default,,0,0,0,,And what an intricate plan it was.
+Dialogue: 30,0:11:17.13,0:11:22.39,Default,,0,0,0,,In order to track the movements of the\Nresistance you form in the distant future...
+Dialogue: 30,0:11:22.39,0:11:27.64,Default,,0,0,0,,...I trained countless young girls\Nand boys to act as spies and infiltrate in.
+Dialogue: 30,0:11:27.64,0:11:31.77,Default,,0,0,0,,You're all so softhearted,\Nyou fell right for the bait.
+Dialogue: 30,0:11:33.15,0:11:37.07,Default,,0,0,0,,But see, then came the pinnacle of my plan.
+Dialogue: 30,0:11:37.07,0:11:41.49,Default,,0,0,0,,If somehow or another,\Nyou managed to escape to the past...
+Dialogue: 30,0:11:41.49,0:11:47.45,Default,,0,0,0,,I made sure to send along a messenger\Nto my past self... using brainwashing.
+Dialogue: 30,0:11:52.08,0:11:55.21,Default,,0,0,0,,I could hardly believe it myself.
+Dialogue: 30,0:11:55.21,0:12:01.34,Default,,0,0,0,,But the more and more I researched,\NI began to realize her story checked out.
+Dialogue: 30,0:12:01.34,0:12:07.39,Default,,0,0,0,,I concluded the time machine was real\Nand that Kagari actually came from the future.
+Dialogue: 30,0:12:07.39,0:12:10.85,Default,,0,0,0,,Then, did you make Amadeus because...
+Dialogue: 30,0:12:10.85,0:12:14.56,Default,,0,0,0,,Correct. Because Kurisu goes and dies.
+Dialogue: 30,0:12:14.56,0:12:18.40,Default,,0,0,0,,I needed a system that preserved\Nher precious time machine theory
+Dialogue: 30,0:12:18.40,0:12:21.15,Default,,0,0,0,,and all those memories of hers.
+Dialogue: 30,0:12:21.15,0:12:23.99,Default,,0,0,0,,Professor! That's what you did it for?!
+Dialogue: 30,0:12:23.99,0:12:27.99,Default,,0,0,0,,You basically let Kurisu die?! Professor!
+Dialogue: 30,0:12:27.99,0:12:34.87,Default,,0,0,0,,Everything I did was long, tiresome groundwork\Nto come steal the time machine today.
+Dialogue: 30,0:12:34.87,0:12:38.13,Default,,0,0,0,,Defy causality, overcome convergence...
+Dialogue: 30,0:12:38.13,0:12:40.46,Default,,0,0,0,,It's the grand plan of my future self,
+Dialogue: 30,0:12:40.46,0:12:45.13,Default,,0,0,0,,all so I can shape the\Nways of this world on my own.
+Dialogue: 30,0:12:46.51,0:12:48.05,Default,,0,0,0,,You would go that far?!
+Dialogue: 30,0:12:48.05,0:12:52.10,Default,,0,0,0,,Once you obtained the time machine,\Nwhat were you planning to do?!
+Dialogue: 30,0:12:52.10,0:12:56.85,Default,,0,0,0,,Lintahlo... You fail to grasp\Nthe essence of science.
+Dialogue: 30,0:12:58.48,0:13:00.19,Default,,0,0,0,,The thing about scientists...
+Dialogue: 30,0:13:00.19,0:13:03.28,Default,,0,0,0,,We experiment in hopes\Nthat our theories prove true,
+Dialogue: 30,0:13:03.28,0:13:06.66,Default,,0,0,0,,and observing just that is what we live for.
+Dialogue: 30,0:13:06.66,0:13:11.87,Default,,0,0,0,,The future me has such a theory\Nand the past me will set out to prove it.
+Dialogue: 30,0:13:11.87,0:13:15.29,Default,,0,0,0,,That's all it is. It's what I always do.
+Dialogue: 30,0:13:15.29,0:13:17.50,Default,,0,0,0,,You'll make a time paradox!
+Dialogue: 30,0:13:17.50,0:13:21.05,Default,,0,0,0,,Aren't you afraid of breaking\Nthe world beyond repair?!
+Dialogue: 30,0:13:21.05,0:13:25.26,Default,,0,0,0,,If that sort of thing does happen,\NI'd like to see it for myself.
+Dialogue: 30,0:13:31.76,0:13:37.23,Default,,0,0,0,,I guess if she's dead, all that future\Nbrainwashing doesn't help all too much.
+Dialogue: 30,0:13:39.94,0:13:41.69,Default,,0,0,0,,You...
+Dialogue: 30,0:13:41.69,0:13:44.61,Default,,0,0,0,,You're a true mad scientist!
+Dialogue: 30,0:13:48.66,0:13:52.37,Default,,0,0,0,,I couldn't ask for a better\Ncompliment than that, Lintahlo!
+Dialogue: 30,0:13:54.16,0:13:56.71,Default,,0,0,0,,Could you step out of my way now?
+Dialogue: 30,0:14:01.92,0:14:04.96,Default,,0,0,0,,This place will be a battlefield before long.
+Dialogue: 30,0:14:04.96,0:14:07.93,Default,,0,0,0,,With this time machine at the center of it all.
+Dialogue: 30,0:14:07.93,0:14:10.05,Default,,0,0,0,,Battlefield?
+Dialogue: 30,0:14:10.05,0:14:13.47,Default,,0,0,0,,There's Dr. Nakabachi's paper\Nwho defected to Russia.
+Dialogue: 30,0:14:13.47,0:14:19.06,Default,,0,0,0,,Plus, there's the info regarding the\Ntime machine I handed over to Stratfo.
+Dialogue: 30,0:14:19.06,0:14:25.86,Default,,0,0,0,,That information war evolves into both sides\Nshowing up in force this very day, of all days.
+Dialogue: 30,0:14:25.86,0:14:28.95,Default,,0,0,0,,History says the\Ntime machine is destroyed here.
+Dialogue: 30,0:14:28.95,0:14:35.29,Default,,0,0,0,,But it doesn't exist for another 25 years\Nwhen it's developed based on the theory.
+Dialogue: 30,0:14:35.29,0:14:39.42,Default,,0,0,0,,Though, what if someone\Nstole it at the perfect time?
+Dialogue: 30,0:14:39.42,0:14:44.13,Default,,0,0,0,,What if they fake its destruction\Nand went into the past?
+Dialogue: 30,0:14:44.13,0:14:46.67,Default,,0,0,0,,Is that what your plan is?!
+Dialogue: 30,0:14:46.67,0:14:49.72,Default,,0,0,0,,It's been 10 odd years since meeting Kagari.
+Dialogue: 30,0:14:49.72,0:14:51.64,Default,,0,0,0,,Such a long time...
+Dialogue: 30,0:14:53.10,0:14:57.10,Default,,0,0,0,,—I've come so far, but it's time—\N—I hear...
+Dialogue: 30,0:14:57.10,0:14:59.64,Default,,0,0,0,,I hear...
+Dialogue: 30,0:14:59.64,0:15:01.69,Default,,0,0,0,,...the voice of God.
+Dialogue: 30,0:15:03.44,0:15:05.32,Default,,0,0,0,,Get your hands off me.
+Dialogue: 30,0:15:24.25,0:15:26.75,Default,,0,0,0,,It's too early to get knocked out!
+Dialogue: 30,0:15:26.75,0:15:30.13,Default,,0,0,0,,Kagari suffered a\Nthousand times worse than this!
+Dialogue: 30,0:15:30.13,0:15:31.59,Default,,0,0,0,,Way worse! Way worse!
+Dialogue: 30,0:15:31.59,0:15:34.18,Default,,0,0,0,,—She hurt way worse than this!\N—Stop it, Suzuha!
+Dialogue: 30,0:15:34.18,0:15:37.18,Default,,0,0,0,,Get up! You damn... You damn...!
+Dialogue: 30,0:15:37.18,0:15:38.64,Default,,0,0,0,,Suzuha!
+Dialogue: 30,0:15:38.64,0:15:41.39,Default,,0,0,0,,Let go! Don't stop me!
+Dialogue: 30,0:15:41.39,0:15:43.77,Default,,0,0,0,,Suzuha!
+Dialogue: 30,0:15:43.77,0:15:45.77,Default,,0,0,0,,That's enough, Suzuha.
+Dialogue: 30,0:15:47.69,0:15:49.49,Default,,0,0,0,,Dad...
+Dialogue: 30,0:15:49.49,0:15:53.24,Default,,0,0,0,,If you kill the guy, you're the same as him.
+Dialogue: 30,0:16:11.72,0:16:13.55,Default,,0,0,0,,Kagari-chan...
+Dialogue: 30,0:16:13.55,0:16:15.18,Default,,0,0,0,,Kagari-chan!
+Dialogue: 30,0:16:17.76,0:16:21.64,Default,,0,0,0,,Kagari-chan? Look, it's Suzu-san.
+Dialogue: 30,0:16:21.64,0:16:29.03,Default,,0,0,0,,It's the same hand that...\Nheld mine when... I was... scared.
+Dialogue: 30,0:16:29.03,0:16:30.65,Default,,0,0,0,,So warm...
+Dialogue: 30,0:16:30.65,0:16:32.40,Default,,0,0,0,,Kagari...
+Dialogue: 30,0:16:32.40,0:16:37.99,Default,,0,0,0,,I'm sorry, Big Sis Suzuha...
+Dialogue: 30,0:16:37.99,0:16:39.41,Default,,0,0,0,,Sorry...
+Dialogue: 30,0:16:41.12,0:16:45.92,Default,,0,0,0,,Kagari... Kagari!
+Dialogue: 30,0:16:45.92,0:16:47.67,Default,,0,0,0,,Why?
+Dialogue: 30,0:16:47.67,0:16:49.55,Default,,0,0,0,,Why did it come to this?
+Dialogue: 30,0:16:52.59,0:16:53.76,Default,,0,0,0,,What the—
+Dialogue: 30,0:16:56.26,0:16:57.39,Default,,0,0,0,,Run!
+Dialogue: 30,0:17:05.52,0:17:06.44,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:17:06.44,0:17:08.27,Default,,0,0,0,,It's okay! She's not hurt!
+Dialogue: 30,0:17:10.36,0:17:11.86,Default,,0,0,0,,Find the professor!
+Dialogue: 30,0:17:16.99,0:17:18.24,Default,,0,0,0,,This is...
+Dialogue: 30,0:17:18.24,0:17:21.12,Default,,0,0,0,,Suzu-san, let's go!
+Dialogue: 30,0:17:21.12,0:17:23.91,Default,,0,0,0,,The time machine will be destroyed soon, right?
+Dialogue: 30,0:17:27.04,0:17:31.34,Default,,0,0,0,,We have to go before that!\NGo, and change the future!
+Dialogue: 30,0:17:32.96,0:17:34.17,Default,,0,0,0,,Is that DURPA?!
+Dialogue: 30,0:17:34.17,0:17:36.18,Default,,0,0,0,,For Kagari-chan too!
+Dialogue: 30,0:17:37.59,0:17:38.47,Default,,0,0,0,,Get in!
+Dialogue: 30,0:17:38.47,0:17:39.51,Default,,0,0,0,,Right!
+Dialogue: 30,0:17:39.51,0:17:41.93,Default,,0,0,0,,W-Wait, Mayuri!
+Dialogue: 30,0:17:46.64,0:17:48.10,Default,,0,0,0,,Okarin!
+Dialogue: 30,0:17:50.31,0:17:52.36,Default,,0,0,0,,Why?
+Dialogue: 30,0:17:52.36,0:17:55.78,Default,,0,0,0,,Why do you think you've got to do this?!
+Dialogue: 30,0:17:55.78,0:17:57.86,Default,,0,0,0,,Mayuri! Mayuri!
+Dialogue: 30,0:17:57.86,0:18:00.66,Default,,0,0,0,,Mayushii has to go!
+Dialogue: 30,0:18:01.83,0:18:05.79,Default,,0,0,0,,Because, this is...
+Dialogue: 30,0:18:05.79,0:18:08.54,Default,,0,0,0,,...Operation Arc-light!
+Dialogue: 30,0:18:11.34,0:18:14.30,Default,,0,0,0,,Arc-light?
+Dialogue: 30,0:18:14.30,0:18:16.05,Default,,0,0,0,,Big Sis Mayu!
+Dialogue: 30,0:18:16.05,0:18:18.93,Default,,0,0,0,,Mayuri! Wait, Mayuri!
+Dialogue: 30,0:18:21.30,0:18:22.47,Default,,0,0,0,,Suzuha...
+Dialogue: 30,0:18:22.47,0:18:24.93,Default,,0,0,0,,Shit! Secure the target!
+Dialogue: 30,0:18:29.15,0:18:30.52,Default,,0,0,0,,Owowow...
+Dialogue: 30,0:18:30.52,0:18:33.73,Default,,0,0,0,,Is this seriously happening in Tokyo?!
+Dialogue: 30,0:18:33.73,0:18:34.90,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:18:34.90,0:18:35.86,Default,,0,0,0,,Here we go.
+Dialogue: 30,0:18:35.86,0:18:37.24,Default,,0,0,0,,Right!
+Dialogue: 30,0:18:52.08,0:18:54.30,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:19:12.69,0:19:16.36,Default,,0,0,0,,This is... the time machine's.
+Dialogue: 30,0:19:16.36,0:19:18.49,Default,,0,0,0,,Did they not make it in time?
+Dialogue: 30,0:19:19.86,0:19:21.53,Default,,0,0,0,,Suzuha...
+Dialogue: 30,0:19:22.49,0:19:23.82,Default,,0,0,0,,Mayuri...
+Dialogue: 30,0:19:25.49,0:19:27.24,Default,,0,0,0,,Mayuri...
+Dialogue: 30,0:19:30.92,0:19:32.92,Default,,0,0,0,,Okabe-san?
+Dialogue: 30,0:19:35.13,0:19:36.71,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:19:41.80,0:19:45.14,Default,,0,0,0,,Mayuri... Mayuri!
+Dialogue: 30,0:19:46.97,0:19:48.68,Default,,0,0,0,,Mayuri!
+Dialogue: 30,0:19:53.48,0:19:55.61,Default,,0,0,0,,It's still incomplete.
+Dialogue: 30,0:19:57.69,0:19:59.36,Default,,0,0,0,,Why?
+Dialogue: 30,0:19:59.36,0:20:02.86,Default,,0,0,0,,Why did this happen?
+Dialogue: 30,0:20:02.86,0:20:04.37,Default,,0,0,0,,Okarin...
+Dialogue: 30,0:20:08.41,0:20:13.87,Default,,0,0,0,,I... I chose this worldline because\NI thought it was the best choice!
+Dialogue: 30,0:20:08.95,0:20:13.04,On Top,,0,0,0,,{\i1}I can't become Orihime{\i}
+Dialogue: 30,0:20:13.87,0:20:19.59,Default,,0,0,0,,This... This was the one and only\Nworldline built upon Kurisu's sacrifice!
+Dialogue: 30,0:20:14.79,0:20:21.55,On Top,,0,0,0,,{\i1}My strength alone is not enough to support you{\i}
+Dialogue: 30,0:20:19.59,0:20:24.09,Default,,0,0,0,,And yet... And yet, why?
+Dialogue: 30,0:20:21.55,0:20:26.51,On Top,,0,0,0,,{\i1}But I'm so afraid of being apart{\i}
+Dialogue: 30,0:20:24.09,0:20:25.85,Default,,0,0,0,,Why?
+Dialogue: 30,0:20:25.85,0:20:27.60,Default,,0,0,0,,Why?!
+Dialogue: 30,0:20:26.51,0:20:31.73,On Top,,0,0,0,,{\i1}That I pray. I wonder, is that also love?{\i}
+Dialogue: 30,0:20:31.73,0:20:33.31,On Top,,0,0,0,,{\i1}That I pray. I wonder, is that also love?{\i}
+Dialogue: 30,0:20:33.31,0:20:35.48,On Top,,0,0,0,,{\i1}That I pray. I wonder, is that also love?{\i}
+Dialogue: 30,0:20:34.02,0:20:36.31,Default,,0,0,0,,Mayuri?
+Dialogue: 30,0:20:35.48,0:20:39.40,On Top,,0,0,0,,{\i1}Each and every moment we hold so dear{\i}
+Dialogue: 30,0:20:36.31,0:20:37.69,Default,,0,0,0,,Dear Okarin.
+Dialogue: 30,0:20:37.69,0:20:40.69,Default,,0,0,0,,Tutturu! It's Mayushii!
+Dialogue: 30,0:20:39.40,0:20:41.28,On Top,,0,0,0,,{\i1}Each and every moment we hold so dear{\i}
+Dialogue: 30,0:20:40.69,0:20:46.57,Default,,0,0,0,,The truth is, I wanted to talk to you in person,\Nbut I didn't know if could get it all out.
+Dialogue: 30,0:20:41.28,0:20:42.40,On Top,,0,0,0,,{\i1}Together you and I, we go back to that place{\i}
+Dialogue: 30,0:20:42.40,0:20:46.49,On Top,,0,0,0,,{\i1}Each and every moment we hold so dear{\i}
+Dialogue: 30,0:20:46.49,0:20:52.91,On Top,,0,0,0,,{\i1}No matter how brilliant,{\i}\N{\i1}how bright, a worldline may be{\i}
+Dialogue: 30,0:20:46.57,0:20:52.00,Default,,0,0,0,,Plus, I was worried Okarin might\Ntry to stop me, so I'll just say it here.
+Dialogue: 30,0:20:52.00,0:20:55.33,Default,,0,0,0,,I'm going with Suzu-san to the past.
+Dialogue: 30,0:20:52.91,0:20:59.21,On Top,,0,0,0,,{\i1}There will be sadness,{\i}\N{\i1}delight, and farewells too{\i}
+Dialogue: 30,0:20:55.33,0:20:59.09,Default,,0,0,0,,You'll probably be upset and are wondering why.
+Dialogue: 30,0:20:59.09,0:21:03.38,Default,,0,0,0,,But, this is something I have to do.
+Dialogue: 30,0:20:59.21,0:21:05.68,On Top,,0,0,0,,{\i1}With tears still in my eyes,{\i}\N{\i1}I raise my hand and slap your cheek{\i}
+Dialogue: 30,0:21:03.38,0:21:07.18,Default,,0,0,0,,Because that day, I was the one who did it.
+Dialogue: 30,0:21:05.68,0:21:12.77,On Top,,0,0,0,,{\i1}In that instant, something changes{\i}
+Dialogue: 30,0:21:07.18,0:21:10.18,Default,,0,0,0,,No matter how bad things got,
+Dialogue: 30,0:21:10.18,0:21:14.27,Default,,0,0,0,,my strong, strong Hikoboshi would\Nget back up with a great big laugh.
+Dialogue: 30,0:21:12.77,0:21:19.11,On Top,,0,0,0,,{\i1}Though there's something our eyes{\i}\N{\i1}can't see, that's what we must protect{\i}
+Dialogue: 30,0:21:14.27,0:21:19.11,Default,,0,0,0,,But I'm the one who hid him\Nbehind a bunch of dark clouds.
+Dialogue: 30,0:21:19.11,0:21:22.28,Default,,0,0,0,,You see, I think I was wrong.
+Dialogue: 30,0:21:19.11,0:21:30.58,On Top,,0,0,0,,{\i1}Even if it costs our lives,{\i}\N{\i1}that is the choice we all make{\i}
+Dialogue: 30,0:21:22.28,0:21:28.03,Default,,0,0,0,,Everyone wasn't pushing the\Nweight of the future solely on Okarin.
+Dialogue: 30,0:21:28.03,0:21:32.70,Default,,0,0,0,,Steins Gate must be\Nsomething we all find together.
+Dialogue: 30,0:21:32.70,0:21:34.54,Default,,0,0,0,,Everyone's at your side.
+Dialogue: 30,0:21:34.54,0:21:38.00,Default,,0,0,0,,Daru-kun's there, Suzu-san's there...
+Dialogue: 30,0:21:34.91,0:21:41.13,On Top,,0,0,0,,{\i1}Crossing a great sea{\i}
+Dialogue: 30,0:21:38.00,0:21:43.55,Default,,0,0,0,,...Luka-kun's there,\NFaris-chan's there, Yuki-san's there...
+Dialogue: 30,0:21:41.13,0:21:46.76,On Top,,0,0,0,,{\i1}To reach the next important divergence{\i}
+Dialogue: 30,0:21:43.55,0:21:46.51,Default,,0,0,0,,...and even Maho-san's there too.
+Dialogue: 30,0:21:46.51,0:21:49.39,Default,,0,0,0,,So now it's my turn.
+Dialogue: 30,0:21:46.76,0:21:55.39,On Top,,0,0,0,,{\i1}And the hero of our new future story{\i}
+Dialogue: 30,0:21:49.39,0:21:57.39,Default,,0,0,0,,After all, since I'm Lab Member 002,\Nthis'll be my first very big mission!
+Dialogue: 30,0:21:55.39,0:22:02.82,On Top,,0,0,0,,{\i1}We'll someday meet. Until that day{\i}
+Dialogue: 30,0:21:57.39,0:22:01.48,Default,,0,0,0,,I'm sure Okarin will be worried,\Nbut it'll all be okay.
+Dialogue: 30,0:22:01.48,0:22:08.70,Default,,0,0,0,,Besides, even if something does happen,\NI know in my heart that you'll come to save me.
+Dialogue: 30,0:22:08.70,0:22:15.91,Default,,0,0,0,,The Hououin Kyouma I love so much will\Ncome swooping in on a brand-new time machine.
+Dialogue: 30,0:22:15.91,0:22:18.71,Default,,0,0,0,,That's why I've decided to go.
+Dialogue: 30,0:22:18.71,0:22:23.09,Default,,0,0,0,,I promise I'll come back,\Nso just wait for me, okay?
+Dialogue: 30,0:22:25.17,0:22:29.93,Default,,0,0,0,,I... love Hououin Kyouma.
+Dialogue: 30,0:22:27.30,0:22:33.68,On Top,,0,0,0,,{\i1}I stretch my hand to {\i}\N{\i1}the twinkling stars in the night sky{\i}
+Dialogue: 30,0:22:29.93,0:22:31.55,Default,,0,0,0,,But, guess what?
+Dialogue: 30,0:22:31.55,0:22:35.85,Default,,0,0,0,,I love Okabe Rintaro even more!
+Dialogue: 30,0:22:33.68,0:22:40.10,On Top,,0,0,0,,{\i1}Both the memories and warm days revive,{\i}
+Dialogue: 30,0:22:40.10,0:22:46.40,On Top,,0,0,0,,{\i1}Overflowing at that moment, at that place{\i}
+Dialogue: 30,0:22:46.40,0:22:53.53,On Top,,0,0,0,,{\i1}Your words, the tears and laughter{\i}
+Dialogue: 30,0:22:53.53,0:23:00.17,On Top,,0,0,0,,{\i1}Even if these memories are rewritten,{\i}
+Dialogue: 30,0:23:00.17,0:23:13.26,On Top,,0,0,0,,{\i1}They'll sway in my heart, just like déjà vu{\i}
