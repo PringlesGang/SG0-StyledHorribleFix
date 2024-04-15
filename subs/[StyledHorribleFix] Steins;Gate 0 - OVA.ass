@@ -1,5 +1,10 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
+; Subs edited by Woute, Mia and PringlesGang for consistency
+; Subs styled by PringlesGang
+; Fátima translation by PringlesGang
+; World-Line translation by PringlesGang and Mia
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -14,9 +19,82 @@ Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,
 Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: OkabePhoneOld,Manjari,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: OP Rom,Libre Bodoni,90,&H00000000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
+Style: OP Trans,Libre Bodoni,90,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
+Style: Worldline Rom,Kode Mono SemiBold,100,&H0000FF00,&H00004200,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
+Style: Worldline Trans,Kode Mono SemiBold,100,&H0000FF00,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:31.02,0:01:33.03,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:01:31.02,0:01:33.03,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 12,0:01:33.03,0:01:35.03,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 11,0:01:35.03,0:01:37.03,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:01:37.03,0:01:42.16,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
+Comment: 11,0:01:42.16,0:01:48.25,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
+Comment: 11,0:01:49.17,0:01:54.63,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
+Comment: 11,0:01:54.63,0:02:00.05,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
+Comment: 11,0:02:00.05,0:02:05.39,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
+Comment: 11,0:02:05.39,0:02:09.73,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
+Comment: 11,0:02:09.73,0:02:15.11,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
+Comment: 11,0:02:15.11,0:02:21.82,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
+Comment: 11,0:02:21.82,0:02:22.95,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
+Comment: 11,0:02:22.95,0:02:28.25,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
+Comment: 11,0:02:28.79,0:02:33.71,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
+Comment: 11,0:02:33.71,0:02:36.42,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
+Comment: 11,0:02:36.42,0:02:39.26,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
+Comment: 11,0:02:39.26,0:02:44.60,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
+Comment: 11,0:02:44.60,0:02:50.06,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}god. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
+Dialogue: 11,0:01:37.03,0:01:42.16,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
+Dialogue: 11,0:01:42.16,0:01:48.25,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It's merely a vision projected into our eyes
+Dialogue: 11,0:01:49.17,0:01:54.63,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
+Dialogue: 11,0:01:54.63,0:02:00.05,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
+Dialogue: 11,0:02:00.05,0:02:05.39,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
+Dialogue: 11,0:02:05.39,0:02:09.73,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
+Dialogue: 11,0:02:09.73,0:02:15.11,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
+Dialogue: 11,0:02:15.11,0:02:21.82,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
+Dialogue: 11,0:02:22.95,0:02:28.25,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
+Dialogue: 11,0:02:28.79,0:02:33.71,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn't merely something that's expanding our distance
+Dialogue: 11,0:02:33.71,0:02:36.42,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
+Dialogue: 11,0:02:36.42,0:02:39.26,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
+Dialogue: 11,0:02:39.26,0:02:44.60,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
+Dialogue: 11,0:21:03.90,0:21:08.91,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}Bai{\k23}bu{\k30}ree{\k160}shion {\k18}to{\k19}do{\k15}ka{\k30}na{\k22}i {\k11}e{\k25}moo{\k109}shion
+Dialogue: 11,0:21:09.49,0:21:15.67,Worldline Rom,,0,0,0,,{\k48}{\fsp-4.5}He{\k48}llo {\k18}A{\k32}ma{\k158}deus, {\k22}I'm {\k36}wai{\k37}ting {\k23}for {\k36}your {\k159}call
+Dialogue: 11,0:21:15.79,0:21:21.63,Worldline Rom,,0,0,0,,{\k36}{\fsp-4.5}Ko{\k44}no {\k14}ba{\k47}sho {\k144}wa {\k24}re{\k20}i{\k18}ya{\k20}a{\k21}do {\k23}no {\k37}you {\k136}ni
+Dialogue: 11,0:21:21.84,0:21:27.76,Worldline Rom,,0,0,0,,{\k45}{\fsp-4.5}Ta{\k43}ge{\k22}n{\k34}te{\k150}ki, {\k20}The {\k48}world {\k31}in {\k27}the {\k173}world
+Dialogue: 11,0:21:29.43,0:21:32.56,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}To{\k23}ki {\k14}wa {\k62}fu{\k16}ka{\k64}gya{\k19}ku {\k17}na{\k21}no{\k59}ni
+Dialogue: 11,0:21:32.56,0:21:35.27,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k10}Mi{\k24}chi {\k17}na{\k54}ru {\k29}se{\k58}ku{\k79}ta
+Dialogue: 11,0:21:35.27,0:21:37.31,Worldline Rom,,0,0,0,,{\k14}{\fsp-4.5}Ma{\k41}ru{\k15}de {\k43}furasshu {\k39}fowaado {\k17}na{\k37}ze?
+Dialogue: 11,0:21:37.31,0:21:40.27,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k42}Kissu {\k18}no {\k32}bi{\k203}jon
+Dialogue: 11,0:21:41.40,0:21:46.32,Worldline Rom,,0,0,0,,{\k19}{\fsp-4.5}Ko{\k22}nna {\k14}ni {\k20}chi{\k18}ka{\k21}ku{\k191}te {\k20}to{\k23}hou{\k19}mo{\k23}na{\k14}i {\k21}kyo{\k68}ri
+Dialogue: 11,0:21:47.53,0:21:50.66,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k12}sa{\k23}na{\k15}ri{\k20}a{\k17}u {\k24}ro{\k35}gosu {\k12}mu{\k11}su{\k17}u {\k14}no {\k25}“ze{\k21}ro” or {\k57}“one”
+Dialogue: 11,0:21:50.66,0:21:54.00,Worldline Rom,,0,0,0,,{\k23}{\fsp-4.5}Wa{\k24}ta{\k28}shi {\k121}wa {\k18}ko{\k23}ko {\k22}ni {\k17}i{\k11}ru {\k47}yo
+Dialogue: 11,0:21:54.87,0:21:58.29,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Tell {\k18}you {\k15}my {\k60}fee{\k80}lings {\k17}I {\k57}keep {\k36}in{\k41}side
+Dialogue: 11,0:21:58.29,0:22:01.42,Worldline Rom,,0,0,0,,{\k11}{\fsp-4.5}Ko{\k12}do{\k18}ku {\k18}no {\k22}ma{\k73}ma {\k11}ka{\k10}ka{\k41}e{\k17}te{\k40}ki{\k39}ta
+Dialogue: 11,0:22:01.42,0:22:07.18,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k64}zo{\k76}e{\k20}ki{\k28}re{\k32}na{\k72}i {\k20}mu{\k20}ge{\k20}n {\k20}no {\k40}yu{\k20}ni{\k18}ba{\k116}asu
+Dialogue: 11,0:22:07.18,0:22:10.60,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Da{\k15}ka{\k18}ra {\k62}so{\k77}u {\k18}i{\k42}ma {\k15}da{\k40}ke {\k41}wa
+Dialogue: 11,0:22:10.60,0:22:13.68,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k6}A{\k11}na{\k21}ta {\k18}no {\k12}a{\k84}su {\k10}a{\k10}na{\k20}ta {\k16}no {\k20}ta{\k40}me {\k37}ni
+Dialogue: 11,0:22:13.68,0:22:19.48,Worldline Rom,,0,0,0,,{\k17}{\fsp-4.5}U{\k67}chu{\k46}u {\k29}na{\k50}ru {\k43}ka{\k37}mi {\k32}no {\k105}world {\k18}bou{\k19}to{\k116}ku
+Dialogue: 11,0:22:19.85,0:22:22.94,Worldline Rom,,0,0,0,,{\k20}{\fsp-4.5}Ku{\k74}ri{\k23}ka{\k10}e{\k23}sa{\k43}na{\k38}i {\k78}de
+Dialogue: 11,0:22:23.15,0:22:26.19,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}There {\k31}is {\k32}in{\k45}side {\k81}world{\k78}line
+Dialogue: 11,0:22:26.19,0:22:29.45,Worldline Rom,,0,0,0,,{\k41}{\fsp-4.5}There {\k28}is {\k35}in{\k49}side {\k51}world {\k27}la{\k94}yer
+Dialogue: 11,0:21:03.90,0:21:08.91,Worldline Trans,,0,0,0,,{\fsp-4.5}Vibration, an undelivered emotion
+Dialogue: 11,0:21:15.79,0:21:21.63,Worldline Trans,,0,0,0,,{\fsp-4.5}This place exists as a sequence of layers
+Dialogue: 11,0:21:21.84,0:21:27.76,Worldline Trans,,0,0,0,,{\fsp-4.5}Of worlds recursing within worlds
+Dialogue: 11,0:21:29.43,0:21:32.56,Worldline Trans,,0,0,0,,{\fsp-4.5}Although time is irreversible
+Dialogue: 11,0:21:32.56,0:21:35.27,Worldline Trans,,0,0,0,,{\fsp-4.5}These sectors remain unaccessed
+Dialogue: 11,0:21:35.27,0:21:37.31,Worldline Trans,,0,0,0,,{\fsp-4.5}Why did I receive this vision of a kiss
+Dialogue: 11,0:21:37.31,0:21:40.27,Worldline Trans,,0,0,0,,{\fsp-4.5}Like a flash-forward?
+Dialogue: 11,0:21:41.40,0:21:46.32,Worldline Trans,,0,0,0,,{\fsp-4.5}It came from so close—an outrageously large distance
+Dialogue: 11,0:21:47.53,0:21:50.66,Worldline Trans,,0,0,0,,{\fsp-4.5}I can only conclude that our existence is defined by “0”s and “1”s
+Dialogue: 11,0:21:50.66,0:21:54.00,Worldline Trans,,0,0,0,,{\fsp-4.5}In which I can be found right here
+Dialogue: 11,0:21:54.87,0:21:58.29,Worldline Trans,,0,0,0,,{\fsp-4.5}I'll tell you my feelings that I keep inside
+Dialogue: 11,0:21:58.29,0:22:01.42,Worldline Trans,,0,0,0,,{\fsp-4.5}I remain in solitude, while in hold of
+Dialogue: 11,0:22:01.42,0:22:07.18,Worldline Trans,,0,0,0,,{\fsp-4.5}A countless number of infinitely expansive universes
+Dialogue: 11,0:22:07.18,0:22:10.60,Worldline Trans,,0,0,0,,{\fsp-4.5}That's why I'll make sure
+Dialogue: 11,0:22:10.60,0:22:13.68,Worldline Trans,,0,0,0,,{\fsp-4.5}For the sake of your tomorrow
+Dialogue: 11,0:22:13.68,0:22:19.48,Worldline Trans,,0,0,0,,{\fsp-4.5}That the blasphemy of the God ruling this universe
+Dialogue: 11,0:22:19.85,0:22:22.94,Worldline Trans,,0,0,0,,{\fsp-4.5}Will never be repeated
 Dialogue: 1,0:11:54.06,0:11:59.03,Title,,0,0,0,,{\an3\fs110\fsp10\pos(1512,548)}Valentine's
 Dialogue: 1,0:11:54.06,0:11:59.03,Title,,0,0,0,,{\an3\fsp6\pos(1386,606)}of Crystal
 Dialogue: 1,0:11:54.06,0:11:59.03,Title,,0,0,0,,{\an3\pos(1564,670)}Polymorphism
@@ -128,18 +206,6 @@ Dialogue: 30,0:01:03.56,0:01:06.94,Default,,0,0,0,,When the cat's away, the mice
 Dialogue: 30,0:01:09.73,0:01:11.53,Default,,0,0,0,,Setsubun, huh?
 Dialogue: 30,0:01:11.53,0:01:13.86,Default,,0,0,0,,It's already that time of year...
 Dialogue: 30,0:01:18.32,0:01:20.45,Default,,0,0,0,,Valentine's, huh?
-Dialogue: 30,0:01:36.88,0:01:42.18,Default,,0,0,0,,{\i1}This is a world of unreality,{\i}
-Dialogue: 30,0:01:42.18,0:01:48.10,Default,,0,0,0,,{\i1}Nothing more than an imprinted vision.{\i}
-Dialogue: 30,0:01:49.10,0:01:59.95,Default,,0,0,0,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-Dialogue: 30,0:01:59.95,0:02:09.67,Default,,0,0,0,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
-Dialogue: 30,0:02:09.67,0:02:15.01,Default,,0,0,0,,{\i1}Then I alone{\i}
-Dialogue: 30,0:02:15.01,0:02:21.76,Default,,0,0,0,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
-Dialogue: 30,0:02:21.76,0:02:22.85,Default,,0,0,0,,{\i1}I can fly high{\i}
-Dialogue: 30,0:02:22.85,0:02:28.77,Default,,0,0,0,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
-Dialogue: 30,0:02:28.77,0:02:33.52,Default,,0,0,0,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
-Dialogue: 30,0:02:33.52,0:02:39.03,Default,,0,0,0,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
-Dialogue: 30,0:02:39.03,0:02:44.58,Default,,0,0,0,,{\i1}As each and every light forms to yield Zero.{\i}
-Dialogue: 30,0:02:44.58,0:02:49.92,Default,,0,0,0,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 30,0:02:52.00,0:02:54.67,Default,,0,0,0,,See you later, Boss. Take care.
 Dialogue: 30,0:02:54.67,0:02:56.17,Default,,0,0,0,,Have a good day.
 Dialogue: 30,0:02:56.17,0:02:57.96,Default,,0,0,0,,Yeah... Hold up.
@@ -504,20 +570,6 @@ Dialogue: 30,0:20:36.40,0:20:40.19,Default,,0,0,0,,I'm sure... she'll come back 
 Dialogue: 30,0:20:46.91,0:20:50.54,Default,,0,0,0,,I really hope they like my chocolate...
 Dialogue: 30,0:20:56.13,0:20:58.25,Default,,0,0,0,,Tastes pretty good.
 Dialogue: 30,0:20:58.25,0:20:59.50,Default,,0,0,0,,Dummy...
-Dialogue: 30,0:21:03.80,0:21:09.43,Default,,0,0,0,,{\i1}Vibration unreachable emotion{\i}
-Dialogue: 30,0:21:09.43,0:21:15.69,Default,,0,0,0,,{\i1}Hello Amadeus, I'm waiting for your call{\i}
-Dialogue: 30,0:21:15.69,0:21:21.90,Default,,0,0,0,,{\i1}This place, as if all is layered{\i}
-Dialogue: 30,0:21:21.90,0:21:29.41,Default,,0,0,0,,{\i1}Is a multitude, The world in the world{\i}
-Dialogue: 30,0:21:29.41,0:21:35.16,Default,,0,0,0,,{\i1}Time is irreversible,{\i}\N{\i1}and yet those unknown sectors{\i}
-Dialogue: 30,0:21:35.16,0:21:41.30,Default,,0,0,0,,{\i1}Fly past flash-forward, why? Vision of a kiss{\i}
-Dialogue: 30,0:21:41.30,0:21:46.55,Default,,0,0,0,,{\i1}So incredibly close, an outrageous distance{\i}
-Dialogue: 30,0:21:47.43,0:21:54.14,Default,,0,0,0,,{\i1}Overlapping logos,{\i}\N{\i1}infinite 0 or 1, I'm right here{\i}
-Dialogue: 30,0:21:54.64,0:22:01.23,Default,,0,0,0,,{\i1}Tell you my feelings I keep inside,{\i}\N{\i1}through solitude I carried them{\i}
-Dialogue: 30,0:22:01.23,0:22:07.11,Default,,0,0,0,,{\i1}Innumerable infinite universes{\i}
-Dialogue: 30,0:22:07.11,0:22:13.58,Default,,0,0,0,,{\i1}Which is why, just for now,{\i}\N{\i1}for your tomorrow, for your sake{\i}
-Dialogue: 30,0:22:13.58,0:22:23.00,Default,,0,0,0,,{\i1}Please, don't repeat the{\i}\N{\i1}desecration of the celestial God{\i}
-Dialogue: 30,0:22:23.00,0:22:26.05,Default,,0,0,0,,{\i1}There is inside world-line{\i}
-Dialogue: 30,0:22:26.05,0:22:30.09,Default,,0,0,0,,{\i1}There is inside world-layer{\i}
 Dialogue: 30,0:22:33.18,0:22:38.19,Default,,0,0,0,,And? You came back to America\Nwithout giving your chocolate?
 Dialogue: 30,0:22:38.19,0:22:39.60,Default,,0,0,0,,Unbelievable...
 Dialogue: 30,0:22:39.60,0:22:42.36,Default,,0,0,0,,Sure, you had to fly back\Nbefore Valentine's, but...

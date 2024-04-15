@@ -1,5 +1,9 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
+; Subs edited by Woute, Mia and PringlesGang for consistency
+; Subs styled by PringlesGang
+; Amadeus translation by PringlesGang and Committee of Zero
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -15,9 +19,73 @@ Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0
 Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: Whiteboard,Playpen Sans Medium,90,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,0,0,0,0,100,100,0,0,1,0,0,8,20,20,20,0
+Style: Amadeus Rom,Pixelify Sans,90,&H00000011,&HFF000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
+Style: Amadeus Trans,Pixelify Sans,90,&H00000011,&H00000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,23,23,23,1
+Style: Amadeus Rom Red,Pixelify Sans,90,&H00000011,&HFF000011,&H00210FBD,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
+Style: Amadeus Rom Square,Pixelify Sans,90,&H55000011,&H550000FF,&H554BB1D6,&H55000000,0,0,0,0,100,100,0,0,1,3,0,8,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:22:12.27,0:22:14.27,Amadeus Rom Square,,0,0,0,code syl,size = math.random(15, 23)
+Comment: 0,0:22:12.27,0:22:14.27,Amadeus Rom Square,,0,0,0,code syl,horizOffset = math.random(-20, 10)
+Comment: 11,0:22:12.27,0:22:14.27,Amadeus Rom Square,,0,0,0,template notext,!retime("syl", -200, 3000)! !maxloop(math.random(1, 3))! {\r\move(!$center + horizOffset + 12*j!,!$middle + math.random(30, 50)!,!$center + horizOffset + 12*j!,!$middle + math.random(80, 170)!, )\frz!math.random(0, 359)!\t(\frz180, )\fade(500,1500)} {\p1\blur0.5}m !-(size - 3*j)! !-(size - 3*j)! l !-(size - 3*j)! !size - 3*j! l !size - 3*j! !size - 3*j! l !size - 3*j! !-(size - 3*j)! {\p0}
+Comment: 11,0:23:01.48,0:23:04.52,Amadeus Rom Square,,0,0,0,karaoke,{\k43}Ze{\k12}ro {\k15}no {\k39}gee{\k33}to {\k37}hi{\k14}ra{\k21}ku {\k90}yo
+Comment: 11,0:23:04.52,0:23:06.99,Amadeus Rom Square,,0,0,0,karaoke,{\k41}Ma{\k10}bu{\k27}shi{\k27}i {\k36}hi{\k21}ka{\k18}ri {\k67}ni
+Comment: 11,0:23:06.99,0:23:08.70,Amadeus Rom Square,,0,0,0,karaoke,{\k34}Tsu{\k18}tsu{\k17}ma{\k28}re {\k34}yu{\k40}ku
+Comment: 11,0:23:08.70,0:23:12.32,Amadeus Rom Square,,0,0,0,karaoke,{\k26}Ki{\k21}se{\k19}ki {\k34}wo {\k24}u{\k31}n{\k17}me{\k11}i {\k21}ni {\k31}ka{\k34}ki{\k30}ka{\k36}e{\k27}te
+Comment: 11,0:23:12.32,0:23:15.29,Amadeus Rom Square,,0,0,0,karaoke,{\k45}Wa{\k17}ra{\k16}i{\k13}go{\k19}e {\k36}ga {\k32}a{\k18}fu{\k20}re{\k81}ru
+Comment: 11,0:23:15.29,0:23:18.00,Amadeus Rom Square,,0,0,0,karaoke,{\k19}A{\k16}no {\k17}ji{\k32}ka{\k39}n {\k13}a{\k16}no {\k16}ba{\k18}sho {\k85}de
+Comment: 11,0:23:18.00,0:23:27.67,Amadeus Rom Square,,0,0,0,karaoke,{\k33}Ki{\k20}mi {\k34}no {\k19}“to{\k14}ki” {\k70}ga {\k33}mou{\k29}i{\k140}chi{\k352}do {\k21}ha{\k31}ji{\k133}ma{\k184}ru
+Dialogue: 13,0:22:14.27,0:22:19.56,Amadeus Rom Red,,0,0,0,karaoke,{\ko51}{\fs65}Da{\ko48}i{\ko36}ji{\ko133}na {\ko56}ki{\ko52}o{\ko31}ku {\ko122}wa
+Dialogue: 13,0:22:19.56,0:22:24.99,Amadeus Rom Red,,0,0,0,karaoke,{\ko38}{\fs65}Be{\ko21}tsu {\ko40}no {\ko17}ri{\ko18}ro{\ko15}n{\ko36}shi{\ko13}ki {\ko136}de {\ko30}u{\ko22}chi{\ko12}ke{\ko24}sa{\ko50}re{\ko71}ru
+Dialogue: 13,0:22:24.99,0:22:30.45,Amadeus Rom Red,,0,0,0,karaoke,{\ko53}{\fs65}Ji{\ko55}sho{\ko33}u {\ko141}no {\ko53}chi{\ko52}he{\ko33}i {\ko126}mo
+Dialogue: 13,0:22:30.45,0:22:35.45,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}{\fs65}Ba{\ko17}n{\ko33}bu{\ko28}tsu {\ko13}no {\ko21}so{\ko19}re {\ko28}sa{\ko141}e {\ko32}ka{\ko21}ki{\ko11}ka{\ko18}e{\ko85}ta
+Dialogue: 13,0:22:35.45,0:22:40.75,Amadeus Rom Red,,0,0,0,karaoke,{\ko18}{\fs65}Ha{\ko16}ko {\ko51}ni {\ko32}to{\ko19}ji{\ko19}ko{\ko14}me{\ko52}ta {\ko32}a{\ko25}i {\ko45}no {\ko36}da{\ko18}n{\ko47}pe{\ko23}n {\ko83}wa
+Dialogue: 13,0:22:40.75,0:22:46.09,Amadeus Rom Red,,0,0,0,karaoke,{\ko30}{\fs65}Chi{\ko26}ka{\ko44}ku {\ko15}to{\ko26}u{\ko25}su{\ko22}gi{\ko42}ru {\ko37}ji{\ko34}ge{\ko34}n {\ko24}no {\ko27}sa{\ko47}i{\ko18}ha{\ko83}te
+Dialogue: 13,0:22:46.09,0:22:52.26,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}Ka{\ko16}i{\ko25}he{\ko40}n {\ko80}no {\ko15}pu{\ko16}ro{\ko20}se{\ko49}su {\ko51}wa {\ko32}to{\ko20}te{\ko64}mo {\ko18}mu{\ko18}ja{\ko32}ki {\ko88}ni
+Dialogue: 13,0:22:52.26,0:22:54.72,Amadeus Rom Red,,0,0,0,karaoke,{\ko15}Ka{\ko17}mi {\ko16}sa{\ko28}e {\ko40}mo {\ko7}a{\ko25}zu{\ko20}mu{\ko14}ku {\ko25}fikku{\ko39}shon
+Dialogue: 13,0:22:54.72,0:22:57.89,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ya{\ko12}ku{\ko19}so{\ko30}ku {\ko39}no {\ko19}a{\ko15}no {\ko11}ba{\ko20}sho {\ko109}he
+Dialogue: 13,0:22:57.89,0:23:01.48,Amadeus Rom Red,,0,0,0,karaoke,{\ko23}Mo{\ko12}u{\ko23}su{\ko35}gu {\ko26}to{\ko20}ke{\ko23}i {\ko23}no {\ko12}ka{\ko34}ne {\ko36}ga {\ko27}hi{\ko42}bi{\ko23}ki
+Dialogue: 13,0:23:01.48,0:23:04.52,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ze{\ko12}ro {\ko15}no {\ko39}gee{\ko33}to {\ko37}hi{\ko14}ra{\ko21}ku {\ko90}yo
+Dialogue: 13,0:23:04.52,0:23:06.99,Amadeus Rom Red,,0,0,0,karaoke,{\ko41}Ma{\ko10}bu{\ko27}shi{\ko27}i {\ko36}hi{\ko21}ka{\ko18}ri {\ko67}ni
+Dialogue: 13,0:23:06.99,0:23:08.70,Amadeus Rom Red,,0,0,0,karaoke,{\ko34}Tsu{\ko18}tsu{\ko17}ma{\ko28}re {\ko34}yu{\ko40}ku
+Dialogue: 13,0:23:08.70,0:23:12.32,Amadeus Rom Red,,0,0,0,karaoke,{\ko26}Ki{\ko21}se{\ko19}ki {\ko34}wo {\ko24}u{\ko31}n{\ko17}me{\ko11}i {\ko21}ni {\ko31}ka{\ko34}ki{\ko30}ka{\ko36}e{\ko27}te
+Dialogue: 13,0:23:12.32,0:23:15.29,Amadeus Rom Red,,0,0,0,karaoke,{\t(333,11458,\3c&HC7C7C7&)}{\ko45}Wa{\ko17}ra{\ko16}i{\ko13}go{\ko19}e {\ko36}ga {\ko32}a{\ko18}fu{\ko20}re{\ko81}ru
+Dialogue: 13,0:23:15.29,0:23:18.00,Amadeus Rom Red,,0,0,0,karaoke,{\t(-2583,8500,\3c&HC7C7C7&)}{\ko19}A{\ko16}no {\ko17}ji{\ko32}ka{\ko39}n {\ko13}a{\ko16}no {\ko16}ba{\ko18}sho {\ko85}de
+Dialogue: 13,0:23:18.00,0:23:27.67,Amadeus Rom Red,,0,0,0,karaoke,{\t(-5333,5792,\3c&HC7C7C7&)}{\ko33}Ki{\ko20}mi {\ko34}no {\ko19}“to{\ko14}ki” {\ko70}ga {\ko33}mou{\ko29}i{\ko140}chi{\ko352}do {\ko21}ha{\ko31}ji{\ko133}ma{\ko184}ru
+Dialogue: 12,0:22:14.27,0:22:19.56,Amadeus Rom,,0,0,0,karaoke,{\fs65}Daijina kioku wa
+Dialogue: 12,0:22:19.56,0:22:24.99,Amadeus Rom,,0,0,0,karaoke,{\fs65}Betsu no rironshiki de uchikesareru
+Dialogue: 12,0:22:24.99,0:22:30.45,Amadeus Rom,,0,0,0,karaoke,{\fs65}Jishou no chihei mo
+Dialogue: 12,0:22:30.45,0:22:35.45,Amadeus Rom,,0,0,0,karaoke,{\fs65}Banbutsu no sore sae kakikaeta
+Dialogue: 12,0:22:35.45,0:22:40.75,Amadeus Rom,,0,0,0,karaoke,{\fs65}Hako ni tojikometa ai no danpen wa
+Dialogue: 12,0:22:40.75,0:22:46.09,Amadeus Rom,,0,0,0,karaoke,{\fs65}Chikaku tousugiru jigen no saihate
+Dialogue: 12,0:22:46.09,0:22:52.26,Amadeus Rom,,0,0,0,karaoke,Kaihen no purosesu wa totemo mujaki ni
+Dialogue: 12,0:22:52.26,0:22:54.72,Amadeus Rom,,0,0,0,karaoke,Kami sae mo azumuku fikkushon
+Dialogue: 12,0:22:54.72,0:22:57.89,Amadeus Rom,,0,0,0,karaoke,Yakusoku no ano basho he
+Dialogue: 12,0:22:57.89,0:23:01.48,Amadeus Rom,,0,0,0,karaoke,Mousugu tokei no kane ga hibiki
+Dialogue: 12,0:23:01.48,0:23:04.52,Amadeus Rom,,0,0,0,karaoke,Zero no geeto hiraku yo
+Dialogue: 12,0:23:04.52,0:23:06.99,Amadeus Rom,,0,0,0,karaoke,Mabushii hikari ni
+Dialogue: 12,0:23:06.99,0:23:08.70,Amadeus Rom,,0,0,0,karaoke,Tsutsumare yuku
+Dialogue: 12,0:23:08.70,0:23:12.32,Amadeus Rom,,0,0,0,karaoke,Kiseki wo unmei ni kakikaete
+Dialogue: 12,0:23:12.32,0:23:15.29,Amadeus Rom,,0,0,0,karaoke,{\t(333,11458,\3c&HC7C7C7&)}Waraigoe ga afureru
+Dialogue: 12,0:23:15.29,0:23:18.00,Amadeus Rom,,0,0,0,karaoke,{\t(-2583,8500,\3c&HC7C7C7&)}Ano jikan ano basho de
+Dialogue: 12,0:23:18.00,0:23:27.67,Amadeus Rom,,0,0,0,karaoke,{\t(-5333,5792,\3c&HC7C7C7&)}Kimi no “toki” ga mouichido hajimaru
+Dialogue: 12,0:22:14.27,0:22:19.56,Amadeus Trans,,0,0,0,,{\a6\fs65}Important memories
+Dialogue: 12,0:22:19.56,0:22:24.99,Amadeus Trans,,0,0,0,,{\a6\fs65}Contradict a different theoretical formula
+Dialogue: 12,0:22:24.99,0:22:30.45,Amadeus Trans,,0,0,0,,{\a6\fs65}And thus, the event horizon, and everything thereafter
+Dialogue: 12,0:22:30.45,0:22:35.45,Amadeus Trans,,0,0,0,,{\a6\fs65}Will be overwritten
+Dialogue: 12,0:22:35.45,0:22:40.75,Amadeus Trans,,0,0,0,,{\a6\fs65}The fragments of love enclosed within the box
+Dialogue: 12,0:22:40.75,0:22:46.09,Amadeus Trans,,0,0,0,,{\a6\fs65}Are within reach, but too distant in the higher dimension
+Dialogue: 12,0:22:46.09,0:22:52.26,Amadeus Trans,,0,0,0,,The process of alteration is all too simple:
+Dialogue: 12,0:22:52.26,0:22:54.72,Amadeus Trans,,0,0,0,,Fabricate fiction to deceive even God
+Dialogue: 12,0:22:54.72,0:22:57.89,Amadeus Trans,,0,0,0,,Bringing us closer to that promised place...
+Dialogue: 12,0:22:57.89,0:23:01.48,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}Soon, the bells of the clock will chime
+Dialogue: 12,0:23:01.48,0:23:04.52,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}And the gate to Zero will open
+Dialogue: 12,0:23:04.52,0:23:08.70,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}Enveloping us in a most radiant light
+Dialogue: 12,0:23:08.70,0:23:12.32,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}With miracles we will overwrite fate
+Dialogue: 12,0:23:12.32,0:23:15.29,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(333,11458,\3c&HC7C7C7&)}Cackling at the notion of destiny
+Dialogue: 12,0:23:15.29,0:23:18.00,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(-2583,8500,\3c&HC7C7C7&)}And in that hour, in that place,
+Dialogue: 12,0:23:18.00,0:23:27.67,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(-5333,5792,\3c&HC7C7C7&)}Your “time” will begin once more
 Dialogue: 1,0:12:18.00,0:12:23.01,Title,,0,0,0,,{\an3\pos(1468,902)\fsp-3}Rinascimento
 Dialogue: 1,0:12:18.00,0:12:23.01,Title,,0,0,0,,{\an3\pos(1514,900)\fs60}of
 Dialogue: 1,0:12:18.00,0:12:23.01,Title,,0,0,0,,{\an3\pos(1708,958)}Entwurf
@@ -524,24 +592,9 @@ Dialogue: 30,0:22:01.11,0:22:05.07,Default,,0,0,0,,And someday, we'll reach\Nthe
 Dialogue: 30,0:22:05.07,0:22:08.61,Default,,0,0,0,,I know we can! We'll get there!
 Dialogue: 30,0:22:11.87,0:22:12.99,Default,,0,0,0,,Amadeus!
 Dialogue: 30,0:22:12.99,0:22:17.41,Default,,0,0,0,,Someday, I swear! On that\Npromised day where time intersects...!
-Dialogue: 30,0:22:14.16,0:22:19.63,On Top,,0,0,0,,{\i1}Precious memories are{\i}
 Dialogue: 30,0:22:17.41,0:22:21.04,Default,,0,0,0,,Without a doubt, we will reach that place!
-Dialogue: 30,0:22:19.63,0:22:24.96,On Top,,0,0,0,,{\i1}Completely negated by some other theory{\i}
 Dialogue: 30,0:22:21.04,0:22:23.17,Default,,0,0,0,,And we will meet again!
-Dialogue: 30,0:22:24.96,0:22:30.55,On Top,,0,0,0,,{\i1}The event horizon too{\i}
 Dialogue: 30,0:22:25.17,0:22:26.59,Default,,0,0,0,,Senpai!
 Dialogue: 30,0:22:26.59,0:22:30.01,Default,,0,0,0,,Take care of Hououin Kyouma for me!
-Dialogue: 30,0:22:30.55,0:22:35.43,On Top,,0,0,0,,{\i1}Even that encompassing all is overwritten{\i}
 Dialogue: 30,0:22:33.81,0:22:35.06,Default,,0,0,0,,[Kurisu]!
-Dialogue: 30,0:22:35.43,0:22:40.73,On Top,,0,0,0,,{\i1}Fragments of love I closed up in a box{\i}
 Dialogue: 30,0:22:38.14,0:22:39.98,Default,,0,0,0,,Go!
-Dialogue: 30,0:22:40.73,0:22:46.15,On Top,,0,0,0,,{\i1}Are so close yet so far,{\i}\N{\i1}at the end of this dimension{\i}
-Dialogue: 30,0:22:46.15,0:22:52.16,On Top,,0,0,0,,{\i1}The process of change seems so innocent{\i}
-Dialogue: 30,0:22:52.16,0:22:54.79,On Top,,0,0,0,,{\i1}But that's a fiction that can trick even God{\i}
-Dialogue: 30,0:22:54.79,0:22:57.87,On Top,,0,0,0,,{\i1}To the promised place{\i}
-Dialogue: 30,0:22:57.87,0:23:01.50,On Top,,0,0,0,,{\i1}Soon now, the clock will chime out loud{\i}
-Dialogue: 30,0:23:01.50,0:23:04.63,On Top,,0,0,0,,{\i1}The gate of zero will open{\i}
-Dialogue: 30,0:23:04.63,0:23:08.80,On Top,,0,0,0,,{\i1}We'll be engulfed by a brilliant light{\i}
-Dialogue: 30,0:23:08.80,0:23:15.18,On Top,,0,0,0,,{\i1}Miracles will be rewritten as fate,{\i}\N{\i1}laughter will flow{\i}
-Dialogue: 30,0:23:15.18,0:23:17.85,On Top,,0,0,0,,{\i1}At that moment, at that place{\i}
-Dialogue: 30,0:23:17.85,0:23:29.61,On Top,,0,0,0,,{\i1}Your “time” will once again begin{\i}

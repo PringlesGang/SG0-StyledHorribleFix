@@ -1,5 +1,10 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
+; Subs edited by Woute, Mia and PringlesGang for consistency
+; Subs styled by PringlesGang
+; Hacking to the Gate translation by PringlesGang
+; Gate of Steiner translation by Committee of Zero and PringlesGang
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -15,9 +20,123 @@ Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0
 Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: OkabePhoneOld,Manjari,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Typeset Top,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,8,7,7,7,1
+Style: Typeset,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,7,7,7,1
+Style: HttG Trans,IM FELL English,66,&H00080808,&H000000FF,&H32E9E9ED,&H969A9A9A,-1,0,0,0,95,110,3,0,1,3.75,3,2,60,60,50,1
+Style: HttG Rom,IM FELL English,66,&H00080808,&H000000FF,&H32E9E9ED,&H969A9A9A,-1,0,0,0,95,110,3,0,1,3.75,3,8,60,60,30,1
+Style: GoS Rom,Lexend Zetta Light,65,&H00FFFFFF,&H006A6A6A,&H001F1612,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,23,23,23,1
+Style: GoS Trans Blur,Lexend Zetta Light,65,&H006A6A6A,&H006A6A6A,&H001F1612,&H00000000,0,0,0,0,100,100,0,0,1,6.75,0,8,23,23,23,1
+Style: GoS Trans,Lexend Zetta Light,65,&H00FFFFFF,&H006A6A6A,&H001F1612,&H00000000,0,0,0,0,100,100,0,0,1,6.75,0,2,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 11,0:16:04.19,0:16:09.86,HttG Rom,,0,0,0,,{\fs60\fad(200,0)}Suujuuoku mono kodou no kazu sae
+Dialogue: 11,0:16:09.86,0:16:16.53,HttG Rom,,0,0,0,,{\fs60}Anata ni wa matataki teido no saji na toukyuu
+Dialogue: 11,0:16:16.53,0:16:21.75,HttG Rom,,0,0,0,,{\fs60}Kako ni torawarete mirai wo nageku mo
+Dialogue: 11,0:16:21.75,0:16:27.67,HttG Rom,,0,0,0,,{\fs60}Chiri hitotsu gosan wo yurusanu hitsuzen
+Dialogue: 11,0:16:27.67,0:16:33.76,HttG Rom,,0,0,0,,{\fs60}“Mugen” ni hirogaru yume mo egaku mirai mo
+Dialogue: 11,0:16:33.76,0:16:39.56,HttG Rom,,0,0,0,,{\fs60}Bokutachi ni yurusareta kyoei no kenri
+Dialogue: 11,0:16:39.56,0:16:45.73,HttG Rom,,0,0,0,,{\fs60}“Yuugen” sore wa futatsu no hari ga shimesu
+Dialogue: 11,0:16:45.73,0:16:50.11,HttG Rom,,0,0,0,,{\fs60}Zankoku na yakujou to sentaku he
+Dialogue: 11,0:16:50.11,0:16:52.32,HttG Rom,,0,0,0,,{\fs60\fade(0,100)}Hacking to the Gate
+Dialogue: 11,0:16:52.78,0:16:59.66,HttG Rom,,0,0,0,,{\fs60\fade(100,0)}Dakara ima ichi byou gotoni sekaisen wo koete
+Dialogue: 11,0:16:59.66,0:17:04.67,HttG Rom,,0,0,0,,{\fs60}Kimi no sono egao mamoritai no sa
+Dialogue: 11,0:17:04.67,0:17:11.59,HttG Rom,,0,0,0,,{\fs60}Soshite mata kanashimi no nai jikan no ruupu heto
+Dialogue: 11,0:17:11.59,0:17:17.84,HttG Rom,,0,0,0,,{\fs60\fad(0,200)}Nomikomarete yuku kodoku no kansokusha
+Dialogue: 11,0:17:19.64,0:17:26.52,HttG Rom,,0,0,0,,{\fs60\fade(200,0)}Dakara ima ichi byou gotoni sekaisen wo koete
+Dialogue: 11,0:17:26.52,0:17:31.53,HttG Rom,,0,0,0,,{\fs60}Kimi no sono egao mamoritai no sa
+Dialogue: 11,0:17:31.53,0:17:38.45,HttG Rom,,0,0,0,,{\fs60}Soshite mata kanashimi no nai jikan no ruupu heto
+Dialogue: 11,0:17:38.45,0:17:44.71,HttG Rom,,0,0,0,,{\fs60\fad(0,200)}Nomikomarete yuku kodoku no kansokusha
+Dialogue: 11,0:16:04.19,0:16:09.86,HttG Trans,,0,0,0,,{\an8\fs60\fad(200,0)}Between the billions of heartbeats
+Dialogue: 11,0:16:09.86,0:16:16.53,HttG Trans,,0,0,0,,{\an8\fs60}You are but a small trifle—wholly insignificant
+Dialogue: 11,0:16:16.53,0:16:21.75,HttG Trans,,0,0,0,,{\an8\fs60}As I am trapped in the past, and I lament the future
+Dialogue: 11,0:16:21.75,0:16:27.67,HttG Trans,,0,0,0,,{\an8\fs60}I cannot forgive even the most minute of miscalculations
+Dialogue: 11,0:16:27.67,0:16:33.76,HttG Trans,,0,0,0,,{\an8\fs60}Dreams stretching out to “infinity,” sketching out our future
+Dialogue: 11,0:16:33.76,0:16:39.56,HttG Trans,,0,0,0,,{\an8\fs60}Such thoughts are but arrogant privileges granted to us
+Dialogue: 11,0:16:39.56,0:16:45.73,HttG Trans,,0,0,0,,{\an8\fs60}The “finite” is dictated by the two hands
+Dialogue: 11,0:16:45.73,0:16:50.11,HttG Trans,,0,0,0,,{\an8\fs60}If I'm bound by such a cruel contract, my choice will instead be to go
+Dialogue: 11,0:16:52.78,0:16:59.66,HttG Trans,,0,0,0,,{\an8\fs60\fade(100,0)}And thus I will cross worldlines with each second passed
+Dialogue: 11,0:16:59.66,0:17:04.67,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
+Dialogue: 11,0:17:04.67,0:17:11.59,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
+Dialogue: 11,0:17:11.59,0:17:17.84,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
+Dialogue: 11,0:17:19.64,0:17:26.52,HttG Trans,,0,0,0,,{\an8\fs60\fade(200,0)}And thus I will cross worldlines with each second passed
+Dialogue: 11,0:17:26.52,0:17:31.53,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
+Dialogue: 11,0:17:31.53,0:17:38.45,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
+Dialogue: 11,0:17:38.45,0:17:44.71,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
+Dialogue: 12,0:20:18.40,0:20:24.28,GoS Rom,,0,0,0,,{\kf71}{\fade(100,100)}“Time” {\kf203}is {\kf16}so {\kf31}sad {\kf18}and {\kf61}flee{\kf188}ting
+Dialogue: 12,0:20:24.28,0:20:30.37,GoS Rom,,0,0,0,,{\kf35}{\fade(100,100)}Can't {\kf20}be {\kf14}con{\kf101}trolled, {\kf27}like {\kf23}a {\kf18}ri{\kf88}ver, {\kf28}ne{\kf12}ver {\kf243}stops
+Dialogue: 12,0:20:31.41,0:20:37.29,GoS Rom,,0,0,0,,{\kf75}{\fade(100,100)}“Space” {\kf199}is {\kf16}emp{\kf17}ti{\kf25}ness {\kf44}dark {\kf13}and {\kf45}so {\kf154}cold
+Dialogue: 12,0:20:37.29,0:20:42.92,GoS Rom,,0,0,0,,{\kf37}{\fade(100,100)}Can {\kf17}you {\kf19}de{\kf106}fine {\kf26}its {\kf14}pre{\kf81}sence, {\kf48}does {\kf8}it {\kf12}e{\kf195}xist?
+Dialogue: 12,0:20:44.09,0:20:47.30,GoS Rom,,0,0,0,,{\kf48}{\fade(100,100)}We {\kf46}drift {\kf66}through {\kf43}the {\kf59}hea{\kf59}vens
+Dialogue: 12,0:20:47.30,0:20:50.52,GoS Rom,,0,0,0,,{\kf23}{\fade(100,100)}Ha{\kf22}te{\kf59}na{\kf58}i {\kf37}o{\kf59}mo{\kf64}i
+Dialogue: 12,0:20:50.85,0:20:56.73,GoS Rom,,0,0,0,,{\kf72}{\fade(100,100)}Filled {\kf60}with {\kf40}the {\kf54}love {\kf52}from {\kf26}up {\kf21}a{\kf263}bove
+Dialogue: 12,0:20:57.36,0:21:00.07,GoS Rom,,0,0,0,,{\kf70}{\fade(100,100)}He {\kf59}guides {\kf38}my {\kf64}tra{\kf40}vels
+Dialogue: 12,0:21:00.07,0:21:03.57,GoS Rom,,0,0,0,,{\kf43}{\fade(100,100)}Se{\kf21}ma{\kf57}ru {\kf63}ko{\kf37}ku{\kf62}ge{\kf67}n
+Dialogue: 12,0:21:03.95,0:21:10.29,GoS Rom,,0,0,0,,{\kf38}{\fade(100,100)}Shed {\kf21}a {\kf37}tear {\kf46}and {\kf102}leap {\kf41}to {\kf38}a {\kf157}new {\kf154}world
+Dialogue: 12,0:21:23.17,0:21:29.18,GoS Rom,,0,0,0,,{\kf80}{\fade(100,100)\fs79}Cos{\kf208}mos {\kf19}and {\kf25}their {\kf20}cre{\kf42}a{\kf207}tion
+Dialogue: 12,0:21:29.18,0:21:35.64,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)\fs79}Tell {\kf20}me, {\kf24}do {\kf102}they {\kf13}e{\kf29}xist {\kf22}for {\kf100}in{\kf18}fi{\kf21}ni{\kf270}ty?
+Dialogue: 12,0:21:36.14,0:21:42.11,GoS Rom,,0,0,0,,{\kf88}{\fade(100,100)\fs79}Stars {\kf202}burn, {\kf19}bur{\kf11}ning {\kf30}so {\kf40}bright {\kf18}but {\kf35}they'll {\kf154}fade
+Dialogue: 12,0:21:42.11,0:21:48.07,GoS Rom,,0,0,0,,{\kf39}{\fade(100,100)\fs79}How {\kf18}will {\kf19}I {\kf79}know? {\kf40}Se{\kf27}crets {\kf78}kept {\kf39}un{\kf28}til {\kf17}I {\kf212}die
+Dialogue: 12,0:21:48.78,0:21:52.04,GoS Rom,,0,0,0,,{\kf49}{\fade(100,100)\fs79}De{\kf68}fy {\kf63}my {\kf35}des{\kf61}ti{\kf50}ny
+Dialogue: 12,0:21:52.04,0:21:55.62,GoS Rom,,0,0,0,,{\kf36}{\fade(100,100)\fs79}Ma{\kf20}mo{\kf59}ri{\kf62}ta{\kf41}i {\kf60}mo{\kf80}no
+Dialogue: 12,0:21:55.83,0:22:01.75,GoS Rom,,0,0,0,,{\kf62}{\fade(100,100)\fs79}Foo{\kf60}lish, {\kf41}but {\kf54}it's {\kf48}hu{\kf20}ma{\kf19}ni{\kf288}ty
+Dialogue: 12,0:22:02.09,0:22:04.97,GoS Rom,,0,0,0,,{\kf85}{\fade(100,100)\fs79}I{\kf55}ma{\kf44}gi{\kf49}na{\kf55}tion
+Dialogue: 12,0:22:05.13,0:22:08.51,GoS Rom,,0,0,0,,{\kf16}{\fade(100,100)\fs79}Ki{\kf28}se{\kf59}ki {\kf62}ni {\kf42}ka{\kf60}e{\kf71}ru
+Dialogue: 12,0:22:08.76,0:22:15.18,GoS Rom,,0,0,0,,{\kf51}{\fade(100,100)\fs79}Things {\kf14}you {\kf41}can't {\kf32}con{\kf111}ceive, {\kf39}re{\kf41}ve{\kf157}la{\kf156}tion!
+Dialogue: 12,0:22:37.54,0:22:40.71,GoS Rom,,0,0,0,,{\kf38}{\fade(100,100)}A {\kf72}drop {\kf58}in {\kf41}the {\kf58}dark{\kf50}ness
+Dialogue: 12,0:22:40.71,0:22:44.00,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)}Chi{\kf17}i{\kf75}sa{\kf55}na {\kf44}i{\kf55}no{\kf56}chi
+Dialogue: 12,0:22:44.34,0:22:50.43,GoS Rom,,0,0,0,,{\kf73}{\fade(100,100)}U{\kf67}nique {\kf33}and {\kf53}pre{\kf47}cious {\kf18}for{\kf31}e{\kf287}ver
+Dialogue: 12,0:22:50.93,0:22:53.76,GoS Rom,,0,0,0,,{\kf62}{\fade(100,100)}Bit{\kf45}ter{\kf58}sweet {\kf42}me{\kf23}mo{\kf53}ries
+Dialogue: 12,0:22:53.76,0:22:57.18,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)}Mu{\kf22}ge{\kf60}n {\kf45}no {\kf46}se{\kf69}tsu{\kf73}na
+Dialogue: 12,0:22:57.31,0:23:02.81,GoS Rom,,0,0,0,,{\kf56}{\fade(100,100)}Make {\kf22}this {\kf40}mo{\kf41}ment {\kf101}last, {\kf36}last {\kf44}for{\kf163}e{\kf47}ver
+Dialogue: 12,0:23:03.27,0:23:06.74,GoS Rom,,0,0,0,,{\kf63}{\fade(100,100)}We {\kf66}drift {\kf61}through {\kf41}the {\kf56}hea{\kf60}vens
+Dialogue: 12,0:23:06.74,0:23:10.20,GoS Rom,,0,0,0,,{\kf25}{\fade(100,100)}Ha{\kf20}te{\kf61}na{\kf61}i {\kf38}o{\kf63}mo{\kf78}i
+Dialogue: 12,0:23:10.28,0:23:16.20,GoS Rom,,0,0,0,,{\kf76}{\fade(100,100)}Filled {\kf61}with {\kf40}the {\kf55}love {\kf48}from {\kf20}up {\kf23}a{\kf269}bove
+Dialogue: 12,0:23:16.70,0:23:19.71,GoS Rom,,0,0,0,,{\kf78}{\fade(100,100)}He {\kf60}guides {\kf37}my {\kf71}tra{\kf55}vels
+Dialogue: 12,0:23:19.71,0:23:22.88,GoS Rom,,0,0,0,,{\kf25}{\fade(100,100)}Se{\kf21}ma{\kf60}ru {\kf60}ko{\kf42}ku{\kf61}ge{\kf48}n
+Dialogue: 12,0:23:23.29,0:23:29.92,GoS Rom,,0,0,0,,{\kf52}{\fade(100,100)}Shed {\kf22}a {\kf40}tear {\kf39}and {\kf97}leap {\kf45}to {\kf41}a {\kf163}new {\kf164}world
+Dialogue: 11,0:20:18.40,0:20:24.28,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}“Time” is so sad and fleeting
+Dialogue: 11,0:20:24.28,0:20:30.37,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Can't be controlled, like a river, never stops
+Dialogue: 11,0:20:31.41,0:20:37.29,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}“Space” is emptiness dark and so cold
+Dialogue: 11,0:20:37.29,0:20:42.92,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Can you define its presence, does it exist?
+Dialogue: 11,0:20:44.09,0:20:47.30,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}We drift through the heavens
+Dialogue: 11,0:20:47.30,0:20:50.52,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Hatenai omoi
+Dialogue: 11,0:20:50.85,0:20:56.73,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Filled with the love from up above
+Dialogue: 11,0:20:57.36,0:21:00.07,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}He guides my travels
+Dialogue: 11,0:21:00.07,0:21:03.57,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Semaru kokugen
+Dialogue: 11,0:21:03.95,0:21:10.29,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Shed a tear and leap to a new world
+Dialogue: 11,0:21:23.17,0:21:29.18,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Cosmos and their creation
+Dialogue: 11,0:21:29.18,0:21:35.64,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Tell me, do they exist for infinity?
+Dialogue: 11,0:21:36.14,0:21:42.11,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Stars burn, burning so bright but they'll fade
+Dialogue: 11,0:21:42.11,0:21:48.07,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}How will I know? Secrets kept until I die
+Dialogue: 11,0:21:48.78,0:21:52.04,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Defy my destiny
+Dialogue: 11,0:21:52.04,0:21:55.62,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Mamoritai mono
+Dialogue: 11,0:21:55.83,0:22:01.75,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Foolish, but it's humanity
+Dialogue: 11,0:22:02.09,0:22:04.97,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Imagination
+Dialogue: 11,0:22:05.13,0:22:08.51,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Kiseki ni kaeru
+Dialogue: 11,0:22:08.76,0:22:15.18,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Things you can't conceive, revelation!
+Dialogue: 11,0:22:37.54,0:22:40.71,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}A drop in the darkness
+Dialogue: 11,0:22:40.71,0:22:44.00,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Chiisana inochi
+Dialogue: 11,0:22:44.34,0:22:50.43,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Unique and precious forever
+Dialogue: 11,0:22:50.93,0:22:53.76,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Bittersweet memories
+Dialogue: 11,0:22:53.76,0:22:57.18,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Mugen no setsuna
+Dialogue: 11,0:22:57.31,0:23:02.81,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Make this moment last, last forever
+Dialogue: 11,0:23:03.27,0:23:06.74,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}We drift through the heavens
+Dialogue: 11,0:23:06.74,0:23:10.20,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Hatenai omoi
+Dialogue: 11,0:23:10.28,0:23:16.20,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Filled with the love from up above
+Dialogue: 11,0:23:16.70,0:23:19.71,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}He guides my travels
+Dialogue: 11,0:23:19.71,0:23:22.88,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Semaru kokugen
+Dialogue: 11,0:23:23.29,0:23:29.92,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Shed a tear and leap to a new world
+Dialogue: 11,0:20:47.30,0:20:50.52,GoS Trans,,0,0,0,,{\fade(100,100)\blur22.5\an8}With boundless emotions
+Dialogue: 11,0:21:00.07,0:21:03.57,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\an8}The chosen time draws near
+Dialogue: 11,0:21:52.04,0:21:55.62,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Of the ones I wish to protect
+Dialogue: 11,0:22:05.13,0:22:08.51,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Will alter in a miracle
+Dialogue: 11,0:22:40.71,0:22:44.00,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}A small life
+Dialogue: 11,0:22:53.76,0:22:57.18,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}As moments perpetually fleeting
+Dialogue: 11,0:23:06.74,0:23:10.20,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}With boundless emotions
+Dialogue: 11,0:23:19.71,0:23:22.88,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}The chosen time draws near
+Dialogue: 10,0:21:10.41,0:22:32.12,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}Mad_Scientist:_Trick_world._Connect_all_Potentials.
+Dialogue: 10,0:21:10.41,0:22:32.12,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}Mad_Scientist:_Trick_world._Connect_all_Potentials.
 Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\pos(1288,904)}Arc-light
 Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs50\pos(1162,932)}of
 Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs40\fsp-3\pos(1160,952)}the
@@ -388,50 +507,32 @@ Dialogue: 30,0:15:37.47,0:15:39.60,Default,,0,0,0,,I knew...
 Dialogue: 30,0:15:39.60,0:15:43.56,Default,,0,0,0,,I knew this would happen...
 Dialogue: 30,0:15:43.56,0:15:45.57,Default,,0,0,0,,I'm tired...
 Dialogue: 30,0:15:45.57,0:15:47.28,Default,,0,0,0,,I've had enough...
-Dialogue: 30,0:16:04.67,0:16:09.88,On Top,,0,0,0,,{\i1}For you, billions and billions of heartbeats{\i}
-Dialogue: 30,0:16:09.88,0:16:15.89,On Top,,0,0,0,,{\i1}are nothing at all, just the blink of an eye{\i}
 Dialogue: 30,0:16:12.43,0:16:14.09,Default,,0,0,0,,Greetings...
 Dialogue: 30,0:16:14.09,0:16:16.43,Default,,0,0,0,,...me from 15 years ago.
-Dialogue: 30,0:16:15.89,0:16:16.55,On Top,,0,0,0,,{\i1}are nothing at all; just the blink of an eye{\i}
 Dialogue: 30,0:16:16.43,0:16:19.35,Default,,0,0,0,,If you've opened this message,
-Dialogue: 30,0:16:16.55,0:16:21.77,On Top,,0,0,0,,{\i1}Although I'm trapped by{\i}\N{\i1}the past and lament the future{\i}
 Dialogue: 30,0:16:19.35,0:16:23.14,Default,,0,0,0,,then that means you've failed to rescue Kurisu.
-Dialogue: 30,0:16:21.77,0:16:27.69,On Top,,0,0,0,,{\i1}inevitability won't allow for{\i}\N{\i1}even a speck of a miscalculation{\i}
 Dialogue: 30,0:16:23.14,0:16:25.77,Default,,0,0,0,,It must've been painful for you.
 Dialogue: 30,0:16:25.77,0:16:30.23,Default,,0,0,0,,But that pain also gave me determination.
-Dialogue: 30,0:16:27.69,0:16:33.82,On Top,,0,0,0,,{\i1}Our dreams and futures that{\i}\N{\i1}form and expand into “infinity”{\i}
 Dialogue: 30,0:16:30.23,0:16:34.82,Default,,0,0,0,,So I couldn't afford to undo it.
-Dialogue: 30,0:16:33.82,0:16:39.66,On Top,,0,0,0,,{\i1}allow us the right to be vain,{\i}
 Dialogue: 30,0:16:34.82,0:16:38.28,Default,,0,0,0,,Now we can move to the real focus of our plan.
 Dialogue: 30,0:16:38.28,0:16:42.21,Default,,0,0,0,,The plan is this: save\NMakise Kurisu and enter Steins Gate.
-Dialogue: 30,0:16:39.66,0:16:45.88,On Top,,0,0,0,,{\i1}while{\i} {\i1}the{\i} {\i1}two{\i} {\i1}hands{\i}\N{\i1}point{\i} {\i1}out{\i} {\i1}what{\i} {\i1}is{\i} {\i1}“finite”{\i}
 Dialogue: 30,0:16:44.00,0:16:48.84,Default,,0,0,0,,I was also the one who named\Nthe target worldline “Steins Gate.”
-Dialogue: 30,0:16:45.88,0:16:50.46,On Top,,0,0,0,,{\i1}All of which leads to a cruel{\i}\N{\i1}contract and choice to make{\i}
 Dialogue: 30,0:16:48.84,0:16:53.17,Default,,0,0,0,,I'm sure you know the reason for that name too.
-Dialogue: 30,0:16:50.46,0:16:52.72,On Top,,0,0,0,,{\i1}Hacking to the Gate{\i}
-Dialogue: 30,0:16:52.72,0:16:59.64,On Top,,0,0,0,,{\i1}So, now, with each passing{\i}\N{\i1}second, I'll cross worldlines{\i}
 Dialogue: 30,0:16:53.17,0:16:55.55,Default,,0,0,0,,It doesn't really mean anything.
 Dialogue: 30,0:16:55.55,0:16:57.80,Default,,0,0,0,,Isn't that right?
 Dialogue: 30,0:16:57.80,0:17:00.01,Default,,0,0,0,,Hey, you sure about this?
-Dialogue: 30,0:16:59.64,0:17:04.56,On Top,,0,0,0,,{\i1}to protect that smile on your face{\i}
 Dialogue: 30,0:17:00.01,0:17:02.02,Default,,0,0,0,,Yeah, probably...
 Dialogue: 30,0:17:02.02,0:17:05.65,Default,,0,0,0,,Won't Okabe Rintaro in\N2010 be embarrassed by this?
-Dialogue: 30,0:17:04.56,0:17:11.57,On Top,,0,0,0,,{\i1}Then, once again, into a{\i}\N{\i1}time loop without sadness{\i}
 Dialogue: 30,0:17:05.65,0:17:09.27,Default,,0,0,0,,Don't worry. He was even\Nmore amazing back then.
 Dialogue: 30,0:17:09.27,0:17:11.23,Default,,0,0,0,,I don't even wanna imagine.
 Dialogue: 30,0:17:11.23,0:17:16.70,Default,,0,0,0,,I will now outline your\Nfinal mission: Operation Skuld.
-Dialogue: 30,0:17:11.57,0:17:18.24,On Top,,0,0,0,,{\i1}I will be swallowed up as a lone observer{\i}
 Dialogue: 30,0:17:16.70,0:17:20.28,Default,,0,0,0,,You must change the outcome\Nwithout altering established past events.
-Dialogue: 30,0:17:19.66,0:17:26.58,On Top,,0,0,0,,{\i1}So, now, with each passing{\i}\N{\i1}second, I'll cross worldlines{\i}
 Dialogue: 30,0:17:20.28,0:17:22.62,Default,,0,0,0,,Deceive your original self.
 Dialogue: 30,0:17:22.62,0:17:24.62,Default,,0,0,0,,Deceive the world.
 Dialogue: 30,0:17:24.62,0:17:30.17,Default,,0,0,0,,That is the only way you can reach Steins Gate.
-Dialogue: 30,0:17:26.58,0:17:31.50,On Top,,0,0,0,,{\i1}to protect that smile on your face{\i}
 Dialogue: 30,0:17:30.17,0:17:32.21,Default,,0,0,0,,Good luck.
-Dialogue: 30,0:17:31.50,0:17:38.51,On Top,,0,0,0,,{\i1}Then, once again, into a{\i}\N{\i1}time loop without sadness{\i}
 Dialogue: 30,0:17:32.21,0:17:35.72,Default,,0,0,0,,El Psy Kongroo.
 Dialogue: 30,0:17:35.72,0:17:39.01,Default,,0,0,0,,Cut! Nice, that was perfect, nya!
-Dialogue: 30,0:17:38.51,0:17:45.18,On Top,,0,0,0,,{\i1}I will be swallowed up as a lone observer{\i}
 Dialogue: 30,0:17:39.01,0:17:43.35,Default,,0,0,0,,Now all that's left is to send it\Nwith a D-Mail to the past.
 Dialogue: 30,0:17:43.35,0:17:44.06,Default,,0,0,0,,Luka.
 Dialogue: 30,0:17:44.06,0:17:45.10,Default,,0,0,0,,Right.

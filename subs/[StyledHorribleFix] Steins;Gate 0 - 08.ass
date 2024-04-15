@@ -1,9 +1,10 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
-; Subs edited by Woute and Davixxa for consistency
+; Subs edited by Woute, Mia and PringlesGang for consistency
 ; Subs styled by PringlesGang
-; Fatima translation by Rigs
-; https://bitbucket.org/Woote/horriblefix/overview
+; Fátima translation by PringlesGang
+; Lyra translation by Committee of Zero
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -19,9 +20,68 @@ Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0
 Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: OkabePhoneOld,Manjari,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: OP Rom,Libre Bodoni,90,&H00000000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
+Style: OP Trans,Libre Bodoni,90,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
+Style: Lyra Rom,Dancing Script SemiBold,75,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:00.08,0:01:02.08,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:01:00.08,0:01:02.08,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 12,0:01:02.08,0:01:04.08,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 11,0:01:04.08,0:01:06.08,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:01:06.08,0:01:11.21,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
+Comment: 11,0:01:11.21,0:01:17.30,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
+Comment: 11,0:01:18.22,0:01:23.68,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
+Comment: 11,0:01:23.68,0:01:29.11,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
+Comment: 11,0:01:29.11,0:01:34.44,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
+Comment: 11,0:01:34.44,0:01:38.78,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
+Comment: 11,0:01:38.78,0:01:44.16,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
+Comment: 11,0:01:44.16,0:01:50.88,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
+Comment: 11,0:01:50.88,0:01:52.00,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
+Comment: 11,0:01:52.00,0:01:57.30,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
+Comment: 11,0:01:57.84,0:02:02.76,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
+Comment: 11,0:02:02.76,0:02:05.48,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
+Comment: 11,0:02:05.48,0:02:08.31,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
+Comment: 11,0:02:08.31,0:02:13.65,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
+Comment: 11,0:02:13.65,0:02:19.11,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}god. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
+Dialogue: 11,0:01:06.08,0:01:11.21,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
+Dialogue: 11,0:01:11.21,0:01:17.30,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It's merely a vision projected into our eyes
+Dialogue: 11,0:01:18.22,0:01:23.68,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
+Dialogue: 11,0:01:23.68,0:01:29.11,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
+Dialogue: 11,0:01:29.11,0:01:34.44,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
+Dialogue: 11,0:01:34.44,0:01:38.78,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
+Dialogue: 11,0:01:38.78,0:01:44.16,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
+Dialogue: 11,0:01:44.16,0:01:50.88,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
+Dialogue: 11,0:01:52.00,0:01:57.30,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
+Dialogue: 11,0:01:57.84,0:02:02.76,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn't merely something that's expanding our distance
+Dialogue: 11,0:02:02.76,0:02:05.48,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
+Dialogue: 11,0:02:05.48,0:02:08.31,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
+Dialogue: 11,0:02:08.31,0:02:13.65,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
+Dialogue: 10,0:21:51.66,0:21:56.79,Lyra Rom,,0,0,0,,{\fade(100,100)}Itsudatte dareka wo omou
+Dialogue: 10,0:21:57.42,0:22:04.38,Lyra Rom,,0,0,0,,{\fade(100,100)}Yasashii uso datte minna chanto shiteru
+Dialogue: 10,0:22:04.38,0:22:09.34,Lyra Rom,,0,0,0,,{\fade(100,100)}Zutto isshoni itai yo
+Dialogue: 10,0:22:09.34,0:22:17.81,Lyra Rom,,0,0,0,,{\fade(100,100)}Hontou no kimochi kore wa ai nano kana?
+Dialogue: 10,0:22:18.23,0:22:23.44,Lyra Rom,,0,0,0,,{\fade(100,100)}Kiseki to, unmei no deai kara
+Dialogue: 10,0:22:23.65,0:22:29.28,Lyra Rom,,0,0,0,,{\fade(100,100)}Bokura wa mata ano basho he to
+Dialogue: 10,0:22:29.28,0:22:35.62,Lyra Rom,,0,0,0,,{\fade(100,100)}Kirameku hoshi yozora ni te wo nobaseba
+Dialogue: 10,0:22:35.62,0:22:42.04,Lyra Rom,,0,0,0,,{\fade(100,100)}Yomigaeru ne omoi mo nukumori no hi mo
+Dialogue: 10,0:22:42.04,0:22:48.43,Lyra Rom,,0,0,0,,{\fade(100,100)}Afuredasu yo ano toki ano bamen de
+Dialogue: 10,0:22:48.43,0:22:55.22,Lyra Rom,,0,0,0,,{\fade(100,100)}Kimi no kotoba naitewaratta
+Dialogue: 10,0:22:55.60,0:23:01.77,Lyra Rom,,0,0,0,,{\fade(100,100)}Kioku no subete ga kakikawaru toshitemo
+Dialogue: 10,0:23:02.02,0:23:13.62,Lyra Rom,,0,0,0,,{\fade(100,100)}Dejabu mitai ni kokoro no oku de yureteru
+Dialogue: 10,0:21:51.66,0:21:56.79,Lyra Rom,,0,0,0,,{\fade(100,100)}Everyone knows full well
+Dialogue: 10,0:21:57.42,0:22:04.38,Lyra Rom,,0,0,0,,{\fade(100,100)}“I'm always thinking of you” is just a gentle lie
+Dialogue: 10,0:22:04.38,0:22:09.34,Lyra Rom,,0,0,0,,{\fade(100,100)}But when I say “I want to be with you forever,”
+Dialogue: 10,0:22:09.34,0:22:17.81,Lyra Rom,,0,0,0,,{\fade(100,100)}It's the honest truth. Could this be love?
+Dialogue: 10,0:22:18.23,0:22:23.44,Lyra Rom,,0,0,0,,{\fade(100,100)}Through miracles and fated encounters,
+Dialogue: 10,0:22:23.65,0:22:29.28,Lyra Rom,,0,0,0,,{\fade(100,100)}We head once again toward that place...
+Dialogue: 10,0:22:29.28,0:22:35.62,Lyra Rom,,0,0,0,,{\fade(100,100)\fs60}Whenever I stretch my hand out toward the sparkling stars in the night sky
+Dialogue: 10,0:22:35.62,0:22:42.04,Lyra Rom,,0,0,0,,{\fade(100,100)}Feelings and warm moments reawaken within me
+Dialogue: 10,0:22:42.04,0:22:48.43,Lyra Rom,,0,0,0,,{\fade(100,100)}Memories of those times, of those scenes, all come flooding back
+Dialogue: 10,0:22:48.43,0:22:55.22,Lyra Rom,,0,0,0,,{\fade(100,100)}All the words you spoke to me, all the times we laughed and cried
+Dialogue: 10,0:22:55.60,0:23:01.77,Lyra Rom,,0,0,0,,{\fade(100,100)}Even if all our memories are rewritten,
+Dialogue: 10,0:23:02.02,0:23:13.62,Lyra Rom,,0,0,0,,{\fade(100,100)}They'll still waver deep within our hearts as déjà vu
 Dialogue: 1,0:09:38.05,0:09:43.06,Title,,0,0,0,,{\an3\pos(1710,892)\fs80}Dual{\fs50}of{\fs110}Antinomy
 Dialogue: 0,0:04:39.34,0:04:42.55,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HDED5D3&}m 387 344 l 583 318 l 600 380 l 724 363 l 735 393 l 416 437 l 421 461 l 719 421 l 726 454 l 417 502 {\p0}
 Dialogue: 0,0:04:39.34,0:04:42.55,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&HEBE7E4&}m 372 259 l 488 244 l 496 282 l 381 297 {\p0}
@@ -176,18 +236,6 @@ Dialogue: 30,0:00:27.27,0:00:30.86,Default,,0,0,0,,Or maybe it's too late to say
 Dialogue: 30,0:00:30.86,0:00:33.45,Default,,0,0,0,,Anyways, this is a shock.
 Dialogue: 30,0:00:33.45,0:00:36.32,Default,,0,0,0,,You never show your face anymore.
 Dialogue: 30,0:00:37.87,0:00:40.70,Default,,0,0,0,,Th-That's no way to start off the year!
-Dialogue: 30,0:01:05.94,0:01:11.23,Default,,0,0,0,,{\i1}This is a world of unreality,{\i}
-Dialogue: 30,0:01:11.23,0:01:17.16,Default,,0,0,0,,{\i1}Nothing more than an imprinted vision.{\i}
-Dialogue: 30,0:01:18.16,0:01:29.00,Default,,0,0,0,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-Dialogue: 30,0:01:29.00,0:01:38.72,Default,,0,0,0,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
-Dialogue: 30,0:01:38.72,0:01:44.06,Default,,0,0,0,,{\i1}Then I alone{\i}
-Dialogue: 30,0:01:44.06,0:01:50.81,Default,,0,0,0,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
-Dialogue: 30,0:01:50.81,0:01:51.90,Default,,0,0,0,,{\i1}I can fly high{\i}
-Dialogue: 30,0:01:51.90,0:01:57.82,Default,,0,0,0,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
-Dialogue: 30,0:01:57.82,0:02:02.58,Default,,0,0,0,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
-Dialogue: 30,0:02:02.58,0:02:08.08,Default,,0,0,0,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
-Dialogue: 30,0:02:08.08,0:02:13.63,Default,,0,0,0,,{\i1}As each and every light forms to yield Zero.{\i}
-Dialogue: 30,0:02:13.63,0:02:18.97,Default,,0,0,0,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 30,0:02:22.10,0:02:23.64,Default,,0,0,0,,Sorry...
 Dialogue: 30,0:02:23.64,0:02:27.35,Default,,0,0,0,,Don't worry about it.\NHappens to me sometimes too.
 Dialogue: 30,0:02:27.35,0:02:30.44,Default,,0,0,0,,You were thinking of her...
@@ -451,18 +499,6 @@ Dialogue: 30,0:20:59.46,0:21:02.72,Default,,0,0,0,,But instead, I lose her right
 Dialogue: 30,0:21:02.72,0:21:06.84,Default,,0,0,0,,Kurisu is gone, because I kill her...
 Dialogue: 30,0:21:06.84,0:21:10.18,Default,,0,0,0,,My most... most precious...
 Dialogue: 30,0:21:19.86,0:21:21.94,Default,,0,0,0,,Okabe?
-Dialogue: 30,0:21:51.65,0:21:56.80,On Top,,0,0,0,,{\i1}“You're always on my mind”{\i}
-Dialogue: 30,0:21:57.40,0:22:04.35,On Top,,0,0,0,,{\i1}is a gentle lie that everyone knows{\i}
-Dialogue: 30,0:22:04.36,0:22:09.30,On Top,,0,0,0,,{\i1}“I want to be with you forever”{\i}
-Dialogue: 30,0:22:09.35,0:22:17.80,On Top,,0,0,0,,{\i1}is it love if that's what I feel?{\i}
-Dialogue: 30,0:22:18.50,0:22:23.45,On Top,,0,0,0,,{\i1}From the miraculous, fated encounter{\i}
-Dialogue: 30,0:22:23.65,0:22:29.45,On Top,,0,0,0,,{\i1}we head once more towards that place—{\i}
-Dialogue: 30,0:22:29.50,0:22:35.55,On Top,,0,0,0,,{\i1}I stretch my hand to the twinkling stars in the night sky{\i}
-Dialogue: 30,0:22:35.60,0:22:42.25,On Top,,0,0,0,,{\i1}Both the memories and warm days revive{\i}
-Dialogue: 30,0:22:42.30,0:22:48.40,On Top,,0,0,0,,{\i1}Overflowing at that moment, at that place{\i}
-Dialogue: 30,0:22:48.50,0:22:55.20,On Top,,0,0,0,,{\i1}Your words, the tears and laughter{\i}
-Dialogue: 30,0:22:55.60,0:23:01.75,On Top,,0,0,0,,{\i1}Even if these memories are rewritten{\i}
-Dialogue: 30,0:23:02.00,0:23:13.60,On Top,,0,0,0,,{\i1}They'll sway in my heart, just like déjà vu{\i}
 Dialogue: 30,0:21:58.19,0:22:00.98,Default,,0,0,0,,I'm so glad I met you.
 Dialogue: 30,0:22:02.32,0:22:03.98,Default,,0,0,0,,Kurisu?
 Dialogue: 30,0:23:23.61,0:23:25.73,Default,,0,0,0,,Okabe!

@@ -1,9 +1,9 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
-; Subs edited by Woute and Davixxa for consistency
+; Subs edited by Woute, Mia and PringlesGang for consistency
 ; Subs styled by PringlesGang
-; Fatima translation by Rigs
-; https://bitbucket.org/Woote/horriblefix/overview
+; Amadeus translation by Committee of Zero
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -19,6 +19,11 @@ Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0
 Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: LectureProgramme,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,6,20,20,20,0
+Style: Amadeus Rom,Pixelify Sans,90,&H00000011,&HFF000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
+Style: Amadeus Trans,Pixelify Sans,90,&H00000011,&H00000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,23,23,23,1
+Style: Amadeus Rom Red,Pixelify Sans,90,&H00000011,&HFF000011,&H00210FBD,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
+Style: Typeset Top,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,8,7,7,7,1
+Style: Typeset,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,7,7,7,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -120,6 +125,62 @@ Comment: 54,0:16:57.74,0:16:57.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1741
 Comment: 55,0:16:57.78,0:16:57.82,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,524.286)}
 Comment: 56,0:16:57.82,0:16:57.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,514)}
 Comment: 57,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736.571,502.286)}
+Dialogue: 12,0:22:16.43,0:22:21.73,Amadeus Rom,,0,0,0,,{\ko40}A{\ko61}shi{\ko33}ta {\ko135}no {\ko52}te{\ko49}n{\ko36}ki {\ko123}mo
+Dialogue: 12,0:22:21.73,0:22:25.11,Amadeus Rom,,0,0,0,,{\ko46}Shi{\ko17}ra{\ko35}nu {\ko18}ma{\ko15}ma {\ko11}ga {\ko14}i{\ko42}i {\ko139}to
+Dialogue: 12,0:22:25.11,0:22:27.15,Amadeus Rom,,0,0,0,,{\ko22}Ka{\ko32}sa {\ko14}wo {\ko22}mo{\ko46}ta{\ko69}zu
+Dialogue: 12,0:22:27.15,0:22:32.66,Amadeus Rom,,0,0,0,,{\ko64}Na{\ko51}mi{\ko32}da {\ko137}no {\ko52}a{\ko51}me {\ko33}na{\ko130}ra
+Dialogue: 12,0:22:32.66,0:22:37.62,Amadeus Rom,,0,0,0,,{\ko32}Ya{\ko23}sa{\ko30}shi{\ko30}su{\ko16}gi{\ko14}ru {\ko26}u{\ko23}so {\ko133}ni {\ko41}ka{\ko18}ki{\ko15}ka{\ko12}e{\ko84}ta
+Dialogue: 12,0:22:37.62,0:22:42.92,Amadeus Rom,,0,0,0,,{\ko24}Ha{\ko16}ko {\ko52}ni {\ko33}to{\ko21}ji{\ko14}ko{\ko20}me{\ko39}ta {\ko42}so{\ko37}ra {\ko31}no {\ko30}da{\ko21}n{\ko49}pe{\ko21}n {\ko79}ga
+Dialogue: 12,0:22:42.92,0:22:48.30,Amadeus Rom,,0,0,0,,{\ko38}Mi{\ko20}ra{\ko40}i {\ko41}no {\ko13}pa{\ko19}zu{\ko20}ru {\ko44}ni {\ko41}ha{\ko27}ma{\ko39}t{\ko34}te{\ko18}ku{\ko43}re{\ko23}na{\ko78}i
+Dialogue: 12,0:22:48.30,0:22:54.43,Amadeus Rom,,0,0,0,,{\ko40}Mu{\ko19}ge{\ko19}n{\ko27}ka{\ko20}i {\ko56}no {\ko30}su{\ko17}i{\ko32}ro{\ko37}n {\ko44}wa {\ko41}no{\ko10}i{\ko53}zu {\ko20}ha{\ko17}ki{\ko14}da{\ko37}shi{\ko80}te
+Dialogue: 12,0:22:54.43,0:22:56.89,Amadeus Rom,,0,0,0,,{\ko16}Ka{\ko15}mi {\ko24}sa{\ko26}e {\ko44}mo {\ko7}a{\ko27}za{\ko16}mu{\ko17}ku {\ko18}ro{\ko37}jikku
+Dialogue: 12,0:22:56.89,0:23:00.06,Amadeus Rom,,0,0,0,,{\ko46}Ya{\ko13}ku{\ko19}so{\ko31}ku {\ko40}no {\ko15}a{\ko18}no {\ko8}ba{\ko25}sho {\ko101}he
+Dialogue: 12,0:23:00.06,0:23:03.65,Amadeus Rom,,0,0,0,,{\ko35}Bo{\ko14}ku{\ko15}ra {\ko39}wa {\ko26}u{\ko22}chu{\ko17}u {\ko11}mo {\ko24}ma{\ko21}da {\ko48}shi{\ko35}ra{\ko33}na{\ko19}i
+Dialogue: 12,0:23:03.65,0:23:06.74,Amadeus Rom,,0,0,0,,{\ko48}Ze{\ko19}ro {\ko17}no {\ko34}gee{\ko24}to {\ko43}hi{\ko17}ra{\ko14}ku {\ko93}yo
+Dialogue: 12,0:23:06.74,0:23:09.20,Amadeus Rom,,0,0,0,,{\ko44}Su{\ko18}be{\ko18}te {\ko30}wa {\ko19}tsu{\ko18}bu {\ko17}to {\ko18}na{\ko64}ri
+Dialogue: 12,0:23:09.20,0:23:10.91,Amadeus Rom,,0,0,0,,{\ko33}Sa{\ko11}i{\ko27}se{\ko24}i {\ko43}su{\ko33}ru
+Dialogue: 12,0:23:10.91,0:23:14.53,Amadeus Rom,,0,0,0,,{\ko35}So{\ko15}re{\ko20}na{\ko34}ra {\ko32}to{\ko20}gi{\ko12}re{\ko21}so{\ko14}u {\ko36}na {\ko28}i{\ko34}shi{\ko40}ki {\ko22}mo
+Dialogue: 12,0:23:14.53,0:23:17.50,Amadeus Rom,,0,0,0,,{\ko45}Tsu{\ko17}na{\ko17}gi{\ko12}to{\ko23}me{\ko32}te {\ko21}mi{\ko31}se{\ko16}ru {\ko82}yo
+Dialogue: 12,0:23:17.50,0:23:20.21,Amadeus Rom,,0,0,0,,{\ko20}A{\ko16}no {\ko17}ji{\ko37}ka{\ko32}n {\ko17}a{\ko13}no {\ko16}ba{\ko22}sho {\ko81}de
+Dialogue: 12,0:23:20.21,0:23:31.47,Amadeus Rom,,0,0,0,,{\ko38}{\fade(0,1500)}Ki{\ko17}mi {\ko34}no {\ko17}to{\ko16}ki {\ko77}ga {\ko26}mou {\ko33}i{\ko136}chi{\ko355}do {\ko18}ha{\ko33}ji{\ko138}ma{\ko188}ru
+Dialogue: 11,0:22:16.43,0:22:21.73,Amadeus Rom Red,,0,0,0,,Ashita no tenki mo
+Dialogue: 11,0:22:21.73,0:22:25.11,Amadeus Rom Red,,0,0,0,,Shiranu mama ga ii to
+Dialogue: 11,0:22:25.11,0:22:27.15,Amadeus Rom Red,,0,0,0,,Kasa wo motazu
+Dialogue: 11,0:22:27.15,0:22:32.66,Amadeus Rom Red,,0,0,0,,Namida no ame nara
+Dialogue: 11,0:22:32.66,0:22:37.62,Amadeus Rom Red,,0,0,0,,Yasashisugiru uso ni kakikaeta
+Dialogue: 11,0:22:37.62,0:22:42.92,Amadeus Rom Red,,0,0,0,,Hako ni tojikometa sora no danpen ga
+Dialogue: 11,0:22:42.92,0:22:48.30,Amadeus Rom Red,,0,0,0,,Mirai no pazuru ni hamattekurenai
+Dialogue: 11,0:22:48.30,0:22:54.43,Amadeus Rom Red,,0,0,0,,Mugenkai no suiron wa noizu hakidashite
+Dialogue: 11,0:22:54.43,0:22:56.89,Amadeus Rom Red,,0,0,0,,Kami sae mo azamuku rojikku
+Dialogue: 11,0:22:56.89,0:23:00.06,Amadeus Rom Red,,0,0,0,,Yakusoku no ano basho he
+Dialogue: 11,0:23:00.06,0:23:03.65,Amadeus Rom Red,,0,0,0,,Bokura wa uchuu mo mada shiranai
+Dialogue: 11,0:23:03.65,0:23:06.74,Amadeus Rom Red,,0,0,0,,Zero no geeto hiraku yo
+Dialogue: 11,0:23:06.74,0:23:09.20,Amadeus Rom Red,,0,0,0,,Subete wa tsubu to nari
+Dialogue: 11,0:23:09.20,0:23:10.91,Amadeus Rom Red,,0,0,0,,Saisei suru
+Dialogue: 11,0:23:10.91,0:23:14.53,Amadeus Rom Red,,0,0,0,,Sorenara togiresou na ishiki mo
+Dialogue: 11,0:23:14.53,0:23:17.50,Amadeus Rom Red,,0,0,0,,Tsunagitomete miseru yo
+Dialogue: 11,0:23:17.50,0:23:20.21,Amadeus Rom Red,,0,0,0,,Ano jikan ano basho de
+Dialogue: 11,0:23:20.21,0:23:31.47,Amadeus Rom Red,,0,0,0,,{\fade(0,1500)}Kimi no toki ga mou ichido hajimaru
+Dialogue: 11,0:22:16.43,0:22:21.73,Amadeus Trans,,0,0,0,,“Tomorrow's weather
+Dialogue: 11,0:22:21.73,0:22:25.11,Amadeus Trans,,0,0,0,,“Is better of not known,” I say,
+Dialogue: 11,0:22:25.11,0:22:27.15,Amadeus Trans,,0,0,0,,So I don't carry an umbrella
+Dialogue: 11,0:22:27.15,0:22:32.66,Amadeus Trans,,0,0,0,,Any downpour of tears that may await me
+Dialogue: 11,0:22:32.66,0:22:37.62,Amadeus Trans,,0,0,0,,Will be rewritten into the gentlest of lies
+Dialogue: 11,0:22:37.62,0:22:42.92,Amadeus Trans,,0,0,0,,The pieces of the sky enclosed within the box
+Dialogue: 11,0:22:42.92,0:22:48.30,Amadeus Trans,,0,0,0,,Cannot connect to form the puzzle of the future
+Dialogue: 11,0:22:48.30,0:22:54.43,Amadeus Trans,,0,0,0,,Static, spat out from my infinith inference,
+Dialogue: 11,0:22:54.43,0:22:56.89,Amadeus Trans,,0,0,0,,Is the logic to deceive God himself,
+Dialogue: 11,0:22:56.89,0:23:00.06,Amadeus Trans,,0,0,0,,Bringing us closer to that promised place...
+Dialogue: 11,0:23:00.06,0:23:03.65,Amadeus Trans,,0,0,0,,We will open the gate of Zero,
+Dialogue: 11,0:23:03.65,0:23:06.74,Amadeus Trans,,0,0,0,,Still unknown to the universe,
+Dialogue: 11,0:23:06.74,0:23:09.20,Amadeus Trans,,0,0,0,,Reducing everything to particles
+Dialogue: 11,0:23:09.20,0:23:10.91,Amadeus Trans,,0,0,0,,And reassembling it all
+Dialogue: 11,0:23:10.91,0:23:14.53,Amadeus Trans,,0,0,0,,Even so, I'll show you
+Dialogue: 11,0:23:14.53,0:23:17.50,Amadeus Trans,,0,0,0,,I can hold on to this discontinuous consciousness,
+Dialogue: 11,0:23:17.50,0:23:20.21,Amadeus Trans,,0,0,0,,And in that hour, in that place,
+Dialogue: 11,0:23:20.21,0:23:31.47,Amadeus Trans,,0,0,0,,{\fade(0,1500)}Your “time” will begin once more
+Dialogue: 10,0:22:16.31,0:23:35.51,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+Dialogue: 10,0:22:16.31,0:23:35.51,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
 Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\an3\pos(1684,686)\fsp16}Missing Link
 Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1142,658)\fs60\fsp4}of
 Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1144,700)\fs40}the

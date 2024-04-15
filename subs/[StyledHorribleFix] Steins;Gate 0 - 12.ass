@@ -1,9 +1,10 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
-; Subs edited by Woute and Davixxa for consistency
+; Subs edited by Woute, Mia and PringlesGang for consistency
 ; Subs styled by PringlesGang
-; Fatima translation by Rigs
-; https://bitbucket.org/Woote/horriblefix/overview
+; Fátima translation by PringlesGang
+; A Song for the Stars translation by Committee of Zero
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -17,9 +18,122 @@ Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210
 Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
 Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: OP Rom,Libre Bodoni,90,&H00000000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
+Style: OP Trans,Libre Bodoni,90,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
+Style: Hoshi Trans,Rounded Mplus 1c Extrabold,80,&H00FFFFFF,&H000000FF,&H00FFE888,&H00000000,-1,-1,0,0,100,100,0,0,1,4.5,0,2,23,23,23,1
+Style: Hoshi Rom,Rounded Mplus 1c Extrabold,80,&H00FFFFFF,&H00746113,&HFFFFE888,&H00000000,-1,-1,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
+Style: Hoshi Rom Blur,Rounded Mplus 1c Extrabold,80,&H00FFFFFF,&H00746113,&H00FFE888,&H00000000,-1,-1,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
+Style: Typeset Top,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,8,7,7,7,1
+Style: Typeset,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,7,7,7,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:02:35.05,0:02:37.05,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:02:35.05,0:02:37.05,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 12,0:02:37.05,0:02:39.05,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 11,0:02:39.05,0:02:41.05,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:02:41.05,0:02:46.18,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
+Comment: 11,0:02:46.18,0:02:52.27,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
+Comment: 11,0:02:53.19,0:02:58.65,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
+Comment: 11,0:02:58.65,0:03:04.08,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
+Comment: 11,0:03:04.08,0:03:09.41,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
+Comment: 11,0:03:09.41,0:03:13.75,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
+Comment: 11,0:03:13.75,0:03:19.13,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
+Comment: 11,0:03:19.13,0:03:25.85,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
+Comment: 11,0:03:25.85,0:03:26.97,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
+Comment: 11,0:03:26.97,0:03:32.27,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
+Comment: 11,0:03:32.81,0:03:37.73,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
+Comment: 11,0:03:37.73,0:03:40.45,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
+Comment: 11,0:03:40.45,0:03:43.28,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
+Comment: 11,0:03:43.28,0:03:48.62,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
+Comment: 11,0:03:48.62,0:03:54.08,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}god. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
+Dialogue: 11,0:02:41.05,0:02:46.18,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
+Dialogue: 11,0:02:46.18,0:02:52.27,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It's merely a vision projected into our eyes
+Dialogue: 11,0:02:53.19,0:02:58.65,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
+Dialogue: 11,0:02:58.65,0:03:04.08,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
+Dialogue: 11,0:03:04.08,0:03:09.41,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
+Dialogue: 11,0:03:09.41,0:03:13.75,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
+Dialogue: 11,0:03:13.75,0:03:19.13,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
+Dialogue: 11,0:03:19.13,0:03:25.85,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
+Dialogue: 11,0:03:26.97,0:03:32.27,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
+Dialogue: 11,0:03:32.81,0:03:37.73,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn't merely something that's expanding our distance
+Dialogue: 11,0:03:37.73,0:03:40.45,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
+Dialogue: 11,0:03:40.45,0:03:43.28,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
+Dialogue: 11,0:03:43.28,0:03:48.62,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
+Dialogue: 12,0:20:38.34,0:20:43.59,Hoshi Rom,,0,0,0,,{\kf63}{\fade(100,100)\fs60}Sa{\kf91}ga{\kf83}shi{\kf32}mo{\kf43}no {\kf48}hi{\kf32}to{\kf133}tsu
+Dialogue: 12,0:20:44.59,0:20:50.14,Hoshi Rom,,0,0,0,,{\kf75}{\fade(100,100)\fs60}Ho{\kf98}shi {\kf82}no {\kf39}wa{\kf45}ra{\kf36}u {\kf41}ko{\kf139}e
+Dialogue: 12,0:20:51.10,0:20:56.10,Hoshi Rom,,0,0,0,,{\kf83}{\fade(100,100)\fs60}Ka{\kf79}ze {\kf91}ni {\kf41}ma{\kf45}ta{\kf44}ta{\kf29}i{\kf88}te
+Dialogue: 12,0:20:56.40,0:21:03.74,Hoshi Rom,,0,0,0,,{\kf42}{\fade(100,100)\fs60}Te {\kf50}wo {\kf37}na{\kf71}ba{\kf87}se{\kf79}ba {\kf44}tsu{\kf37}ka{\kf49}me{\kf34}ru {\kf204}yo
+Dialogue: 12,0:21:03.74,0:21:09.91,Hoshi Rom,,0,0,0,,{\kf43}{\fade(100,100)\fs60}Ka{\kf79}ke{\kf30}ma{\kf50}wa{\kf117}ru {\kf44}sa{\kf88}ka{\kf42}na {\kf33}ta{\kf91}chi
+Dialogue: 12,0:21:10.16,0:21:16.71,Hoshi Rom,,0,0,0,,{\kf41}{\fade(100,100)\fs60}Ya{\kf36}sa{\kf51}shi{\kf46}i {\kf46}a{\kf69}me {\kf42}tsu{\kf44}tsu{\kf119}ma{\kf38}re{\kf123}te
+Dialogue: 12,0:21:16.79,0:21:23.13,Hoshi Rom,,0,0,0,,{\kf30}{\fade(100,100)\fs60}A{\kf89}ta{\kf28}ta{\kf49}ka{\kf125}ku {\kf33}hi{\kf86}ro{\kf33}i {\kf50}se {\kf111}ni
+Dialogue: 12,0:21:23.26,0:21:29.26,Hoshi Rom,,0,0,0,,{\kf37}{\fade(100,100)\fs60}Ho{\kf32}ho {\kf38}yo{\kf50}se {\kf46}ne{\kf156}ga{\kf241}tta
+Dialogue: 12,0:21:29.39,0:21:32.47,Hoshi Rom,,0,0,0,,{\kf32}{\fade(100,100)}Hi{\kf42}to{\kf19}mi {\kf15}to{\kf46}ji{\kf42}re{\kf112}ba
+Dialogue: 12,0:21:32.60,0:21:35.48,Hoshi Rom,,0,0,0,,{\kf74}{\fade(100,100)}Ki{\kf25}tto {\kf13}mi{\kf46}tsu{\kf43}ka{\kf87}ru
+Dialogue: 12,0:21:35.69,0:21:42.03,Hoshi Rom,,0,0,0,,{\kf46}{\fade(100,100)}Ma{\kf47}yo{\kf75}u {\kf48}ki{\kf39}mi {\kf123}wo {\kf33}mi{\kf63}chi{\kf12}bi{\kf14}ku {\kf39}hi{\kf41}ka{\kf54}ri
+Dialogue: 12,0:21:42.19,0:21:45.61,Hoshi Rom,,0,0,0,,{\kf51}{\fade(100,100)}Mi{\kf40}mi {\kf11}wo {\kf23}su{\kf37}ma{\kf47}se{\kf133}ba
+Dialogue: 12,0:21:45.70,0:21:48.49,Hoshi Rom,,0,0,0,,{\kf65}{\fade(100,100)}Ki{\kf19}tto {\kf22}ki{\kf39}ko{\kf42}e{\kf92}ru
+Dialogue: 12,0:21:48.70,0:21:59.71,Hoshi Rom,,0,0,0,,{\kf48}{\fade(100,100)}Ne{\kf42}mu{\kf74}ru {\kf43}ki{\kf45}mi {\kf68}wo {\kf50}so{\kf40}t{\kf83}to {\kf42}yu{\kf39}ri{\kf37}o{\kf31}ko{\kf51}su {\kf89}u{\kf319}ta
+Dialogue: 12,0:22:03.38,0:22:06.01,Hoshi Rom,,0,0,0,,{\kf38}{\fade(100,100)}Zu{\kf38}tto {\kf44}zu{\kf143}tto
+Dialogue: 12,0:22:06.42,0:22:08.43,Hoshi Rom,,0,0,0,,{\kf60}{\fade(100,100)}Zu{\kf33}tto {\kf46}zu{\kf62}tto
+Dialogue: 12,0:22:08.89,0:22:15.39,Hoshi Rom,,0,0,0,,{\kf178}{\fade(100,100)}So{\kf162}ba {\kf162}ni {\kf42}i{\kf106}ta
+Dialogue: 12,0:22:16.23,0:22:18.90,Hoshi Rom,,0,0,0,,{\kf50}{\fade(100,100)}Zu{\kf38}tto {\kf44}zu{\kf135}tto
+Dialogue: 12,0:22:19.44,0:22:21.90,Hoshi Rom,,0,0,0,,{\kf53}{\fade(100,100)}Zu{\kf37}tto {\kf44}zu{\kf112}tto
+Dialogue: 12,0:22:21.90,0:22:28.70,Hoshi Rom,,0,0,0,,{\kf164}{\fade(100,100)}I{\kf173}tsu{\kf162}ma{\kf38}de{\kf143}mo
+Dialogue: 12,0:22:29.28,0:22:31.99,Hoshi Rom,,0,0,0,,{\kf44}{\fade(100,100)}Zu{\kf38}tto {\kf45}zu{\kf144}tto
+Dialogue: 12,0:22:32.49,0:22:34.70,Hoshi Rom,,0,0,0,,{\kf47}{\fade(100,100)}Zu{\kf35}tto {\kf43}zu{\kf96}tto
+Dialogue: 12,0:22:35.00,0:22:40.58,Hoshi Rom,,0,0,0,,{\kf163}{\fade(100,100)}So{\kf161}ba {\kf163}ni i{\kf71}ru
+Dialogue: 12,0:22:40.58,0:22:49.59,Hoshi Rom,,0,0,0,,{\kf36}{\fade(100,100)}Ya{\kf41}sa{\kf88}shii {\kf49}ki{\kf38}mi {\kf80}ga {\kf45}wa{\kf37}ra{\kf62}e{\kf28}ru {\kf53}yo{\kf76}u{\kf268}ni
+Dialogue: 11,0:20:38.34,0:20:43.59,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Sagashimono hitotsu
+Dialogue: 11,0:20:44.59,0:20:50.14,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Hoshi no warau koe
+Dialogue: 11,0:20:51.10,0:20:56.10,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Kaze ni matataite
+Dialogue: 11,0:20:56.40,0:21:03.74,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Te wo nabaseba tsukameru yo
+Dialogue: 11,0:21:03.74,0:21:09.91,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Kakemawaru sakana tachi
+Dialogue: 11,0:21:10.16,0:21:16.71,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Yasashii ame tsutsumarete
+Dialogue: 11,0:21:16.79,0:21:23.13,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Atatakaku hiroi se ni
+Dialogue: 11,0:21:23.26,0:21:29.26,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25\fs60}Hoho yose negatta
+Dialogue: 11,0:21:29.39,0:21:32.47,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Hitomi tojireba
+Dialogue: 11,0:21:32.60,0:21:35.48,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Kitto mitsukaru
+Dialogue: 11,0:21:35.69,0:21:42.03,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Mayou kimi wo michibiku hikari
+Dialogue: 11,0:21:42.19,0:21:45.61,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Mimi wo sumaseba
+Dialogue: 11,0:21:45.70,0:21:48.49,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Kitto kikoeru
+Dialogue: 11,0:21:48.70,0:21:59.71,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Nemuru kimi wo sotto yuriokosu uta
+Dialogue: 11,0:22:03.38,0:22:06.01,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Zutto zutto
+Dialogue: 11,0:22:06.42,0:22:08.43,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Zutto zutto
+Dialogue: 11,0:22:08.89,0:22:15.39,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Soba ni ita
+Dialogue: 11,0:22:16.23,0:22:18.90,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Zutto zutto
+Dialogue: 11,0:22:19.44,0:22:21.90,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Zutto zutto
+Dialogue: 11,0:22:21.90,0:22:28.70,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Itsumademo
+Dialogue: 11,0:22:29.28,0:22:31.99,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Zutto zutto
+Dialogue: 11,0:22:32.49,0:22:34.70,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Zutto zutto
+Dialogue: 11,0:22:35.00,0:22:40.58,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Soba ni iru
+Dialogue: 11,0:22:40.58,0:22:49.59,Hoshi Rom Blur,,0,0,0,karaoke,{\fade(100,100)\blur11.25}Yasashii kimi ga waraeru youni
+Dialogue: 11,0:20:38.34,0:20:43.59,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}There's just one thing I'm searching for...
+Dialogue: 11,0:20:44.59,0:20:50.14,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}The laughter of the stars
+Dialogue: 11,0:20:51.10,0:20:56.10,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}Twinkling in the wind
+Dialogue: 11,0:20:56.40,0:21:03.74,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}You can grab it if you reach out your hand
+Dialogue: 11,0:21:03.74,0:21:09.91,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}Fish swim about
+Dialogue: 11,0:21:10.16,0:21:16.71,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}Enveloped by the gentle rain
+Dialogue: 11,0:21:16.79,0:21:23.13,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}I've always wished to bring my cheek
+Dialogue: 11,0:21:23.26,0:21:29.26,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25\a6\fs60}Closer to your warm, broad back
+Dialogue: 11,0:21:29.39,0:21:32.47,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Just close your eyes
+Dialogue: 11,0:21:32.60,0:21:35.48,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}And surely you'll see
+Dialogue: 11,0:21:35.69,0:21:42.03,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}A guiding light to save a lost one like you
+Dialogue: 11,0:21:42.19,0:21:45.61,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Just listen carefully
+Dialogue: 11,0:21:45.70,0:21:48.49,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}And surely you'll hear
+Dialogue: 11,0:21:48.70,0:21:59.71,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}A song to gently awaken a slumbering one like you
+Dialogue: 11,0:22:03.38,0:22:06.01,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}I've always, always
+Dialogue: 11,0:22:06.42,0:22:08.43,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Always, always
+Dialogue: 11,0:22:08.89,0:22:15.39,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Been by your side...
+Dialogue: 11,0:22:16.23,0:22:18.90,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Always, always
+Dialogue: 11,0:22:19.44,0:22:21.90,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Always, always
+Dialogue: 11,0:22:21.90,0:22:28.70,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}And forever...
+Dialogue: 11,0:22:29.28,0:22:31.99,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}I will always, always
+Dialogue: 11,0:22:32.49,0:22:34.70,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Always, always
+Dialogue: 11,0:22:35.00,0:22:40.58,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}Be by your side...
+Dialogue: 11,0:22:40.58,0:22:49.59,Hoshi Trans,,0,0,0,,{\fade(100,100)\blur11.25}To protect the smile of a gentle one like you
+Dialogue: 10,0:21:29.01,0:22:54.60,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Dialogue: 10,0:21:28.01,0:22:50.59,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an3\fs100\pos(1478,944)}M{\fs70}other Goose
 Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an3\fs50\pos(1476,968)}of Mutual
 Dialogue: 1,0:02:19.99,0:02:24.99,Title,,0,0,0,,{\an1\fs120\pos(1482,980)}Recursion
@@ -86,18 +200,6 @@ Dialogue: 30,0:02:05.20,0:02:10.96,Default,,0,0,0,,♪ The laughter of the stars
 Dialogue: 30,0:02:10.96,0:02:16.97,Default,,0,0,0,,♪ The laughter of the stars... ♪
 Dialogue: 30,0:02:16.97,0:02:22.39,Default,,0,0,0,,♪ Twinkling in the wind... ♪
 Dialogue: 30,0:02:22.39,0:02:24.47,Default,,0,0,0,,♪ Twinkling in the wind... ♪
-Dialogue: 30,0:02:40.91,0:02:46.20,Default,,0,0,0,,{\i1}This is a world of unreality,{\i}
-Dialogue: 30,0:02:46.20,0:02:52.13,Default,,0,0,0,,{\i1}Nothing more than an imprinted vision.{\i}
-Dialogue: 30,0:02:53.13,0:03:03.97,Default,,0,0,0,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-Dialogue: 30,0:03:03.97,0:03:13.69,Default,,0,0,0,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
-Dialogue: 30,0:03:13.69,0:03:19.03,Default,,0,0,0,,{\i1}Then I alone{\i}
-Dialogue: 30,0:03:19.03,0:03:25.78,Default,,0,0,0,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
-Dialogue: 30,0:03:25.78,0:03:26.87,Default,,0,0,0,,{\i1}I can fly high{\i}
-Dialogue: 30,0:03:26.87,0:03:32.79,Default,,0,0,0,,{\i1}If that moment, if that place was{\i}\N{\i1}something you thought was special to you{\i}
-Dialogue: 30,0:03:32.79,0:03:37.55,Default,,0,0,0,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
-Dialogue: 30,0:03:37.55,0:03:43.05,Default,,0,0,0,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
-Dialogue: 30,0:03:43.05,0:03:48.60,Default,,0,0,0,,{\i1}As each and every light forms to yield Zero.{\i}
-Dialogue: 30,0:03:48.60,0:03:53.94,Default,,0,0,0,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 30,0:03:58.65,0:04:00.15,Default,,0,0,0,,Okabe-kun!
 Dialogue: 30,0:04:00.15,0:04:01.74,Default,,0,0,0,,Professor Izaki?
 Dialogue: 30,0:04:01.74,0:04:05.66,Default,,0,0,0,,I must say, that report of yours\Nwas pretty darn impressive!
@@ -396,43 +498,19 @@ Dialogue: 30,0:20:28.14,0:20:31.77,Default,,0,0,0,,Thank goodness! You finally w
 Dialogue: 30,0:20:32.94,0:20:34.52,Default,,0,0,0,,Mommy...
 Dialogue: 30,0:20:34.52,0:20:36.65,Default,,0,0,0,,Kagari?
 Dialogue: 30,0:20:38.23,0:20:41.19,Default,,0,0,0,,Mommy!
-Dialogue: 30,0:20:38.23,0:20:43.50,On Top,,0,0,0,,{\i1}There's just one thing I'm searching for...{\i}
 Dialogue: 30,0:20:41.19,0:20:42.49,Default,,0,0,0,,Huh? Huh?!
 Dialogue: 30,0:20:42.49,0:20:47.16,Default,,0,0,0,,I missed you, Mommy!
-Dialogue: 30,0:20:44.90,0:20:50.05,On Top,,0,0,0,,{\i1}The laughter of the stars{\i}
 Dialogue: 30,0:20:47.16,0:20:50.62,Default,,0,0,0,,M-Mayushii isn't a mommy.
 Dialogue: 30,0:20:50.62,0:20:53.62,Default,,0,0,0,,No... Mommy is mommy.
-Dialogue: 30,0:20:51.00,0:20:56.00,On Top,,0,0,0,,{\i1}Twinkling in the wind{\i}
 Dialogue: 30,0:20:53.62,0:20:56.13,Default,,0,0,0,,The mommy I love so much!
 Dialogue: 30,0:20:56.13,0:20:58.50,Default,,0,0,0,,Mommy Mayuri!
-Dialogue: 30,0:20:56.50,0:21:03.80,On Top,,0,0,0,,{\i1}You can grab it if you reach out your hand{\i}
 Dialogue: 30,0:20:58.50,0:21:01.67,Default,,0,0,0,,Did her memories actually come back?
 Dialogue: 30,0:21:01.67,0:21:03.38,Default,,0,0,0,,I finally found you!
 Dialogue: 30,0:21:03.38,0:21:04.93,Default,,0,0,0,,Finally!
-Dialogue: 30,0:21:03.90,0:21:09.80,On Top,,0,0,0,,{\i1}Fish swim about{\i}
 Dialogue: 30,0:21:07.30,0:21:09.51,Default,,0,0,0,,U-Um...
-Dialogue: 30,0:21:10.05,0:21:16.60,On Top,,0,0,0,,{\i1}Enveloped by the gentle rain{\i}
 Dialogue: 30,0:21:16.27,0:21:17.98,Default,,0,0,0,,It's okay.
-Dialogue: 30,0:21:16.70,0:21:23.05,On Top,,0,0,0,,{\i1}I've always wished to bring my cheek{\i}
 Dialogue: 30,0:21:17.98,0:21:20.98,Default,,0,0,0,,It's all right now.
 Dialogue: 30,0:21:20.98,0:21:23.03,Default,,0,0,0,,Mommy!
-Dialogue: 30,0:21:23.15,0:21:29.15,On Top,,0,0,0,,{\i1}Closer to your warm, broad back{\i}
-Dialogue: 30,0:21:29.30,0:21:32.40,On Top,,0,0,0,,{\i1}Just close your eyes{\i}
-Dialogue: 30,0:21:32.50,0:21:35.40,On Top,,0,0,0,,{\i1}And surely you'll see{\i}
-Dialogue: 30,0:21:35.60,0:21:41.95,On Top,,0,0,0,,{\i1}A guiding light to save a lost one like you{\i}
-Dialogue: 30,0:21:42.10,0:21:45.50,On Top,,0,0,0,,{\i1}Just listen carefully{\i}
-Dialogue: 30,0:21:45.60,0:21:48.40,On Top,,0,0,0,,{\i1}And surely you'll hear{\i}
-Dialogue: 30,0:21:48.60,0:21:59.60,On Top,,0,0,0,,{\i1}A song to gently awaken a slumbering one like you{\i}
-Dialogue: 30,0:22:03.30,0:22:05.90,On Top,,0,0,0,,{\i1}I've always, always{\i}
-Dialogue: 30,0:22:06.60,0:22:08.60,On Top,,0,0,0,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:08.80,0:22:15.30,On Top,,0,0,0,,{\i1}Been by your side...{\i}
-Dialogue: 30,0:22:16.15,0:22:18.80,On Top,,0,0,0,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:19.35,0:22:21.90,On Top,,0,0,0,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:22.05,0:22:28.60,On Top,,0,0,0,,{\i1}And forever...{\i}
-Dialogue: 30,0:22:29.20,0:22:31.90,On Top,,0,0,0,,{\i1}I will always, always{\i}
-Dialogue: 30,0:22:32.40,0:22:34.60,On Top,,0,0,0,,{\i1}Always, always{\i}
-Dialogue: 30,0:22:34.90,0:22:40.50,On Top,,0,0,0,,{\i1}Be by your side...{\i}
-Dialogue: 30,0:22:40.70,0:22:49.50,On Top,,0,0,0,,{\i1}To protect the smile of a gentle one like you{\i}
 Dialogue: 30,0:22:56.00,0:23:02.46,Default,,0,0,0,,♪ There's just one thing I'm searching for... ♪
 Dialogue: 30,0:23:02.46,0:23:04.75,Default,,0,0,0,,—♪ The— ♪\N—U-Um...
 Dialogue: 30,0:23:06.42,0:23:08.59,Default,,0,0,0,,Uh, um...

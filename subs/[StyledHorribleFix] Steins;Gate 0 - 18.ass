@@ -1,5 +1,10 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
+; Subs edited by Woute, Mia and PringlesGang for consistency
+; Subs styled by PringlesGang
+; Fátima translation by PringlesGang
+; Lyra translation by PringlesGang and Committee of Zero
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -14,9 +19,94 @@ Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,
 Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
 Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Typeset Top,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,8,7,7,7,1
+Style: Typeset,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,7,7,7,1
+Style: Lyra Rom,Dancing Script SemiBold,75,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3.5,0,8,23,23,23,1
+Style: OP Rom,Libre Bodoni,90,&H00000000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
+Style: OP Trans,Libre Bodoni,90,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:47.98,0:00:49.98,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:00:47.98,0:00:49.98,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 11,0:00:47.98,0:00:49.98,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100,)\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 12,0:00:47.98,0:00:49.98,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:00:49.98,0:00:55.15,OP Rom,,0,0,0,karaoke,{\k52}{\blur11.25\fad(100,100)}Ko{\k107}no {\k19}i{\k14}no{\k32}chi {\k19}to {\k33}i{\k34}u {\k116}mu{\k20}ge{\k71}n
+Comment: 11,0:00:55.15,0:01:01.20,OP Rom,,0,0,0,karaoke,{\k77}{\blur11.25\fad(100,100)}Ma{\k83}da {\k47}sa{\k39}kka{\k17}ku {\k27}to{\k24}mo {\k131}shi{\k15}ra{\k145}zu
+Comment: 11,0:01:02.12,0:01:07.58,OP Rom,,0,0,0,karaoke,{\k27}{\blur11.25\fad(100,100)}Ni{\k21}ri{\k35}tsu{\k27}ha{\k28}i{\k30}ha{\k118}n {\k20}pa{\k14}ra{\k26}do{\k16}kku{\k26}su {\k36}sa{\k122}e
+Comment: 11,0:01:07.58,0:01:13.01,OP Rom,,0,0,0,karaoke,{\k24}{\blur11.25\fad(100,100)}Ka{\k19}gi{\k32}ri {\k17}no {\k31}na{\k35}i {\k34}se{\k16}ka{\k11}i{\k41}se{\k17}n {\k18}de {\k53}a{\k48}za{\k15}mu{\k131}ki
+Comment: 11,0:01:13.01,0:01:18.34,OP Rom,,0,0,0,karaoke,{\k18}{\blur11.25\fad(100,100)}Ka{\k12}n{\k40}jo{\k18}u {\k18}no {\k24}shi{\k26}ha{\k112}i {\k19}ki{\k18}do{\k27}u {\k18}chi{\k26}tsu{\k40}jo {\k118}wa
+Comment: 11,0:01:18.34,0:01:22.68,OP Rom,,0,0,0,karaoke,{\k29}{\blur11.25\fad(100,100)}Jou{\k39}shi{\k16}ki {\k37}sa{\k40}e {\k30}su{\k11}ri{\k21}ka{\k33}e{\k16}te {\k19}yu{\k61}ku {\k21}na{\k18}ra{\k43}ba
+Comment: 11,0:01:22.68,0:01:28.06,OP Rom,,0,0,0,karaoke,{\k104}{\blur11.25\fad(100,100)}Bo{\k17}ku {\k112}no {\k19}bo{\k18}ku {\k104}da{\k18}ke {\k146}no
+Comment: 11,0:01:28.06,0:01:34.78,OP Rom,,0,0,0,karaoke,{\k21}{\blur11.25\fad(100,100)}Ku{\k14}ru{\k19}shi{\k21}mi {\k44}so{\k14}no {\k37}ke{\k21}kka{\k20}n {\k47}sa{\k53}e {\k30}a{\k33}ru{\k30}go{\k32}ri{\k35}sumu {\k18}no {\k27}ma{\k156}ma
+Comment: 11,0:01:34.78,0:01:35.90,OP Rom,,0,0,0,karaoke,{\k19}{\blur11.25\fad(100,100)}I {\k23}can {\k70}fly—
+Comment: 11,0:01:35.90,0:01:41.20,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}A{\k15}i {\k19}no {\k16}shi{\k14}ru{\k36}shi, {\k32}a{\k25}i {\k14}no {\k13}ko{\k25}to{\k32}ba, {\k31}me{\k20}i{\k13}ka{\k18}ku {\k19}na{\k28}ru {\k38}ko{\k14}no {\k15}ki{\k17}o{\k21}ku {\k19}wo
+Comment: 11,0:01:41.78,0:01:46.66,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}Ni{\k18}do{\k27}to {\k43}ka{\k16}na{\k16}ta {\k34}ni {\k19}o{\k13}ki{\k14}za{\k54}ri {\k42}ni {\k45}wa {\k27}shi{\k23}na{\k14}i {\k19}ka{\k28}ra
+Comment: 11,0:01:46.66,0:01:49.38,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}I{\k18}tsu{\k18}de{\k15}mo {\k16}ma{\k33}da {\k22}ki{\k27}mi {\k13}no {\k21}so{\k21}ba {\k31}ni
+Comment: 11,0:01:49.38,0:01:52.09,OP Rom,,0,0,0,karaoke,{\k37}{\blur11.25\fad(100,100)}To{\k16}na{\k19}ri{\k9}a{\k15}wa{\k25}se {\k40}so{\k23}no {\k18}ryo{\k10}u{\k25}shi {\k36}ga
+Comment: 11,0:01:52.09,0:01:57.55,OP Rom,,0,0,0,karaoke,{\k73}{\blur11.25\fad(100,100)}Mo{\k26}tsu{\k33}re{\k35}a{\k31}e{\k30}ba {\k21}ze{\k16}ro {\k107}ni {\k24}na{\k150}ru
+Comment: 11,0:01:57.55,0:02:03.01,OP Rom,,0,0,0,karaoke,{\k41}{\blur11.25\fad(100,100)}There {\k34}is {\k31}no {\k160}god. {\k38}Won{\k27}der{\k39}ful {\k72}new {\k104}world
+Dialogue: 11,0:00:49.98,0:00:55.15,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}This “vision” we call life
+Dialogue: 11,0:00:55.15,0:01:01.20,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Is yet unaware that it's an illusion
+Dialogue: 11,0:01:02.12,0:01:07.58,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Even antinomic paradoxes
+Dialogue: 11,0:01:07.58,0:01:13.01,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of worldlines
+Dialogue: 11,0:01:13.01,0:01:18.34,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}If the natural trajectory dictated by emotional decisions
+Dialogue: 11,0:01:18.34,0:01:22.68,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Supersedes even common sense
+Dialogue: 11,0:01:22.68,0:01:28.06,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Then my—and merely my—
+Dialogue: 11,0:01:28.06,0:01:34.78,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Suffering, and my mistakes, will still neatly follow the algorithm
+Dialogue: 11,0:01:35.90,0:01:41.20,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Words and tokens of love—memories growing ever stronger
+Dialogue: 11,0:01:41.78,0:01:46.66,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Guarantee I will not leave you behind a second time
+Dialogue: 11,0:01:46.66,0:01:49.38,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}I am forever by your side
+Dialogue: 11,0:01:49.38,0:01:52.09,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}We're joined together as one
+Dialogue: 11,0:01:52.09,0:01:57.55,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Out of this quantum entanglement, “0” will manifest
+Dialogue: 11,0:20:09.06,0:20:13.15,Lyra Rom,,0,0,0,,{\fade(100,100)}Orihime-sama niwa narenai
+Dialogue: 11,0:20:14.90,0:20:21.65,Lyra Rom,,0,0,0,,{\fade(100,100)}Watashi no chikara ja sasaekirenai kedo
+Dialogue: 11,0:20:21.65,0:20:26.62,Lyra Rom,,0,0,0,,{\fade(100,100)}Hanarebanare ga kowakute
+Dialogue: 11,0:20:26.62,0:20:31.12,Lyra Rom,,0,0,0,,{\fade(100,100)}Oinori wo suru yo
+Dialogue: 11,0:20:31.12,0:20:35.58,Lyra Rom,,0,0,0,,{\fade(100,100)}Soremo ai nano kana?
+Dialogue: 11,0:20:35.58,0:20:41.09,Lyra Rom,,0,0,0,,{\fade(100,100)}Subete no, bamen ga koishisugite
+Dialogue: 11,0:20:41.09,0:20:46.60,Lyra Rom,,0,0,0,,{\fade(100,100)}Bokura wa mata ano basho he to
+Dialogue: 11,0:20:46.60,0:20:53.02,Lyra Rom,,0,0,0,,{\fade(100,100)}Donna mabushii hikari no sekaisen mo
+Dialogue: 11,0:20:53.02,0:20:59.32,Lyra Rom,,0,0,0,,{\fade(100,100)}Kanashimi toka yorokobi wakare mo atte
+Dialogue: 11,0:20:59.32,0:21:05.78,Lyra Rom,,0,0,0,,{\fade(100,100)}Naita mama de anata no hoho wo tataku
+Dialogue: 11,0:21:05.78,0:21:12.87,Lyra Rom,,0,0,0,,{\fade(100,100)}Sono shunkan nanika ga kawaru yo
+Dialogue: 11,0:21:12.87,0:21:19.21,Lyra Rom,,0,0,0,,{\fade(100,100)}Me niwa utsuranai mamoru beki nanika he
+Dialogue: 11,0:21:19.21,0:21:30.68,Lyra Rom,,0,0,0,,{\fade(100,100)}Inochi sae sasagu sore ga minna no sentaku
+Dialogue: 11,0:21:34.56,0:21:41.23,Lyra Rom,,0,0,0,,{\fade(100,100)}Ooinaru umi watatte
+Dialogue: 11,0:21:41.23,0:21:46.86,Lyra Rom,,0,0,0,,{\fade(100,100)}Tsuginaru taisetsu na bunkiten
+Dialogue: 11,0:21:46.86,0:21:55.50,Lyra Rom,,0,0,0,,{\fade(100,100)}Atarashii mirai no monogatari no shujinkou he
+Dialogue: 11,0:21:55.50,0:22:02.92,Lyra Rom,,0,0,0,,{\fade(100,100)}Itsuka aeru ne sono hi made
+Dialogue: 11,0:22:27.40,0:22:33.79,Lyra Rom,,0,0,0,,{\fade(100,100)}Kirameku hoshi yozora ni te wo nobaseba
+Dialogue: 11,0:22:33.79,0:22:40.21,Lyra Rom,,0,0,0,,{\fade(100,100)}Yomigaeru ne omoi mo nukumori no hi mo
+Dialogue: 11,0:22:40.21,0:22:46.51,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Afuredasu yo ano toki ano bamen de
+Dialogue: 11,0:22:46.51,0:22:53.64,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Kimi no kotoba naitewaratta
+Dialogue: 11,0:22:53.64,0:22:59.98,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Kioku no subete ga kakikawaru toshitemo
+Dialogue: 11,0:22:59.98,0:23:13.37,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Dejabu mitai ni kokoro no oku de yureteru
+Dialogue: 11,0:20:09.06,0:20:13.15,Lyra Rom,,0,0,0,,{\fade(100,100)}I still can't become your Orihime-sama
+Dialogue: 11,0:20:14.90,0:20:21.65,Lyra Rom,,0,0,0,,{\fade(100,100)}I don't have the strength to support you, but even so
+Dialogue: 11,0:20:21.65,0:20:26.62,Lyra Rom,,0,0,0,,{\fade(100,100)}I'm terrified of losing you for good
+Dialogue: 11,0:20:26.62,0:20:31.12,Lyra Rom,,0,0,0,,{\fade(100,100)}So I'll pray for your happiness
+Dialogue: 11,0:20:31.12,0:20:35.58,Lyra Rom,,0,0,0,,{\fade(100,100)}Isn't that also a form of love?
+Dialogue: 11,0:20:35.58,0:20:41.09,Lyra Rom,,0,0,0,,{\fade(100,100)}I long for all the scenes, back in those days
+Dialogue: 11,0:20:41.09,0:20:46.60,Lyra Rom,,0,0,0,,{\fade(100,100)}And so we head once again toward that place...
+Dialogue: 11,0:20:46.60,0:20:53.02,Lyra Rom,,0,0,0,,{\fade(100,100)}In that worldline, shining with the most radiant light
+Dialogue: 11,0:20:53.02,0:20:59.32,Lyra Rom,,0,0,0,,{\fade(100,100)}Where you said your most bittersweet farewell
+Dialogue: 11,0:20:59.32,0:21:05.78,Lyra Rom,,0,0,0,,{\fade(100,100)}I will strike your cheek, crying all the while
+Dialogue: 11,0:21:05.78,0:21:12.87,Lyra Rom,,0,0,0,,{\fade(100,100)}Changing everything in that moment
+Dialogue: 11,0:21:12.87,0:21:19.21,Lyra Rom,,0,0,0,,{\fade(100,100)}To protect your vision not yet reflected in our eyes
+Dialogue: 11,0:21:19.21,0:21:30.68,Lyra Rom,,0,0,0,,{\fade(100,100)}We will dedicate our lives—that is the choice of all of us
+Dialogue: 11,0:21:34.56,0:21:41.23,Lyra Rom,,0,0,0,,{\fade(100,100)}We will cross the vast ocean
+Dialogue: 11,0:21:41.23,0:21:46.86,Lyra Rom,,0,0,0,,{\fade(100,100)}Toward the next important divergence point
+Dialogue: 11,0:21:46.86,0:21:55.50,Lyra Rom,,0,0,0,,{\fade(100,100)}So that someday, in a new future
+Dialogue: 11,0:21:55.50,0:22:02.92,Lyra Rom,,0,0,0,,{\fade(100,100)}I can meet the protagonist of that story, but until then...
+Dialogue: 11,0:22:27.40,0:22:33.79,Lyra Rom,,0,0,0,,{\fade(100,100)}Whenever I stretch my hand out toward the sparkling stars in the night sky
+Dialogue: 11,0:22:33.79,0:22:40.21,Lyra Rom,,0,0,0,,{\fade(100,100)}Feelings and warm moments reawaken within me
+Dialogue: 11,0:22:40.21,0:22:46.51,Lyra Rom,,0,0,0,,{\fade(100,100)\an2\fs90}Memories of those times, of those scenes, all come flooding back
+Dialogue: 11,0:22:46.51,0:22:53.64,Lyra Rom,,0,0,0,,{\fade(100,100)\an2\fs90}All the words you spoke to me, all the times we laughed and cried
+Dialogue: 11,0:22:53.64,0:22:59.98,Lyra Rom,,0,0,0,,{\fade(100,100)\an2\fs90}Even if all our memories are rewritten,
+Dialogue: 11,0:22:59.98,0:23:13.37,Lyra Rom,,0,0,0,,{\fade(100,100)\an2\fs90}They'll still waver deep within our hearts as déjà vu
+Dialogue: 10,0:22:38.08,0:23:23.08,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+Dialogue: 10,0:22:38.08,0:23:23.08,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
 Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\an3\fsp-2\pos(1200,876)}Altair
 Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\an3\pos(1246,916)}of
 Dialogue: 1,0:10:45.04,0:10:50.04,Title,,0,0,0,,{\fsp-4\pos(1240,796)}Translational
@@ -53,20 +143,6 @@ Dialogue: 30,0:00:13.30,0:00:15.34,Default,,0,0,0,,This can't be where they...
 Dialogue: 30,0:00:21.27,0:00:22.89,Default,,0,0,0,,Mayuri...
 Dialogue: 30,0:00:24.06,0:00:26.69,Default,,0,0,0,,Howdy, Lintahlo.
 Dialogue: 30,0:00:29.94,0:00:31.86,Default,,0,0,0,,Professor Leskinen?
-Dialogue: 30,0:00:49.80,0:00:55.10,Default,,0,0,0,,{\i1}This is a life of fantasy,{\i}
-Dialogue: 30,0:00:55.10,0:01:01.02,Default,,0,0,0,,{\i1}Unaffected still by illusions.{\i}
-Dialogue: 30,0:01:02.02,0:01:12.87,Default,,0,0,0,,{\i1}Worldlines without end{\i}\N{\i1}are all deceived by an antinomy paradox{\i}
-Dialogue: 30,0:01:12.87,0:01:22.59,Default,,0,0,0,,{\i1}If I can dominate these emotions,{\i}\N{\i1}orbital ordering replacing even common sense,{\i}
-Dialogue: 30,0:01:22.59,0:01:24.77,Default,,0,0,0,,{\i1}Then my suffering{\i}
-Dialogue: 30,0:01:24.87,0:01:27.92,Default,,0,0,0,,{\i1}alone{\i}
-Dialogue: 30,0:01:27.92,0:01:34.68,Default,,0,0,0,,{\i1}is the gap to cross in this algorithm{\i}
-Dialogue: 30,0:01:34.68,0:01:35.77,Default,,0,0,0,,{\i1}I can fly high{\i}
-Dialogue: 30,0:01:35.77,0:01:38.52,Default,,0,0,0,,{\i1}Signs of love, words of love...{\i}
-Dialogue: 30,0:01:38.62,0:01:41.69,Default,,0,0,0,,{\i1}The memories flow back with total clarity{\i}
-Dialogue: 30,0:01:41.69,0:01:46.46,Default,,0,0,0,,{\i1}Never again will I forsake what lies beyond,{\i}
-Dialogue: 30,0:01:46.46,0:01:51.95,Default,,0,0,0,,{\i1}I want always to be by your side, hand-in-hand,{\i}
-Dialogue: 30,0:01:51.95,0:01:57.50,Default,,0,0,0,,{\i1}As this quantum entanglement forms Zero{\i}
-Dialogue: 30,0:01:57.50,0:02:02.83,Default,,0,0,0,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 30,0:02:09.25,0:02:10.88,Default,,0,0,0,,Big Sis Mayu!
 Dialogue: 30,0:02:14.84,0:02:16.59,Default,,0,0,0,,Reyes?
 Dialogue: 30,0:02:20.55,0:02:22.80,Default,,0,0,0,,What did you do... to Mommy?
@@ -319,62 +395,36 @@ Dialogue: 30,0:19:57.69,0:19:59.36,Default,,0,0,0,,Why?
 Dialogue: 30,0:19:59.36,0:20:02.86,Default,,0,0,0,,Why did this happen?
 Dialogue: 30,0:20:02.86,0:20:04.37,Default,,0,0,0,,Okarin...
 Dialogue: 30,0:20:08.41,0:20:13.87,Default,,0,0,0,,I... I chose this worldline because\NI thought it was the best choice!
-Dialogue: 30,0:20:08.95,0:20:13.04,On Top,,0,0,0,,{\i1}I can't become Orihime{\i}
 Dialogue: 30,0:20:13.87,0:20:19.59,Default,,0,0,0,,This... This was the one and only\Nworldline built upon Kurisu's sacrifice!
-Dialogue: 30,0:20:14.79,0:20:21.55,On Top,,0,0,0,,{\i1}My strength alone is not enough to support you{\i}
 Dialogue: 30,0:20:19.59,0:20:24.09,Default,,0,0,0,,And yet... And yet, why?
-Dialogue: 30,0:20:21.55,0:20:26.51,On Top,,0,0,0,,{\i1}But I'm so afraid of being apart{\i}
 Dialogue: 30,0:20:24.09,0:20:25.85,Default,,0,0,0,,Why?
 Dialogue: 30,0:20:25.85,0:20:27.60,Default,,0,0,0,,Why?!
-Dialogue: 30,0:20:26.51,0:20:31.73,On Top,,0,0,0,,{\i1}That I pray. I wonder, is that also love?{\i}
-Dialogue: 30,0:20:31.73,0:20:33.31,On Top,,0,0,0,,{\i1}That I pray. I wonder, is that also love?{\i}
-Dialogue: 30,0:20:33.31,0:20:35.48,On Top,,0,0,0,,{\i1}That I pray. I wonder, is that also love?{\i}
 Dialogue: 30,0:20:34.02,0:20:36.31,Default,,0,0,0,,Mayuri?
-Dialogue: 30,0:20:35.48,0:20:39.40,On Top,,0,0,0,,{\i1}Each and every moment we hold so dear{\i}
 Dialogue: 30,0:20:36.31,0:20:37.69,Default,,0,0,0,,Dear Okarin.
 Dialogue: 30,0:20:37.69,0:20:40.69,Default,,0,0,0,,Tutturu! It's Mayushii!
-Dialogue: 30,0:20:39.40,0:20:41.28,On Top,,0,0,0,,{\i1}Each and every moment we hold so dear{\i}
 Dialogue: 30,0:20:40.69,0:20:46.57,Default,,0,0,0,,The truth is, I wanted to talk to you in person,\Nbut I didn't know if could get it all out.
-Dialogue: 30,0:20:41.28,0:20:42.40,On Top,,0,0,0,,{\i1}Together you and I, we go back to that place{\i}
-Dialogue: 30,0:20:42.40,0:20:46.49,On Top,,0,0,0,,{\i1}Each and every moment we hold so dear{\i}
-Dialogue: 30,0:20:46.49,0:20:52.91,On Top,,0,0,0,,{\i1}No matter how brilliant,{\i}\N{\i1}how bright, a worldline may be{\i}
 Dialogue: 30,0:20:46.57,0:20:52.00,Default,,0,0,0,,Plus, I was worried Okarin might\Ntry to stop me, so I'll just say it here.
 Dialogue: 30,0:20:52.00,0:20:55.33,Default,,0,0,0,,I'm going with Suzu-san to the past.
-Dialogue: 30,0:20:52.91,0:20:59.21,On Top,,0,0,0,,{\i1}There will be sadness,{\i}\N{\i1}delight, and farewells too{\i}
 Dialogue: 30,0:20:55.33,0:20:59.09,Default,,0,0,0,,You'll probably be upset and are wondering why.
 Dialogue: 30,0:20:59.09,0:21:03.38,Default,,0,0,0,,But, this is something I have to do.
-Dialogue: 30,0:20:59.21,0:21:05.68,On Top,,0,0,0,,{\i1}With tears still in my eyes,{\i}\N{\i1}I raise my hand and slap your cheek{\i}
 Dialogue: 30,0:21:03.38,0:21:07.18,Default,,0,0,0,,Because that day, I was the one who did it.
-Dialogue: 30,0:21:05.68,0:21:12.77,On Top,,0,0,0,,{\i1}In that instant, something changes{\i}
 Dialogue: 30,0:21:07.18,0:21:10.18,Default,,0,0,0,,No matter how bad things got,
 Dialogue: 30,0:21:10.18,0:21:14.27,Default,,0,0,0,,my strong, strong Hikoboshi would\Nget back up with a great big laugh.
-Dialogue: 30,0:21:12.77,0:21:19.11,On Top,,0,0,0,,{\i1}Though there's something our eyes{\i}\N{\i1}can't see, that's what we must protect{\i}
 Dialogue: 30,0:21:14.27,0:21:19.11,Default,,0,0,0,,But I'm the one who hid him\Nbehind a bunch of dark clouds.
 Dialogue: 30,0:21:19.11,0:21:22.28,Default,,0,0,0,,You see, I think I was wrong.
-Dialogue: 30,0:21:19.11,0:21:30.58,On Top,,0,0,0,,{\i1}Even if it costs our lives,{\i}\N{\i1}that is the choice we all make{\i}
 Dialogue: 30,0:21:22.28,0:21:28.03,Default,,0,0,0,,Everyone wasn't pushing the\Nweight of the future solely on Okarin.
 Dialogue: 30,0:21:28.03,0:21:32.70,Default,,0,0,0,,Steins Gate must be\Nsomething we all find together.
 Dialogue: 30,0:21:32.70,0:21:34.54,Default,,0,0,0,,Everyone's at your side.
 Dialogue: 30,0:21:34.54,0:21:38.00,Default,,0,0,0,,Daru-kun's there, Suzu-san's there...
-Dialogue: 30,0:21:34.91,0:21:41.13,On Top,,0,0,0,,{\i1}Crossing a great sea{\i}
 Dialogue: 30,0:21:38.00,0:21:43.55,Default,,0,0,0,,...Luka-kun's there,\NFaris-chan's there, Yuki-san's there...
-Dialogue: 30,0:21:41.13,0:21:46.76,On Top,,0,0,0,,{\i1}To reach the next important divergence{\i}
 Dialogue: 30,0:21:43.55,0:21:46.51,Default,,0,0,0,,...and even Maho-san's there too.
 Dialogue: 30,0:21:46.51,0:21:49.39,Default,,0,0,0,,So now it's my turn.
-Dialogue: 30,0:21:46.76,0:21:55.39,On Top,,0,0,0,,{\i1}And the hero of our new future story{\i}
 Dialogue: 30,0:21:49.39,0:21:57.39,Default,,0,0,0,,After all, since I'm Lab Member 002,\Nthis'll be my first very big mission!
-Dialogue: 30,0:21:55.39,0:22:02.82,On Top,,0,0,0,,{\i1}We'll someday meet. Until that day{\i}
 Dialogue: 30,0:21:57.39,0:22:01.48,Default,,0,0,0,,I'm sure Okarin will be worried,\Nbut it'll all be okay.
 Dialogue: 30,0:22:01.48,0:22:08.70,Default,,0,0,0,,Besides, even if something does happen,\NI know in my heart that you'll come to save me.
 Dialogue: 30,0:22:08.70,0:22:15.91,Default,,0,0,0,,The Hououin Kyouma I love so much will\Ncome swooping in on a brand-new time machine.
 Dialogue: 30,0:22:15.91,0:22:18.71,Default,,0,0,0,,That's why I've decided to go.
 Dialogue: 30,0:22:18.71,0:22:23.09,Default,,0,0,0,,I promise I'll come back,\Nso just wait for me, okay?
 Dialogue: 30,0:22:25.17,0:22:29.93,Default,,0,0,0,,I... love Hououin Kyouma.
-Dialogue: 30,0:22:27.30,0:22:33.68,On Top,,0,0,0,,{\i1}I stretch my hand to {\i}\N{\i1}the twinkling stars in the night sky{\i}
 Dialogue: 30,0:22:29.93,0:22:31.55,Default,,0,0,0,,But, guess what?
 Dialogue: 30,0:22:31.55,0:22:35.85,Default,,0,0,0,,I love Okabe Rintaro even more!
-Dialogue: 30,0:22:33.68,0:22:40.10,On Top,,0,0,0,,{\i1}Both the memories and warm days revive,{\i}
-Dialogue: 30,0:22:40.10,0:22:46.40,On Top,,0,0,0,,{\i1}Overflowing at that moment, at that place{\i}
-Dialogue: 30,0:22:46.40,0:22:53.53,On Top,,0,0,0,,{\i1}Your words, the tears and laughter{\i}
-Dialogue: 30,0:22:53.53,0:23:00.17,On Top,,0,0,0,,{\i1}Even if these memories are rewritten,{\i}
-Dialogue: 30,0:23:00.17,0:23:13.26,On Top,,0,0,0,,{\i1}They'll sway in my heart, just like déjà vu{\i}

@@ -1,9 +1,10 @@
 ﻿[Script Info]
 Title: HorribleSubs(StyledFix)
-; Subs edited by Woute and Davixxa for consistency
+; Subs edited by Woute, Mia and PringlesGang for consistency
 ; Subs styled by PringlesGang
-; Fatima translation by Rigs
-; https://bitbucket.org/Woote/horriblefix/overview
+; Fátima translation by PringlesGang
+; Last Game translation by PringlesGang
+; https://github.com/PringlesGang/SG0-HorribleStyledFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -18,9 +19,59 @@ Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,
 Style: Title,Playfair Display,90,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
 Style: OkabePhone,Playpen Sans,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
 Style: Draw,Noto Sans JP,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: OP Rom,Libre Bodoni,90,&H00000000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
+Style: OP Trans,Libre Bodoni,90,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
+Style: LastGame Rom,Lugrasimo,68,&H00E8E8E8,&H80262626,&H40404040,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:43.06,0:00:45.06,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:00:43.06,0:00:45.06,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 12,0:00:45.06,0:00:47.06,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 11,0:00:47.06,0:00:49.07,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:00:49.07,0:00:54.20,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
+Comment: 11,0:00:54.20,0:01:00.29,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
+Comment: 11,0:01:01.20,0:01:06.67,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
+Comment: 11,0:01:06.67,0:01:12.09,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
+Comment: 11,0:01:12.09,0:01:17.43,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
+Comment: 11,0:01:17.43,0:01:21.76,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
+Comment: 11,0:01:21.76,0:01:27.15,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
+Comment: 11,0:01:27.15,0:01:33.86,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
+Comment: 11,0:01:33.86,0:01:34.99,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
+Comment: 11,0:01:34.99,0:01:40.28,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
+Comment: 11,0:01:40.83,0:01:45.75,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
+Comment: 11,0:01:45.75,0:01:48.46,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
+Comment: 11,0:01:48.46,0:01:51.29,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
+Comment: 11,0:01:51.29,0:01:56.63,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
+Comment: 11,0:01:56.63,0:02:02.10,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}god. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
+Dialogue: 11,0:00:49.07,0:00:54.20,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
+Dialogue: 11,0:00:54.20,0:01:00.29,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It's merely a vision projected into our eyes
+Dialogue: 11,0:01:01.20,0:01:06.67,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
+Dialogue: 11,0:01:06.67,0:01:12.09,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
+Dialogue: 11,0:01:12.09,0:01:17.43,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
+Dialogue: 11,0:01:17.43,0:01:21.76,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
+Dialogue: 11,0:01:21.76,0:01:27.15,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
+Dialogue: 11,0:01:27.15,0:01:33.86,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
+Dialogue: 11,0:01:34.99,0:01:40.28,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
+Dialogue: 11,0:01:40.83,0:01:45.75,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn't merely something that's expanding our distance
+Dialogue: 11,0:01:45.75,0:01:48.46,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
+Dialogue: 11,0:01:48.46,0:01:51.29,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
+Dialogue: 11,0:01:51.29,0:01:56.63,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
+Dialogue: 11,0:22:10.51,0:22:16.10,LastGame Rom,,0,0,0,,{\kf64\fade(100,100)}Come {\kf20}to {\kf220}me, {\kf18}em{\kf60}brace {\kf18}my {\kf159}tears
+Dialogue: 11,0:22:16.85,0:22:22.82,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Let {\kf22}me {\kf118}guide {\kf39}you {\kf119}down {\kf76}in{\kf29}to {\kf10}my {\kf125}soul
+Dialogue: 11,0:22:23.02,0:22:28.95,LastGame Rom,,0,0,0,,{\kf16\fade(100,100)}And {\kf62}let {\kf17}us {\kf107}pray {\kf32}for {\kf19}the {\kf118}world {\kf79}to {\kf25}re{\kf16}a{\kf101}lize
+Dialogue: 11,0:22:29.57,0:22:35.37,LastGame Rom,,0,0,0,,{\kf40\fade(100,100)}There {\kf32}is {\kf139}peace, {\kf15}the {\kf124}truth {\kf19}with{\kf19}in {\kf192}us
+Dialogue: 11,0:22:35.75,0:22:42.13,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Emp{\kf27}ti{\kf217}ness {\kf20}e{\kf64}rodes {\kf18}your {\kf233}heart
+Dialogue: 11,0:22:42.13,0:22:47.97,LastGame Rom,,0,0,0,,{\kf61\fade(100,100)}'cause {\kf9}you're {\kf121}free {\kf45}from {\kf116}pain {\kf71}and {\kf51}so{\kf110}rrow
+Dialogue: 11,0:22:48.38,0:22:54.43,LastGame Rom,,0,0,0,,{\kf57\fade(100,100)}The fu{\kf28}ture {\kf112}is {\kf20}just {\kf23}too {\kf115}bright {\kf67}to {\kf42}show {\kf17}you {\kf123}ways
+Dialogue: 11,0:22:54.68,0:23:00.52,LastGame Rom,,0,0,0,,{\kf47\fade(100,100)}Wake {\kf40}up {\kf116}now, {\kf16}it's {\kf60}time {\kf25}to {\kf60}lead {\kf66}new {\kf154}souls
+Dialogue: 11,0:23:01.81,0:23:07.78,LastGame Rom,,0,0,0,,{\kf202\fade(100,100)}Or{\kf40}bit {\kf36}of {\kf41}pho{\kf62}ton {\kf21}and {\kf39}u{\kf26}ni{\kf129}verse
+Dialogue: 11,0:23:08.24,0:23:13.83,LastGame Rom,,0,0,0,,{\kf194\fade(100,100)}I {\kf34}am {\kf44}just {\kf38}a {\kf78}part {\kf41}of {\kf20}its {\kf110}plan
+Dialogue: 11,0:23:14.49,0:23:20.50,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me {\kf18}ni {\kf18}wa {\kf48}mi{\kf14}e{\kf25}na{\kf52}i {\kf41}yu{\kf33}ga{\kf45}n{\kf113}da {\kf24}so{\kf147}ra
+Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{\kf26}to {\kf18}wa {\kf38}do{\kf23}ko {\kf20}he {\kf60}to {\kf39}a{\kf39}ru{\kf38}i{\kf81}te {\kf39}yu{\kf20}ku {\kf268}no?
+Dialogue: 11,0:23:29.30,0:23:34.43,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
+Dialogue: 11,0:23:14.49,0:23:20.50,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}The eye cannot see the distortion of the sky
+Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think he is walking towards?
 Dialogue: 1,0:02:02.97,0:02:07.98,Title,,0,0,0,,{\fs80\fsp-6\pos(1158.038,580.75)}Solitude
 Dialogue: 1,0:02:02.97,0:02:07.98,Title,,0,0,0,,{\fs65.25\fs90\pos(1160.038,628.25)}of the
 Dialogue: 1,0:02:02.97,0:02:07.98,Title,,0,0,0,,{\fs95\pos(1336,600)}Astigmatism
@@ -108,18 +159,6 @@ Dialogue: 30,0:00:20.64,0:00:22.48,Default,,0,0,0,,Here's some tea.
 Dialogue: 30,0:00:26.06,0:00:28.44,Default,,0,0,0,,Kiryu Moeka...
 Dialogue: 30,0:00:28.44,0:00:29.94,Default,,0,0,0,,Why?
 Dialogue: 30,0:00:29.94,0:00:32.07,Default,,0,0,0,,Why are she and Daru...?
-Dialogue: 30,0:00:48.92,0:00:54.22,Default,,0,0,0,,{\i1}This is a world of unreality,{\i}
-Dialogue: 30,0:00:54.22,0:01:00.14,Default,,0,0,0,,{\i1}Nothing more than an imprinted vision.{\i}
-Dialogue: 30,0:01:01.14,0:01:11.98,Default,,0,0,0,,{\i1}The Point at Infinity{\i}\N{\i1}Where those values lie overwritten by this inert universe{\i}
-Dialogue: 30,0:01:11.98,0:01:21.70,Default,,0,0,0,,{\i1}If God in his arrogance reigns through lightspeed unseen,{\i}
-Dialogue: 30,0:01:21.70,0:01:27.04,Default,,0,0,0,,{\i1}Then I alone{\i}
-Dialogue: 30,0:01:27.04,0:01:33.80,Default,,0,0,0,,{\i1}will be the miraculous...{\i}\N{\i1}the fatal... minority.{\i}
-Dialogue: 30,0:01:33.80,0:01:34.88,Default,,0,0,0,,{\i1}I can fly high{\i}
-Dialogue: 30,0:01:34.88,0:01:40.80,Default,,0,0,0,,{\i1}All those moments and places{\i}\N{\i1}If you think they're special,{\i}
-Dialogue: 30,0:01:40.80,0:01:45.56,Default,,0,0,0,,{\i1}Then you shouldn't try{\i}\N{\i1}to leave the past behind.{\i}
-Dialogue: 30,0:01:45.56,0:01:51.06,Default,,0,0,0,,{\i1}Those invaluable scenes{\i}\N{\i1}will eclipse the heartache{\i}
-Dialogue: 30,0:01:51.06,0:01:56.61,Default,,0,0,0,,{\i1}As each and every light forms to yield Zero.{\i}
-Dialogue: 30,0:01:56.61,0:02:01.95,Default,,0,0,0,,{\i1}There is no God. Wonderful new world.{\i}
 Dialogue: 30,0:02:04.54,0:02:08.46,Default,,0,0,0,,...to not be human. The bodies, missing\Ntheir brains and portions of the cranium,
 Dialogue: 30,0:02:08.46,0:02:13.21,Default,,0,0,0,,were discovered to be\Nchimpanzee and orangutan.
 Dialogue: 30,0:02:13.21,0:02:14.63,Default,,0,0,0,,Hmm?
@@ -468,17 +507,3 @@ Dialogue: 30,0:21:52.81,0:21:56.69,Default,,0,0,0,,You okay?! Hey!
 Dialogue: 30,0:21:56.69,0:21:58.10,Default,,0,0,0,,Kagari...
 Dialogue: 30,0:22:01.07,0:22:03.61,Default,,0,0,0,,You're Kagari...
 Dialogue: 30,0:22:03.61,0:22:06.07,Default,,0,0,0,,Shiina Kagari, aren't you?!
-Dialogue: 30,0:22:10.45,0:22:13.45,Default,,0,0,0,,{\i1}Come to me{\i}
-Dialogue: 30,0:22:13.45,0:22:16.75,Default,,0,0,0,,{\i1}Embrace my tears {\i}
-Dialogue: 30,0:22:16.75,0:22:22.84,Default,,0,0,0,,{\i1}Let me guide you down into my soul{\i}
-Dialogue: 30,0:22:22.84,0:22:29.43,Default,,0,0,0,,{\i1}And let us pray for the world to realize {\i}
-Dialogue: 30,0:22:29.43,0:22:35.68,Default,,0,0,0,,{\i1}There is peace, the truth within us{\i}
-Dialogue: 30,0:22:35.68,0:22:41.98,Default,,0,0,0,,{\i1}Emptiness erodes your heart{\i}
-Dialogue: 30,0:22:41.98,0:22:48.32,Default,,0,0,0,,{\i1}Coz you're free from pain and sorrow{\i}
-Dialogue: 30,0:22:48.32,0:22:54.58,Default,,0,0,0,,{\i1}Future is just too bright to show you ways{\i}
-Dialogue: 30,0:22:54.58,0:23:01.75,Default,,0,0,0,,{\i1}Wake up now...it's time to lead new souls{\i}
-Dialogue: 30,0:23:01.75,0:23:08.09,Default,,0,0,0,,{\i1}Orbit of photon and universe {\i}
-Dialogue: 30,0:23:08.09,0:23:14.43,Default,,0,0,0,,{\i1}I am just the part of its plan{\i}
-Dialogue: 30,0:23:14.43,0:23:20.64,Default,,0,0,0,,{\i1}With eyes unaware of the distorted sky{\i}
-Dialogue: 30,0:23:20.64,0:23:29.24,Default,,0,0,0,,{\i1}Where is it the people walk to?{\i}
-Dialogue: 30,0:23:29.24,0:23:33.82,Default,,0,0,0,,{\i1}The last game{\i}
