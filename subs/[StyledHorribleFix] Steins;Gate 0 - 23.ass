@@ -233,7 +233,7 @@ Dialogue: 1,0:14:56.33,0:15:02.54,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans M
 Dialogue: 0,0:18:47.48,0:18:50.69,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEFD8BF&}m 955 391 l 1258 307 l 1273 349 l 964 429 {\p0}
 Dialogue: 0,0:18:47.48,0:18:50.69,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HEDEAE8&}m 998 440 l 1248 372 l 1294 505 l 1044 580 {\p0}
 Dialogue: 1,0:18:47.48,0:18:50.69,OkabePhone,,0,0,0,,{\an6\fs43\c&HF5F0EB&\fax0.04\be2\pos(1238,340)\frz15.35}Mad Scientist
-Dialogue: 1,0:18:47.48,0:18:50.69,OkabePhone,,0,0,0,,{\fs50\c&H736769&\be2\org(322,862)\frz14.58\pos(1052,628)\frx2\fry358}Trick world.\NConnect all\NPotentials.
+Dialogue: 1,0:18:47.48,0:18:50.69,OkabePhone,,0,0,0,,{\fs50\c&H736769&\be2\org(322,862)\frz14.58\pos(1052,628)\frx2\fry358}Trick world,\Nlinking each\Npossibility.
 Dialogue: 30,0:00:15.72,0:00:19.18,Default,,0,0,0,,Okabe-san? What are you doing this early?
 Dialogue: 30,0:00:19.18,0:00:21.02,Default,,0,0,0,,Hiyajo-san...
 Dialogue: 30,0:00:21.02,0:00:22.81,Default,,0,0,0,,I have to ask you something.
@@ -555,7 +555,7 @@ Dialogue: 30,0:18:34.69,0:18:37.53,Default,,0,0,0,,Disappearing from this worldl
 Dialogue: 30,0:18:37.53,0:18:40.95,Default,,0,0,0,,...essentially the same as dying, is it not?
 Dialogue: 30,0:18:40.95,0:18:43.37,Default,,0,0,0,,That's some crazy positive thinking.
 Dialogue: 30,0:18:43.37,0:18:46.79,Default,,0,0,0,,Though, it holds up as a theory, right?
-Dialogue: 30,0:18:48.66,0:18:51.79,Default,,0,0,0,,The world can be deceived.
+Dialogue: 30,0:18:48.66,0:18:51.79,Default,,0,0,0,,The world can be tricked.
 Dialogue: 30,0:18:51.79,0:18:55.67,Default,,0,0,0,,My friends, thank you\Nfor following me till today!
 Dialogue: 30,0:18:55.67,0:18:59.01,Default,,0,0,0,,As you know, on that day in 2011...
 Dialogue: 30,0:18:59.01,0:19:02.30,Default,,0,0,0,,...a time machine left\Nfor the past but was lost.
