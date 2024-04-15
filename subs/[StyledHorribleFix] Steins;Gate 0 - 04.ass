@@ -71,9 +71,11 @@ Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{
 Dialogue: 11,0:23:29.30,0:23:34.43,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
 Dialogue: 11,0:23:14.49,0:23:20.50,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}The eye cannot see the distortion of the sky
 Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think he is walking towards?
-Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs80\fsp-6\pos(1162.038,888.75)}Solitude
-Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs65.25\fs90\pos(1164.038,936.25)}of the
-Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs85\an4\pos(1330,948)}Mournful {\fs100\fsp-3}Flow
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs80\fsp-5\pos(1162.038,888.75)}Solitude
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs65.25\fsp1.3\fs90\pos(1164,932)}of the
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs65.25\fsp-4\pos(1164,990)}Mournful
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\fs160\an4\pos(1338,968)}T
+Dialogue: 1,0:04:25.82,0:04:30.83,Title,,0,0,0,,{\an4\pos(1390,972)}ransmigration
 Dialogue: 0,0:05:55.37,0:05:55.50,Draw,,0,0,0,,{\pos(0,0)\p1\c&H305F33&\blur4}m 719 1057 l 722 999 l 1204 945 l 1149 1010 {\p1}
 Dialogue: 1,0:05:55.37,0:05:55.50,Signs,,0,0,0,,{\an7\fs70\fax-.1\fay-0.03\xshad-6.75\yshad2.25\c&H686C9D&\4c&HFFFFFF&\pos(724.528,993.5)\frz5.715}Draw{\c&H4B878B&}ing {\c&H7379AB&}Cray{\c&H5E919B&}ons
 Dialogue: 0,0:05:55.50,0:05:58.33,Draw,,0,0,0,,{\p1\pos(0,0)\blur5\c&H416D42&}m 658 881 l 1148 821 l 1095 883 l 660 941 {\p1}
