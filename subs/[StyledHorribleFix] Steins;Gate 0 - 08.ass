@@ -352,7 +352,8 @@ Dialogue: 30,0:10:04.18,0:10:07.19,Default,,0,0,0,,True, but what's it for?
 Dialogue: 30,0:10:07.19,0:10:08.77,Default,,0,0,0,,I won't say.
 Dialogue: 30,0:10:15.74,0:10:16.74,Default,,0,0,0,,That's...!
 Dialogue: 30,0:10:16.74,0:10:18.61,Default,,0,0,0,,I remade it.
-Dialogue: 30,0:10:18.61,0:10:23.99,Default,,0,0,0,,I call it PhoneWave Revised. No... I\Nsuppose it's PhoneWave (Revised).
+Dialogue: 30,0:10:18.61,0:10:20.50,Default,,0,0,0,,I call it PhoneWave Custom.
+Dialogue: 30,0:10:20.50,0:10:23.99,Default,,0,0,0,,No... I suppose it's\NPhoneWave (name subject to change) Custom.
 Dialogue: 30,0:10:23.99,0:10:27.50,Default,,0,0,0,,You made it again?! What for?
 Dialogue: 30,0:10:27.50,0:10:29.79,Default,,0,0,0,,To send a message into the past.
 Dialogue: 30,0:10:29.79,0:10:31.25,Default,,0,0,0,,No...
