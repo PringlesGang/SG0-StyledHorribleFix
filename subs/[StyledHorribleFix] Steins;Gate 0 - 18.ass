@@ -82,7 +82,7 @@ Dialogue: 11,0:22:40.21,0:22:46.51,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Afureda
 Dialogue: 11,0:22:46.51,0:22:53.64,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Kimi no kotoba naitewaratta
 Dialogue: 11,0:22:53.64,0:22:59.98,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Kioku no subete ga kakikawaru toshitemo
 Dialogue: 11,0:22:59.98,0:23:13.37,Lyra Rom,,0,0,0,,{\fade(100,100)\fs90}Dejabu mitai ni kokoro no oku de yureteru
-Dialogue: 11,0:20:09.06,0:20:13.15,Lyra Rom,,0,0,0,,{\fade(100,100)}I still can't become your Orihime-sama
+Dialogue: 11,0:20:09.06,0:20:13.15,Lyra Rom,,0,0,0,,{\fade(100,100)}I still can't become your Orihime
 Dialogue: 11,0:20:14.90,0:20:21.65,Lyra Rom,,0,0,0,,{\fade(100,100)}I don't have the strength to support you, but even so
 Dialogue: 11,0:20:21.65,0:20:26.62,Lyra Rom,,0,0,0,,{\fade(100,100)}I'm terrified of losing you for good
 Dialogue: 11,0:20:26.62,0:20:31.12,Lyra Rom,,0,0,0,,{\fade(100,100)}So I'll pray for your happiness
@@ -135,7 +135,7 @@ Dialogue: 1,0:20:32.33,0:20:33.29,OkabePhone,,0,0,0,,{\c&H6D6362&\fs50\be6\frx6\
 Dialogue: 0,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur18\pos(0,0)\p1\c&H4147B2&\clip(874,704,1322,1058)}m 1046 166 l 1059 139 l 1133 151 l 1153 419 l 1143 673 l 1149 949 l 1048 955 l 1048 1022 l 948 1010 l 947 728 l 1043 727 l 1048 406 l 1044 203 {\p0}
 Dialogue: 1,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H474ECB&\clip(902,416,1270,784)}m 1056 421 l 1153 419 l 1142 742 l 1043 727 {\p0}
 Dialogue: 2,0:23:34.55,0:23:40.02,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H535BD4&}m 1085 106 l 1110 110 l 1133 151 l 1148 542 l 1043 529 l 1044 203 l 1053 122 {\p0}
-Dialogue: 3,0:23:34.55,0:23:40.02,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H46438F&\b0\blur2\move(1126,532,1128,510)\c&H434296&\fs75\t(\fs79)}I wish{\c&H3D3C84&} to {\c&H393975&}meet{\c&H353272&} my {\c&H302F63&}Hikoboshi-sama
+Dialogue: 3,0:23:34.55,0:23:40.02,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H46438F&\b0\blur2\move(1126,532,1128,510)\c&H434296&\fs75\t(\fs79)}I wish{\c&H3D3C84&} to {\c&H393975&}meet{\c&H353272&} my {\c&H302F63&}Hikoboshi
 Dialogue: 3,0:23:34.55,0:23:40.02,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H2D2E5B&\b0\blur2\fs75\t(\fs79)\move(1036,910,1036,908)}Mayushii
 Dialogue: 30,0:00:07.09,0:00:10.42,Default,,0,0,0,,Don't panic. The worldline hasn't changed.
 Dialogue: 30,0:00:10.42,0:00:13.30,Default,,0,0,0,,In which case, Mayuri and Suzuha are okay.
