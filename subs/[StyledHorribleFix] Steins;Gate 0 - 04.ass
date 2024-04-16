@@ -91,7 +91,7 @@ Dialogue: 1,0:16:09.11,0:16:11.95,Signs,,0,0,0,,{\an7\fnRoboto\fs58.5\c&H6D5C4A&
 Dialogue: 30,0:00:09.30,0:00:11.55,Default,,0,0,0,,We're almost to Nerima Garrison!
 Dialogue: 30,0:00:11.55,0:00:12.97,Default,,0,0,0,,Keep it up!
 Dialogue: 30,0:00:36.20,0:00:38.20,Default,,0,0,0,,They spotted us! Run!
-Dialogue: 30,0:00:51.67,0:00:57.39,Default,,0,0,0,,In any case, we're glad to secure\Nyou alive and well, Okabe.
+Dialogue: 30,0:00:51.67,0:00:57.39,Default,,0,0,0,,In any case, we're glad to secure\Nyou alive and well, Okabe-kun.
 Dialogue: 30,0:01:00.18,0:01:02.72,Default,,0,0,0,,This is...
 Dialogue: 30,0:01:02.72,0:01:04.98,Default,,0,0,0,,Where exactly is this?
 Dialogue: 30,0:01:04.98,0:01:06.94,Default,,0,0,0,,Where are my friends at?
@@ -101,15 +101,15 @@ Dialogue: 30,0:01:47.19,0:01:52.32,Default,,0,0,0,,It has to be. There's no reas
 Dialogue: 30,0:03:28.20,0:03:31.00,Default,,0,0,0,,Hey, are you okay?
 Dialogue: 30,0:03:33.75,0:03:36.71,Default,,0,0,0,,This... This feeling...
 Dialogue: 30,0:03:36.71,0:03:39.09,Default,,0,0,0,,Was that Reading Steiner?!
-Dialogue: 30,0:03:39.09,0:03:41.51,Default,,0,0,0,,Hiyajo, where are we?
+Dialogue: 30,0:03:39.09,0:03:41.51,Default,,0,0,0,,Hiyajo-san, where are we?
 Dialogue: 30,0:03:41.51,0:03:45.60,Default,,0,0,0,,Huh? We're on the roof of your lab, silly.
 Dialogue: 30,0:03:45.60,0:03:47.51,Default,,0,0,0,,You left during the Christmas party to—
 Dialogue: 30,0:03:47.51,0:03:49.52,Default,,0,0,0,,Huh? Wait!
-Dialogue: 30,0:03:49.52,0:03:51.23,Default,,0,0,0,,Okabe!
+Dialogue: 30,0:03:49.52,0:03:51.23,Default,,0,0,0,,Okabe-san!
 Dialogue: 30,0:03:52.85,0:03:55.98,Default,,0,0,0,,Please, no! Please, no!
 Dialogue: 30,0:03:55.98,0:03:57.90,Default,,0,0,0,,Mayuri!
 Dialogue: 30,0:04:11.91,0:04:13.67,Default,,0,0,0,,Welcome back, Okarin!
-Dialogue: 30,0:04:13.67,0:04:16.79,Default,,0,0,0,,When Maho gets back,\Nwe can start the present exchange.
+Dialogue: 30,0:04:13.67,0:04:16.79,Default,,0,0,0,,When Maho-san gets back,\Nwe can start the present exchange.
 Dialogue: 30,0:04:42.61,0:04:44.45,Default,,0,0,0,,Wha?!
 Dialogue: 30,0:04:54.08,0:04:55.12,Default,,0,0,0,,Unbelievable...
 Dialogue: 30,0:04:55.12,0:04:56.88,Default,,0,0,0,,Hmm?
@@ -136,7 +136,7 @@ Dialogue: 30,0:05:55.93,0:05:58.56,Default,,0,0,0,,And you even let us join in o
 Dialogue: 30,0:05:58.56,0:06:00.73,Default,,0,0,0,,Your crayons are very cute, Professor.
 Dialogue: 30,0:06:00.73,0:06:01.94,Default,,0,0,0,,Mm-hmm!
 Dialogue: 30,0:06:01.94,0:06:03.57,Default,,0,0,0,,What's that?
-Dialogue: 30,0:06:03.57,0:06:07.15,Default,,0,0,0,,It's the present I got from Shiina.
+Dialogue: 30,0:06:03.57,0:06:07.15,Default,,0,0,0,,It's the present I got from Shiina-san.
 Dialogue: 30,0:06:07.15,0:06:10.03,Default,,0,0,0,,What present did you end up with, Lintahlo?
 Dialogue: 30,0:06:10.03,0:06:11.66,Default,,0,0,0,,Uh... Um, I—
 Dialogue: 30,0:06:11.66,0:06:13.58,Default,,0,0,0,,There's no reason to hide it.
@@ -187,11 +187,11 @@ Dialogue: 30,0:08:48.31,0:08:49.90,Default,,0,0,0,,Oh, sorry.
 Dialogue: 30,0:08:49.90,0:08:53.45,Default,,0,0,0,,I can't because there's a\Nguest coming to stay at our house.
 Dialogue: 30,0:08:53.45,0:08:56.20,Default,,0,0,0,,Huh? Really? Even though it's Christmas?
 Dialogue: 30,0:08:56.20,0:09:02.08,Default,,0,0,0,,Yes, it's some guest of my father's...\NHe wants me to be there too.
-Dialogue: 30,0:09:02.08,0:09:03.66,Default,,0,0,0,,Sorry, Mayuri.
+Dialogue: 30,0:09:02.08,0:09:03.66,Default,,0,0,0,,Sorry, Mayuri-chan.
 Dialogue: 30,0:09:03.66,0:09:05.12,Default,,0,0,0,,Don't be!
 Dialogue: 30,0:09:05.12,0:09:10.92,Default,,0,0,0,,It's been a while since everyone came\Nto the lab! Mayushii had so much fun!
-Dialogue: 30,0:09:10.92,0:09:13.26,Default,,0,0,0,,Speaking of which, where is Hashida?
-Dialogue: 30,0:09:13.26,0:09:17.47,Default,,0,0,0,,Daru said he had to talk\Nwith Suzu about something.
+Dialogue: 30,0:09:10.92,0:09:13.26,Default,,0,0,0,,Speaking of which, where is Hashida-san?
+Dialogue: 30,0:09:13.26,0:09:17.47,Default,,0,0,0,,Daru-kun said he had to talk\Nwith Suzu-san about something.
 Dialogue: 30,0:09:17.47,0:09:21.01,Default,,0,0,0,,He said it was family talk or something.
 Dialogue: 30,0:09:21.01,0:09:27.15,Default,,0,0,0,,I wasn't sure what to expect when I heard\Nit was sheep fur, but it's surprisingly warm.
 Dialogue: 30,0:09:29.27,0:09:30.73,Default,,0,0,0,,Don't you like it?
@@ -247,15 +247,15 @@ Dialogue: 30,0:11:42.78,0:11:51.41,Default,,0,0,0,,the peacekeeping squads in 20
 Dialogue: 30,0:11:51.41,0:11:52.46,Default,,0,0,0,,Dad!
 Dialogue: 30,0:11:52.46,0:11:54.00,Default,,0,0,0,,Forget about us!
 Dialogue: 30,0:11:54.00,0:11:57.75,Default,,0,0,0,,The peacekeepers are close! You have to hurry!
-Dialogue: 30,0:11:57.75,0:11:59.26,Default,,0,0,0,,Suzu!
+Dialogue: 30,0:11:57.75,0:11:59.26,Default,,0,0,0,,Suzu-chan!
 Dialogue: 30,0:11:59.26,0:12:01.80,Default,,0,0,0,,Please, take Kagari.
 Dialogue: 30,0:12:01.80,0:12:03.38,Default,,0,0,0,,Big Sis Mayu...
 Dialogue: 30,0:12:03.38,0:12:04.64,Default,,0,0,0,,All right.
 Dialogue: 30,0:12:04.64,0:12:08.26,Default,,0,0,0,,No! If Mommy won't come, I don't want to!
 Dialogue: 30,0:12:08.26,0:12:09.35,Default,,0,0,0,,Mommy! Mommy!
-Dialogue: 30,0:12:09.35,0:12:11.98,Default,,0,0,0,,It'll be okay, Kagari.
+Dialogue: 30,0:12:09.35,0:12:11.98,Default,,0,0,0,,It'll be okay, Kagari-chan.
 Dialogue: 30,0:12:11.98,0:12:13.06,Default,,0,0,0,,No!
-Dialogue: 30,0:12:13.06,0:12:15.10,Default,,0,0,0,,You'll have Suzu with you.
+Dialogue: 30,0:12:13.06,0:12:15.10,Default,,0,0,0,,You'll have Suzu-chan with you.
 Dialogue: 30,0:12:15.10,0:12:17.11,Default,,0,0,0,,I want to be with Mommy!
 Dialogue: 30,0:12:17.11,0:12:19.98,Default,,0,0,0,,Mommy! Mommy!
 Dialogue: 30,0:12:20.94,0:12:29.20,Default,,0,0,0,,After that, she went from 1975\Nto 1998 before coming to 2010.
@@ -356,7 +356,7 @@ Dialogue: 30,0:17:40.55,0:17:43.22,Default,,0,0,0,,Let me think on it for a whil
 Dialogue: 30,0:17:47.69,0:17:49.86,Default,,0,0,0,,Nya, nya! I spot a Kyo—
 Dialogue: 30,0:17:49.86,0:17:52.15,Default,,0,0,0,,I mean, Okarin!
 Dialogue: 30,0:17:52.15,0:17:54.99,Default,,0,0,0,,What's this? Now here's an interesting pairing.
-Dialogue: 30,0:17:54.99,0:17:59.07,Default,,0,0,0,,Luka's dad asked if we could go out\Nand pick up a few things, nya.
+Dialogue: 30,0:17:54.99,0:17:59.07,Default,,0,0,0,,Luka-nya's dad asked if we could go out\Nand pick up a few things, nya.
 Dialogue: 30,0:17:59.07,0:18:03.62,Default,,0,0,0,,One of his guests that came over\Nis going to be staying with us.
 Dialogue: 30,0:18:03.62,0:18:04.95,Default,,0,0,0,,We're stocking up.
 Dialogue: 30,0:18:04.95,0:18:06.25,Default,,0,0,0,,Yeah?
@@ -419,7 +419,7 @@ Dialogue: 30,0:21:00.17,0:21:01.51,Default,,0,0,0,,That was fast.
 Dialogue: 30,0:21:01.51,0:21:03.55,Default,,0,0,0,,Better than being too slow.
 Dialogue: 30,0:21:05.38,0:21:07.51,Default,,0,0,0,,Lukako?
 Dialogue: 30,0:21:07.51,0:21:08.60,Default,,0,0,0,,Hello?
-Dialogue: 30,0:21:08.60,0:21:10.39,Default,,0,0,0,,Um, Okabe?
+Dialogue: 30,0:21:08.60,0:21:10.39,Default,,0,0,0,,Um, Okabe-san?
 Dialogue: 30,0:21:10.39,0:21:12.68,Default,,0,0,0,,Sorry, do you have a minute?
 Dialogue: 30,0:21:12.68,0:21:13.85,Default,,0,0,0,,What is it?
 Dialogue: 30,0:21:13.85,0:21:15.44,Default,,0,0,0,,U-Um...
