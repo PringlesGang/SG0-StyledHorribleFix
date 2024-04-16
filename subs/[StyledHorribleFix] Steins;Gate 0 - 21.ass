@@ -198,7 +198,7 @@ Comment: 11,0:22:52.26,0:22:57.18,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(1
 Comment: 11,0:22:57.18,0:22:59.89,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
 Comment: 11,0:22:59.89,0:23:02.73,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
 Comment: 11,0:23:02.73,0:23:08.07,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
-Comment: 11,0:23:08.07,0:23:13.53,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}god. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
+Comment: 11,0:23:08.07,0:23:13.53,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}God. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
 Dialogue: 11,0:22:00.50,0:22:05.63,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
 Dialogue: 11,0:22:05.63,0:22:11.72,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It's merely a vision projected into our eyes
 Dialogue: 11,0:22:12.64,0:22:18.10,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
@@ -604,7 +604,7 @@ Dialogue: 30,0:21:43.38,0:21:45.67,Default,,0,0,0,,Kagari won't be coming.
 Dialogue: 30,0:21:52.97,0:21:57.10,Default,,0,0,0,,Because... we've already restrained her.
 Dialogue: 30,0:21:57.10,0:22:02.94,Default,,0,0,0,,You may not have realized it, but we've\Ntaken measures around Radikan.
 Dialogue: 30,0:22:02.94,0:22:04.78,Default,,0,0,0,,Mr. Leskinen.
-Dialogue: 30,0:22:04.78,0:22:08.61,Default,,0,0,0,,You may have thought yourself as a\Ngod who could see through everything, but...
+Dialogue: 30,0:22:04.78,0:22:08.61,Default,,0,0,0,,You may have thought yourself as a\NGod who could see through everything, but...
 Dialogue: 30,0:22:08.61,0:22:11.87,Default,,0,0,0,,...I'm afraid to say all\Nyour schemes have been foiled.
 Dialogue: 30,0:22:11.87,0:22:15.12,Default,,0,0,0,,Lintahlo, what are you...?
 Dialogue: 30,0:22:15.12,0:22:17.37,Default,,0,0,0,,What do you think you're—
