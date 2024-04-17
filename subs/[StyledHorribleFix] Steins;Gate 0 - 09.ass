@@ -72,7 +72,7 @@ Dialogue: 11,0:23:14.53,0:23:20.54,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me 
 Dialogue: 11,0:23:20.79,0:23:28.09,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{\kf26}to {\kf18}wa {\kf38}do{\kf23}ko {\kf20}he {\kf60}to {\kf39}a{\kf39}ru{\kf38}i{\kf81}te {\kf39}yu{\kf20}ku {\kf268}no?
 Dialogue: 11,0:23:29.34,0:23:34.47,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
 Dialogue: 11,0:23:14.53,0:23:20.54,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}The eye cannot see the distortion of the sky
-Dialogue: 11,0:23:20.79,0:23:28.09,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think he is walking towards?
+Dialogue: 11,0:23:20.79,0:23:28.09,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think they are walking towards?
 Dialogue: 1,0:10:31.02,0:10:36.03,Title,,0,0,0,,{\an3\fs90\pos(1733,938)\fnPlayfair Display Medium}Pandora{\fs45\fnPlayfair Display} of {\fs70}Eternal Return
 Dialogue: 0,0:05:29.51,0:05:30.68,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HFCFEFB&}m 844 53 l 1098 -13 l 1138 70 l 863 141 {\p0}
 Dialogue: 1,0:05:29.51,0:05:30.68,OkabePhone,,0,0,0,,{\c&H847577&\fs90\be2\frz13.18\pos(862,40)}All right.

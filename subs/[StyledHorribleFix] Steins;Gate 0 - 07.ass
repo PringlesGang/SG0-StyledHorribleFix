@@ -71,7 +71,7 @@ Dialogue: 11,0:22:21.48,0:22:27.49,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me 
 Dialogue: 11,0:22:27.74,0:22:35.04,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{\kf26}to {\kf18}wa {\kf38}do{\kf23}ko {\kf20}he {\kf60}to {\kf39}a{\kf39}ru{\kf38}i{\kf81}te {\kf39}yu{\kf20}ku {\kf268}no?
 Dialogue: 11,0:22:36.29,0:22:41.42,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
 Dialogue: 11,0:22:21.48,0:22:27.49,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}The eye cannot see the distortion of the sky
-Dialogue: 11,0:22:27.74,0:22:35.04,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think he is walking towards?
+Dialogue: 11,0:22:27.74,0:22:35.04,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think they are walking towards?
 Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an3\fs100\pos(1380,942)}Eclipse
 Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an1\fs60\pos(1386,936)}of
 Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an7\fs60\pos(1258,908)}Vibronic {\fs80}Transition

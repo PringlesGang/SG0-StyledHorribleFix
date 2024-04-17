@@ -72,7 +72,7 @@ Dialogue: 11,0:23:14.49,0:23:20.50,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me 
 Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{\kf26}to {\kf18}wa {\kf38}do{\kf23}ko {\kf20}he {\kf60}to {\kf39}a{\kf39}ru{\kf38}i{\kf81}te {\kf39}yu{\kf20}ku {\kf268}no?
 Dialogue: 11,0:23:29.30,0:23:34.43,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
 Dialogue: 11,0:23:14.49,0:23:20.50,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}The eye cannot see the distortion of the sky
-Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think he is walking towards?
+Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think they are walking towards?
 Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\fsp-2\an1\pos(1102,952)}Protocol
 Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an2\fs70\fsp3\pos(1362,924)}of
 Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an2\fs50\pos(1360,948)\fsp-2}the

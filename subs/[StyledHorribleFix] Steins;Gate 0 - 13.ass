@@ -71,7 +71,7 @@ Dialogue: 11,0:22:34.49,0:22:40.50,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me 
 Dialogue: 11,0:22:40.75,0:22:48.05,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{\kf26}to {\kf18}wa {\kf38}do{\kf23}ko {\kf20}he {\kf60}to {\kf39}a{\kf39}ru{\kf38}i{\kf81}te {\kf39}yu{\kf20}ku {\kf268}no?
 Dialogue: 11,0:22:49.30,0:22:54.43,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
 Dialogue: 11,0:22:34.49,0:22:40.50,LastGame Rom,,0,0,0,,{\fade(100,100)}The eye cannot see the distortion of the sky
-Dialogue: 11,0:22:40.75,0:22:48.05,LastGame Rom,,0,0,0,,{\fade(100,100)}Where does man think he is walking towards?
+Dialogue: 11,0:22:40.75,0:22:48.05,LastGame Rom,,0,0,0,,{\fade(100,100)}Where does man think they are walking towards?
 Dialogue: 1,0:10:56.96,0:11:01.97,Title,,0,0,0,,{\an3\fs110\pos(1362,918)}Mother
 Dialogue: 1,0:10:56.96,0:11:01.97,Title,,0,0,0,,{\an3\pos(1358,968)}Goose
 Dialogue: 1,0:10:56.96,0:11:01.97,Title,,0,0,0,,{\an3\fs50\pos(1396,964)}of
