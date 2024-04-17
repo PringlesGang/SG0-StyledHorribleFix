@@ -45,7 +45,7 @@ Comment: 11,0:02:57.90,0:03:03.20,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(10
 Comment: 11,0:03:03.78,0:03:08.66,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}Ni{\k18}do{\k27}to {\k43}ka{\k16}na{\k16}ta {\k34}ni {\k19}o{\k13}ki{\k14}za{\k54}ri {\k42}ni {\k45}wa {\k27}shi{\k23}na{\k14}i {\k19}ka{\k28}ra
 Comment: 11,0:03:08.66,0:03:11.37,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}I{\k18}tsu{\k18}de{\k15}mo {\k16}ma{\k33}da {\k22}ki{\k27}mi {\k13}no {\k21}so{\k21}ba {\k31}ni
 Comment: 11,0:03:11.37,0:03:14.10,OP Rom,,0,0,0,karaoke,{\k37}{\blur11.25\fad(100,100)}To{\k16}na{\k19}ri{\k9}a{\k15}wa{\k25}se {\k40}so{\k23}no {\k18}ryo{\k10}u{\k25}shi {\k36}ga
-Comment: 11,0:03:14.09,0:03:19.55,OP Rom,,0,0,0,karaoke,{\k73}{\blur11.25\fad(100,100)}Mo{\k26}tsu{\k33}re{\k35}a{\k31}e{\k30}ba {\k21}ze{\k16}ro {\k107}ni {\k24}na{\k150}ru
+Comment: 11,0:03:14.10,0:03:19.55,OP Rom,,0,0,0,karaoke,{\k73}{\blur11.25\fad(100,100)}Mo{\k26}tsu{\k33}re{\k35}a{\k31}e{\k30}ba {\k21}ze{\k16}ro {\k107}ni {\k24}na{\k150}ru
 Comment: 11,0:03:19.55,0:03:25.01,OP Rom,,0,0,0,karaoke,{\k41}{\blur11.25\fad(100,100)}There {\k34}is {\k31}no {\k160}God. {\k38}Won{\k27}der{\k39}ful {\k72}new {\k104}world
 Dialogue: 11,0:02:11.98,0:02:17.15,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}This “vision” we call life
 Dialogue: 11,0:02:17.15,0:02:23.20,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Is yet unaware that it's an illusion
@@ -59,7 +59,7 @@ Dialogue: 11,0:02:57.90,0:03:03.20,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Wor
 Dialogue: 11,0:03:03.78,0:03:08.66,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Guarantee I will not leave you behind a second time
 Dialogue: 11,0:03:08.66,0:03:11.37,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}I am forever by your side
 Dialogue: 11,0:03:11.37,0:03:14.10,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}We're joined together as one
-Dialogue: 11,0:03:14.09,0:03:19.55,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Out of this quantum entanglement, “0” will manifest
+Dialogue: 11,0:03:14.10,0:03:19.55,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Out of this quantum entanglement, “0” will manifest
 Dialogue: 11,0:22:12.85,0:22:17.85,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}Bai{\k23}bu{\k30}ree{\k160}shion {\k18}to{\k19}do{\k15}ka{\k30}na{\k22}i {\k11}e{\k25}moo{\k109}shion
 Dialogue: 11,0:22:18.44,0:22:24.61,Worldline Rom,,0,0,0,,{\k48}{\fsp-4.5}He{\k48}llo {\k18}A{\k32}ma{\k158}deus, {\k22}I'm {\k36}wai{\k37}ting {\k23}for {\k36}your {\k159}call
 Dialogue: 11,0:22:24.73,0:22:30.57,Worldline Rom,,0,0,0,,{\k36}{\fsp-4.5}Ko{\k44}no {\k14}ba{\k47}sho {\k144}wa {\k24}re{\k20}i{\k18}ya{\k20}a{\k21}do {\k23}no {\k37}you {\k136}ni
