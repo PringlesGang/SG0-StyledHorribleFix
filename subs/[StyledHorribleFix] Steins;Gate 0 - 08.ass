@@ -106,7 +106,7 @@ Dialogue: 1,0:12:33.60,0:12:33.73,Signs,,0,0,0,,{\an8\fnPlayfair Display ExtraBo
 Dialogue: 1,0:12:33.73,0:12:33.85,Signs,,0,0,0,,{\an8\fnPlayfair Display ExtraBold\c&H423D3E&\fs50\fry-4\frx-2\frz01\be3\pos(618,162)\clip(m 518 154 l 746 162 714 210 482 216)}Yushima\N\N\N\N\N\N\N\N\N\N\NSeido
 Dialogue: 1,0:12:33.85,0:12:33.98,Signs,,0,0,0,,{\an8\fnPlayfair Display ExtraBold\c&H423D3E&\fs50\fry-4\frx-2\frz01\be3\pos(618,162)\iclip(m 518 432 l 606 436 612 508 482 494)}Yushima\N\N\N\N\N\N\N\N\N\N\NSeido
 Dialogue: 1,0:12:33.98,0:12:34.94,Signs,,0,0,0,,{\an8\fnPlayfair Display ExtraBold\c&H423D3E&\fs50\fry-4\frx-2\frz01\be3\pos(618,162)}Yushima\N\N\N\N\N\N\N\N\N\N\NSeido
-Dialogue: 1,0:15:50.17,0:15:53.97,Signs,,0,0,0,,{\an8\fnCinzel\fs80\c&H2E272B&\alpha30\move(954,858,954,-115)\xshad2\yshad2\4c&H848484&\be3}Shiina\NFamily Grave
+Dialogue: 1,0:15:50.17,0:15:54.14,Signs,,0,0,0,,{\an8\fnCinzel\fs80\c&H2E272B&\alpha30\move(954,858,954,-158)\xshad2\yshad2\4c&H848484&\be3}Shiina\NFamily Grave
 Dialogue: 0,0:19:48.41,0:19:50.37,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HB8ABA9&}m 458 157 l 679 209 l 663 273 l 443 220 {\p0}
 Dialogue: 0,0:19:48.41,0:19:50.37,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HE3D8D5&}m 482 19 l 799 83 l 782 155 l 465 84 {\p0}
 Dialogue: 0,0:19:48.41,0:19:50.37,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HCAC6C4&}m 751 485 l 1211 591 l 1194 679 l 732 564 {\p0}
