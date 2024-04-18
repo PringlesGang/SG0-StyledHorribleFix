@@ -45,7 +45,7 @@ Comment: 11,0:02:14.48,0:02:17.32,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(1
 Comment: 11,0:02:17.32,0:02:22.66,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
 Comment: 11,0:02:22.66,0:02:28.12,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}God. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
 Dialogue: 11,0:01:15.09,0:01:20.22,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
-Dialogue: 11,0:01:20.22,0:01:26.31,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It's merely a vision projected into our eyes
+Dialogue: 11,0:01:20.22,0:01:26.31,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It’s merely a vision projected into our eyes
 Dialogue: 11,0:01:27.23,0:01:32.69,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
 Dialogue: 11,0:01:32.69,0:01:38.11,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
 Dialogue: 11,0:01:38.11,0:01:43.45,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
@@ -53,7 +53,7 @@ Dialogue: 11,0:01:43.45,0:01:47.79,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Mai
 Dialogue: 11,0:01:47.79,0:01:53.17,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
 Dialogue: 11,0:01:53.17,0:01:59.89,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
 Dialogue: 11,0:02:01.01,0:02:06.31,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
-Dialogue: 11,0:02:06.85,0:02:11.77,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn't merely something that's expanding our distance
+Dialogue: 11,0:02:06.85,0:02:11.77,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn’t merely something that’s expanding our distance
 Dialogue: 11,0:02:11.77,0:02:14.48,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
 Dialogue: 11,0:02:14.48,0:02:17.32,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
 Dialogue: 11,0:02:17.32,0:02:22.66,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
@@ -62,9 +62,9 @@ Dialogue: 11,0:21:23.84,0:21:29.80,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Let
 Dialogue: 11,0:21:30.01,0:21:35.94,LastGame Rom,,0,0,0,,{\kf16\fade(100,100)}And {\kf62}let {\kf17}us {\kf107}pray {\kf32}for {\kf19}the {\kf118}world {\kf79}to {\kf25}re{\kf16}a{\kf101}lize
 Dialogue: 11,0:21:36.56,0:21:42.36,LastGame Rom,,0,0,0,,{\kf40\fade(100,100)}There {\kf32}is {\kf139}peace, {\kf15}the {\kf124}truth {\kf19}with{\kf19}in {\kf192}us
 Dialogue: 11,0:21:42.73,0:21:49.12,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Emp{\kf27}ti{\kf217}ness {\kf20}e{\kf64}rodes {\kf18}your {\kf233}heart
-Dialogue: 11,0:21:49.12,0:21:54.96,LastGame Rom,,0,0,0,,{\kf61\fade(100,100)}'Cause {\kf9}you're {\kf121}free {\kf45}from {\kf116}pain {\kf71}and {\kf51}so{\kf110}rrow
+Dialogue: 11,0:21:49.12,0:21:54.96,LastGame Rom,,0,0,0,,{\kf61\fade(100,100)}’Cause {\kf9}you’re {\kf121}free {\kf45}from {\kf116}pain {\kf71}and {\kf51}so{\kf110}rrow
 Dialogue: 11,0:21:55.37,0:22:01.42,LastGame Rom,,0,0,0,,{\kf57\fade(100,100)}The fu{\kf28}ture {\kf112}is {\kf20}just {\kf23}too {\kf115}bright {\kf67}to {\kf42}show {\kf17}you {\kf123}ways
-Dialogue: 11,0:22:01.67,0:22:07.51,LastGame Rom,,0,0,0,,{\kf47\fade(100,100)}Wake {\kf40}up {\kf116}now, {\kf16}it's {\kf60}time {\kf25}to {\kf60}lead {\kf66}new {\kf154}souls
+Dialogue: 11,0:22:01.67,0:22:07.51,LastGame Rom,,0,0,0,,{\kf47\fade(100,100)}Wake {\kf40}up {\kf116}now, {\kf16}it’s {\kf60}time {\kf25}to {\kf60}lead {\kf66}new {\kf154}souls
 Dialogue: 11,0:22:08.80,0:22:14.77,LastGame Rom,,0,0,0,,{\kf202\fade(100,100)}Or{\kf40}bit {\kf36}of {\kf41}pho{\kf62}ton {\kf21}and {\kf39}u{\kf26}ni{\kf129}verse
 Dialogue: 11,0:22:15.23,0:22:20.81,LastGame Rom,,0,0,0,,{\kf194\fade(100,100)}I {\kf34}am {\kf44}just {\kf38}a {\kf78}part {\kf41}of {\kf20}its {\kf110}plan
 Dialogue: 11,0:22:21.48,0:22:27.49,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me {\kf18}ni {\kf18}wa {\kf48}mi{\kf14}e{\kf25}na{\kf52}i {\kf41}yu{\kf33}ga{\kf45}n{\kf113}da {\kf24}so{\kf147}ra
@@ -75,18 +75,18 @@ Dialogue: 11,0:22:27.74,0:22:35.04,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Wher
 Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an3\fs100\pos(1380,942)}Eclipse
 Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an1\fs60\pos(1386,936)}of
 Dialogue: 1,0:04:34.21,0:04:39.21,Title,,0,0,0,,{\an7\fs60\pos(1258,908)}Vibronic {\fs80}Transition
-Dialogue: 1,0:11:40.05,0:11:43.76,Signs,,0,0,0,,{\fade(1520,0)\c&H0E0C1A&\fnRoboto\fs50\blur1\frx8\fry19\org(1622,712)\frz357.6\pos(1598,428)}Happy\Nnew\NYear's
+Dialogue: 1,0:11:40.05,0:11:43.76,Signs,,0,0,0,,{\fade(1520,0)\c&H0E0C1A&\fnRoboto\fs50\blur1\frx8\fry19\org(1622,712)\frz357.6\pos(1598,428)}Happy\Nnew\NYear’s
 Dialogue: 1,0:11:40.05,0:11:43.76,Signs,,0,0,0,,{\fade(1520,0)\c&H4D65D4&\fnSedgwick Ave\blur1\fs60\frz-10\pos(1694,852)}Open for business
 Dialogue: 1,0:11:40.05,0:11:43.76,Signs,,0,0,0,,{\fade(1520,0)\c&H4D65D4&\fnSedgwick Ave\blur1\fs60\frz-10\pos(1692,876)}starting the 3rd
-Dialogue: 1,0:11:43.76,0:11:46.72,Signs,,0,0,0,,{\an8\c&H0E0C1A&\fnRoboto\fs100\blur1\pos(738,76)}Happy\Nnew\NYear's
+Dialogue: 1,0:11:43.76,0:11:46.72,Signs,,0,0,0,,{\an8\c&H0E0C1A&\fnRoboto\fs100\blur1\pos(738,76)}Happy\Nnew\NYear’s
 Dialogue: 1,0:11:43.76,0:11:46.72,Signs,,0,0,0,,{\c&H4D65D4&\an8\fnSedgwick Ave\blur1\fs140\pos(990,848)}Open for business
 Dialogue: 1,0:11:43.76,0:11:46.72,Signs,,0,0,0,,{\c&H4D65D4&\an8\fnSedgwick Ave\blur1\fs140\pos(982,904)}starting the 3rd
 Dialogue: 1,0:18:46.56,0:18:49.02,Signs,,0,0,0,,{\an1\fs52.25\3c&H422C20&\c&HEAE5D3&\bord3\be1\alpha&H30&\pos(211.057,892.25)}Another Earthquake in Russia
 Dialogue: 0,0:19:11.58,0:19:14.04,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HFCF8EB&}m 175 0 l 39 1084 l 1971 1138 l 1990 -15 {\p0}
-Dialogue: 1,0:19:11.58,0:19:11.92,Signs,,0,0,0,,{\move(200,0,200,-900)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
-Dialogue: 1,0:19:11.92,0:19:12.21,Signs,,0,0,0,,{\pos(200,-900)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
-Dialogue: 1,0:19:12.21,0:19:12.88,Signs,,0,0,0,,{\move(200,-900,200,-1810)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
-Dialogue: 1,0:19:12.88,0:19:14.04,Signs,,0,0,0,,{\pos(200,-1810)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com's instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com's K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies' products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We'll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”'s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 1,0:19:11.58,0:19:11.92,Signs,,0,0,0,,{\move(200,0,200,-900)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com’s instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com’s K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies’ products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We’ll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”’s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 1,0:19:11.92,0:19:12.21,Signs,,0,0,0,,{\pos(200,-900)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com’s instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com’s K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies’ products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We’ll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”’s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 1,0:19:12.21,0:19:12.88,Signs,,0,0,0,,{\move(200,-900,200,-1810)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com’s instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com’s K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies’ products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We’ll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”’s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
+Dialogue: 1,0:19:12.88,0:19:14.04,Signs,,0,0,0,,{\pos(200,-1810)\u1\b0\fnPlayfair Display\c&HDFB383&\an7\org(1580,720)\frx1.5\fry-0.2}Download Phone.com’s instruction manual for the K6205 here...\N\N{\u0\c&H504E4D&}List of instruction manuals, instruction manual viewing page, Japanese version,\Nforeign version, setup manual, detailed instruction manual, instruction manual...\N{\c&H5DF64E&}phone.co.jp/.../k6205/index.html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}K6205 (Red) rankings\N\N{\u0\c&H504E4D&}View the cheapest prices of Phone.com’s K6205! Compare the prices of all\Nretailers nationwide. Lots of product reviews and user comments. You can\Nshop wisely and save money by comparing different companies’ products...\N{\c&H5DF64E&}hikaku-ranking.com/item/K6205 {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 01 — Parcot Co., Ltd.\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205, Gray —\NBlack — White, 748×748×8.5 mm, 1.8 sheets / m², 2 sheets of 25 kg, ¥13,500\N/ m². K6206, Gray — Black — White, 596×596×9.6 mm, 2.8 sheets / m², 3 sheets\Nof 23 kg, ¥13,000 / m². 1200×600 mm square. K6207, Gray — Black — White,\N1195×596×8.5 mm, 1.4 sheets / m², 2 sheets of 31 kg, ¥15,000 / m²...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Floor Materials 02 — We’ll take care of your home renovation needs!\N\N{\u0\c&H504E4D&}Shape, product ID, color value, dimensions (mm), required amount, amount\Nper case, weight per case, standard price, 750 mm square, K6205-02, Gray —\NBlack — White, 748×748×10.5 mm, 1.8 sheets / m², 2 sheets of 28 kg, ¥15,000\N/ m². K6206-02, Gray — Black — White, 596×596×9.9 mm, 2.8 sheets/ m²,\N3 sheets of 26 kg, ¥14,800 / m². 1200×600 mm square. K6207-02, Gray —\NBlack — White, 1195×596×9.4 mm, 1.4 sheets / m², 2 sheets of 33...\N{\c&H5DF64E&}prcot./collection/detail/...html {\c&HDFB383&} — cache — similar pages\N\N\N\N\N\N{\u1}Mini Kitchen “K6205” — Kasys Table kitchen renovation\N\N{\u0\c&H504E4D&}This mini kitchen will fit in a wide range of environments, from small apartments\Nto single-family homes. Leg-storage-type mini kitchen “K6205”. For compact,\Nspacious and basic storage plans, mini kitchen “K6205”’s basic type... Customize\Nthe doors of mini kitchen “K6205” to make your kitchen look as good as possible,\Nand fit your style to a tee... Select the stove type that best suits your home...\NThe sink is designed for ease of use. Common parts...\N{\c&H5DF64E&}kasystable.jp/minikitchen/K6205 {\c&HDFB383&} — cache — similar pages
 Dialogue: 0,0:19:31.77,0:19:37.03,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HFAF6E9&}m 367 201 l 1457 201 l 1457 260 l 367 260 {\p0}
 Dialogue: 0,0:19:31.77,0:19:37.03,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HFAF6E9&}m 351 318 l 1424 317 l 1424 376 l 1458 376 l 1458 490 l 1430 490 l 1431 548 l 1458 548 l 1458 604 l 1399 604 l 1399 664 l 1160 665 l 1160 725 l 351 725 {\p0}
 Dialogue: 0,0:19:31.77,0:19:37.03,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HF1EADC&}m 482 792 l 579 792 l 579 850 l 529 850 l 529 903 l 647 902 l 648 962 l 685 963 l 685 1021 l 725 1021 l 725 1076 l 512 1076 l 512 903 l 434 904 l 434 850 l 482 850 {\p0}
@@ -105,7 +105,7 @@ Dialogue: 0,0:19:51.46,0:19:55.09,Draw,,0,0,0,,{\pos(0,0)\blur7\p1\c&HF9F5E8&}m 
 Dialogue: 0,0:19:51.46,0:19:55.09,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HF9F5E8&}m 361 301 l 1855 300 l 1854 362 l 1330 362 l 1330 412 l 1623 412 l 1623 474 l 1659 474 l 1659 538 l 1837 538 l 1837 594 l 1778 594 l 1778 658 l 361 658 {\p0}
 Dialogue: 0,0:19:51.46,0:19:55.09,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&HF0EADC&}m 483 762 l 573 762 l 573 817 l 644 817 l 644 871 l 527 871 l 527 991 l 684 991 l 684 1042 l 603 1042 l 603 1088 l 437 1088 l 437 817 l 483 817 {\p0}
 Dialogue: 1,0:19:51.46,0:19:55.09,Signs,,0,0,0,,{\an7\fs80\fnPlayfair Display Medium\b0\c&H655248&\blur1.6\i1\c&H655248&\1a&H32&\pos(368,186)}The Magic Flute
-Dialogue: 1,0:19:51.46,0:19:55.09,Signs,,0,0,0,,{\an7\fs50\fnRoboto\blur1.6\pos(374,312)\i1\c&H655248&\1a&H32&}The Magic Flute{\i\b0} (German: {\i1\b1}Die Zauberflöte{\i\b0}), {\c&HDDA56B&}K.{\c&H655248&} 620, is a {\i1\c&HDDA56B&}Singspiel{\i\c&H655248&} written\Nby {\c&HDDA56B&}Wolfgang Amadeus Mozart{\c&H655248&} in 1791. The piece marks Mozart's final\N{\c&HDDA56B&}opera{\c&H655248&} before his premature death, and has a Köchel number of K. 620.\NIt is still considered to be one of Mozart's greatest operas.\N\NThe work contains several lighthearted and comedic scenes, which is\Nuncommon for operas. It is famous for the Masonic elements and\Nsymbolism it contains.
+Dialogue: 1,0:19:51.46,0:19:55.09,Signs,,0,0,0,,{\an7\fs50\fnRoboto\blur1.6\pos(374,312)\i1\c&H655248&\1a&H32&}The Magic Flute{\i\b0} (German: {\i1\b1}Die Zauberflöte{\i\b0}), {\c&HDDA56B&}K.{\c&H655248&} 620, is a {\i1\c&HDDA56B&}Singspiel{\i\c&H655248&} written\Nby {\c&HDDA56B&}Wolfgang Amadeus Mozart{\c&H655248&} in 1791. The piece marks Mozart’s final\N{\c&HDDA56B&}opera{\c&H655248&} before his premature death, and has a Köchel number of K. 620.\NIt is still considered to be one of Mozart’s greatest operas.\N\NThe work contains several lighthearted and comedic scenes, which is\Nuncommon for operas. It is famous for the Masonic elements and\Nsymbolism it contains.
 Dialogue: 1,0:19:51.46,0:19:55.09,Signs,,0,0,0,,{\an7\fs55\fnRoboto\blur1.6\c&H655248&\1a&H32&\pos(444,762)}Contents\N{\b0\c&HDDA56B&}History\NPremiere\NComposition\NRoles\NSynopsis
 Dialogue: 0,0:20:02.93,0:20:03.18,Draw,,0,0,0,,{Mayuri 1} {\move(0,900,0,320)\blur13\p1\c&HB3AFAD&\t(\c&HE1DCDB&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
 Dialogue: 0,0:20:03.18,0:20:03.34,Draw,,0,0,0,,{Mayuri 1} {\move(0,320,0,80)\blur13\p1\c&HE6E1DF&\t(\c&HEEE9E8&)}m 793 139 l 927 139 l 927 208 l 793 208 {\p0}
@@ -219,12 +219,12 @@ Dialogue: 1,0:20:43.51,0:20:47.85,OkabePhone,,0,0,0,,{\an4\frz343\c&H4B3D3D&\fs1
 Dialogue: 0,0:20:50.10,0:20:52.06,Draw,,0,0,0,,{\pos(0,0)\blur4\p1\c&HECE5E3&}m 832 511 l 884 511 l 884 534 l 832 534{\p0}
 Dialogue: 1,0:20:50.10,0:20:52.06,OkabePhone,,0,0,0,,{\c&H352C2A&\fs25\blur1.2\an7\pos(833,509)}Incoming Call
 Dialogue: 30,0:00:05.00,0:00:06.79,Default,,0,0,0,,Okabe Rintaro!
-Dialogue: 30,0:00:14.30,0:00:15.72,Default,,0,0,0,,Don't move!
+Dialogue: 30,0:00:14.30,0:00:15.72,Default,,0,0,0,,Don’t move!
 Dialogue: 30,0:00:15.72,0:00:17.68,Default,,0,0,0,,What the...
 Dialogue: 30,0:00:18.89,0:00:20.39,Default,,0,0,0,,Okarin!
-Dialogue: 30,0:00:28.36,0:00:31.82,Default,,0,0,0,,Wh-What's going on?
+Dialogue: 30,0:00:28.36,0:00:31.82,Default,,0,0,0,,Wh-What’s going on?
 Dialogue: 30,0:00:31.82,0:00:34.86,Default,,0,0,0,,Is this... some sort of surprise?
-Dialogue: 30,0:00:50.71,0:00:52.30,Default,,0,0,0,,Don't tell me...
+Dialogue: 30,0:00:50.71,0:00:52.30,Default,,0,0,0,,Don’t tell me...
 Dialogue: 30,0:00:52.30,0:00:54.38,Default,,0,0,0,,It was you after all?!
 Dialogue: 30,0:00:55.68,0:00:57.22,Default,,0,0,0,,Kiryu Moeka!
 Dialogue: 30,0:02:43.08,0:02:44.41,Default,,0,0,0,,Stay put!
@@ -234,7 +234,7 @@ Dialogue: 30,0:02:49.96,0:02:53.04,Default,,0,0,0,,K-6205, secured.
 Dialogue: 30,0:02:54.17,0:02:55.80,Default,,0,0,0,,Kagari-san!
 Dialogue: 30,0:02:56.84,0:02:59.88,Default,,0,0,0,,No! Help me, Mayuri-san!
 Dialogue: 30,0:02:59.88,0:03:00.88,Default,,0,0,0,,Kagari-san!
-Dialogue: 30,0:03:00.88,0:03:03.39,Default,,0,0,0,,Don't do it! If you fight back...
+Dialogue: 30,0:03:00.88,0:03:03.39,Default,,0,0,0,,Don’t do it! If you fight back...
 Dialogue: 30,0:03:06.18,0:03:09.06,Default,,0,0,0,,Stop it! Let me go!
 Dialogue: 30,0:03:16.44,0:03:18.11,Default,,0,0,0,,Hey!
 Dialogue: 30,0:03:22.95,0:03:25.78,Default,,0,0,0,,I warned you to keep quiet on the 2nd floor!
@@ -244,89 +244,89 @@ Dialogue: 30,0:03:37.88,0:03:39.34,Default,,0,0,0,,Kagari-san!
 Dialogue: 30,0:03:46.47,0:03:47.97,Default,,0,0,0,,Get back here!
 Dialogue: 30,0:03:52.94,0:03:54.65,Default,,0,0,0,,Get back here!
 Dialogue: 30,0:03:58.44,0:04:01.53,Default,,0,0,0,,D-Daddy!
-Dialogue: 30,0:04:02.53,0:04:06.53,Default,,0,0,0,,Everything's fine now. Dad's here for you.
-Dialogue: 30,0:04:09.04,0:04:12.83,Default,,0,0,0,,You've got some explaining to do, Okabe.
+Dialogue: 30,0:04:02.53,0:04:06.53,Default,,0,0,0,,Everything’s fine now. Dad’s here for you.
+Dialogue: 30,0:04:09.04,0:04:12.83,Default,,0,0,0,,You’ve got some explaining to do, Okabe.
 Dialogue: 30,0:04:12.83,0:04:15.13,Default,,0,0,0,,Who the hell were those folks?
-Dialogue: 30,0:04:15.13,0:04:17.88,Default,,0,0,0,,That's...
-Dialogue: 30,0:04:17.88,0:04:20.17,Default,,0,0,0,,We're back.
+Dialogue: 30,0:04:15.13,0:04:17.88,Default,,0,0,0,,That’s...
+Dialogue: 30,0:04:17.88,0:04:20.17,Default,,0,0,0,,We’re back.
 Dialogue: 30,0:04:20.17,0:04:22.76,Default,,0,0,0,,—We bought a bunch of drinks for everyone.\N—Huh?
-Dialogue: 30,0:04:22.76,0:04:26.39,Default,,0,0,0,,What's the deal?\NWhy does everyone look so scared?
+Dialogue: 30,0:04:22.76,0:04:26.39,Default,,0,0,0,,What’s the deal?\NWhy does everyone look so scared?
 Dialogue: 30,0:04:26.39,0:04:28.60,Default,,0,0,0,,Whoa! What the heck!? The TV!
 Dialogue: 30,0:04:28.60,0:04:30.81,Default,,0,0,0,,Careful where you step!
-Dialogue: 30,0:04:30.81,0:04:32.89,Default,,0,0,0,,Where's the broom and pan?
-Dialogue: 30,0:04:41.07,0:04:44.70,Default,,0,0,0,,Looks like Mayuri's group\Ngot home safe and sound.
+Dialogue: 30,0:04:30.81,0:04:32.89,Default,,0,0,0,,Where’s the broom and pan?
+Dialogue: 30,0:04:41.07,0:04:44.70,Default,,0,0,0,,Looks like Mayuri’s group\Ngot home safe and sound.
 Dialogue: 30,0:04:44.70,0:04:47.28,Default,,0,0,0,,Maho-tan said she made it back to her office.
-Dialogue: 30,0:04:47.28,0:04:50.24,Default,,0,0,0,,She's staying the night\Nat the institute just in case.
-Dialogue: 30,0:04:50.24,0:04:52.70,Default,,0,0,0,,Good... That's a relief.
+Dialogue: 30,0:04:47.28,0:04:50.24,Default,,0,0,0,,She’s staying the night\Nat the institute just in case.
+Dialogue: 30,0:04:50.24,0:04:52.70,Default,,0,0,0,,Good... That’s a relief.
 Dialogue: 30,0:04:52.70,0:04:55.12,Default,,0,0,0,,Hey, Okarin.
-Dialogue: 30,0:04:55.12,0:04:57.92,Default,,0,0,0,,Those guys were after Kagari-tan, weren't they?
+Dialogue: 30,0:04:55.12,0:04:57.92,Default,,0,0,0,,Those guys were after Kagari-tan, weren’t they?
 Dialogue: 30,0:04:57.92,0:04:59.46,Default,,0,0,0,,Yeah...
 Dialogue: 30,0:04:59.46,0:05:01.21,Default,,0,0,0,,You know what it seems like?
 Dialogue: 30,0:05:01.21,0:05:06.51,Default,,0,0,0,,That group probably knows\Nthat Kagari-tan came from the future.
-Dialogue: 30,0:05:06.51,0:05:08.64,Default,,0,0,0,,Can't help but think...
+Dialogue: 30,0:05:06.51,0:05:08.64,Default,,0,0,0,,Can’t help but think...
 Dialogue: 30,0:05:08.64,0:05:13.48,Default,,0,0,0,,This whole time she was missing,\Nmaybe something happened to her?
 Dialogue: 30,0:05:13.48,0:05:15.23,Default,,0,0,0,,Seems that way.
-Dialogue: 30,0:05:15.23,0:05:17.27,Default,,0,0,0,,SERN's Rounders...
+Dialogue: 30,0:05:15.23,0:05:17.27,Default,,0,0,0,,SERN’s Rounders...
 Dialogue: 30,0:05:17.27,0:05:23.36,Default,,0,0,0,,In the past, that same organization attacked\Nand captured us for developing a time machine.
 Dialogue: 30,0:05:25.24,0:05:26.78,Default,,0,0,0,,No, wait...
 Dialogue: 30,0:05:26.78,0:05:32.04,Default,,0,0,0,,Even if the worldline changed, Tennouji should\Nstill be the boss running things in Akihabara.
-Dialogue: 30,0:05:32.04,0:05:35.66,Default,,0,0,0,,If he's the enemy,\Nit's weird for him to help us.
-Dialogue: 30,0:05:35.66,0:05:40.04,Default,,0,0,0,,Which means the one in the\Nmotorcycle suit wasn't Kiryu Moeka...
+Dialogue: 30,0:05:32.04,0:05:35.66,Default,,0,0,0,,If he’s the enemy,\Nit’s weird for him to help us.
+Dialogue: 30,0:05:35.66,0:05:40.04,Default,,0,0,0,,Which means the one in the\Nmotorcycle suit wasn’t Kiryu Moeka...
 Dialogue: 30,0:05:40.04,0:05:42.30,Default,,0,0,0,,But someone else...
-Dialogue: 30,0:05:42.30,0:05:44.92,Default,,0,0,0,,I still can't believe all that happened...
+Dialogue: 30,0:05:42.30,0:05:44.92,Default,,0,0,0,,I still can’t believe all that happened...
 Dialogue: 30,0:05:44.92,0:05:50.10,Default,,0,0,0,,In Akiba? In Japan?\NAttacked by a group with guns?
-Dialogue: 30,0:05:50.10,0:05:52.68,Default,,0,0,0,,It's becoming just like Suzuha said...
-Dialogue: 30,0:05:54.72,0:05:59.65,Default,,0,0,0,,I'm half-expecting everyone to\Njump out and say, “Gotcha! You fell for it!”
+Dialogue: 30,0:05:50.10,0:05:52.68,Default,,0,0,0,,It’s becoming just like Suzuha said...
+Dialogue: 30,0:05:54.72,0:05:59.65,Default,,0,0,0,,I’m half-expecting everyone to\Njump out and say, “Gotcha! You fell for it!”
 Dialogue: 30,0:05:59.65,0:06:02.40,Default,,0,0,0,,You know what I mean?
 Dialogue: 30,0:06:02.40,0:06:05.57,Default,,0,0,0,,Yeah, I know the feeling.
-Dialogue: 30,0:06:05.57,0:06:08.82,Default,,0,0,0,,But, it happened, and that's the truth.
+Dialogue: 30,0:06:05.57,0:06:08.82,Default,,0,0,0,,But, it happened, and that’s the truth.
 Dialogue: 30,0:06:08.82,0:06:11.53,Default,,0,0,0,,I know it... I remember it.
 Dialogue: 30,0:06:11.53,0:06:14.54,Default,,0,0,0,,That same scene I relived countless times...
 Dialogue: 30,0:06:14.54,0:06:18.62,Default,,0,0,0,,The gun smoke... The screams... The blood...
-Dialogue: 30,0:06:20.08,0:06:21.59,Default,,0,0,0,,What's wrong?
+Dialogue: 30,0:06:20.08,0:06:21.59,Default,,0,0,0,,What’s wrong?
 Dialogue: 30,0:06:21.59,0:06:22.46,Default,,0,0,0,,Sorry.
 Dialogue: 30,0:06:22.46,0:06:24.38,Default,,0,0,0,,Wanna take a break?
 Dialogue: 30,0:06:24.38,0:06:26.38,Default,,0,0,0,,No...
-Dialogue: 30,0:06:26.38,0:06:32.10,Default,,0,0,0,,Maybe it's that? This was the\Nchoice of Steins Gate, or something.
+Dialogue: 30,0:06:26.38,0:06:32.10,Default,,0,0,0,,Maybe it’s that? This was the\Nchoice of Steins Gate, or something.
 Dialogue: 30,0:06:32.10,0:06:34.43,Default,,0,0,0,,Steins Gate, huh?
 Dialogue: 30,0:06:34.43,0:06:38.14,Default,,0,0,0,,Sounds pathetic the more I think about it.
-Dialogue: 30,0:06:38.14,0:06:42.86,Default,,0,0,0,,Look, you can't even stand straight.\NHang on my shoulder.
-Dialogue: 30,0:06:42.86,0:06:44.15,Default,,0,0,0,,I'll be fine.
+Dialogue: 30,0:06:38.14,0:06:42.86,Default,,0,0,0,,Look, you can’t even stand straight.\NHang on my shoulder.
+Dialogue: 30,0:06:42.86,0:06:44.15,Default,,0,0,0,,I’ll be fine.
 Dialogue: 30,0:06:44.15,0:06:45.98,Default,,0,0,0,,Just do it, okay?
-Dialogue: 30,0:06:47.78,0:06:52.82,Default,,0,0,0,,Hey, do you think it'll happen again?\NSomething like today?
-Dialogue: 30,0:06:52.82,0:06:56.75,Default,,0,0,0,,I've gotta think of a way\Nto make sure it doesn't...
-Dialogue: 30,0:07:00.87,0:07:03.13,Default,,0,0,0,,We're unable to complete your call.
+Dialogue: 30,0:06:47.78,0:06:52.82,Default,,0,0,0,,Hey, do you think it’ll happen again?\NSomething like today?
+Dialogue: 30,0:06:52.82,0:06:56.75,Default,,0,0,0,,I’ve gotta think of a way\Nto make sure it doesn’t...
+Dialogue: 30,0:07:00.87,0:07:03.13,Default,,0,0,0,,We’re unable to complete your call.
 Dialogue: 30,0:07:03.13,0:07:09.30,Default,,0,0,0,,The number you dialed is out of the service area\Nor has been disconnected and is unreachable.
 Dialogue: 30,0:07:09.30,0:07:12.34,Default,,0,0,0,,For crying out loud!
 Dialogue: 30,0:07:12.34,0:07:15.10,Default,,0,0,0,,Why does the Professor have to go\Nmissing during an emergency like this?
-Dialogue: 30,0:07:19.43,0:07:23.31,Default,,0,0,0,,No matter how many times I try,\NI can't connect to Amadeus.
+Dialogue: 30,0:07:19.43,0:07:23.31,Default,,0,0,0,,No matter how many times I try,\NI can’t connect to Amadeus.
 Dialogue: 30,0:07:23.31,0:07:25.82,Default,,0,0,0,,What in the world is going on here?
 Dialogue: 30,0:07:42.83,0:07:44.50,Default,,0,0,0,,Hello?
-Dialogue: 30,0:07:44.50,0:07:47.75,Default,,0,0,0,,Suzuha, it's me. How are things there?
+Dialogue: 30,0:07:44.50,0:07:47.75,Default,,0,0,0,,Suzuha, it’s me. How are things there?
 Dialogue: 30,0:07:47.75,0:07:52.30,Default,,0,0,0,,The security here is a lot beefier\Nthan I thought... for a shrine.
-Dialogue: 30,0:07:52.30,0:07:55.14,Default,,0,0,0,,Maybe Luka-shi's dad is paranoid.
-Dialogue: 30,0:07:55.14,0:07:58.39,Default,,0,0,0,,I know they've had a system\Nin place for a while now.
+Dialogue: 30,0:07:52.30,0:07:55.14,Default,,0,0,0,,Maybe Luka-shi’s dad is paranoid.
+Dialogue: 30,0:07:55.14,0:07:58.39,Default,,0,0,0,,I know they’ve had a system\Nin place for a while now.
 Dialogue: 30,0:07:58.39,0:08:01.64,Default,,0,0,0,,They had problems with people\Ntrying to sneak in at night.
-Dialogue: 30,0:08:01.64,0:08:04.02,Default,,0,0,0,,Even so, isn't it a bit over the top?
-Dialogue: 30,0:08:04.02,0:08:06.77,Default,,0,0,0,,Well, they might've asked\NOkarin for a little help...
-Dialogue: 30,0:08:06.77,0:08:10.78,Default,,0,0,0,,...and I might've disguised\Na hidden camera or two...
-Dialogue: 30,0:08:10.78,0:08:15.62,Default,,0,0,0,,Anyways, after seeing what they've\Ngot here, I think we can rest assured.
+Dialogue: 30,0:08:01.64,0:08:04.02,Default,,0,0,0,,Even so, isn’t it a bit over the top?
+Dialogue: 30,0:08:04.02,0:08:06.77,Default,,0,0,0,,Well, they might’ve asked\NOkarin for a little help...
+Dialogue: 30,0:08:06.77,0:08:10.78,Default,,0,0,0,,...and I might’ve disguised\Na hidden camera or two...
+Dialogue: 30,0:08:10.78,0:08:15.62,Default,,0,0,0,,Anyways, after seeing what they’ve\Ngot here, I think we can rest assured.
 Dialogue: 30,0:08:15.62,0:08:16.95,Default,,0,0,0,,Okay.
 Dialogue: 30,0:08:16.95,0:08:20.29,Default,,0,0,0,,If anything happens, let me know right away.
-Dialogue: 30,0:08:20.29,0:08:25.04,Default,,0,0,0,,Right. You be careful too, Dad.\NYou're a lot weaker than me.
-Dialogue: 30,0:08:25.04,0:08:30.21,Default,,0,0,0,,You can do better than that! Call Papa\Na worthless normie pig that can't even—
+Dialogue: 30,0:08:20.29,0:08:25.04,Default,,0,0,0,,Right. You be careful too, Dad.\NYou’re a lot weaker than me.
+Dialogue: 30,0:08:25.04,0:08:30.21,Default,,0,0,0,,You can do better than that! Call Papa\Na worthless normie pig that can’t even—
 Dialogue: 30,0:08:31.42,0:08:33.88,Default,,0,0,0,,Oh, welcome back!
-Dialogue: 30,0:08:33.88,0:08:35.01,Default,,0,0,0,,How's Kagari?
+Dialogue: 30,0:08:33.88,0:08:35.01,Default,,0,0,0,,How’s Kagari?
 Dialogue: 30,0:08:35.01,0:08:39.76,Default,,0,0,0,,Must be terribly frightened.\NShe only fell asleep just now.
 Dialogue: 30,0:08:39.76,0:08:41.68,Default,,0,0,0,,I see.
-Dialogue: 30,0:08:42.48,0:08:46.06,Default,,0,0,0,,I bet you're tired too, Big Bro Luka.\NYou should go to bed.
-Dialogue: 30,0:08:46.06,0:08:49.90,Default,,0,0,0,,Security-wise, there's no problem,\Nso you don't need to worry.
-Dialogue: 30,0:08:53.07,0:08:55.70,Default,,0,0,0,,Suzuha-san, you're not sleeping?
-Dialogue: 30,0:08:55.70,0:08:59.87,Default,,0,0,0,,I'm fine just like this. If anything happens,\NI'll be ready to react.
-Dialogue: 30,0:08:59.87,0:09:03.58,Default,,0,0,0,,S-Seriously? You'll never be rested like that.
-Dialogue: 30,0:09:03.58,0:09:06.71,Default,,0,0,0,,It's okay, I'm used to it.
+Dialogue: 30,0:08:42.48,0:08:46.06,Default,,0,0,0,,I bet you’re tired too, Big Bro Luka.\NYou should go to bed.
+Dialogue: 30,0:08:46.06,0:08:49.90,Default,,0,0,0,,Security-wise, there’s no problem,\Nso you don’t need to worry.
+Dialogue: 30,0:08:53.07,0:08:55.70,Default,,0,0,0,,Suzuha-san, you’re not sleeping?
+Dialogue: 30,0:08:55.70,0:08:59.87,Default,,0,0,0,,I’m fine just like this. If anything happens,\NI’ll be ready to react.
+Dialogue: 30,0:08:59.87,0:09:03.58,Default,,0,0,0,,S-Seriously? You’ll never be rested like that.
+Dialogue: 30,0:09:03.58,0:09:06.71,Default,,0,0,0,,It’s okay, I’m used to it.
 Dialogue: 30,0:09:06.71,0:09:08.88,Default,,0,0,0,,Mommy...
-Dialogue: 30,0:09:08.88,0:09:13.76,Default,,0,0,0,,Mommy, don't leave me...
+Dialogue: 30,0:09:08.88,0:09:13.76,Default,,0,0,0,,Mommy, don’t leave me...
 Dialogue: 30,0:09:13.76,0:09:15.30,Default,,0,0,0,,Mommy...
 Dialogue: 30,0:09:18.22,0:09:22.43,Default,,0,0,0,,El Psy Kongree...
 Dialogue: 30,0:09:22.43,0:09:26.90,Default,,0,0,0,,Um, do you mind if I ask something?
@@ -334,24 +334,24 @@ Dialogue: 30,0:09:31.32,0:09:32.78,Default,,0,0,0,,What?
 Dialogue: 30,0:09:32.78,0:09:34.94,Default,,0,0,0,,Well...
 Dialogue: 30,0:09:34.94,0:09:41.08,Default,,0,0,0,,Why is it that when you talk about Okabe-san,\Nyou refer to him as Uncle Okarin?
 Dialogue: 30,0:09:41.08,0:09:45.91,Default,,0,0,0,,Why is it that you call\NMayuri-chan, Big Sis Mayu?
-Dialogue: 30,0:09:45.91,0:09:51.25,Default,,0,0,0,,And Faris-san, you're always\Ncalling Big Sis Rumi...
+Dialogue: 30,0:09:45.91,0:09:51.25,Default,,0,0,0,,And Faris-san, you’re always\Ncalling Big Sis Rumi...
 Dialogue: 30,0:09:51.25,0:09:55.67,Default,,0,0,0,,Even me... Why do you call me Big Bro Luka?
-Dialogue: 30,0:09:59.39,0:10:03.77,Default,,0,0,0,,Kagari-san was saying\N“Mommy” just now, wasn't she?
+Dialogue: 30,0:09:59.39,0:10:03.77,Default,,0,0,0,,Kagari-san was saying\N“Mommy” just now, wasn’t she?
 Dialogue: 30,0:10:03.77,0:10:08.73,Default,,0,0,0,,But, right before she fell asleep,\Nshe said a name...
 Dialogue: 30,0:10:08.73,0:10:10.69,Default,,0,0,0,,Mommy Mayuri...
 Dialogue: 30,0:10:12.94,0:10:16.07,Default,,0,0,0,,That has to mean Mayuri-chan, right?
 Dialogue: 30,0:10:16.07,0:10:17.95,Default,,0,0,0,,Why did she say mommy?
-Dialogue: 30,0:10:22.16,0:10:24.83,Default,,0,0,0,,It's better if you don't know.
-Dialogue: 30,0:10:24.83,0:10:29.79,Default,,0,0,0,,Yet again, everyone's leaving\Nme out of the circle...
+Dialogue: 30,0:10:22.16,0:10:24.83,Default,,0,0,0,,It’s better if you don’t know.
+Dialogue: 30,0:10:24.83,0:10:29.79,Default,,0,0,0,,Yet again, everyone’s leaving\Nme out of the circle...
 Dialogue: 30,0:10:29.79,0:10:32.75,Default,,0,0,0,,Okabe-san and Mayuri-chan\Nalways look so hurt...
-Dialogue: 30,0:10:32.75,0:10:36.26,Default,,0,0,0,,Hashida-san and Faris-san,\Neveryone's hiding something from me...
-Dialogue: 30,0:10:36.26,0:10:40.22,Default,,0,0,0,,I know I probably can't be of any help, but...
+Dialogue: 30,0:10:32.75,0:10:36.26,Default,,0,0,0,,Hashida-san and Faris-san,\Neveryone’s hiding something from me...
+Dialogue: 30,0:10:36.26,0:10:40.22,Default,,0,0,0,,I know I probably can’t be of any help, but...
 Dialogue: 30,0:10:40.22,0:10:41.85,Default,,0,0,0,,Even so...
 Dialogue: 30,0:10:41.85,0:10:46.22,Default,,0,0,0,,I care too! I want to share in their worries!
 Dialogue: 30,0:10:46.22,0:10:48.31,Default,,0,0,0,,Big Bro Luka...
-Dialogue: 30,0:10:48.31,0:10:51.44,Default,,0,0,0,,Won't you please tell me?
+Dialogue: 30,0:10:48.31,0:10:51.44,Default,,0,0,0,,Won’t you please tell me?
 Dialogue: 30,0:10:54.57,0:10:57.15,Default,,0,0,0,,The thing about Uncle Okarin...
-Dialogue: 30,0:10:57.15,0:11:02.87,Default,,0,0,0,,You're the only one he won't tell...\NAnd I think I understand the reason now.
+Dialogue: 30,0:10:57.15,0:11:02.87,Default,,0,0,0,,You’re the only one he won’t tell...\NAnd I think I understand the reason now.
 Dialogue: 30,0:11:02.87,0:11:04.58,Default,,0,0,0,,The reason?
 Dialogue: 30,0:11:04.58,0:11:09.96,Default,,0,0,0,,He wants at least you to stay\Ncompletely a part of this world.
 Dialogue: 30,0:11:09.96,0:11:14.25,Default,,0,0,0,,So that all you ever know is\Nthe world as it exists right now.
@@ -359,175 +359,175 @@ Dialogue: 30,0:11:14.25,0:11:17.34,Default,,0,0,0,,To him... to Uncle Okarin...
 Dialogue: 30,0:11:17.34,0:11:20.68,Default,,0,0,0,,I think... that saves him.
 Dialogue: 30,0:11:20.68,0:11:22.34,Default,,0,0,0,,Saves him?
 Dialogue: 30,0:11:22.34,0:11:23.55,Default,,0,0,0,,Yeah...
-Dialogue: 30,0:11:23.55,0:11:25.85,Default,,0,0,0,,But that's...
+Dialogue: 30,0:11:23.55,0:11:25.85,Default,,0,0,0,,But that’s...
 Dialogue: 30,0:11:25.85,0:11:29.27,Default,,0,0,0,,What can I even say to that?
 Dialogue: 30,0:11:31.60,0:11:33.52,Default,,0,0,0,,You should probably sleep.
 Dialogue: 30,0:11:33.52,0:11:35.57,Default,,0,0,0,,Good night.
 Dialogue: 30,0:11:44.41,0:11:47.29,Default,,0,0,0,,Hmph, you finally showed up?
 Dialogue: 30,0:11:47.29,0:11:50.12,Default,,0,0,0,,So? What the hell happened yesterday?
-Dialogue: 30,0:11:53.21,0:11:54.88,Default,,0,0,0,,I've got this.
-Dialogue: 30,0:11:54.88,0:11:57.13,Default,,0,0,0,,If I'm right, this should all work out.
-Dialogue: 30,0:11:57.13,0:12:00.88,Default,,0,0,0,,What's up? Didn't you come to explain?
+Dialogue: 30,0:11:53.21,0:11:54.88,Default,,0,0,0,,I’ve got this.
+Dialogue: 30,0:11:54.88,0:11:57.13,Default,,0,0,0,,If I’m right, this should all work out.
+Dialogue: 30,0:11:57.13,0:12:00.88,Default,,0,0,0,,What’s up? Didn’t you come to explain?
 Dialogue: 30,0:12:02.72,0:12:05.89,Default,,0,0,0,,B-Before that, I want to confirm something.
-Dialogue: 30,0:12:05.89,0:12:08.89,Default,,0,0,0,,It wasn't your doing, was it?
+Dialogue: 30,0:12:05.89,0:12:08.89,Default,,0,0,0,,It wasn’t your doing, was it?
 Dialogue: 30,0:12:08.89,0:12:11.14,Default,,0,0,0,,Huh? What do you mean by that?
-Dialogue: 30,0:12:11.14,0:12:14.27,Default,,0,0,0,,Why would you think I'd do something like that?
-Dialogue: 30,0:12:14.27,0:12:16.94,Default,,0,0,0,,Isn't it obvious?
-Dialogue: 30,0:12:16.94,0:12:19.19,Default,,0,0,0,,I've got no idea what you're talking about.
-Dialogue: 30,0:12:19.19,0:12:21.74,Default,,0,0,0,,If you keep spouting nonsense,\NI'm raising your rent.
-Dialogue: 30,0:12:21.74,0:12:27.16,Default,,0,0,0,,I'm saying that because I know\Nyou're a Rounder, Mr. Ferdinand Braun.
+Dialogue: 30,0:12:11.14,0:12:14.27,Default,,0,0,0,,Why would you think I’d do something like that?
+Dialogue: 30,0:12:14.27,0:12:16.94,Default,,0,0,0,,Isn’t it obvious?
+Dialogue: 30,0:12:16.94,0:12:19.19,Default,,0,0,0,,I’ve got no idea what you’re talking about.
+Dialogue: 30,0:12:19.19,0:12:21.74,Default,,0,0,0,,If you keep spouting nonsense,\NI’m raising your rent.
+Dialogue: 30,0:12:21.74,0:12:27.16,Default,,0,0,0,,I’m saying that because I know\Nyou’re a Rounder, Mr. Ferdinand Braun.
 Dialogue: 30,0:12:27.16,0:12:31.20,Default,,0,0,0,,Or... should I call you FB?
-Dialogue: 30,0:12:34.50,0:12:37.00,Default,,0,0,0,,What's wrong, Dad?
+Dialogue: 30,0:12:34.50,0:12:37.00,Default,,0,0,0,,What’s wrong, Dad?
 Dialogue: 30,0:12:37.00,0:12:38.34,Default,,0,0,0,,Hmm?
-Dialogue: 30,0:12:38.34,0:12:41.13,Default,,0,0,0,,You're scary all of a sudden.
+Dialogue: 30,0:12:38.34,0:12:41.13,Default,,0,0,0,,You’re scary all of a sudden.
 Dialogue: 30,0:12:41.13,0:12:44.68,Default,,0,0,0,,Yeah? But this is how I always am, you know?
 Dialogue: 30,0:12:44.68,0:12:49.43,Default,,0,0,0,,Be a good girl and go outside...\NNo, watch an anime over there, okay?
-Dialogue: 30,0:12:49.43,0:12:51.60,Default,,0,0,0,,Put on those headphones while you're at it.
+Dialogue: 30,0:12:49.43,0:12:51.60,Default,,0,0,0,,Put on those headphones while you’re at it.
 Dialogue: 30,0:12:51.60,0:12:54.39,Default,,0,0,0,,Really? Woohoo!
-Dialogue: 30,0:12:54.39,0:12:58.06,Default,,0,0,0,,I knew it. You don't want her to find out.
+Dialogue: 30,0:12:54.39,0:12:58.06,Default,,0,0,0,,I knew it. You don’t want her to find out.
 Dialogue: 30,0:12:59.69,0:13:03.15,Default,,0,0,0,,The woman in the\Nmotorcycle suit that attacked us...
-Dialogue: 30,0:13:03.15,0:13:06.57,Default,,0,0,0,,That wasn't your subordinate Kiryu Moeka.
-Dialogue: 30,0:13:06.57,0:13:10.28,Default,,0,0,0,,It wasn't the Rounders at all, but another...
-Dialogue: 30,0:13:12.50,0:13:17.54,Default,,0,0,0,,I can't help but ask...\NWhat proof do you have for any of this?
-Dialogue: 30,0:13:17.54,0:13:20.67,Default,,0,0,0,,Even if I tell, you won't believe me.
-Dialogue: 30,0:13:20.67,0:13:22.84,Default,,0,0,0,,Come on, let's hear it.
+Dialogue: 30,0:13:03.15,0:13:06.57,Default,,0,0,0,,That wasn’t your subordinate Kiryu Moeka.
+Dialogue: 30,0:13:06.57,0:13:10.28,Default,,0,0,0,,It wasn’t the Rounders at all, but another...
+Dialogue: 30,0:13:12.50,0:13:17.54,Default,,0,0,0,,I can’t help but ask...\NWhat proof do you have for any of this?
+Dialogue: 30,0:13:17.54,0:13:20.67,Default,,0,0,0,,Even if I tell, you won’t believe me.
+Dialogue: 30,0:13:20.67,0:13:22.84,Default,,0,0,0,,Come on, let’s hear it.
 Dialogue: 30,0:13:24.67,0:13:28.47,Default,,0,0,0,,That face of yours says you came ready to talk.
 Dialogue: 30,0:13:30.81,0:13:32.60,Default,,0,0,0,,Really?
-Dialogue: 30,0:13:32.60,0:13:35.02,Default,,0,0,0,,B-But why didn't you tell the police?
+Dialogue: 30,0:13:32.60,0:13:35.02,Default,,0,0,0,,B-But why didn’t you tell the police?
 Dialogue: 30,0:13:35.02,0:13:38.40,Default,,0,0,0,,Well, Okarin-san said to hold off on that.
-Dialogue: 30,0:13:38.40,0:13:42.48,Default,,0,0,0,,You're kidding me! They had guns, didn't they?
-Dialogue: 30,0:13:42.48,0:13:45.45,Default,,0,0,0,,Anyways, he's got something to tell us.
-Dialogue: 30,0:13:45.45,0:13:47.36,Default,,0,0,0,,You're going to the lab?
-Dialogue: 30,0:13:47.36,0:13:50.95,Default,,0,0,0,,Hashida-san said no one's stupid\Nenough to attack twice in a row.
+Dialogue: 30,0:13:38.40,0:13:42.48,Default,,0,0,0,,You’re kidding me! They had guns, didn’t they?
+Dialogue: 30,0:13:42.48,0:13:45.45,Default,,0,0,0,,Anyways, he’s got something to tell us.
+Dialogue: 30,0:13:45.45,0:13:47.36,Default,,0,0,0,,You’re going to the lab?
+Dialogue: 30,0:13:47.36,0:13:50.95,Default,,0,0,0,,Hashida-san said no one’s stupid\Nenough to attack twice in a row.
 Dialogue: 30,0:13:50.95,0:13:55.33,Default,,0,0,0,,The thing is... No, I wish I could come too...
 Dialogue: 30,0:13:55.33,0:13:57.25,Default,,0,0,0,,What happened to your arm?
 Dialogue: 30,0:13:57.25,0:14:01.34,Default,,0,0,0,,Uh... I tripped and fell over yesterday.
 Dialogue: 30,0:14:03.09,0:14:06.47,Default,,0,0,0,,Time machines and worldlines, eh?
-Dialogue: 30,0:14:06.47,0:14:09.80,Default,,0,0,0,,It goes without saying that's hard to believe.
+Dialogue: 30,0:14:06.47,0:14:09.80,Default,,0,0,0,,It goes without saying that’s hard to believe.
 Dialogue: 30,0:14:09.80,0:14:11.89,Default,,0,0,0,,I told you that from the start.
 Dialogue: 30,0:14:11.89,0:14:14.68,Default,,0,0,0,,You did, but...
 Dialogue: 30,0:14:14.68,0:14:16.93,Default,,0,0,0,,What you said about me is true.
-Dialogue: 30,0:14:16.93,0:14:22.02,Default,,0,0,0,,Your facts are essentially spot on,\Nenough that it's creeping me out.
-Dialogue: 30,0:14:22.02,0:14:26.24,Default,,0,0,0,,I also know that SERN's secrets\Nare absolutely confidential.
-Dialogue: 30,0:14:26.24,0:14:28.82,Default,,0,0,0,,If a mission succeeds or fails, it's the same.
+Dialogue: 30,0:14:16.93,0:14:22.02,Default,,0,0,0,,Your facts are essentially spot on,\Nenough that it’s creeping me out.
+Dialogue: 30,0:14:22.02,0:14:26.24,Default,,0,0,0,,I also know that SERN’s secrets\Nare absolutely confidential.
+Dialogue: 30,0:14:26.24,0:14:28.82,Default,,0,0,0,,If a mission succeeds or fails, it’s the same.
 Dialogue: 30,0:14:28.82,0:14:31.95,Default,,0,0,0,,They eliminate everyone\Nwho knows their secrets.
 Dialogue: 30,0:14:31.95,0:14:34.70,Default,,0,0,0,,You know that much too? In that case—
 Dialogue: 30,0:14:34.70,0:14:37.79,Default,,0,0,0,,However, this has nothing\Nto do with your mission!
 Dialogue: 30,0:14:37.21,0:14:37.79,Default,,0,0,0,,Hmm?
 Dialogue: 30,0:14:37.79,0:14:40.42,Default,,0,0,0,,Your secrets were never leaked!
 Dialogue: 30,0:14:40.42,0:14:42.88,Default,,0,0,0,,I just knew them from the start.
-Dialogue: 30,0:14:42.88,0:14:46.26,Default,,0,0,0,,Which means there's no reason\Nfor them to punish you.
-Dialogue: 30,0:14:46.26,0:14:50.68,Default,,0,0,0,,How convenient for you... But you're not wrong.
-Dialogue: 30,0:14:50.68,0:14:53.55,Default,,0,0,0,,SERN hasn't said anything to me as of yet.
-Dialogue: 30,0:14:53.55,0:14:57.52,Default,,0,0,0,,There's no problem if you keep quiet\Nabout me being a Rounder.
+Dialogue: 30,0:14:42.88,0:14:46.26,Default,,0,0,0,,Which means there’s no reason\Nfor them to punish you.
+Dialogue: 30,0:14:46.26,0:14:50.68,Default,,0,0,0,,How convenient for you... But you’re not wrong.
+Dialogue: 30,0:14:50.68,0:14:53.55,Default,,0,0,0,,SERN hasn’t said anything to me as of yet.
+Dialogue: 30,0:14:53.55,0:14:57.52,Default,,0,0,0,,There’s no problem if you keep quiet\Nabout me being a Rounder.
 Dialogue: 30,0:14:57.52,0:15:00.19,Default,,0,0,0,,So? What are you after?
 Dialogue: 30,0:15:00.19,0:15:05.32,Default,,0,0,0,,You must have a reason\Nfor telling me this, right?
 Dialogue: 30,0:15:05.32,0:15:07.32,Default,,0,0,0,,I need to ask a favor.
-Dialogue: 30,0:15:07.32,0:15:11.49,Default,,0,0,0,,Shiina Kagari. I want you\Nto protect the girl they're after.
-Dialogue: 30,0:15:11.49,0:15:15.08,Default,,0,0,0,,Who's targeting that girl, and why?
-Dialogue: 30,0:15:15.08,0:15:16.66,Default,,0,0,0,,I don't know.
-Dialogue: 30,0:15:16.66,0:15:18.62,Default,,0,0,0,,Then I'm done listening.
-Dialogue: 30,0:15:18.62,0:15:20.21,Default,,0,0,0,,I'll pretend you never came, so—
-Dialogue: 30,0:15:20.21,0:15:21.54,Default,,0,0,0,,You can't!
+Dialogue: 30,0:15:07.32,0:15:11.49,Default,,0,0,0,,Shiina Kagari. I want you\Nto protect the girl they’re after.
+Dialogue: 30,0:15:11.49,0:15:15.08,Default,,0,0,0,,Who’s targeting that girl, and why?
+Dialogue: 30,0:15:15.08,0:15:16.66,Default,,0,0,0,,I don’t know.
+Dialogue: 30,0:15:16.66,0:15:18.62,Default,,0,0,0,,Then I’m done listening.
+Dialogue: 30,0:15:18.62,0:15:20.21,Default,,0,0,0,,I’ll pretend you never came, so—
+Dialogue: 30,0:15:20.21,0:15:21.54,Default,,0,0,0,,You can’t!
 Dialogue: 30,0:15:21.54,0:15:26.80,Default,,0,0,0,,If something like yesterday happens again,\Nwhat will happen to your daughter?!
 Dialogue: 30,0:15:26.80,0:15:29.22,Default,,0,0,0,,She might be put in danger all over again!
 Dialogue: 30,0:15:29.22,0:15:32.51,Default,,0,0,0,,You bastard... Plan to use Nae as a hostage?
-Dialogue: 30,0:15:32.51,0:15:34.05,Default,,0,0,0,,I'll slaughter you.
-Dialogue: 30,0:15:34.05,0:15:36.43,Default,,0,0,0,,I'm saying we should cooperate!
-Dialogue: 30,0:15:36.43,0:15:41.10,Default,,0,0,0,,If it's just you alone, you might not\Nbe able to protect your daughter.
-Dialogue: 30,0:15:41.10,0:15:43.86,Default,,0,0,0,,By helping you, I'm risking it all for nothing!
-Dialogue: 30,0:15:43.86,0:15:49.19,Default,,0,0,0,,That's not true. There's plenty in it for you.
+Dialogue: 30,0:15:32.51,0:15:34.05,Default,,0,0,0,,I’ll slaughter you.
+Dialogue: 30,0:15:34.05,0:15:36.43,Default,,0,0,0,,I’m saying we should cooperate!
+Dialogue: 30,0:15:36.43,0:15:41.10,Default,,0,0,0,,If it’s just you alone, you might not\Nbe able to protect your daughter.
+Dialogue: 30,0:15:41.10,0:15:43.86,Default,,0,0,0,,By helping you, I’m risking it all for nothing!
+Dialogue: 30,0:15:43.86,0:15:49.19,Default,,0,0,0,,That’s not true. There’s plenty in it for you.
 Dialogue: 30,0:15:49.19,0:15:50.28,Default,,0,0,0,,You little—
 Dialogue: 30,0:15:50.28,0:15:51.74,Default,,0,0,0,,You guys came...
-Dialogue: 30,0:15:51.74,0:15:58.04,Default,,0,0,0,,If you let Kagari and me work part-time here,\Nit shouldn't be that much work for you.
+Dialogue: 30,0:15:51.74,0:15:58.04,Default,,0,0,0,,If you let Kagari and me work part-time here,\Nit shouldn’t be that much work for you.
 Dialogue: 30,0:15:58.04,0:16:02.12,Default,,0,0,0,,Evicting all of you from the building\Nsounds like a better idea to me.
 Dialogue: 30,0:16:02.12,0:16:03.54,Default,,0,0,0,,That way, Nae and me stay out—
 Dialogue: 30,0:16:03.54,0:16:08.92,Default,,0,0,0,,Both of you witnessed the group\Nthat attacked us yesterday.
 Dialogue: 30,0:16:08.92,0:16:13.68,Default,,0,0,0,,I hate to break it to you,\Nbut I think you know what that means.
 Dialogue: 30,0:16:13.68,0:16:15.68,Default,,0,0,0,,Dad...
-Dialogue: 30,0:16:15.68,0:16:17.60,Default,,0,0,0,,I don't really know what happened,
-Dialogue: 30,0:16:17.60,0:16:22.10,Default,,0,0,0,,but yesterday was really scary\Nand I don't like it at all...
+Dialogue: 30,0:16:15.68,0:16:17.60,Default,,0,0,0,,I don’t really know what happened,
+Dialogue: 30,0:16:17.60,0:16:22.10,Default,,0,0,0,,but yesterday was really scary\Nand I don’t like it at all...
 Dialogue: 30,0:16:22.10,0:16:24.44,Default,,0,0,0,,Nae...
 Dialogue: 30,0:16:24.44,0:16:25.98,Default,,0,0,0,,But...
-Dialogue: 30,0:16:25.98,0:16:31.65,Default,,0,0,0,,What's scarier is the thought of\NDad getting hurt trying to protect me.
-Dialogue: 30,0:16:31.65,0:16:36.20,Default,,0,0,0,,That's why... I like it better\Nwith Big Sis Suzuha and the others...
+Dialogue: 30,0:16:25.98,0:16:31.65,Default,,0,0,0,,What’s scarier is the thought of\NDad getting hurt trying to protect me.
+Dialogue: 30,0:16:31.65,0:16:36.20,Default,,0,0,0,,That’s why... I like it better\Nwith Big Sis Suzuha and the others...
 Dialogue: 30,0:16:36.20,0:16:40.12,Default,,0,0,0,,Nae... Argh!
 Dialogue: 30,0:16:40.12,0:16:43.75,Default,,0,0,0,,Just so you know, you two\Nwill be splitting the pay.
-Dialogue: 30,0:16:43.75,0:16:46.54,Default,,0,0,0,,We're not loaded with cash, you know.
+Dialogue: 30,0:16:43.75,0:16:46.54,Default,,0,0,0,,We’re not loaded with cash, you know.
 Dialogue: 30,0:16:46.54,0:16:48.09,Default,,0,0,0,,Dad!
 Dialogue: 30,0:16:48.96,0:16:51.67,Default,,0,0,0,,Cheapskate.
-Dialogue: 30,0:16:51.67,0:16:54.51,Default,,0,0,0,,Huh? If you've got a problem,\NI'm raising your rent!
+Dialogue: 30,0:16:51.67,0:16:54.51,Default,,0,0,0,,Huh? If you’ve got a problem,\NI’m raising your rent!
 Dialogue: 30,0:16:54.51,0:16:58.26,Default,,0,0,0,,N-No! Thank you very much, Tennouji-san!
 Dialogue: 30,0:16:58.26,0:17:00.26,Default,,0,0,0,,Hmph. So, Okabe.
 Dialogue: 30,0:17:00.26,0:17:03.81,Default,,0,0,0,,You better hurry up and\Nfind out who those people were.
-Dialogue: 30,0:17:03.81,0:17:07.31,Default,,0,0,0,,If you don't, we can't do nothing about them.
+Dialogue: 30,0:17:03.81,0:17:07.31,Default,,0,0,0,,If you don’t, we can’t do nothing about them.
 Dialogue: 30,0:17:07.31,0:17:08.61,Default,,0,0,0,,Understood.
 Dialogue: 30,0:17:10.23,0:17:13.53,Default,,0,0,0,,So, you think that Kagari-san\Ngot wrapped up in some sort of crime
 Dialogue: 30,0:17:13.53,0:17:17.03,Default,,0,0,0,,during the time she lost her memories?
 Dialogue: 30,0:17:17.03,0:17:18.16,Default,,0,0,0,,Yeah.
-Dialogue: 30,0:17:18.16,0:17:21.45,Default,,0,0,0,,In that case, why don't you contact the police?
-Dialogue: 30,0:17:21.45,0:17:27.21,Default,,0,0,0,,Well, you see... She's afraid of the police.
+Dialogue: 30,0:17:18.16,0:17:21.45,Default,,0,0,0,,In that case, why don’t you contact the police?
+Dialogue: 30,0:17:21.45,0:17:27.21,Default,,0,0,0,,Well, you see... She’s afraid of the police.
 Dialogue: 30,0:17:27.21,0:17:31.21,Default,,0,0,0,,You never know! The police might\Nbe connected to the crime after all!
-Dialogue: 30,0:17:31.21,0:17:34.22,Default,,0,0,0,,Sheesh! I don't know if I buy that...
+Dialogue: 30,0:17:31.21,0:17:34.22,Default,,0,0,0,,Sheesh! I don’t know if I buy that...
 Dialogue: 30,0:17:34.22,0:17:36.68,Default,,0,0,0,,Uh, anyways...
-Dialogue: 30,0:17:36.68,0:17:38.39,Default,,0,0,0,,They're only targeting Kagari.
+Dialogue: 30,0:17:36.68,0:17:38.39,Default,,0,0,0,,They’re only targeting Kagari.
 Dialogue: 30,0:17:38.39,0:17:43.39,Default,,0,0,0,,Having said that, you should all\Nsteer clear of this area for the time being.
-Dialogue: 30,0:17:43.39,0:17:46.27,Default,,0,0,0,,What? You're kidding...
-Dialogue: 30,0:17:46.27,0:17:51.02,Default,,0,0,0,,But what about Kagari-san?\NIf they're after her...
-Dialogue: 30,0:17:51.02,0:17:54.74,Default,,0,0,0,,We've got two bodyguards on her.\NTwo people we can trust.
-Dialogue: 30,0:17:54.74,0:17:58.28,Default,,0,0,0,,If it's Suzu-san and Mr. Braun,\Nthey can handle it.
-Dialogue: 30,0:17:58.28,0:18:01.16,Default,,0,0,0,,Of course, we're doing research of our own too.
-Dialogue: 30,0:18:01.16,0:18:04.25,Default,,0,0,0,,We'll find out who they are\Nand what they're after.
-Dialogue: 30,0:18:04.25,0:18:07.12,Default,,0,0,0,,Yup. That's a job for yours truly.
-Dialogue: 30,0:18:07.12,0:18:11.46,Default,,0,0,0,,Akiba's neighborhood watch promised\Nto keep an eye on the streets for me,
-Dialogue: 30,0:18:11.46,0:18:14.59,Default,,0,0,0,,so if someone's up to no good,\Nwe should know it, nya.
+Dialogue: 30,0:17:43.39,0:17:46.27,Default,,0,0,0,,What? You’re kidding...
+Dialogue: 30,0:17:46.27,0:17:51.02,Default,,0,0,0,,But what about Kagari-san?\NIf they’re after her...
+Dialogue: 30,0:17:51.02,0:17:54.74,Default,,0,0,0,,We’ve got two bodyguards on her.\NTwo people we can trust.
+Dialogue: 30,0:17:54.74,0:17:58.28,Default,,0,0,0,,If it’s Suzu-san and Mr. Braun,\Nthey can handle it.
+Dialogue: 30,0:17:58.28,0:18:01.16,Default,,0,0,0,,Of course, we’re doing research of our own too.
+Dialogue: 30,0:18:01.16,0:18:04.25,Default,,0,0,0,,We’ll find out who they are\Nand what they’re after.
+Dialogue: 30,0:18:04.25,0:18:07.12,Default,,0,0,0,,Yup. That’s a job for yours truly.
+Dialogue: 30,0:18:07.12,0:18:11.46,Default,,0,0,0,,Akiba’s neighborhood watch promised\Nto keep an eye on the streets for me,
+Dialogue: 30,0:18:11.46,0:18:14.59,Default,,0,0,0,,so if someone’s up to no good,\Nwe should know it, nya.
 Dialogue: 30,0:18:14.59,0:18:18.93,Default,,0,0,0,,Um, is there anything I could be doing to help?
-Dialogue: 30,0:18:18.93,0:18:24.22,Default,,0,0,0,,Kagari-san is in trouble, and yet,\NI'm just sitting here doing nothing...
+Dialogue: 30,0:18:18.93,0:18:24.22,Default,,0,0,0,,Kagari-san is in trouble, and yet,\NI’m just sitting here doing nothing...
 Dialogue: 30,0:18:24.22,0:18:27.31,Default,,0,0,0,,Can Mayushii help somehow too?
 Dialogue: 30,0:18:27.31,0:18:30.65,Default,,0,0,0,,Lukako, you already sheltered\NKagari-san in your home.
-Dialogue: 30,0:18:30.65,0:18:35.15,Default,,0,0,0,,Mayuri, you've helped so much already.\NYou've done enough.
+Dialogue: 30,0:18:30.65,0:18:35.15,Default,,0,0,0,,Mayuri, you’ve helped so much already.\NYou’ve done enough.
 Dialogue: 30,0:18:35.15,0:18:37.65,Default,,0,0,0,,Is there anything the rest of us can do?
 Dialogue: 30,0:18:40.16,0:18:42.53,Default,,0,0,0,,K-6205...
-Dialogue: 30,0:18:42.53,0:18:44.87,Default,,0,0,0,,What's that mean?
+Dialogue: 30,0:18:42.53,0:18:44.87,Default,,0,0,0,,What’s that mean?
 Dialogue: 30,0:18:44.87,0:18:46.70,Default,,0,0,0,,Tennouji-san was saying...
 Dialogue: 30,0:18:50.08,0:18:53.50,Default,,0,0,0,,Now that I think about it,\Nthose guys said something odd.
 Dialogue: 30,0:18:53.50,0:18:54.92,Default,,0,0,0,,Something odd?
-Dialogue: 30,0:18:54.92,0:19:01.30,Default,,0,0,0,,Wasn't it... Yeah...\NK-6205 or something like that.
-Dialogue: 30,0:19:01.30,0:19:05.26,Default,,0,0,0,,The way they said it, it has to be...\NThat's phonetic code.
+Dialogue: 30,0:18:54.92,0:19:01.30,Default,,0,0,0,,Wasn’t it... Yeah...\NK-6205 or something like that.
+Dialogue: 30,0:19:01.30,0:19:05.26,Default,,0,0,0,,The way they said it, it has to be...\NThat’s phonetic code.
 Dialogue: 30,0:19:05.26,0:19:07.06,Default,,0,0,0,,Phonetic code?
 Dialogue: 30,0:19:07.06,0:19:09.10,Default,,0,0,0,,For military use.
 Dialogue: 30,0:19:09.10,0:19:12.52,Default,,0,0,0,,More specifically, by the Western world.
 Dialogue: 30,0:19:12.52,0:19:14.48,Default,,0,0,0,,Hmm...
-Dialogue: 30,0:19:14.48,0:19:17.15,Default,,0,0,0,,I'm only seeing stuff like product numbers.
+Dialogue: 30,0:19:14.48,0:19:17.15,Default,,0,0,0,,I’m only seeing stuff like product numbers.
 Dialogue: 30,0:19:18.40,0:19:20.40,Default,,0,0,0,,What about Köchel numbering?
-Dialogue: 30,0:19:20.40,0:19:21.66,Default,,0,0,0,,What's that?
-Dialogue: 30,0:19:21.66,0:19:25.66,Default,,0,0,0,,They're numbers assigned\Nto each one of Mozart's compositions.
-Dialogue: 30,0:19:25.66,0:19:33.00,Default,,0,0,0,,Then again, Mozart didn't make 6,000 songs\Nin the first place, so that can't be it.
+Dialogue: 30,0:19:20.40,0:19:21.66,Default,,0,0,0,,What’s that?
+Dialogue: 30,0:19:21.66,0:19:25.66,Default,,0,0,0,,They’re numbers assigned\Nto each one of Mozart’s compositions.
+Dialogue: 30,0:19:25.66,0:19:33.00,Default,,0,0,0,,Then again, Mozart didn’t make 6,000 songs\Nin the first place, so that can’t be it.
 Dialogue: 30,0:19:33.00,0:19:37.34,Default,,0,0,0,,Wolfgang Amadeus Mozart...
-Dialogue: 30,0:19:37.34,0:19:42.30,Default,,0,0,0,,What if it's not 6205 but part 5 of 620?
-Dialogue: 30,0:19:42.30,0:19:46.39,Default,,0,0,0,,620? That's {\i1}The Magic Flute{\i}, I think.
-Dialogue: 30,0:19:48.56,0:19:50.39,Default,,0,0,0,,Wow, you're right.
+Dialogue: 30,0:19:37.34,0:19:42.30,Default,,0,0,0,,What if it’s not 6205 but part 5 of 620?
+Dialogue: 30,0:19:42.30,0:19:46.39,Default,,0,0,0,,620? That’s {\i1}The Magic Flute{\i}, I think.
+Dialogue: 30,0:19:48.56,0:19:50.39,Default,,0,0,0,,Wow, you’re right.
 Dialogue: 30,0:19:50.39,0:19:57.15,Default,,0,0,0,,Um... It is famous for the Masonic\Nelements and symbolism it contains...
 Dialogue: 30,0:19:57.15,0:19:59.11,Default,,0,0,0,,Amadeus?
-Dialogue: 30,0:19:59.11,0:20:02.99,Default,,0,0,0,,I wonder what's up?\NI can't connect to the Amadeus server...
+Dialogue: 30,0:19:59.11,0:20:02.99,Default,,0,0,0,,I wonder what’s up?\NI can’t connect to the Amadeus server...
 Dialogue: 30,0:20:05.49,0:20:07.20,Default,,0,0,0,,Okarin?
 Dialogue: 30,0:20:09.16,0:20:10.70,Default,,0,0,0,,Hi, this is Hiyajo.
-Dialogue: 30,0:20:10.70,0:20:12.46,Default,,0,0,0,,Hello? It's me.
+Dialogue: 30,0:20:10.70,0:20:12.46,Default,,0,0,0,,Hello? It’s me.
 Dialogue: 30,0:20:12.46,0:20:15.25,Default,,0,0,0,,Okabe-san? Did something happen again?
 Dialogue: 30,0:20:15.25,0:20:17.34,Default,,0,0,0,,No, I need to ask something.
-Dialogue: 30,0:20:17.34,0:20:20.67,Default,,0,0,0,,Make it short. I'm kinda busy right now.
-Dialogue: 30,0:20:20.67,0:20:23.30,Default,,0,0,0,,How's Amadeus? Any luck?
+Dialogue: 30,0:20:17.34,0:20:20.67,Default,,0,0,0,,Make it short. I’m kinda busy right now.
+Dialogue: 30,0:20:20.67,0:20:23.30,Default,,0,0,0,,How’s Amadeus? Any luck?
 Dialogue: 30,0:20:23.30,0:20:25.18,Default,,0,0,0,,Nope.
-Dialogue: 30,0:20:25.18,0:20:26.93,Default,,0,0,0,,I can't access it.
-Dialogue: 30,0:20:26.93,0:20:31.73,Default,,0,0,0,,I don't want to think it,\Nbut it's possible someone took it over.
-Dialogue: 30,0:20:31.73,0:20:34.85,Default,,0,0,0,,I'm hanging up. We'll talk later.
+Dialogue: 30,0:20:25.18,0:20:26.93,Default,,0,0,0,,I can’t access it.
+Dialogue: 30,0:20:26.93,0:20:31.73,Default,,0,0,0,,I don’t want to think it,\Nbut it’s possible someone took it over.
+Dialogue: 30,0:20:31.73,0:20:34.85,Default,,0,0,0,,I’m hanging up. We’ll talk later.
 Dialogue: 30,0:20:36.81,0:20:38.44,Default,,0,0,0,,Okarin?
 Dialogue: 30,0:20:48.74,0:20:50.29,Default,,0,0,0,,Amadeus...
 Dialogue: 30,0:20:58.79,0:21:00.13,Default,,0,0,0,,[Kurisu]?!
 Dialogue: 30,0:21:00.13,0:21:02.97,Default,,0,0,0,,Please, help me...
 Dialogue: 30,0:21:02.97,0:21:04.59,Default,,0,0,0,,Okabe!
 Dialogue: 30,0:21:08.30,0:21:11.60,Default,,0,0,0,,Reading Steiner?!
-Dialogue: 30,0:23:08.13,0:23:11.68,Default,,0,0,0,,Amadeus... it's gone.
+Dialogue: 30,0:23:08.13,0:23:11.68,Default,,0,0,0,,Amadeus... it’s gone.
 Dialogue: 30,0:23:11.68,0:23:13.93,Default,,0,0,0,,The worldline changed?!
 Dialogue: 30,0:23:13.93,0:23:15.56,Default,,0,0,0,,It changed?!
 Dialogue: 30,0:23:18.64,0:23:21.23,Default,,0,0,0,,Is somebody there?

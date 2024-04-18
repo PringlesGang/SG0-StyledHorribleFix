@@ -46,7 +46,7 @@ Comment: 11,0:02:05.48,0:02:08.31,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(1
 Comment: 11,0:02:08.31,0:02:13.65,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
 Comment: 11,0:02:13.65,0:02:19.11,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}God. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
 Dialogue: 11,0:01:06.08,0:01:11.21,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
-Dialogue: 11,0:01:11.21,0:01:17.30,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It's merely a vision projected into our eyes
+Dialogue: 11,0:01:11.21,0:01:17.30,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It’s merely a vision projected into our eyes
 Dialogue: 11,0:01:18.22,0:01:23.68,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
 Dialogue: 11,0:01:23.68,0:01:29.11,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
 Dialogue: 11,0:01:29.11,0:01:34.44,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
@@ -54,7 +54,7 @@ Dialogue: 11,0:01:34.44,0:01:38.78,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Mai
 Dialogue: 11,0:01:38.78,0:01:44.16,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
 Dialogue: 11,0:01:44.16,0:01:50.88,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
 Dialogue: 11,0:01:52.00,0:01:57.30,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
-Dialogue: 11,0:01:57.84,0:02:02.76,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn't merely something that's expanding our distance
+Dialogue: 11,0:01:57.84,0:02:02.76,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn’t merely something that’s expanding our distance
 Dialogue: 11,0:02:02.76,0:02:05.48,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
 Dialogue: 11,0:02:05.48,0:02:08.31,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
 Dialogue: 11,0:02:08.31,0:02:13.65,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
@@ -71,9 +71,9 @@ Dialogue: 10,0:22:48.43,0:22:55.22,Lyra Rom,,0,0,0,,{\fade(100,100)}Kimi no koto
 Dialogue: 10,0:22:55.60,0:23:01.77,Lyra Rom,,0,0,0,,{\fade(100,100)}Kioku no subete ga kakikawaru toshitemo
 Dialogue: 10,0:23:02.02,0:23:13.62,Lyra Rom,,0,0,0,,{\fade(100,100)}Dejabu mitai ni kokoro no oku de yureteru
 Dialogue: 10,0:21:51.66,0:21:56.79,Lyra Rom,,0,0,0,,{\fade(100,100)}Everyone knows full well
-Dialogue: 10,0:21:57.42,0:22:04.38,Lyra Rom,,0,0,0,,{\fade(100,100)}“I'm always thinking of you” is just a gentle lie
+Dialogue: 10,0:21:57.42,0:22:04.38,Lyra Rom,,0,0,0,,{\fade(100,100)}“I’m always thinking of you” is just a gentle lie
 Dialogue: 10,0:22:04.38,0:22:09.34,Lyra Rom,,0,0,0,,{\fade(100,100)}But when I say “I want to be with you forever,”
-Dialogue: 10,0:22:09.34,0:22:17.81,Lyra Rom,,0,0,0,,{\fade(100,100)}It's the honest truth. Could this be love?
+Dialogue: 10,0:22:09.34,0:22:17.81,Lyra Rom,,0,0,0,,{\fade(100,100)}It’s the honest truth. Could this be love?
 Dialogue: 10,0:22:18.23,0:22:23.44,Lyra Rom,,0,0,0,,{\fade(100,100)}Through miracles and fated encounters,
 Dialogue: 10,0:22:23.65,0:22:29.28,Lyra Rom,,0,0,0,,{\fade(100,100)}We head once again toward that place...
 Dialogue: 10,0:22:29.28,0:22:35.62,Lyra Rom,,0,0,0,,{\fade(100,100)\fs60}Whenever I stretch my hand out toward the sparkling stars in the night sky
@@ -81,14 +81,14 @@ Dialogue: 10,0:22:35.62,0:22:42.04,Lyra Rom,,0,0,0,,{\fade(100,100)}Feelings and
 Dialogue: 10,0:22:42.04,0:22:48.43,Lyra Rom,,0,0,0,,{\fade(100,100)}Memories of those times, of those scenes, all come flooding back
 Dialogue: 10,0:22:48.43,0:22:55.22,Lyra Rom,,0,0,0,,{\fade(100,100)}All the words you spoke to me, all the times we laughed and cried
 Dialogue: 10,0:22:55.60,0:23:01.77,Lyra Rom,,0,0,0,,{\fade(100,100)}Even if all our memories are rewritten,
-Dialogue: 10,0:23:02.02,0:23:13.62,Lyra Rom,,0,0,0,,{\fade(100,100)}They'll still waver deep within our hearts as déjà vu
+Dialogue: 10,0:23:02.02,0:23:13.62,Lyra Rom,,0,0,0,,{\fade(100,100)}They’ll still waver deep within our hearts as déjà vu
 Dialogue: 1,0:09:38.05,0:09:43.06,Title,,0,0,0,,{\an3\pos(1710,892)\fs80}Dual{\fs50}of{\fs110}Antinomy
 Dialogue: 0,0:04:39.34,0:04:42.55,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HDED5D3&}m 387 344 l 583 318 l 600 380 l 724 363 l 735 393 l 416 437 l 421 461 l 719 421 l 726 454 l 417 502 {\p0}
 Dialogue: 0,0:04:39.34,0:04:42.55,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&HEBE7E4&}m 372 259 l 488 244 l 496 282 l 381 297 {\p0}
 Dialogue: 0,0:04:39.34,0:04:42.55,Draw,,0,0,0,,{\pos(0,0)\blur8\p1\c&HE9E4E2&}m 381 308 l 509 291 l 513 314 l 386 331 {\p0}
 Dialogue: 1,0:04:39.34,0:04:42.55,OkabePhone,,0,0,0,,{\b1\c&H7E7877&\fs26\frz6.558\be2\pos(374,250)}From: {\b0\c&H938380&}Daru\N{\b1\c&H7E7877&}To: {\b0\c&H938380&}Okabe Rintaro
 Dialogue: 1,0:04:39.34,0:04:42.55,OkabePhone,,0,0,0,,{\b1\c&H7E7877&\fs25\frz6.558\be2\pos(385,302)}Subject: {\b0\c&H938380&}Mayu-shi
-Dialogue: 1,0:04:39.34,0:04:42.55,OkabePhone,,0,0,0,,{\c&H484241&\fs31\frz7\be3\pos(398,346)}She's being taken to the hospital right now. \N They say it's probably a heart attack.\NAt least, that's what the paramedics said. \N\N Her parents are on their way to the hospital \N too.
+Dialogue: 1,0:04:39.34,0:04:42.55,OkabePhone,,0,0,0,,{\c&H484241&\fs31\frz7\be3\pos(398,346)}She’s being taken to the hospital right now. \N They say it’s probably a heart attack.\NAt least, that’s what the paramedics said. \N\N Her parents are on their way to the hospital \N too.
 Dialogue: 1,0:05:09.49,0:05:10.41,Signs,,0,0,0,,{\an1\fs52.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&\pos(211.057,890.25)}Another Earthquake in Russia
 Dialogue: 1,0:12:28.72,0:12:31.10,Signs,,0,0,0,,{\an8\pos(1754,378)\fnPlayfair Display ExtraBold\c&H423D3E&\fs60\fry-4\frx-2\be3}Achievement
 Dialogue: 1,0:12:31.10,0:12:31.23,Signs,,0,0,0,,{\an8\pos(1754,378)\fnPlayfair Display ExtraBold\c&H423D3E&\fs60\fry-4\frx-2\be3\iclip(m 1904 386 l 1858 370 1862 412 1876 442)}Achievement
@@ -113,7 +113,7 @@ Dialogue: 0,0:19:48.41,0:19:50.37,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HCAC6C4&}m
 Dialogue: 0,0:19:48.41,0:19:50.37,Draw,,0,0,0,,{\pos(0,0)\blur13\p1\c&HABA29D&}m 585 571 l 893 643 l 875 738 l 565 664 {\p0}
 Dialogue: 0,0:19:48.41,0:19:50.37,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H9E9793&}m 1004 665 l 1385 754 l 1367 849 l 984 758 {\p0}
 Dialogue: 1,0:19:48.41,0:19:50.37,OkabePhone,,0,0,0,,{\fs70\c&H846F6D&\be3\fnPlaypen Sans Medium\frz348\blur1\pos(496,14)}Subject: {\fnPlaypen Sans\c&HAF9A97&}(Untitled)
-Dialogue: 1,0:19:48.41,0:19:50.37,OkabePhone,,0,0,0,,{\fs80\c&H63514F&\frz-12\be3\blur1\pos(464,130)}Don't come in
+Dialogue: 1,0:19:48.41,0:19:50.37,OkabePhone,,0,0,0,,{\fs80\c&H63514F&\frz-12\be3\blur1\pos(464,130)}Don’t come in
 Dialogue: 1,0:19:48.41,0:19:50.37,OkabePhone,,0,0,0,,{\an8\fs80\c&H594745&\blur1\be3\pos(978,536)\frz347.8}Send message?
 Dialogue: 1,0:19:48.41,0:19:50.37,OkabePhone,,0,0,0,,{\an8\fs80\c&H524342&\be3\pos(726,614)\frz346.9}Send
 Dialogue: 1,0:19:48.41,0:19:50.37,OkabePhone,,0,0,0,,{\fs80\c&H392C2C&\be3\an8\pos(1188,710)\frz348.1}Cancel
@@ -165,7 +165,7 @@ Dialogue: 1,0:22:02.96,0:22:04.21,OkabePhone,,0,0,0,,{\fs70\c&H594A48&\be3\fnPla
 Dialogue: 0,0:22:02.96,0:22:04.21,Draw,,0,0,0,,{\pos(-5,0)\blur15\p1\c&HC2B6B4&}m 167 461 l 523 328 l 570 410 l 200 544 {\p0}
 Dialogue: 1,0:22:02.96,0:22:04.21,OkabePhone,,0,0,0,,{\fs80\c&H594A48&\be3\fnPlaypen Sans Medium\an7\blur1.5\pos(165,452)\frz19.68}Subject: {\fnPlaypen Sans\c&H8B7673&}Untitled
 Dialogue: 0,0:22:02.96,0:22:04.21,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&HB3A7A5&}m 241 616 l 489 527 l 526 607 l 269 698 {\p0}
-Dialogue: 1,0:22:02.96,0:22:04.21,OkabePhone,,0,0,0,,{\an7\fs90\c&H594A48&\be3\blur1.5\pos(228,604)\frz20.87}Don't come in
+Dialogue: 1,0:22:02.96,0:22:04.21,OkabePhone,,0,0,0,,{\an7\fs90\c&H594A48&\be3\blur1.5\pos(228,604)\frz20.87}Don’t come in
 Dialogue: 0,0:22:02.96,0:22:04.21,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HDED9D7&}m 849 944 l 1343 753 l 1381 840 l 881 1035 {\p0}
 Dialogue: 1,0:22:02.96,0:22:04.21,OkabePhone,,0,0,0,,{\an8\c&H524342&\be3\frz21.55\fs90\pos(1094,846)}Send message?
 Dialogue: 0,0:22:02.96,0:22:04.21,Draw,,0,0,0,,{\pos(0,0)\blur5\p1\c&HD5CBC6&}m 887 1080 l 1057 1025 l 1095 1112 l 919 1171 {\p0}
@@ -227,70 +227,70 @@ Dialogue: 3,0:23:17.00,0:23:19.50,OkabePhoneOld,,0,0,0,,{\an4\be2\fsp3\fs90\c&HA
 Dialogue: 0,0:23:17.00,0:23:19.50,Draw,,0,0,0,,{\p1\c&H120F10&\blur6\pos(-284,293)}m 761 116 l 939 147 l 926 236 l 745 204 {\p0}
 Dialogue: 1,0:23:17.00,0:23:19.50,Draw,,0,0,0,,{\p1\c&H261F20&\blur20\pos(-220,306)}m 761 116 l 939 147 l 926 236 l 745 204 {\p0}
 Dialogue: 2,0:23:17.00,0:23:19.50,Draw,,0,0,0,,{\p1\c&H2E2026&\blur10\pos(-144,310)}m 761 116 l 939 147 l 926 236 l 745 204 {\p0}
-Dialogue: 3,0:23:17.00,0:23:19.50,OkabePhoneOld,,0,0,0,,{\an7\be2\fsp3\fs90\c&HB5AEB1&\frz350.2\pos(468,418)}Don't come in
-Dialogue: 30,0:00:07.38,0:00:10.63,Default,,0,0,0,,If you were here, you should've said something.
-Dialogue: 30,0:00:10.63,0:00:13.22,Default,,0,0,0,,You'll scare someone standing around like that.
+Dialogue: 3,0:23:17.00,0:23:19.50,OkabePhoneOld,,0,0,0,,{\an7\be2\fsp3\fs90\c&HB5AEB1&\frz350.2\pos(468,418)}Don’t come in
+Dialogue: 30,0:00:07.38,0:00:10.63,Default,,0,0,0,,If you were here, you should’ve said something.
+Dialogue: 30,0:00:10.63,0:00:13.22,Default,,0,0,0,,You’ll scare someone standing around like that.
 Dialogue: 30,0:00:22.23,0:00:25.15,Default,,0,0,0,,Happy New Year.
-Dialogue: 30,0:00:25.15,0:00:27.27,Default,,0,0,0,,It's just a simple greeting...
-Dialogue: 30,0:00:27.27,0:00:30.86,Default,,0,0,0,,Or maybe it's too late to say Happy New Year?
+Dialogue: 30,0:00:25.15,0:00:27.27,Default,,0,0,0,,It’s just a simple greeting...
+Dialogue: 30,0:00:27.27,0:00:30.86,Default,,0,0,0,,Or maybe it’s too late to say Happy New Year?
 Dialogue: 30,0:00:30.86,0:00:33.45,Default,,0,0,0,,Anyways, this is a shock.
 Dialogue: 30,0:00:33.45,0:00:36.32,Default,,0,0,0,,You never show your face anymore.
-Dialogue: 30,0:00:37.87,0:00:40.70,Default,,0,0,0,,Th-That's no way to start off the year!
+Dialogue: 30,0:00:37.87,0:00:40.70,Default,,0,0,0,,Th-That’s no way to start off the year!
 Dialogue: 30,0:02:22.10,0:02:23.64,Default,,0,0,0,,Sorry...
-Dialogue: 30,0:02:23.64,0:02:27.35,Default,,0,0,0,,Don't worry about it.\NHappens to me sometimes too.
+Dialogue: 30,0:02:23.64,0:02:27.35,Default,,0,0,0,,Don’t worry about it.\NHappens to me sometimes too.
 Dialogue: 30,0:02:27.35,0:02:30.44,Default,,0,0,0,,You were thinking of her...
 Dialogue: 30,0:02:30.44,0:02:32.40,Default,,0,0,0,,About Mayuri...
 Dialogue: 30,0:02:32.40,0:02:33.40,Default,,0,0,0,,Eh?
-Dialogue: 30,0:02:33.40,0:02:36.03,Default,,0,0,0,,She always comes to mind when I'm in the lab.
+Dialogue: 30,0:02:33.40,0:02:36.03,Default,,0,0,0,,She always comes to mind when I’m in the lab.
 Dialogue: 30,0:02:36.03,0:02:42.57,Default,,0,0,0,,You hear footsteps, the door opens...\Nand you half-expect that greeting of hers again.
 Dialogue: 30,0:02:43.83,0:02:45.79,Default,,0,0,0,,Okabe?!
 Dialogue: 30,0:02:51.71,0:02:53.59,Default,,0,0,0,,Okabe?
 Dialogue: 30,0:03:13.02,0:03:14.73,Default,,0,0,0,,Okabe?!
 Dialogue: 30,0:03:16.27,0:03:17.61,Default,,0,0,0,,Sorry about that.
 Dialogue: 30,0:03:17.61,0:03:19.53,Default,,0,0,0,,No, I am.
-Dialogue: 30,0:03:19.53,0:03:21.95,Default,,0,0,0,,I said something I shouldn't have.
-Dialogue: 30,0:03:21.95,0:03:28.16,Default,,0,0,0,,Now that I think about it, you haven't\Nstopped by here ever since Mayuri.
+Dialogue: 30,0:03:19.53,0:03:21.95,Default,,0,0,0,,I said something I shouldn’t have.
+Dialogue: 30,0:03:21.95,0:03:28.16,Default,,0,0,0,,Now that I think about it, you haven’t\Nstopped by here ever since Mayuri.
 Dialogue: 30,0:03:28.16,0:03:30.12,Default,,0,0,0,,Y-Yeah?
-Dialogue: 30,0:03:30.12,0:03:33.79,Default,,0,0,0,,Ever since then,\Nyou've practically fallen off the grid.
+Dialogue: 30,0:03:30.12,0:03:33.79,Default,,0,0,0,,Ever since then,\Nyou’ve practically fallen off the grid.
 Dialogue: 30,0:03:33.79,0:03:38.92,Default,,0,0,0,,Hashida too, but not nearly as bad as you.
 Dialogue: 30,0:03:38.92,0:03:42.84,Default,,0,0,0,,Is it true then? Is this an Alpha worldline?
-Dialogue: 30,0:03:46.39,0:03:48.31,Default,,0,0,0,,Where's the PhoneWave?
-Dialogue: 30,0:03:48.31,0:03:51.98,Default,,0,0,0,,You're the one who demolished it,\Ndon't you remember?
+Dialogue: 30,0:03:46.39,0:03:48.31,Default,,0,0,0,,Where’s the PhoneWave?
+Dialogue: 30,0:03:48.31,0:03:51.98,Default,,0,0,0,,You’re the one who demolished it,\Ndon’t you remember?
 Dialogue: 30,0:03:57.73,0:03:58.69,Default,,0,0,0,,Okabe?
 Dialogue: 30,0:03:58.69,0:04:02.53,Default,,0,0,0,,I think... I need to go outside\Nand get fresh air.
 Dialogue: 30,0:04:02.53,0:04:05.53,Default,,0,0,0,,Okay... Hang in there.
-Dialogue: 30,0:04:14.17,0:04:19.17,Default,,0,0,0,,The city and people feel the same...\NIt's no different than yesterday.
-Dialogue: 30,0:04:21.38,0:04:25.89,Default,,0,0,0,,But, in this Alpha worldline,\Nthere's one reality...
-Dialogue: 30,0:04:25.89,0:04:30.89,Default,,0,0,0,,That is, no matter what I do, convergence\Nwill always result in Mayuri's death...
+Dialogue: 30,0:04:14.17,0:04:19.17,Default,,0,0,0,,The city and people feel the same...\NIt’s no different than yesterday.
+Dialogue: 30,0:04:21.38,0:04:25.89,Default,,0,0,0,,But, in this Alpha worldline,\Nthere’s one reality...
+Dialogue: 30,0:04:25.89,0:04:30.89,Default,,0,0,0,,That is, no matter what I do, convergence\Nwill always result in Mayuri’s death...
 Dialogue: 30,0:04:30.89,0:04:32.68,Default,,0,0,0,,...in this worldline.
-Dialogue: 30,0:04:40.57,0:04:45.61,Default,,0,0,0,,She's being taken to the hospital right now.\NThey say it's probably a heart attack.
+Dialogue: 30,0:04:40.57,0:04:45.61,Default,,0,0,0,,She’s being taken to the hospital right now.\NThey say it’s probably a heart attack.
 Dialogue: 30,0:04:45.61,0:04:49.28,Default,,0,0,0,,Even if somehow,\Nwe escape the grasp of SERN...
-Dialogue: 30,0:04:49.28,0:04:54.37,Default,,0,0,0,,...as long as we're in this worldline,\NMayuri will be killed by the world.
-Dialogue: 30,0:04:54.37,0:04:57.46,Default,,0,0,0,,That's why... That's why I...
+Dialogue: 30,0:04:49.28,0:04:54.37,Default,,0,0,0,,...as long as we’re in this worldline,\NMayuri will be killed by the world.
+Dialogue: 30,0:04:54.37,0:04:57.46,Default,,0,0,0,,That’s why... That’s why I...
 Dialogue: 30,0:04:59.46,0:05:02.46,Default,,0,0,0,,And yet, why am I back here?!
 Dialogue: 30,0:05:02.46,0:05:05.34,Default,,0,0,0,,Why did Reading Steiner kick in?!
-Dialogue: 30,0:05:05.34,0:05:09.10,Default,,0,0,0,,There wasn't a D-Mail!\NI didn't use the time leap machine either!
+Dialogue: 30,0:05:05.34,0:05:09.10,Default,,0,0,0,,There wasn’t a D-Mail!\NI didn’t use the time leap machine either!
 Dialogue: 30,0:05:13.18,0:05:14.14,Default,,0,0,0,,Okarin?
 Dialogue: 30,0:05:14.14,0:05:17.56,Default,,0,0,0,,Huh?
 Dialogue: 30,0:05:17.56,0:05:19.40,Default,,0,0,0,,Daru?
-Dialogue: 30,0:05:19.40,0:05:22.11,Default,,0,0,0,,It's rare to find you in Akiba these days.
+Dialogue: 30,0:05:19.40,0:05:22.11,Default,,0,0,0,,It’s rare to find you in Akiba these days.
 Dialogue: 30,0:05:23.24,0:05:25.78,Default,,0,0,0,,Welcome home, nya!
 Dialogue: 30,0:05:25.78,0:05:28.07,Default,,0,0,0,,Welcome, Masters!
-Dialogue: 30,0:05:28.07,0:05:29.74,Default,,0,0,0,,I'm back!
+Dialogue: 30,0:05:28.07,0:05:29.74,Default,,0,0,0,,I’m back!
 Dialogue: 30,0:05:29.74,0:05:33.25,Default,,0,0,0,,I brought Okarin with me today!
 Dialogue: 30,0:05:33.25,0:05:35.12,Default,,0,0,0,,O-Okabe-san?!
 Dialogue: 30,0:05:35.12,0:05:35.79,Default,,0,0,0,,Lukako?
 Dialogue: 30,0:05:35.79,0:05:37.96,Default,,0,0,0,,Kyouma!
 Dialogue: 30,0:05:37.96,0:05:39.92,Default,,0,0,0,,Missed you so much, nya! Kyouma!
 Dialogue: 30,0:05:39.92,0:05:42.21,Default,,0,0,0,,Have I really not come in that long?
-Dialogue: 30,0:05:42.21,0:05:44.34,Default,,0,0,0,,No, you haven't...
-Dialogue: 30,0:05:44.34,0:05:47.84,Default,,0,0,0,,For a while there, I didn't visit much either.
+Dialogue: 30,0:05:42.21,0:05:44.34,Default,,0,0,0,,No, you haven’t...
+Dialogue: 30,0:05:44.34,0:05:47.84,Default,,0,0,0,,For a while there, I didn’t visit much either.
 Dialogue: 30,0:05:47.84,0:05:50.14,Default,,0,0,0,,Um...
-Dialogue: 30,0:05:50.14,0:05:53.06,Default,,0,0,0,,Nice to meet you, I'm Fubuki.
-Dialogue: 30,0:05:53.06,0:05:57.85,Default,,0,0,0,,I was one of Mayuri-chan's\Ncosplay friends, so she was dear to me.
+Dialogue: 30,0:05:50.14,0:05:53.06,Default,,0,0,0,,Nice to meet you, I’m Fubuki.
+Dialogue: 30,0:05:53.06,0:05:57.85,Default,,0,0,0,,I was one of Mayuri-chan’s\Ncosplay friends, so she was dear to me.
 Dialogue: 30,0:05:57.85,0:06:03.48,Default,,0,0,0,,Fubu-nyan has been helping out at\Nthe cafe ever since Mayushii left us, nya.
-Dialogue: 30,0:06:03.48,0:06:09.20,Default,,0,0,0,,It's been tough, but I figured\NMayuri-chan would be happier this way.
-Dialogue: 30,0:06:09.20,0:06:11.70,Default,,0,0,0,,Here's a picture of us at Summer ComiMa.
+Dialogue: 30,0:06:03.48,0:06:09.20,Default,,0,0,0,,It’s been tough, but I figured\NMayuri-chan would be happier this way.
+Dialogue: 30,0:06:09.20,0:06:11.70,Default,,0,0,0,,Here’s a picture of us at Summer ComiMa.
 Dialogue: 30,0:06:11.70,0:06:16.91,Default,,0,0,0,,The outfits she made us were so cute,\Nwe took a photo together to look back upon.
 Dialogue: 30,0:06:16.91,0:06:19.75,Default,,0,0,0,,She... was spunky as ever.
 Dialogue: 30,0:06:19.75,0:06:25.13,Default,,0,0,0,,Nothing at all seemed wrong with her...\NShe was just, being herself...
@@ -304,24 +304,24 @@ Dialogue: 30,0:06:49.74,0:06:51.24,Default,,0,0,0,,Huh? Daru?
 Dialogue: 30,0:06:51.24,0:06:53.45,Default,,0,0,0,,Step outside, Okarin.
 Dialogue: 30,0:06:53.45,0:06:55.24,Default,,0,0,0,,Hey!
 Dialogue: 30,0:06:56.24,0:06:58.33,Default,,0,0,0,,Okabe-san...
-Dialogue: 30,0:07:00.62,0:07:03.13,Default,,0,0,0,,Wh-What's your problem?
-Dialogue: 30,0:07:03.13,0:07:07.21,Default,,0,0,0,,There's things you can say\Nand things you shouldn't say!
+Dialogue: 30,0:07:00.62,0:07:03.13,Default,,0,0,0,,Wh-What’s your problem?
+Dialogue: 30,0:07:03.13,0:07:07.21,Default,,0,0,0,,There’s things you can say\Nand things you shouldn’t say!
 Dialogue: 30,0:07:07.21,0:07:10.05,Default,,0,0,0,,A world where Mayu-shi was able to live?!
-Dialogue: 30,0:07:10.05,0:07:14.35,Default,,0,0,0,,You're the one who couldn't\Nmake that decision, Okarin!
-Dialogue: 30,0:07:14.35,0:07:20.52,Default,,0,0,0,,Echelon's data... We had it cracked\Nand everything, but you stopped it!
-Dialogue: 30,0:07:20.52,0:07:24.27,Default,,0,0,0,,I... couldn't press the key?
+Dialogue: 30,0:07:10.05,0:07:14.35,Default,,0,0,0,,You’re the one who couldn’t\Nmake that decision, Okarin!
+Dialogue: 30,0:07:14.35,0:07:20.52,Default,,0,0,0,,Echelon’s data... We had it cracked\Nand everything, but you stopped it!
+Dialogue: 30,0:07:20.52,0:07:24.27,Default,,0,0,0,,I... couldn’t press the key?
 Dialogue: 30,0:07:24.27,0:07:25.90,Default,,0,0,0,,Yeah...
 Dialogue: 30,0:07:25.90,0:07:29.74,Default,,0,0,0,,You kept saying it, over and over...
-Dialogue: 30,0:07:29.74,0:07:32.20,Default,,0,0,0,,I'm the one who killed Mayu-shi.
-Dialogue: 30,0:07:32.20,0:07:36.12,Default,,0,0,0,,I'm the one who made that choice.
+Dialogue: 30,0:07:29.74,0:07:32.20,Default,,0,0,0,,I’m the one who killed Mayu-shi.
+Dialogue: 30,0:07:32.20,0:07:36.12,Default,,0,0,0,,I’m the one who made that choice.
 Dialogue: 30,0:07:36.12,0:07:40.08,Default,,0,0,0,,Why did you trash the PhoneWave\Nand time leap machine?!
-Dialogue: 30,0:07:40.08,0:07:45.04,Default,,0,0,0,,If you were going to regret it later,\Nyou should've kept it all intact!
+Dialogue: 30,0:07:40.08,0:07:45.04,Default,,0,0,0,,If you were going to regret it later,\Nyou should’ve kept it all intact!
 Dialogue: 30,0:07:45.04,0:07:47.34,Default,,0,0,0,,Even Makise-shi told you so...
 Dialogue: 30,0:07:47.34,0:07:48.34,Default,,0,0,0,,Kurisu did?
 Dialogue: 30,0:07:48.34,0:07:51.38,Default,,0,0,0,,She said we had a chance!\NThat we can try it again!
 Dialogue: 30,0:07:51.38,0:07:54.39,Default,,0,0,0,,That there must be something we can do!
 Dialogue: 30,0:07:58.26,0:08:00.68,Default,,0,0,0,,Hello, this is Makise.
-Dialogue: 30,0:08:00.68,0:08:03.94,Default,,0,0,0,,Hashida? It's been a while. Happy New Year.
+Dialogue: 30,0:08:00.68,0:08:03.94,Default,,0,0,0,,Hashida? It’s been a while. Happy New Year.
 Dialogue: 30,0:08:03.94,0:08:05.77,Default,,0,0,0,,Happy New Year to ya.
 Dialogue: 30,0:08:05.77,0:08:10.15,Default,,0,0,0,,What a surprise.\NYou practically never call me, Hashida.
 Dialogue: 30,0:08:10.15,0:08:13.07,Default,,0,0,0,,I ran into Okarin.
@@ -329,74 +329,74 @@ Dialogue: 30,0:08:13.07,0:08:14.03,Default,,0,0,0,,I see...
 Dialogue: 30,0:08:14.03,0:08:16.83,Default,,0,0,0,,I bet he came to the lab too, right?
 Dialogue: 30,0:08:16.83,0:08:18.33,Default,,0,0,0,,Yeah...
 Dialogue: 30,0:08:18.33,0:08:20.16,Default,,0,0,0,,Did he say anything?
-Dialogue: 30,0:08:20.16,0:08:24.17,Default,,0,0,0,,Yeah, he's still not over Mayu-shi.
+Dialogue: 30,0:08:20.16,0:08:24.17,Default,,0,0,0,,Yeah, he’s still not over Mayu-shi.
 Dialogue: 30,0:08:24.17,0:08:28.17,Default,,0,0,0,,He asked what if there was a world\Nwhere we knew she could live.
 Dialogue: 30,0:08:29.42,0:08:31.34,Default,,0,0,0,,And then?
-Dialogue: 30,0:08:31.34,0:08:36.93,Default,,0,0,0,,I got mad... Couldn't believe he said\Nthat after everything that happened...
+Dialogue: 30,0:08:31.34,0:08:36.93,Default,,0,0,0,,I got mad... Couldn’t believe he said\Nthat after everything that happened...
 Dialogue: 30,0:08:36.93,0:08:38.68,Default,,0,0,0,,Do you think...?
 Dialogue: 30,0:09:09.00,0:09:10.84,Default,,0,0,0,,Kurisu?
 Dialogue: 30,0:09:10.84,0:09:12.30,Default,,0,0,0,,You knew I was here?
-Dialogue: 30,0:09:12.30,0:09:15.76,Default,,0,0,0,,Of course I knew, it's you.
+Dialogue: 30,0:09:12.30,0:09:15.76,Default,,0,0,0,,Of course I knew, it’s you.
 Dialogue: 30,0:09:15.76,0:09:17.09,Default,,0,0,0,,I see...
 Dialogue: 30,0:09:17.09,0:09:18.80,Default,,0,0,0,,Just kidding.
 Dialogue: 30,0:09:22.31,0:09:23.56,Default,,0,0,0,,GPS.
 Dialogue: 30,0:09:23.56,0:09:25.44,Default,,0,0,0,,You had something like that?
-Dialogue: 30,0:09:25.44,0:09:27.44,Default,,0,0,0,,So you don't know after all...
+Dialogue: 30,0:09:25.44,0:09:27.44,Default,,0,0,0,,So you don’t know after all...
 Dialogue: 30,0:09:28.77,0:09:31.82,Default,,0,0,0,,Okabe, you...
-Dialogue: 30,0:09:31.82,0:09:34.19,Default,,0,0,0,,...came from another worldline, didn't you?
-Dialogue: 30,0:09:44.75,0:09:49.96,Default,,0,0,0,,That spot you're sitting in...\NThat's where Mayuri always used to sit.
+Dialogue: 30,0:09:31.82,0:09:34.19,Default,,0,0,0,,...came from another worldline, didn’t you?
+Dialogue: 30,0:09:44.75,0:09:49.96,Default,,0,0,0,,That spot you’re sitting in...\NThat’s where Mayuri always used to sit.
 Dialogue: 30,0:09:49.96,0:09:55.59,Default,,0,0,0,,The guy who gave up on her...\NHe would never sit down in her spot.
 Dialogue: 30,0:09:55.59,0:10:00.35,Default,,0,0,0,,I guess that was his way\Nof burdening the guilt.
 Dialogue: 30,0:10:00.35,0:10:04.18,Default,,0,0,0,,Plus, you had no idea about the GPS either.
-Dialogue: 30,0:10:04.18,0:10:07.19,Default,,0,0,0,,True, but what's it for?
-Dialogue: 30,0:10:07.19,0:10:08.77,Default,,0,0,0,,I won't say.
-Dialogue: 30,0:10:15.74,0:10:16.74,Default,,0,0,0,,That's...!
+Dialogue: 30,0:10:04.18,0:10:07.19,Default,,0,0,0,,True, but what’s it for?
+Dialogue: 30,0:10:07.19,0:10:08.77,Default,,0,0,0,,I won’t say.
+Dialogue: 30,0:10:15.74,0:10:16.74,Default,,0,0,0,,That’s...!
 Dialogue: 30,0:10:16.74,0:10:18.61,Default,,0,0,0,,I remade it.
 Dialogue: 30,0:10:18.61,0:10:20.50,Default,,0,0,0,,I call it PhoneWave Custom.
-Dialogue: 30,0:10:20.50,0:10:23.99,Default,,0,0,0,,No... I suppose it's\NPhoneWave (name subject to change) Custom.
+Dialogue: 30,0:10:20.50,0:10:23.99,Default,,0,0,0,,No... I suppose it’s\NPhoneWave (name subject to change) Custom.
 Dialogue: 30,0:10:23.99,0:10:27.50,Default,,0,0,0,,You made it again?! What for?
 Dialogue: 30,0:10:27.50,0:10:29.79,Default,,0,0,0,,To send a message into the past.
 Dialogue: 30,0:10:29.79,0:10:31.25,Default,,0,0,0,,No...
 Dialogue: 30,0:10:31.25,0:10:34.05,Default,,0,0,0,,In order to change worldlines.
 Dialogue: 30,0:10:34.05,0:10:39.22,Default,,0,0,0,,Okabe, I want you to use this and\Ngo back to the worldline you came from.
 Dialogue: 30,0:10:39.22,0:10:41.14,Default,,0,0,0,,What do you...
-Dialogue: 30,0:10:41.14,0:10:43.51,Default,,0,0,0,,Where you're from, Mayuri lives...
-Dialogue: 30,0:10:43.51,0:10:50.06,Default,,0,0,0,,Rather, you're from a worldline\Nwhere you were able to keep her alive.
+Dialogue: 30,0:10:41.14,0:10:43.51,Default,,0,0,0,,Where you’re from, Mayuri lives...
+Dialogue: 30,0:10:43.51,0:10:50.06,Default,,0,0,0,,Rather, you’re from a worldline\Nwhere you were able to keep her alive.
 Dialogue: 30,0:10:50.06,0:10:52.61,Default,,0,0,0,,You... saw right through me?
-Dialogue: 30,0:10:52.61,0:10:57.94,Default,,0,0,0,,Of course. I've watched you for\Nso long it's... I mean, not in that way...
+Dialogue: 30,0:10:52.61,0:10:57.94,Default,,0,0,0,,Of course. I’ve watched you for\Nso long it’s... I mean, not in that way...
 Dialogue: 30,0:10:57.94,0:11:00.41,Default,,0,0,0,,Well, it is, but...
-Dialogue: 30,0:11:00.41,0:11:04.95,Default,,0,0,0,,Anyways, you're Okabe Rintaro\Nfrom another worldline.
-Dialogue: 30,0:11:04.95,0:11:07.25,Default,,0,0,0,,There's nothing more to say.
+Dialogue: 30,0:11:00.41,0:11:04.95,Default,,0,0,0,,Anyways, you’re Okabe Rintaro\Nfrom another worldline.
+Dialogue: 30,0:11:04.95,0:11:07.25,Default,,0,0,0,,There’s nothing more to say.
 Dialogue: 30,0:11:07.25,0:11:09.04,Default,,0,0,0,,Go back.
-Dialogue: 30,0:11:11.92,0:11:17.09,Default,,0,0,0,,By changing worldlines,\Nit's true that Mayuri's able to live.
+Dialogue: 30,0:11:11.92,0:11:17.09,Default,,0,0,0,,By changing worldlines,\Nit’s true that Mayuri’s able to live.
 Dialogue: 30,0:11:17.09,0:11:21.68,Default,,0,0,0,,But, even a world like that changed so easily...
 Dialogue: 30,0:11:21.68,0:11:25.51,Default,,0,0,0,,It changed back again\Nwithout me doing anything...
-Dialogue: 30,0:11:25.51,0:11:29.81,Default,,0,0,0,,It's true... This time I did nothing at all...
+Dialogue: 30,0:11:25.51,0:11:29.81,Default,,0,0,0,,It’s true... This time I did nothing at all...
 Dialogue: 30,0:11:29.81,0:11:34.15,Default,,0,0,0,,And yet, why did it end up like this?
 Dialogue: 30,0:11:34.15,0:11:36.73,Default,,0,0,0,,I did that to you...
 Dialogue: 30,0:11:36.73,0:11:41.49,Default,,0,0,0,,I took the you who loved me\Nand made you disappear...
 Dialogue: 30,0:11:41.49,0:11:44.66,Default,,0,0,0,,And yet... And yet...
-Dialogue: 30,0:11:44.66,0:11:48.49,Default,,0,0,0,,You're telling me to kill you again?
-Dialogue: 30,0:11:48.49,0:11:52.12,Default,,0,0,0,,I can't... I can't do it...
+Dialogue: 30,0:11:44.66,0:11:48.49,Default,,0,0,0,,You’re telling me to kill you again?
+Dialogue: 30,0:11:48.49,0:11:52.12,Default,,0,0,0,,I can’t... I can’t do it...
 Dialogue: 30,0:12:00.88,0:12:03.89,Default,,0,0,0,,Hashida?
-Dialogue: 30,0:12:03.89,0:12:05.09,Default,,0,0,0,,Where's Okarin?
-Dialogue: 30,0:12:05.09,0:12:07.10,Default,,0,0,0,,He said he'll be back.
-Dialogue: 30,0:12:07.10,0:12:11.89,Default,,0,0,0,,In the end, we should've known\NOkabe could never forget Mayuri...
+Dialogue: 30,0:12:03.89,0:12:05.09,Default,,0,0,0,,Where’s Okarin?
+Dialogue: 30,0:12:05.09,0:12:07.10,Default,,0,0,0,,He said he’ll be back.
+Dialogue: 30,0:12:07.10,0:12:11.89,Default,,0,0,0,,In the end, we should’ve known\NOkabe could never forget Mayuri...
 Dialogue: 30,0:12:14.48,0:12:16.65,Default,,0,0,0,,But, Makise-shi...
 Dialogue: 30,0:12:16.65,0:12:19.32,Default,,0,0,0,,No, never mind...
 Dialogue: 30,0:13:03.15,0:13:05.03,Default,,0,0,0,,Made up your mind yet?
-Dialogue: 30,0:13:06.61,0:13:09.33,Default,,0,0,0,,Of course you haven't...
+Dialogue: 30,0:13:06.61,0:13:09.33,Default,,0,0,0,,Of course you haven’t...
 Dialogue: 30,0:13:09.33,0:13:11.74,Default,,0,0,0,,The trains are running, right?
 Dialogue: 30,0:13:11.74,0:13:15.16,Default,,0,0,0,,Meet me at Akihabara Station in an hour.
 Dialogue: 30,0:13:15.16,0:13:16.33,Default,,0,0,0,,Why?
-Dialogue: 30,0:13:16.33,0:13:18.38,Default,,0,0,0,,There's somewhere I want to take you.
+Dialogue: 30,0:13:16.33,0:13:18.38,Default,,0,0,0,,There’s somewhere I want to take you.
 Dialogue: 30,0:13:22.92,0:13:25.63,Default,,0,0,0,,Hard to spot you without your lab coat.
 Dialogue: 30,0:13:25.63,0:13:27.97,Default,,0,0,0,,Where are we going?
-Dialogue: 30,0:13:27.97,0:13:29.97,Default,,0,0,0,,You'll know when we get there.
+Dialogue: 30,0:13:27.97,0:13:29.97,Default,,0,0,0,,You’ll know when we get there.
 Dialogue: 30,0:13:37.56,0:13:38.52,Default,,0,0,0,,What?
-Dialogue: 30,0:13:38.52,0:13:42.73,Default,,0,0,0,,It's just, we never rode\Nthe train together like this...
-Dialogue: 30,0:13:42.73,0:13:46.11,Default,,0,0,0,,Quit ogling at me or I'll report you.
-Dialogue: 30,0:13:46.11,0:13:47.45,Default,,0,0,0,,But I'm innocent.
+Dialogue: 30,0:13:38.52,0:13:42.73,Default,,0,0,0,,It’s just, we never rode\Nthe train together like this...
+Dialogue: 30,0:13:42.73,0:13:46.11,Default,,0,0,0,,Quit ogling at me or I’ll report you.
+Dialogue: 30,0:13:46.11,0:13:47.45,Default,,0,0,0,,But I’m innocent.
 Dialogue: 30,0:13:47.45,0:13:51.99,Default,,0,0,0,,The law states even a gaze can\Nbe considered sexual harassment.
 Dialogue: 30,0:13:53.49,0:13:56.21,Default,,0,0,0,,Amadeus has got nothing on you.
 Dialogue: 30,0:13:56.21,0:13:57.25,Default,,0,0,0,,Amadeus?
@@ -406,12 +406,12 @@ Dialogue: 30,0:14:02.75,0:14:05.42,Default,,0,0,0,,Through Hiyajo-san and Profes
 Dialogue: 30,0:14:05.42,0:14:07.59,Default,,0,0,0,,Huh?! You know Maho-senpai?!
 Dialogue: 30,0:14:07.59,0:14:09.39,Default,,0,0,0,,What the heck happened in your worldline?!
 Dialogue: 30,0:14:09.39,0:14:10.89,Default,,0,0,0,,What are you so angry about?
-Dialogue: 30,0:14:10.89,0:14:13.77,Default,,0,0,0,,I'm not angry! Hmph!
+Dialogue: 30,0:14:10.89,0:14:13.77,Default,,0,0,0,,I’m not angry! Hmph!
 Dialogue: 30,0:14:17.39,0:14:21.02,Default,,0,0,0,,Right after that, she was\Nunable to access Amadeus.
 Dialogue: 30,0:14:21.02,0:14:22.02,Default,,0,0,0,,Hmm...
 Dialogue: 30,0:14:22.02,0:14:23.78,Default,,0,0,0,,What happened to Amadeus?
-Dialogue: 30,0:14:23.78,0:14:25.07,Default,,0,0,0,,I don't know...
-Dialogue: 30,0:14:25.07,0:14:31.66,Default,,0,0,0,,But from a rational standpoint, I can't imagine\NAI having anything to do with a worldline change.
+Dialogue: 30,0:14:23.78,0:14:25.07,Default,,0,0,0,,I don’t know...
+Dialogue: 30,0:14:25.07,0:14:31.66,Default,,0,0,0,,But from a rational standpoint, I can’t imagine\NAI having anything to do with a worldline change.
 Dialogue: 30,0:14:31.66,0:14:33.45,Default,,0,0,0,,A coincidence, then?
 Dialogue: 30,0:14:33.45,0:14:36.87,Default,,0,0,0,,Amadeus has all my memories stored within it,
 Dialogue: 30,0:14:36.87,0:14:40.21,Default,,0,0,0,,which means my time machine\Ntheory would be there too.
@@ -421,14 +421,14 @@ Dialogue: 30,0:14:44.88,0:14:47.22,Default,,0,0,0,,...time machines are not poss
 Dialogue: 30,0:14:47.22,0:14:51.84,Default,,0,0,0,,However, that is not to say\Nthey are impossible altogether.
 Dialogue: 30,0:14:51.84,0:14:55.56,Default,,0,0,0,,[Kurisu]... Amadeus answered me differently...
 Dialogue: 30,0:14:55.56,0:14:59.77,Default,,0,0,0,,I was hoping Daddy would look at it, so I...
-Dialogue: 30,0:14:59.77,0:15:02.56,Default,,0,0,0,,You're stealing my theory?
+Dialogue: 30,0:14:59.77,0:15:02.56,Default,,0,0,0,,You’re stealing my theory?
 Dialogue: 30,0:15:02.56,0:15:03.90,Default,,0,0,0,,Okabe?
-Dialogue: 30,0:15:05.23,0:15:07.90,Default,,0,0,0,,I'm all right.
-Dialogue: 30,0:15:07.90,0:15:11.24,Default,,0,0,0,,I can't believe you made\Nfriends with Maho-senpai.
+Dialogue: 30,0:15:05.23,0:15:07.90,Default,,0,0,0,,I’m all right.
+Dialogue: 30,0:15:07.90,0:15:11.24,Default,,0,0,0,,I can’t believe you made\Nfriends with Maho-senpai.
 Dialogue: 30,0:15:11.24,0:15:13.32,Default,,0,0,0,,I bumped into her at a seminar.
 Dialogue: 30,0:15:13.32,0:15:17.70,Default,,0,0,0,,Then you must know how rude\Nand stubborn that girl can be.
 Dialogue: 30,0:15:17.70,0:15:19.58,Default,,0,0,0,,So clumsy too...
-Dialogue: 30,0:15:19.58,0:15:21.75,Default,,0,0,0,,That part of her hasn't changed.
+Dialogue: 30,0:15:19.58,0:15:21.75,Default,,0,0,0,,That part of her hasn’t changed.
 Dialogue: 30,0:15:21.75,0:15:25.25,Default,,0,0,0,,I take it you were her feisty junior then?
 Dialogue: 30,0:15:25.25,0:15:28.80,Default,,0,0,0,,How rude! I was a very courteous junior.
 Dialogue: 30,0:15:28.80,0:15:32.68,Default,,0,0,0,,I always went out and\Nbought her drinks, like jasmine tea...
@@ -437,49 +437,49 @@ Dialogue: 30,0:16:05.00,0:16:09.42,Default,,0,0,0,,You were a complete wreck aft
 Dialogue: 30,0:16:09.42,0:16:15.30,Default,,0,0,0,,You stopped going to lab and college,\Nand stayed here all day till the sun went down.
 Dialogue: 30,0:16:15.30,0:16:17.56,Default,,0,0,0,,It was as if...
 Dialogue: 30,0:16:17.56,0:16:22.06,Default,,0,0,0,,...you were waiting for someone\Nto come and take you to heaven...
-Dialogue: 30,0:16:25.94,0:16:28.48,Default,,0,0,0,,I couldn't do anything for you either.
+Dialogue: 30,0:16:25.94,0:16:28.48,Default,,0,0,0,,I couldn’t do anything for you either.
 Dialogue: 30,0:16:28.48,0:16:33.57,Default,,0,0,0,,After all, you did it so I could live...
 Dialogue: 30,0:16:33.57,0:16:34.91,Default,,0,0,0,,Kurisu...
 Dialogue: 30,0:16:34.91,0:16:38.58,Default,,0,0,0,,But, that all ends now.
 Dialogue: 30,0:16:38.58,0:16:40.62,Default,,0,0,0,,It has to end now.
-Dialogue: 30,0:16:40.62,0:16:45.12,Default,,0,0,0,,At this rate, you'll be crushed by guilt.
-Dialogue: 30,0:16:45.12,0:16:47.13,Default,,0,0,0,,It's the same there...
+Dialogue: 30,0:16:40.62,0:16:45.12,Default,,0,0,0,,At this rate, you’ll be crushed by guilt.
+Dialogue: 30,0:16:45.12,0:16:47.13,Default,,0,0,0,,It’s the same there...
 Dialogue: 30,0:16:47.13,0:16:50.25,Default,,0,0,0,,Even if I go to a Beta worldline...
-Dialogue: 30,0:16:50.25,0:16:52.67,Default,,0,0,0,,That feeling doesn't change...
-Dialogue: 30,0:16:52.67,0:16:54.72,Default,,0,0,0,,It's you I sacrifice, and I—
+Dialogue: 30,0:16:50.25,0:16:52.67,Default,,0,0,0,,That feeling doesn’t change...
+Dialogue: 30,0:16:52.67,0:16:54.72,Default,,0,0,0,,It’s you I sacrifice, and I—
 Dialogue: 30,0:16:54.72,0:16:57.55,Default,,0,0,0,,Get a hold of yourself, Okabe Rintaro!
 Dialogue: 30,0:17:01.10,0:17:04.23,Default,,0,0,0,,Stop making that face...
-Dialogue: 30,0:17:04.23,0:17:09.07,Default,,0,0,0,,If you're the Hououin Kyouma-san I know,\Nyou've gotta be confident and strong...
-Dialogue: 30,0:17:09.07,0:17:12.86,Default,,0,0,0,,That's all just a big act! It's a lie!
-Dialogue: 30,0:17:12.86,0:17:17.07,Default,,0,0,0,,It's only something I did to cheer Mayuri up...
+Dialogue: 30,0:17:04.23,0:17:09.07,Default,,0,0,0,,If you’re the Hououin Kyouma-san I know,\Nyou’ve gotta be confident and strong...
+Dialogue: 30,0:17:09.07,0:17:12.86,Default,,0,0,0,,That’s all just a big act! It’s a lie!
+Dialogue: 30,0:17:12.86,0:17:17.07,Default,,0,0,0,,It’s only something I did to cheer Mayuri up...
 Dialogue: 30,0:17:17.07,0:17:20.58,Default,,0,0,0,,All you wanted was for Mayuri to smile...
-Dialogue: 30,0:17:20.58,0:17:22.37,Default,,0,0,0,,That's all that matters.
+Dialogue: 30,0:17:20.58,0:17:22.37,Default,,0,0,0,,That’s all that matters.
 Dialogue: 30,0:17:22.37,0:17:25.33,Default,,0,0,0,,And I feel the same way too.
 Dialogue: 30,0:17:25.33,0:17:28.38,Default,,0,0,0,,The decision you made was not wrong.
 Dialogue: 30,0:17:28.38,0:17:32.88,Default,,0,0,0,,The only thing wrong is this world...\NThis worldline...
-Dialogue: 30,0:17:32.88,0:17:36.30,Default,,0,0,0,,That's why you have to return, Okabe Rintaro.
-Dialogue: 30,0:17:36.30,0:17:40.01,Default,,0,0,0,,You're here because this is only a dream.
+Dialogue: 30,0:17:32.88,0:17:36.30,Default,,0,0,0,,That’s why you have to return, Okabe Rintaro.
+Dialogue: 30,0:17:36.30,0:17:40.01,Default,,0,0,0,,You’re here because this is only a dream.
 Dialogue: 30,0:17:40.01,0:17:42.31,Default,,0,0,0,,Return to reality.
 Dialogue: 30,0:17:42.31,0:17:43.35,Default,,0,0,0,,A dream?
 Dialogue: 30,0:17:43.35,0:17:45.18,Default,,0,0,0,,Yes...
-Dialogue: 30,0:18:33.23,0:18:35.78,Default,,0,0,0,,Let's go back... To the lab.
+Dialogue: 30,0:18:33.23,0:18:35.78,Default,,0,0,0,,Let’s go back... To the lab.
 Dialogue: 30,0:18:40.28,0:18:43.74,Default,,0,0,0,,Before you wake from your dream,\Npromise me one thing.
-Dialogue: 30,0:18:43.74,0:18:45.04,Default,,0,0,0,,What's that?
+Dialogue: 30,0:18:43.74,0:18:45.04,Default,,0,0,0,,What’s that?
 Dialogue: 30,0:18:45.04,0:18:48.08,Default,,0,0,0,,When you get back, forget all about me.
-Dialogue: 30,0:18:48.08,0:18:51.00,Default,,0,0,0,,There's no way... I can't...
-Dialogue: 30,0:18:51.00,0:18:56.09,Default,,0,0,0,,Do it, even if you can't... That's what I want.
-Dialogue: 30,0:18:56.09,0:18:59.30,Default,,0,0,0,,It's not about emotions, it's Amadeus...
+Dialogue: 30,0:18:48.08,0:18:51.00,Default,,0,0,0,,There’s no way... I can’t...
+Dialogue: 30,0:18:51.00,0:18:56.09,Default,,0,0,0,,Do it, even if you can’t... That’s what I want.
+Dialogue: 30,0:18:56.09,0:18:59.30,Default,,0,0,0,,It’s not about emotions, it’s Amadeus...
 Dialogue: 30,0:18:59.30,0:19:00.47,Default,,0,0,0,,Eh?
-Dialogue: 30,0:19:00.47,0:19:03.80,Default,,0,0,0,,I don't know what caused\Nyour worldline to change this time.
-Dialogue: 30,0:19:03.80,0:19:07.52,Default,,0,0,0,,But, it's obvious time machines\Nare involved somehow.
+Dialogue: 30,0:19:00.47,0:19:03.80,Default,,0,0,0,,I don’t know what caused\Nyour worldline to change this time.
+Dialogue: 30,0:19:03.80,0:19:07.52,Default,,0,0,0,,But, it’s obvious time machines\Nare involved somehow.
 Dialogue: 30,0:19:07.52,0:19:08.93,Default,,0,0,0,,But, the PhoneWave...
-Dialogue: 30,0:19:08.93,0:19:11.65,Default,,0,0,0,,I can't make any claims\Nabout myself in your worldline,
+Dialogue: 30,0:19:08.93,0:19:11.65,Default,,0,0,0,,I can’t make any claims\Nabout myself in your worldline,
 Dialogue: 30,0:19:11.65,0:19:18.40,Default,,0,0,0,,but in this one, I completed my\Ntime machine theory only after meeting you.
-Dialogue: 30,0:19:18.40,0:19:20.78,Default,,0,0,0,,Since I can't guarantee\Nthe same won't happen there,
-Dialogue: 30,0:19:20.78,0:19:24.91,Default,,0,0,0,,it's dangerous for you two to interact too much.
-Dialogue: 30,0:19:29.83,0:19:31.79,Default,,0,0,0,,It's a pinky promise.
-Dialogue: 30,0:19:31.79,0:19:36.84,Default,,0,0,0,,Lie, and I'll stab an electrode\Ninto your hippocampus!
-Dialogue: 30,0:19:36.84,0:19:39.05,Default,,0,0,0,,It's a pinky promise!
+Dialogue: 30,0:19:18.40,0:19:20.78,Default,,0,0,0,,Since I can’t guarantee\Nthe same won’t happen there,
+Dialogue: 30,0:19:20.78,0:19:24.91,Default,,0,0,0,,it’s dangerous for you two to interact too much.
+Dialogue: 30,0:19:29.83,0:19:31.79,Default,,0,0,0,,It’s a pinky promise.
+Dialogue: 30,0:19:31.79,0:19:36.84,Default,,0,0,0,,Lie, and I’ll stab an electrode\Ninto your hippocampus!
+Dialogue: 30,0:19:36.84,0:19:39.05,Default,,0,0,0,,It’s a pinky promise!
 Dialogue: 30,0:19:40.68,0:19:41.84,Default,,0,0,0,,That was lame.
 Dialogue: 30,0:19:41.84,0:19:43.43,Default,,0,0,0,,Shut up.
 Dialogue: 30,0:19:58.40,0:19:59.28,Default,,0,0,0,,Hey...
@@ -490,17 +490,17 @@ Dialogue: 30,0:20:11.16,0:20:12.87,Default,,0,0,0,,I see...
 Dialogue: 30,0:20:12.87,0:20:17.17,Default,,0,0,0,,From her perspective, is that how we first met?
 Dialogue: 30,0:20:17.17,0:20:20.55,Default,,0,0,0,,I...
 Dialogue: 30,0:20:20.55,0:20:22.51,Default,,0,0,0,,Wait...
-Dialogue: 30,0:20:29.22,0:20:30.77,Default,,0,0,0,,Everything's ready.
-Dialogue: 30,0:20:30.77,0:20:36.27,Default,,0,0,0,,All that's left is to send that message, and\Nyou'll go back to the worldline you came from.
+Dialogue: 30,0:20:29.22,0:20:30.77,Default,,0,0,0,,Everything’s ready.
+Dialogue: 30,0:20:30.77,0:20:36.27,Default,,0,0,0,,All that’s left is to send that message, and\Nyou’ll go back to the worldline you came from.
 Dialogue: 30,0:20:42.99,0:20:43.99,Default,,0,0,0,,Okabe?
 Dialogue: 30,0:20:43.99,0:20:46.28,Default,,0,0,0,,Huh? Yeah...
-Dialogue: 30,0:20:50.91,0:20:55.25,Default,,0,0,0,,If I send this, I'll go back to that worldline.
-Dialogue: 30,0:20:55.25,0:20:59.46,Default,,0,0,0,,A world where Mayuri lives...\NA world where I don't lose her...
+Dialogue: 30,0:20:50.91,0:20:55.25,Default,,0,0,0,,If I send this, I’ll go back to that worldline.
+Dialogue: 30,0:20:55.25,0:20:59.46,Default,,0,0,0,,A world where Mayuri lives...\NA world where I don’t lose her...
 Dialogue: 30,0:20:59.46,0:21:02.72,Default,,0,0,0,,But instead, I lose her right there...
 Dialogue: 30,0:21:02.72,0:21:06.84,Default,,0,0,0,,Kurisu is gone, because I kill her...
 Dialogue: 30,0:21:06.84,0:21:10.18,Default,,0,0,0,,My most... most precious...
 Dialogue: 30,0:21:19.86,0:21:21.94,Default,,0,0,0,,Okabe?
-Dialogue: 30,0:21:58.19,0:22:00.98,Default,,0,0,0,,I'm so glad I met you.
+Dialogue: 30,0:21:58.19,0:22:00.98,Default,,0,0,0,,I’m so glad I met you.
 Dialogue: 30,0:22:02.32,0:22:03.98,Default,,0,0,0,,Kurisu?
 Dialogue: 30,0:23:23.61,0:23:25.73,Default,,0,0,0,,Okabe!
 Dialogue: 30,0:23:25.73,0:23:29.07,Default,,0,0,0,,I feel the same! I love—
