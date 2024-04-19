@@ -15,9 +15,7 @@ make sure these are thus equal to the desired episode number (leading zeroes are
 (e.g. "[Anime Time] Steins;Gate 0 - 12" will be evaluated as "012" -> episode 12)
 Any episode whose number does not evaluate to something between 1 and 23 will be treated as the OVA
 
-The subtitles MUST match the filenames as follows:
-    "[StyledHorribleFix] Steins;Gate 0 - {2-digit-episode-number}.ass"
-with exception to the OVA, for which {2-digit-episode-number} = OVA.
+The subtitles will be associated with their video file by evaluating the episode number in the same way
 #>
 
 $Anton = ".\fonts\Anton\Anton-Regular.ttf"
@@ -60,16 +58,34 @@ $Roboto = ".\fonts\Roboto\Roboto-Regular.ttf"
 $SedgwickAve = ".\fonts\Sedgwick_Ave\SedgwickAve-Regular.ttf"
 $SpecialElite = ".\fonts\Special_Elite\SpecialElite-Regular.ttf"
 
+function Get-Episode-Number($String) {
+    return [int]($String -replace "[^0-9]", '')
+}
+
+function Get-Subtitles($FolderName) {
+    [string[]]$EpisodeSubFiles
+
+    $SubFiles = Get-ChildItem -Path ".\$FolderName\*.ass"
+    foreach ($SubFile in $SubFiles) {
+        $SubNumber = Get-Episode-Number($SubFile.BaseName)
+        if (!($SubNumber -eq $EpisodeNumber -or $($SubNumber -isnot [int] -and $EpisodeNumber -eq "OVA"))) {continue}
+        
+        $EpisodeSubFiles += Join-Path -Path $FolderName -ChildPath $SubFile.Name
+    }
+    
+    return $EpisodeSubFiles
+}
+
 
 New-Item -Path .\output -ItemType Directory -Force
 $Files = Get-ChildItem -Path .\anime\*.mkv
 foreach ($File in $Files) {
     $FileName = $File.BaseName
-    $EpisodeNumber = [int]($FileName -replace "[^0-9]", '')
+    $EpisodeNumber = Get-Episode-Number($FileName)
 
     Switch ($EpisodeNumber) {
         1 {
-            $AddFonts =
+            $Fonts =
                 $ConcertOne,
                 $NotoSansJP,
                 $NotoSansJPMedium,
@@ -82,7 +98,7 @@ foreach ($File in $Files) {
                 $SpecialElite
         }
         2 {
-            $AddFonts =
+            $Fonts =
                 $LibreBodoni,
                 $Lugrasimo,
                 $NotoSansJP,
@@ -90,7 +106,7 @@ foreach ($File in $Files) {
                 $PlayfairDisplay
         }
         3 {
-            $AddFonts =
+            $Fonts =
                 $LibreBodoni,
                 $Lugrasimo,
                 $NotoSansJP,
@@ -101,7 +117,7 @@ foreach ($File in $Files) {
                 $Roboto
         }
         4 {
-            $AddFonts =
+            $Fonts =
                 $LibreBodoni,
                 $Lugrasimo,
                 $NotoSansJP,
@@ -111,7 +127,7 @@ foreach ($File in $Files) {
                 $Roboto
         }
         5 {
-            $AddFonts =
+            $Fonts =
                 $Anton,
                 $LibreBodoni,
                 $Lugrasimo,
@@ -121,7 +137,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         6 {
-            $AddFonts =
+            $Fonts =
                 $Jost,
                 $LibreBodoni,
                 $Lugrasimo,
@@ -131,7 +147,7 @@ foreach ($File in $Files) {
                 $SedgwickAve
         }
         7 {
-            $AddFonts =
+            $Fonts =
                 $LibreBodoni,
                 $Lugrasimo,
                 $NotoSansJP,
@@ -143,7 +159,7 @@ foreach ($File in $Files) {
                 $SedgwickAve
         }
         8 {
-            $AddFonts =
+            $Fonts =
                 $Cinzel,
                 $DancingScriptSemiBold,
                 $LibreBodoni,
@@ -156,7 +172,7 @@ foreach ($File in $Files) {
                 $PlaypenSansMedium
         }
         9 {
-            $AddFonts =
+            $Fonts =
                 $Anton,
                 $ConcertOne,
                 $Farsan,
@@ -170,7 +186,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         10 {
-            $AddFonts =
+            $Fonts =
                 $ConcertOne,
                 $LibreBodoni,
                 $Lugrasimo,
@@ -181,7 +197,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         11 {
-            $AddFonts =
+            $Fonts =
                 $Anton,
                 $AreYouSerious,
                 $LibreBodoni,
@@ -194,7 +210,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         12 {
-            $AddFonts =
+            $Fonts =
                 $Anton,
                 $Audiowide,
                 $Jost,
@@ -208,7 +224,7 @@ foreach ($File in $Files) {
                 $SedgwickAve
         }
         13 {
-            $AddFonts =
+            $Fonts =
                 $BadScript,
                 $ConcertOne,
                 $LibreBodoni,
@@ -223,7 +239,7 @@ foreach ($File in $Files) {
                 $SedgwickAve
         }
         14 {
-            $AddFonts =
+            $Fonts =
                 $DidactGothic,
                 $Jost,
                 $KodeMonoSemiBold,
@@ -238,7 +254,7 @@ foreach ($File in $Files) {
                 $Roboto
         }
         15 {
-            $AddFonts =
+            $Fonts =
                 $Farsan,
                 $Jost,
                 $KodeMonoSemiBold,
@@ -250,7 +266,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         16 {
-            $AddFonts =
+            $Fonts =
                 $AreYouSerious,
                 $CourierPrime,
                 $KodeMonoSemiBold,
@@ -260,7 +276,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         17 {
-            $AddFonts =
+            $Fonts =
                 $CourierPrime,
                 $KodeMonoSemiBold,
                 $LibreBodoni,
@@ -272,7 +288,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         18 {
-            $AddFonts =
+            $Fonts =
                 $DancingScriptSemiBold,
                 $LibreBodoni,
                 $NotoSansJP,
@@ -281,7 +297,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         19 {
-            $AddFonts =
+            $Fonts =
                 $Jost,
                 $KodeMonoSemiBold,
                 $LibreBodoni,
@@ -291,7 +307,7 @@ foreach ($File in $Files) {
                 $PlaypenSans
         }
         20 {
-            $AddFonts =
+            $Fonts =
                 $KodeMonoSemiBold,
                 $LibreBodoni,
                 $NotoSansJPMedium,
@@ -299,14 +315,14 @@ foreach ($File in $Files) {
                 $SedgwickAve
         }
         21 {
-            $AddFonts =
+            $Fonts =
                 $LibreBodoni,
                 $NixieOne,
                 $NotoSansJPMedium,
                 $PlayfairDisplay
         }
         22 {
-            $AddFonts =
+            $Fonts =
                 $CourierPrime,
                 $NotoSansJPMedium,
                 $PixelifySans,
@@ -315,7 +331,7 @@ foreach ($File in $Files) {
                 $PlaypenSansMedium
         }
         23 {
-            $AddFonts =
+            $Fonts =
                 $IMFellEnglish,
                 $LexendZettaLight,
                 $Manjari,
@@ -327,7 +343,7 @@ foreach ($File in $Files) {
         }
         Default { # OVA
             $EpisodeNumber = "OVA"
-            $AddFonts =
+            $Fonts =
                 $KodeMonoSemiBold,
                 $LibreBodoni,
                 $MPlusRounded1cBlack,
@@ -346,19 +362,20 @@ foreach ($File in $Files) {
 
     Write-Host -ForegroundColor Blue "`nMerging ""$FileName.mkv"" as episode $EpisodeNumber..."
 
-    $MkvMerge = "mkvmerge"
+    $Executable = "mkvmerge"
+
     $InputFile = Join-Path -Path "anime" -ChildPath ("$FileName.mkv")
     $OutputFile = Join-Path -Path "output" -ChildPath ("$FileName.mkv")
+    $AddOutput = "-o", $OutputFile, "--default-track-flag", "1:0", "--default-track", "2:1", $InputFile
 
-    if ($EpisodeNumber -is [int] -and $EpisodeNumber -lt 10) { $EpisodeNumber = "0$EpisodeNumber" }
-    $FullSubFile = Join-Path -Path "full" -ChildPath ("[StyledHorribleFix] Steins;Gate 0 - $EpisodeNumber.ass")
-    $SSSubFile = Join-Path -Path "ss" -ChildPath ("[StyledHorribleFix] Steins;Gate 0 - $EpisodeNumber.ass")
+    $FullPrefix = "--default-track-flag", "0:1", "--language", "0:en", "--track-name", "0:Full [StyledHorribleFix]"
+    $AddFullSubs = @(Get-Subtitles("full") | ForEach-Object {$FullPrefix + $_})
 
-    $Output = "-o", $OutputFile, "--default-track-flag", "1:0", "--default-track", "2:1", $InputFile
-    $AddFull = "--default-track-flag", "0:1", "--language", "0:en", "--track-name", "0:Full [StyledHorribleFix]", $FullSubFile
-    $AddSS = "--default-track-flag", "0:0", "--language", "0:en", "--track-name", "0:Signs+Songs [StyledHorribleFix]", $SSSubFile
-    $AddFontPrefix = "--attachment-mime-type", "application/x-truetype-font", "--attach-file"
-    $AddFonts = @($AddFonts | ForEach-Object {$AddFontPrefix + $_})
+    $SSPrefix = "--default-track-flag", "0:0", "--language", "0:en", "--track-name", "0:Signs+Songs [StyledHorribleFix]"
+    $AddSSSubs = @(Get-Subtitles("ss") | ForEach-Object {$SSPrefix + $_})
 
-    &$MkvMerge @(($Output, $AddFull, $AddSS, $AddFonts) | ForEach-Object {$_})
+    $FontPrefix = "--attachment-mime-type", "application/x-truetype-font", "--attach-file"
+    $AddFonts = @($Fonts | ForEach-Object {$FontPrefix + $_})
+
+    &$Executable @(($AddOutput, $AddFullSubs, $AddSSSubs, $AddFonts) | ForEach-Object {$_})
 }
