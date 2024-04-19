@@ -102,7 +102,7 @@ Dialogue: 1,0:05:44.07,0:05:44.19,OkabePhone,,0,0,0,,{\c&H4E4D4D&\blur2\fs45\be0
 Dialogue: 0,0:05:44.19,0:05:44.78,Draw,,0,0,0,,{\blur5\p1\c&HE9E6E5&\pos(-18,476)\clip(m 817 980 l 1144 957 1164 1033 821 1054)}m 845 481 l 1149 461 l 1157 536 l 848 554 {\p0}
 Dialogue: 1,0:05:44.19,0:05:44.78,OkabePhone,,0,0,0,,{\c&H4E4D4D&\blur4\fs45\be0.5\frz3.823\clip(m 817 980 l 1144 957 1164 1033 821 1054)\pos(830,946)}Sheesh! I told you once\Nalready >_<
 Dialogue: 0,0:09:57.99,0:09:59.45,Draw,,0,0,0,,{\blur5\p1\c&HFBF8F1&\pos(0,0)\fade(0,300)}m 1314 362 l 1560 362 l 1560 403 l 1315 403 {\p0}
-Dialogue: 1,0:09:57.99,0:09:59.45,Signs,,0,0,0,,{\c&HBCB3AC&\b0\fnNoto Sans JP Medium\fs34\an7\be1\fade(0,300)\pos(1320,354)}Subject: {\c&H888C86&\fnNoto Sans Jp}Regarding\N{\c&H888C86&\1a&HFF&}mmmiiiii{\1a&H00&}Laptop
+Dialogue: 1,0:09:57.99,0:09:59.45,Signs,,0,0,0,,{\c&HBCB3AC&\b0\fnNoto Sans JP Medium\fs34\an7\be1\fade(0,300)\pos(1320,354)}Subject: {\c&H888C86&\fnNoto Sans JP}Regarding\N{\c&H888C86&\1a&HFF&}mmmiiiii{\1a&H00&}Laptop
 Dialogue: 0,0:09:59.37,0:09:59.41,Draw,,0,0,0,,{\blur5\p1\c&HF4F5F0&\pos(0,0)}m 467 988 l 595 987 l 595 1006 l 468 1006{\p0}
 Dialogue: 0,0:09:59.37,0:09:59.41,Draw,,0,0,0,,{\blur5\p1\c&HEEEFE8&\pos(0,0)}m 466 1010 l 680 1010 l 680 1030 l 467 1029 {\p0}
 Dialogue: 0,0:09:59.37,0:09:59.41,Draw,,0,0,0,,{\blur5\p1\c&HF0EFE8&\pos(-4,2)}m 464 1053 l 621 1054 l 620 1075 l 464 1073 {\p0}
