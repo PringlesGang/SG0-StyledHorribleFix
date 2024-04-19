@@ -20,7 +20,7 @@ You can contact me on Discord under the username `pringlesgang`.
 - [How to use](#how-to-use)
     - [Downloading the release](#downloading-the-release)
     - [Building from source](#building-from-source)
-    - [Targetting the TV release](#targetting-the-tv-release)
+    - [Targeting the TV release](#targeting-the-tv-release)
 - [Credits](#credits)
 
 # Preview
@@ -35,7 +35,7 @@ You can contact me on Discord under the username `pringlesgang`.
 
 # Features
 ### Translated and styled signs
-Steins;Gate 0 often makes use of RINE messages in place of spoken dialogue, which is, of course, in Japanese. In these cases (as well as other cases of important unspoken Japanese), the original text will have been obscured, with the English translation overlayed on top, resulting in a seamless watching experience!
+Steins;Gate 0 often makes use of RINE messages in place of spoken dialogue, which is, of course, [in Japanese](https://youtu.be/5emC3_P-i7o). In these cases (as well as other cases of important unspoken Japanese), the original text will have been obscured, with the English translation overlayed on top, resulting in a seamless watching experience!
 
 ### Translated songs
 All songs have been meticulously translated and styled. The Committee of Zero translation were taken for those songs that (in-part) have them, with all other songs fully retranslated, paying close attention to connections made to the series.
@@ -50,11 +50,11 @@ These subtitles have been thoroughly edited to match the Committee of Zero's vis
 - Sticking to established Science Adventure terminology (like *worldline* and *world layer*)
 - Name order and romanization (Okabe Rintaro instead of Rintarou Okabe)
 - [Restored Japanese honorifics](#restored-japanese-honorifics)
-- Textual stylistic choices (i.e. writing ‘[Kurisu]’ when referring to *Amadeus* Kurisu)
-- Keeping in-unverise brand names (like Dr P)
+- Textual stylistic choices (e.g. writing ‘[Kurisu]’ when referring to *Amadeus* Kurisu)
+- Keeping in-universe brand names (like Dr P)
 
 ### Improved typography
-All instances of en-dashes and em-dashes have been replaced with their respective single-character counterparts (– and —), and all quotes and apostrophes have been replaced with their directed counterparts, to improve readability.
+All instances of en-dashes and em-dashes have been replaced with their respective single-character counterparts (– and —, instead of - and --), and all quotes and apostrophes have been replaced with their directed counterparts, to improve readability.
 
 In addition to this, the default styling uses the [Noto Sans Japanese](https://fonts.google.com/noto/specimen/Noto+Sans+JP) font at medium style with a black stroke, for easy readability from the couch!
 
@@ -65,11 +65,24 @@ These subtitles target the [Anime Time] release, though through some minor tempo
 > These subtitles are best played with [mpv](https://mpv.io)!
 
 ## Downloading the release
-Download the latest release under the [**Releases**](https://github.com/PringlesGang/SG0-HorribleStyledFix/releases) section. Choose whether you want the *full subtitles*, or the *sings+songs subtitles*. This zip file will include each episode's subtitle file, as well as a folder containing all fonts used in the project.
+Download the latest release under the [**Releases**](https://github.com/PringlesGang/SG0-HorribleStyledFix/releases) section. This zip file will include three folders:
+- `fonts` contains all fonts used in the project
+- `full` contains the full subtitles, intended for Japanese audio
+- `ss` contains the signs+songs subtitles, intended for English audio
 
-To use these subtitles, either install each of them on your machine, or merge them into each episode's video file.
+In addition to this, there is also a PowerShell script: [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1). 
 
+To use these subtitles, either install each font on your machine, or merge them into each episode's video file [using the automated merging script](#using-the-automated-merging-script).
 A comprehensive list of what fonts are used in what episodes can be found in [`fonts.md`](./fonts.md).
+
+### Using the automated merging script
+The automated merging script will take all anime episodes as input, and spit out those same files with their respective subtitles and fonts injected, making them perfectly playable straight from the video file!
+
+To use this, first make sure that [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) is in a directory that has the subdirectories `fonts`, `full` and `ss`, containing the fonts, full subtitles and signs+songs subtitles respectively.
+
+Next, create a fourth folder called `anime`. In this folder, copy all Steins;Gate 0 episodes from the [Anime Time] release.
+
+Finally, right-click on the [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) script, and select `Run with PowerShell`. The injected video files should slowly start to appear in the newly generated `output` folder.
 
 ## Building from source
 To make better use of source-control, the source subtitle files in this repository are not compiled, meaning some stylings only exist as Aegisub templates, and not as actual lines. To compile these files, open them in [Aegisub](https://aegisub.org/), and compile by clicking the `Automation -> Apply karaoke template` button.
@@ -81,12 +94,12 @@ The repository contains three blacklist files: [`decompile-blacklist.txt`](./ssa
 
 All fonts used, as well as their download links, are found in the [`fonts.md`](./fonts.md) file.
 
-## Targetting the TV release
+## Targeting the TV release
 These subtitles target the Blu-ray release, which changed some of the animation. This means that if you wish to target a TV release (such as the HorribleSubs release), some stylings will need to be altered. These alterations can be found in [`TV-alterations.md`](./TV-alterations.md).
 
 # Credits
 Special thanks to the following people, without whom this project wouldn't have been possible!
 
-- Mia - Worked on the original [HorribleFix] release, and helped me with the *World-Line* song translation
+- Mia - Worked on the original [HorribleFix] release, and helped me with the *World-Line* song translation.
 - Woute - Worked on the original [HorribleFix] release.
 - Committee of Zero - Provided song translations for *A Song for the Stars* and *Gate of Steiner*, plus the first part of *Amadeus* and *Lyra*, as well as the chorus and stylings for *Skyclad Observer*. They are also, of course, to be thanked for the terminology this project strives to be consistent with!
