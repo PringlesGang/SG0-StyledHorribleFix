@@ -15,7 +15,9 @@ make sure these are thus equal to the desired episode number (leading zeroes are
 (e.g. "[Anime Time] Steins;Gate 0 - 12" will be evaluated as "012" -> episode 12)
 Any episode whose number does not evaluate to something between 1 and 23 will be treated as the OVA
 
-The subtitles MUST match the filename of their associated video file, and MUST end in ".ass"
+The subtitles MUST match the filenames as follows:
+    "[StyledHorribleFix] Steins;Gate 0 - {2-digit-episode-number}.ass"
+with exception to the OVA, for which {2-digit-episode-number} = OVA.
 #>
 
 $Anton = ".\fonts\Anton\Anton-Regular.ttf"
@@ -347,8 +349,10 @@ foreach ($File in $Files) {
     $MkvMerge = "mkvmerge"
     $InputFile = Join-Path -Path "anime" -ChildPath ("$FileName.mkv")
     $OutputFile = Join-Path -Path "output" -ChildPath ("$FileName.mkv")
-    $FullSubFile = Join-Path -Path "full" -ChildPath ("$FileName.ass")
-    $SSSubFile = Join-Path -Path "ss" -ChildPath ("$FileName.ass")
+
+    if ($EpisodeNumber -is [int] -and $EpisodeNumber -lt 10) { $EpisodeNumber = "0$EpisodeNumber" }
+    $FullSubFile = Join-Path -Path "full" -ChildPath ("[StyledHorribleFix] Steins;Gate 0 - $EpisodeNumber.ass")
+    $SSSubFile = Join-Path -Path "ss" -ChildPath ("[StyledHorribleFix] Steins;Gate 0 - $EpisodeNumber.ass")
 
     $Output = "-o", $OutputFile, "--default-track-flag", "1:0", "--default-track", "2:1", $InputFile
     $AddFull = "--default-track-flag", "0:1", "--language", "0:en", "--track-name", "0:Full [StyledHorribleFix]", $FullSubFile
