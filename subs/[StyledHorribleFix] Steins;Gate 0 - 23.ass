@@ -30,210 +30,210 @@ Style: GoS Trans,Lexend Zetta Light,65,&H00FFFFFF,&H006A6A6A,&H001F1612,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 11,0:16:04.19,0:16:09.86,HttG Rom,,0,0,0,,{\fs60\fad(200,0)}Suujuuoku mono kodou no kazu sae
-Dialogue: 11,0:16:09.86,0:16:16.53,HttG Rom,,0,0,0,,{\fs60}Anata ni wa matataki teido no saji na toukyuu
-Dialogue: 11,0:16:16.53,0:16:21.75,HttG Rom,,0,0,0,,{\fs60}Kako ni torawarete mirai wo nageku mo
-Dialogue: 11,0:16:21.75,0:16:27.67,HttG Rom,,0,0,0,,{\fs60}Chiri hitotsu gosan wo yurusanu hitsuzen
-Dialogue: 11,0:16:27.67,0:16:33.76,HttG Rom,,0,0,0,,{\fs60}“Mugen” ni hirogaru yume mo egaku mirai mo
-Dialogue: 11,0:16:33.76,0:16:39.56,HttG Rom,,0,0,0,,{\fs60}Bokutachi ni yurusareta kyoei no kenri
-Dialogue: 11,0:16:39.56,0:16:45.73,HttG Rom,,0,0,0,,{\fs60}“Yuugen” sore wa futatsu no hari ga shimesu
-Dialogue: 11,0:16:45.73,0:16:50.11,HttG Rom,,0,0,0,,{\fs60}Zankoku na yakujou to sentaku he
-Dialogue: 11,0:16:50.11,0:16:52.32,HttG Rom,,0,0,0,,{\fs60\fade(0,100)}Hacking to the Gate
-Dialogue: 11,0:16:52.78,0:16:59.66,HttG Rom,,0,0,0,,{\fs60\fade(100,0)}Dakara ima ichi byou gotoni sekaisen wo koete
-Dialogue: 11,0:16:59.66,0:17:04.67,HttG Rom,,0,0,0,,{\fs60}Kimi no sono egao mamoritai no sa
-Dialogue: 11,0:17:04.67,0:17:11.59,HttG Rom,,0,0,0,,{\fs60}Soshite mata kanashimi no nai jikan no ruupu heto
-Dialogue: 11,0:17:11.59,0:17:17.84,HttG Rom,,0,0,0,,{\fs60\fad(0,200)}Nomikomarete yuku kodoku no kansokusha
-Dialogue: 11,0:17:19.64,0:17:26.52,HttG Rom,,0,0,0,,{\fs60\fade(200,0)}Dakara ima ichi byou gotoni sekaisen wo koete
-Dialogue: 11,0:17:26.52,0:17:31.53,HttG Rom,,0,0,0,,{\fs60}Kimi no sono egao mamoritai no sa
-Dialogue: 11,0:17:31.53,0:17:38.45,HttG Rom,,0,0,0,,{\fs60}Soshite mata kanashimi no nai jikan no ruupu heto
-Dialogue: 11,0:17:38.45,0:17:44.71,HttG Rom,,0,0,0,,{\fs60\fad(0,200)}Nomikomarete yuku kodoku no kansokusha
-Dialogue: 11,0:16:04.19,0:16:09.86,HttG Trans,,0,0,0,,{\an8\fs60\fad(200,0)}Between the billions of heartbeats
-Dialogue: 11,0:16:09.86,0:16:16.53,HttG Trans,,0,0,0,,{\an8\fs60}You are but a small trifle—wholly insignificant
-Dialogue: 11,0:16:16.53,0:16:21.75,HttG Trans,,0,0,0,,{\an8\fs60}As I am trapped in the past, and I lament the future
-Dialogue: 11,0:16:21.75,0:16:27.67,HttG Trans,,0,0,0,,{\an8\fs60}I cannot forgive even the most minute of miscalculations
-Dialogue: 11,0:16:27.67,0:16:33.76,HttG Trans,,0,0,0,,{\an8\fs60}Dreams stretching out to “infinity,” sketching out our future
-Dialogue: 11,0:16:33.76,0:16:39.56,HttG Trans,,0,0,0,,{\an8\fs60}Such thoughts are but arrogant privileges granted to us
-Dialogue: 11,0:16:39.56,0:16:45.73,HttG Trans,,0,0,0,,{\an8\fs60}The “finite” is dictated by the two hands
-Dialogue: 11,0:16:45.73,0:16:50.11,HttG Trans,,0,0,0,,{\an8\fs60}If I’m bound by such a cruel contract, my choice will instead be to go
-Dialogue: 11,0:16:52.78,0:16:59.66,HttG Trans,,0,0,0,,{\an8\fs60\fade(100,0)}And thus I will cross worldlines with each second passed
-Dialogue: 11,0:16:59.66,0:17:04.67,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
-Dialogue: 11,0:17:04.67,0:17:11.59,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
-Dialogue: 11,0:17:11.59,0:17:17.84,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
-Dialogue: 11,0:17:19.64,0:17:26.52,HttG Trans,,0,0,0,,{\an8\fs60\fade(200,0)}And thus I will cross worldlines with each second passed
-Dialogue: 11,0:17:26.52,0:17:31.53,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
-Dialogue: 11,0:17:31.53,0:17:38.45,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
-Dialogue: 11,0:17:38.45,0:17:44.71,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
-Dialogue: 12,0:20:18.40,0:20:24.28,GoS Rom,,0,0,0,,{\kf71}{\fade(100,100)}“Time” {\kf203}is {\kf16}so {\kf31}sad {\kf18}and {\kf61}flee{\kf188}ting
-Dialogue: 12,0:20:24.28,0:20:30.37,GoS Rom,,0,0,0,,{\kf35}{\fade(100,100)}Can’t {\kf20}be {\kf14}con{\kf101}trolled, {\kf27}like {\kf23}a {\kf18}ri{\kf88}ver, {\kf28}ne{\kf12}ver {\kf243}stops
-Dialogue: 12,0:20:31.41,0:20:37.29,GoS Rom,,0,0,0,,{\kf75}{\fade(100,100)}“Space” {\kf199}is {\kf16}emp{\kf17}ti{\kf25}ness {\kf44}dark {\kf13}and {\kf45}so {\kf154}cold
-Dialogue: 12,0:20:37.29,0:20:42.92,GoS Rom,,0,0,0,,{\kf37}{\fade(100,100)}Can {\kf17}you {\kf19}de{\kf106}fine {\kf26}its {\kf14}pre{\kf81}sence, {\kf48}does {\kf8}it {\kf12}e{\kf195}xist?
-Dialogue: 12,0:20:44.09,0:20:47.30,GoS Rom,,0,0,0,,{\kf48}{\fade(100,100)}We {\kf46}drift {\kf66}through {\kf43}the {\kf59}hea{\kf59}vens
-Dialogue: 12,0:20:47.30,0:20:50.52,GoS Rom,,0,0,0,,{\kf23}{\fade(100,100)}Ha{\kf22}te{\kf59}na{\kf58}i {\kf37}o{\kf59}mo{\kf64}i
-Dialogue: 12,0:20:50.85,0:20:56.73,GoS Rom,,0,0,0,,{\kf72}{\fade(100,100)}Filled {\kf60}with {\kf40}the {\kf54}love {\kf52}from {\kf26}up {\kf21}a{\kf263}bove
-Dialogue: 12,0:20:57.36,0:21:00.07,GoS Rom,,0,0,0,,{\kf70}{\fade(100,100)}He {\kf59}guides {\kf38}my {\kf64}tra{\kf40}vels
-Dialogue: 12,0:21:00.07,0:21:03.57,GoS Rom,,0,0,0,,{\kf43}{\fade(100,100)}Se{\kf21}ma{\kf57}ru {\kf63}ko{\kf37}ku{\kf62}ge{\kf67}n
-Dialogue: 12,0:21:03.95,0:21:10.29,GoS Rom,,0,0,0,,{\kf38}{\fade(100,100)}Shed {\kf21}a {\kf37}tear {\kf46}and {\kf102}leap {\kf41}to {\kf38}a {\kf157}new {\kf154}world
-Dialogue: 12,0:21:23.17,0:21:29.18,GoS Rom,,0,0,0,,{\kf80}{\fade(100,100)\fs79}Cos{\kf208}mos {\kf19}and {\kf25}their {\kf20}cre{\kf42}a{\kf207}tion
-Dialogue: 12,0:21:29.18,0:21:35.64,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)\fs79}Tell {\kf20}me, {\kf24}do {\kf102}they {\kf13}e{\kf29}xist {\kf22}for {\kf100}in{\kf18}fi{\kf21}ni{\kf270}ty?
-Dialogue: 12,0:21:36.14,0:21:42.11,GoS Rom,,0,0,0,,{\kf88}{\fade(100,100)\fs79}Stars {\kf202}burn, {\kf19}bur{\kf11}ning {\kf30}so {\kf40}bright {\kf18}but {\kf35}they’ll {\kf154}fade
-Dialogue: 12,0:21:42.11,0:21:48.07,GoS Rom,,0,0,0,,{\kf39}{\fade(100,100)\fs79}How {\kf18}will {\kf19}I {\kf79}know? {\kf40}Se{\kf27}crets {\kf78}kept {\kf39}un{\kf28}til {\kf17}I {\kf212}die
-Dialogue: 12,0:21:48.78,0:21:52.04,GoS Rom,,0,0,0,,{\kf49}{\fade(100,100)\fs79}De{\kf68}fy {\kf63}my {\kf35}des{\kf61}ti{\kf50}ny
-Dialogue: 12,0:21:52.04,0:21:55.62,GoS Rom,,0,0,0,,{\kf36}{\fade(100,100)\fs79}Ma{\kf20}mo{\kf59}ri{\kf62}ta{\kf41}i {\kf60}mo{\kf80}no
-Dialogue: 12,0:21:55.83,0:22:01.75,GoS Rom,,0,0,0,,{\kf62}{\fade(100,100)\fs79}Foo{\kf60}lish, {\kf41}but {\kf54}it’s {\kf48}hu{\kf20}ma{\kf19}ni{\kf288}ty
-Dialogue: 12,0:22:02.09,0:22:04.97,GoS Rom,,0,0,0,,{\kf85}{\fade(100,100)\fs79}I{\kf55}ma{\kf44}gi{\kf49}na{\kf55}tion
-Dialogue: 12,0:22:05.13,0:22:08.51,GoS Rom,,0,0,0,,{\kf16}{\fade(100,100)\fs79}Ki{\kf28}se{\kf59}ki {\kf62}ni {\kf42}ka{\kf60}e{\kf71}ru
-Dialogue: 12,0:22:08.76,0:22:15.18,GoS Rom,,0,0,0,,{\kf51}{\fade(100,100)\fs79}Things {\kf14}you {\kf41}can’t {\kf32}con{\kf111}ceive, {\kf39}re{\kf41}ve{\kf157}la{\kf156}tion!
-Dialogue: 12,0:22:37.54,0:22:40.71,GoS Rom,,0,0,0,,{\kf38}{\fade(100,100)}A {\kf72}drop {\kf58}in {\kf41}the {\kf58}dark{\kf50}ness
-Dialogue: 12,0:22:40.71,0:22:44.00,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)}Chi{\kf17}i{\kf75}sa{\kf55}na {\kf44}i{\kf55}no{\kf56}chi
-Dialogue: 12,0:22:44.34,0:22:50.43,GoS Rom,,0,0,0,,{\kf73}{\fade(100,100)}U{\kf67}nique {\kf33}and {\kf53}pre{\kf47}cious {\kf18}for{\kf31}e{\kf287}ver
-Dialogue: 12,0:22:50.93,0:22:53.76,GoS Rom,,0,0,0,,{\kf62}{\fade(100,100)}Bit{\kf45}ter{\kf58}sweet {\kf42}me{\kf23}mo{\kf53}ries
-Dialogue: 12,0:22:53.76,0:22:57.18,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)}Mu{\kf22}ge{\kf60}n {\kf45}no {\kf46}se{\kf69}tsu{\kf73}na
-Dialogue: 12,0:22:57.31,0:23:02.81,GoS Rom,,0,0,0,,{\kf56}{\fade(100,100)}Make {\kf22}this {\kf40}mo{\kf41}ment {\kf101}last, {\kf36}last {\kf44}for{\kf163}e{\kf47}ver
-Dialogue: 12,0:23:03.27,0:23:06.74,GoS Rom,,0,0,0,,{\kf63}{\fade(100,100)}We {\kf66}drift {\kf61}through {\kf41}the {\kf56}hea{\kf60}vens
-Dialogue: 12,0:23:06.74,0:23:10.20,GoS Rom,,0,0,0,,{\kf25}{\fade(100,100)}Ha{\kf20}te{\kf61}na{\kf61}i {\kf38}o{\kf63}mo{\kf78}i
-Dialogue: 12,0:23:10.28,0:23:16.20,GoS Rom,,0,0,0,,{\kf76}{\fade(100,100)}Filled {\kf61}with {\kf40}the {\kf55}love {\kf48}from {\kf20}up {\kf23}a{\kf269}bove
-Dialogue: 12,0:23:16.70,0:23:19.71,GoS Rom,,0,0,0,,{\kf78}{\fade(100,100)}He {\kf60}guides {\kf37}my {\kf71}tra{\kf55}vels
-Dialogue: 12,0:23:19.71,0:23:22.88,GoS Rom,,0,0,0,,{\kf25}{\fade(100,100)}Se{\kf21}ma{\kf60}ru {\kf60}ko{\kf42}ku{\kf61}ge{\kf48}n
-Dialogue: 12,0:23:23.29,0:23:29.92,GoS Rom,,0,0,0,,{\kf52}{\fade(100,100)}Shed {\kf22}a {\kf40}tear {\kf39}and {\kf97}leap {\kf45}to {\kf41}a {\kf163}new {\kf164}world
-Dialogue: 11,0:20:18.40,0:20:24.28,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}“Time” is so sad and fleeting
-Dialogue: 11,0:20:24.28,0:20:30.37,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Can’t be controlled, like a river, never stops
-Dialogue: 11,0:20:31.41,0:20:37.29,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}“Space” is emptiness dark and so cold
-Dialogue: 11,0:20:37.29,0:20:42.92,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Can you define its presence, does it exist?
-Dialogue: 11,0:20:44.09,0:20:47.30,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}We drift through the heavens
-Dialogue: 11,0:20:47.30,0:20:50.52,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Hatenai omoi
-Dialogue: 11,0:20:50.85,0:20:56.73,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Filled with the love from up above
-Dialogue: 11,0:20:57.36,0:21:00.07,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}He guides my travels
-Dialogue: 11,0:21:00.07,0:21:03.57,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Semaru kokugen
-Dialogue: 11,0:21:03.95,0:21:10.29,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Shed a tear and leap to a new world
-Dialogue: 11,0:21:23.17,0:21:29.18,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Cosmos and their creation
-Dialogue: 11,0:21:29.18,0:21:35.64,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Tell me, do they exist for infinity?
-Dialogue: 11,0:21:36.14,0:21:42.11,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Stars burn, burning so bright but they’ll fade
-Dialogue: 11,0:21:42.11,0:21:48.07,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}How will I know? Secrets kept until I die
-Dialogue: 11,0:21:48.78,0:21:52.04,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Defy my destiny
-Dialogue: 11,0:21:52.04,0:21:55.62,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Mamoritai mono
-Dialogue: 11,0:21:55.83,0:22:01.75,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Foolish, but it’s humanity
-Dialogue: 11,0:22:02.09,0:22:04.97,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Imagination
-Dialogue: 11,0:22:05.13,0:22:08.51,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Kiseki ni kaeru
-Dialogue: 11,0:22:08.76,0:22:15.18,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Things you can’t conceive, revelation!
-Dialogue: 11,0:22:37.54,0:22:40.71,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}A drop in the darkness
-Dialogue: 11,0:22:40.71,0:22:44.00,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Chiisana inochi
-Dialogue: 11,0:22:44.34,0:22:50.43,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Unique and precious forever
-Dialogue: 11,0:22:50.93,0:22:53.76,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Bittersweet memories
-Dialogue: 11,0:22:53.76,0:22:57.18,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Mugen no setsuna
-Dialogue: 11,0:22:57.31,0:23:02.81,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Make this moment last, last forever
-Dialogue: 11,0:23:03.27,0:23:06.74,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}We drift through the heavens
-Dialogue: 11,0:23:06.74,0:23:10.20,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Hatenai omoi
-Dialogue: 11,0:23:10.28,0:23:16.20,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Filled with the love from up above
-Dialogue: 11,0:23:16.70,0:23:19.71,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}He guides my travels
-Dialogue: 11,0:23:19.71,0:23:22.88,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Semaru kokugen
-Dialogue: 11,0:23:23.29,0:23:29.92,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Shed a tear and leap to a new world
-Dialogue: 11,0:20:47.30,0:20:50.52,GoS Trans,,0,0,0,,{\fade(100,100)\blur22.5\an8}With boundless emotions
-Dialogue: 11,0:21:00.07,0:21:03.57,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\an8}The chosen time draws near
-Dialogue: 11,0:21:52.04,0:21:55.62,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Of the ones I wish to protect
-Dialogue: 11,0:22:05.13,0:22:08.51,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Will alter in a miracle
-Dialogue: 11,0:22:40.71,0:22:44.00,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}A small life
-Dialogue: 11,0:22:53.76,0:22:57.18,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}As moments perpetually fleeting
-Dialogue: 11,0:23:06.74,0:23:10.20,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}With boundless emotions
-Dialogue: 11,0:23:19.71,0:23:22.88,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}The chosen time draws near
-Dialogue: 10,0:21:10.41,0:22:32.12,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}Mad_Scientist:_Trick_world._Connect_all_Potentials.
-Dialogue: 10,0:21:10.41,0:22:32.12,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}Mad_Scientist:_Trick_world._Connect_all_Potentials.
-Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\pos(1288,904)}Arc-light
-Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs50\pos(1162,932)}of
-Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs40\fsp-3\pos(1160,952)}the
-Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\pos(1316,960)}Point
-Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs50\pos(1350,954)}at
-Dialogue: 1,0:10:15.01,0:10:20.01,Title,,0,0,0,,{\an3\fs120\pos(1634,968)}Infinity
-Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\pos(1274,912)}Stardust
-Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\fs50\pos(1312,908)}of
-Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\pos(1314,972)}Intersected
-Dialogue: 1,0:16:09.86,0:16:15.87,Title,,0,0,270,,{\an3\fs120\fsp-7\fscy130\pos(1710,978)}Coordinates
-Dialogue: 0,0:00:39.60,0:00:42.60,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEAE7E6&}m 614 527 l 878 463 l 921 562 l 654 638 {\p0}
-Dialogue: 1,0:00:39.60,0:00:39.81,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yester
-Dialogue: 1,0:00:39.81,0:00:40.10,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterd
-Dialogue: 1,0:00:40.10,0:00:40.56,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterda
-Dialogue: 1,0:00:40.56,0:00:42.60,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterday
-Dialogue: 0,0:09:33.30,0:09:35.17,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HD6D0CC&}m 619 510 l 658 503 l 707 761 l 669 769 {\p0}
-Dialogue: 1,0:09:33.30,0:09:35.17,OkabePhone,,0,0,0,,{\c&H6C6563&\frz101\an5\fs40\be4\alpha&H50&\pos(660,630)}1 new RINE message
-Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&H1C2025&}m 1237 417 l 1237 585 l 940 586 l 987 412 {\p0}
-Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&HC0A3BF&}m 794 98 l 794 145 l 661 145 l 661 98 {\p0}
-Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H141C1E&}m 674 864 l 749 864 l 749 906 l 674 906 {\p0}
-Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H101D1C&}m 984 863 l 1059 863 l 1059 905 l 984 905 {\p0}
-Dialogue: 0,0:10:28.39,0:10:29.60,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H0F1B1A&}m 1135 862 l 1210 862 l 1210 904 l 1135 904 {\p0}
-Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an4\fs68\c&HECEFF1&\pos(660,122)}Incoming Call
-Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be3\an6\fs120\c&HE6E6E8&\pos(1208,498)}Mayuri
-Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(714,882)}Decline
-Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(1018,882)}Hold
-Dialogue: 1,0:10:28.39,0:10:29.60,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(1170,882)}Accept
-Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(0,0,0,-25)\blur18\p1\c&HA4A2D5&}m 537 -47 l 500 46 l 926 52 l 951 -77 {\p0}
-Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(0,0,0,-25)\blur18\p1\c&H73636D&}m 574 129 l 1060 136 l 1007 286 l 501 274 {\p0}
-Dialogue: 0,0:12:20.67,0:12:21.30,Draw,,0,0,0,,{\move(0,0,10,-7)\blur8\p1\c&H444044&}m 1134 156 l 1570 159 l 1522 283 l 1078 276 {\p0}
-Dialogue: 0,0:12:21.30,0:12:22.80,Draw,,0,0,0,,{\move(0,0,17,-17)\blur8\p1\c&H444044&}m 1141 145 l 1577 148 l 1527 275 l 1083 268 {\p0}
-Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H685B66&}m 632 288 l 894 291 l 853 443 l 579 425 {\p0}
-Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(16,0,-10,0)\blur10\p1\c&H45434C&}m 454 630 l 750 634 l 728 800 l 386 780 {\p0}
-Dialogue: 0,0:12:20.67,0:12:22.80,Draw,,0,0,0,,{\move(40,-26,0,0)\blur10\p1\c&H37363F&}m 284 972 l 574 983 l 553 1157 l 211 1137 {\p0}
-Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs120\c&HEEEDEF&\fax-0.49\org(960,540)\t(\fs130)\frz360\move(1350,182,1384,150,0,2114)}Call History
-Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs120\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs130)\frz359.7\move(832,170,824,136,28,2114)}Call Register
-Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs100\c&HEEEDEF&\fax-0.49\org(960,540)\t(\fs110)\frz360\move(750,-18,735,-67)}Call History
-Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\be4\fs110\c&HEEEDEF&\an7\fax-0.56\org(960,540)\t(\fs120)\move(642,328,612,310)}Mayuri
-Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs110\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs120)\move(610,642,575,652)}Lukako
-Dialogue: 1,0:12:20.67,0:12:22.80,OkabePhoneOld,,0,0,0,,{\an8\be4\fs110\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs120)\move(400,970,348,1008)}Daru
-Dialogue: 0,0:14:35.02,0:14:35.52,Draw,,0,0,0,,{\pos(0,0)\blur35\p1\c&H616E6E&}m 802 852 l 1338 715 l 1424 950 l 860 1087 {\p0}
-Dialogue: 1,0:14:35.02,0:14:35.52,OkabePhoneOld,,0,0,0,,{\blur3.5\an2\fs120\c&H2A3137&\frz15.47\pos(1110,982)}You have\Nnew messages
-Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&H826894&}m 412 441 l 898 322 l 924 411 l 429 530 {\p0}
-Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H61727B&}m 578 631 l 973 537 l 1001 622 l 595 716 {\p0}
-Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H192128&}m 618 758 l 850 706 l 878 791 l 1266 707 l 1303 799 l 661 948 {\p0}
-Dialogue: 0,0:14:35.52,0:14:36.14,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H13191F&}m 674 976 l 918 920 l 943 1006 l 1611 850 l 1642 941 l 703 1164 {\p0}
-Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur4\an4\fs140\c&H514E62&\frz12.97\pos(422,488)}Inbox
-Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur2.5\an4\fs90\c&HD7D7D7&\pos(578,678)\frz12.35}(No subject)
-Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur2.5\fs105\c&HD7D7D7&\frz12.97\pos(616,764)}Mayuri{\fs90}\NWanna eat some fried chicken?
-Dialogue: 1,0:14:35.52,0:14:36.14,OkabePhoneOld,,0,0,0,,{\blur2.5\fs105\c&HD7D7D7&\pos(682,978)\frz13.29}Lukako{\fs90}\NRe: Re: About my clothes
-Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H576FB8&}m 404 437 l 837 342 l 872 426 l 427 529 {\p0}
-Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H263038&}m 404 575 l 797 485 l 824 577 l 428 669 {\p0}
-Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H263038&}m 433 683 l 741 614 l 773 712 l 459 783 {\p0}
-Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H505F67&}m 465 798 l 1125 646 l 1157 744 l 491 898 {\p0}
-Dialogue: 0,0:14:36.14,0:14:36.64,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H161C23&}m 496 926 l 999 800 l 1041 914 l 522 1035 {\p0}
-Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&H38445B&\an4\pos(425,479)\frz12.99}Received mail
-Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\pos(439,616)\frz12.79}Received:
-Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\pos(461,732)}Sender:
-Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz13.21\pos(498,850)}Subject: (No subject)
-Dialogue: 1,0:14:36.14,0:14:36.64,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs120\c&HFFFFFF&\pos(508,920)\frz12.87}Turn on the TV
-Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(0,0,-20,-80)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 966 411 l 427 536 {\p0}
-Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(-20,-10,-20,-80)\blur15\p1\c&H263038&}m 405 582 l 826 483 l 858 598 l 434 691 {\p0}
-Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(-10,-10,-20,-70)\blur15\p1\c&H263038&}m 438 691 l 773 614 l 809 724 l 461 809 {\p0}
-Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(0,-10,-20,-60)\blur15\p1\c&H505F67&}m 466 804 l 1198 638 l 1239 761 l 496 926 {\p0}
-Dialogue: 0,0:14:36.64,0:14:37.35,Draw,,0,0,0,,{\move(0,0,-20,-40)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
-Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&H38445B&\an4\t(\fs140)\frz12.99\move(425,479,405,405)}Received mail
-Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\t(\fs140)\move(439,616,420,545)}Received:
-Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\t(\fs140)\move(461,732,448,678)}Sender:
-Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\t(\fs140)\move(498,850,485,800)\frz13.21}Subject: (No subject)
-Dialogue: 1,0:14:36.64,0:14:37.35,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs120\c&HFFFFFF&\t(\fs140)\frz12.87\move(508,920,496,880)}Turn on the TV
-Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-85,-30,-155)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 977 431 l 431 553 {\p0}
-Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-80,-28,-120)\blur15\p1\c&H263038&}m 402 577 l 853 471 l 888 591 l 434 691 {\p0}
-Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-70,-25,-100)\blur15\p1\c&H263038&}m 433 677 l 797 594 l 838 718 l 461 809 {\p0}
-Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-60,-15,-95)\blur15\p1\c&H505F67&}m 466 804 l 1258 623 l 1299 746 l 496 926 {\p0}
-Dialogue: 0,0:14:37.35,0:14:38.10,Draw,,0,0,0,,{\move(-20,-50,-10,-70)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
-Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&H38445B&\an4\t(\fs150)\frz12.99\move(405,405,397,346)}Received mail
-Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\frz12.79\t(\fs150)\move(420,545,410,505)}Received:
-Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\frz12.79\t(\fs150)\move(448,678,442,645)}Sender:
-Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\t(\fs150)\move(485,800,480,775)\frz13.21}Subject: (No subject)
-Dialogue: 1,0:14:37.35,0:14:38.10,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs140\c&HFFFFFF&\t(\fs150)\frz12.87\move(496,880,490,860)}Turn on the TV
-Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-30,-155)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 977 431 l 431 553 {\p0}
-Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-28,-120)\blur15\p1\c&H263038&}m 402 577 l 853 471 l 888 591 l 434 691 {\p0}
-Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-25,-100)\blur15\p1\c&H263038&}m 433 677 l 797 594 l 838 718 l 461 809 {\p0}
-Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-15,-95)\blur15\p1\c&H505F67&}m 466 804 l 1258 623 l 1299 746 l 496 926 {\p0}
-Dialogue: 0,0:14:38.10,0:14:40.19,Draw,,0,0,0,,{\pos(-10,-70)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
-Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&H38445B&\an4\frz12.99\pos(397,346)}Received mail
-Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\frz12.79\pos(410,505)}Received:
-Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\frz12.79\pos(442,645)}Sender:
-Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\pos(480,775)\frz13.21}Subject: (No subject)
-Dialogue: 1,0:14:38.10,0:14:40.19,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs150\c&HFFFFFF&\frz12.87\pos(490,860)}Turn on the TV
-Dialogue: 1,0:14:56.33,0:15:02.54,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\frz18.14\c&H373432&\fscx100\fscy100\frx358\fry358\pos(1019.5,747.5)}Ma
-Dialogue: 1,0:14:56.33,0:15:02.54,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\c&H373432&\frx4\fry10\frz18.9\pos(1103.5,718.5)}yu
-Dialogue: 1,0:14:56.33,0:15:02.54,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\frz27.45\c&H373432&\frx4\fry14\pos(1161,699)}shii
-Dialogue: 0,0:18:47.48,0:18:50.69,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEFD8BF&}m 955 391 l 1258 307 l 1273 349 l 964 429 {\p0}
-Dialogue: 0,0:18:47.48,0:18:50.69,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HEDEAE8&}m 998 440 l 1248 372 l 1294 505 l 1044 580 {\p0}
-Dialogue: 1,0:18:47.48,0:18:50.69,OkabePhone,,0,0,0,,{\an6\fs43\c&HF5F0EB&\fax0.04\be2\pos(1238,340)\frz15.35}Mad Scientist
-Dialogue: 1,0:18:47.48,0:18:50.69,OkabePhone,,0,0,0,,{\fs50\c&H736769&\be2\org(322,862)\frz14.58\pos(1052,628)\frx2\fry358}Trick world,\Nlinking each\Npossibility.
+Dialogue: 11,0:16:04.18,0:16:09.85,HttG Rom,,0,0,0,,{\fs60\fad(200,0)}Suujuuoku mono kodou no kazu sae
+Dialogue: 11,0:16:09.85,0:16:16.52,HttG Rom,,0,0,0,,{\fs60}Anata ni wa matataki teido no saji na toukyuu
+Dialogue: 11,0:16:16.52,0:16:21.74,HttG Rom,,0,0,0,,{\fs60}Kako ni torawarete mirai wo nageku mo
+Dialogue: 11,0:16:21.74,0:16:27.66,HttG Rom,,0,0,0,,{\fs60}Chiri hitotsu gosan wo yurusanu hitsuzen
+Dialogue: 11,0:16:27.66,0:16:33.75,HttG Rom,,0,0,0,,{\fs60}“Mugen” ni hirogaru yume mo egaku mirai mo
+Dialogue: 11,0:16:33.75,0:16:39.55,HttG Rom,,0,0,0,,{\fs60}Bokutachi ni yurusareta kyoei no kenri
+Dialogue: 11,0:16:39.55,0:16:45.72,HttG Rom,,0,0,0,,{\fs60}“Yuugen” sore wa futatsu no hari ga shimesu
+Dialogue: 11,0:16:45.72,0:16:50.10,HttG Rom,,0,0,0,,{\fs60}Zankoku na yakujou to sentaku he
+Dialogue: 11,0:16:50.10,0:16:52.31,HttG Rom,,0,0,0,,{\fs60\fade(0,100)}Hacking to the Gate
+Dialogue: 11,0:16:52.77,0:16:59.65,HttG Rom,,0,0,0,,{\fs60\fade(100,0)}Dakara ima ichi byou gotoni sekaisen wo koete
+Dialogue: 11,0:16:59.65,0:17:04.66,HttG Rom,,0,0,0,,{\fs60}Kimi no sono egao mamoritai no sa
+Dialogue: 11,0:17:04.66,0:17:11.58,HttG Rom,,0,0,0,,{\fs60}Soshite mata kanashimi no nai jikan no ruupu heto
+Dialogue: 11,0:17:11.58,0:17:17.83,HttG Rom,,0,0,0,,{\fs60\fad(0,200)}Nomikomarete yuku kodoku no kansokusha
+Dialogue: 11,0:17:19.63,0:17:26.51,HttG Rom,,0,0,0,,{\fs60\fade(200,0)}Dakara ima ichi byou gotoni sekaisen wo koete
+Dialogue: 11,0:17:26.51,0:17:31.52,HttG Rom,,0,0,0,,{\fs60}Kimi no sono egao mamoritai no sa
+Dialogue: 11,0:17:31.52,0:17:38.44,HttG Rom,,0,0,0,,{\fs60}Soshite mata kanashimi no nai jikan no ruupu heto
+Dialogue: 11,0:17:38.44,0:17:44.70,HttG Rom,,0,0,0,,{\fs60\fad(0,200)}Nomikomarete yuku kodoku no kansokusha
+Dialogue: 11,0:16:04.18,0:16:09.85,HttG Trans,,0,0,0,,{\an8\fs60\fad(200,0)}Between the billions of heartbeats
+Dialogue: 11,0:16:09.85,0:16:16.52,HttG Trans,,0,0,0,,{\an8\fs60}You are but a small trifle—wholly insignificant
+Dialogue: 11,0:16:16.52,0:16:21.74,HttG Trans,,0,0,0,,{\an8\fs60}As I am trapped in the past, and I lament the future
+Dialogue: 11,0:16:21.74,0:16:27.66,HttG Trans,,0,0,0,,{\an8\fs60}I cannot forgive even the most minute of miscalculations
+Dialogue: 11,0:16:27.66,0:16:33.75,HttG Trans,,0,0,0,,{\an8\fs60}Dreams stretching out to “infinity,” sketching out our future
+Dialogue: 11,0:16:33.75,0:16:39.55,HttG Trans,,0,0,0,,{\an8\fs60}Such thoughts are but arrogant privileges granted to us
+Dialogue: 11,0:16:39.55,0:16:45.72,HttG Trans,,0,0,0,,{\an8\fs60}The “finite” is dictated by the two hands
+Dialogue: 11,0:16:45.72,0:16:50.10,HttG Trans,,0,0,0,,{\an8\fs60}If I’m bound by such a cruel contract, my choice will instead be to go
+Dialogue: 11,0:16:52.77,0:16:59.65,HttG Trans,,0,0,0,,{\an8\fs60\fade(100,0)}And thus I will cross worldlines with each second passed
+Dialogue: 11,0:16:59.65,0:17:04.66,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
+Dialogue: 11,0:17:04.66,0:17:11.58,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
+Dialogue: 11,0:17:11.58,0:17:17.83,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
+Dialogue: 11,0:17:19.63,0:17:26.51,HttG Trans,,0,0,0,,{\an8\fs60\fade(200,0)}And thus I will cross worldlines with each second passed
+Dialogue: 11,0:17:26.51,0:17:31.52,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
+Dialogue: 11,0:17:31.52,0:17:38.44,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
+Dialogue: 11,0:17:38.44,0:17:44.70,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
+Dialogue: 12,0:20:18.39,0:20:24.27,GoS Rom,,0,0,0,,{\kf71}{\fade(100,100)}“Time” {\kf203}is {\kf16}so {\kf31}sad {\kf18}and {\kf61}flee{\kf188}ting
+Dialogue: 12,0:20:24.27,0:20:30.36,GoS Rom,,0,0,0,,{\kf35}{\fade(100,100)}Can’t {\kf20}be {\kf14}con{\kf101}trolled, {\kf27}like {\kf23}a {\kf18}ri{\kf88}ver, {\kf28}ne{\kf12}ver {\kf243}stops
+Dialogue: 12,0:20:31.40,0:20:37.28,GoS Rom,,0,0,0,,{\kf75}{\fade(100,100)}“Space” {\kf199}is {\kf16}emp{\kf17}ti{\kf25}ness {\kf44}dark {\kf13}and {\kf45}so {\kf154}cold
+Dialogue: 12,0:20:37.28,0:20:42.91,GoS Rom,,0,0,0,,{\kf37}{\fade(100,100)}Can {\kf17}you {\kf19}de{\kf106}fine {\kf26}its {\kf14}pre{\kf81}sence, {\kf48}does {\kf8}it {\kf12}e{\kf195}xist?
+Dialogue: 12,0:20:44.08,0:20:47.29,GoS Rom,,0,0,0,,{\kf48}{\fade(100,100)}We {\kf46}drift {\kf66}through {\kf43}the {\kf59}hea{\kf59}vens
+Dialogue: 12,0:20:47.29,0:20:50.51,GoS Rom,,0,0,0,,{\kf23}{\fade(100,100)}Ha{\kf22}te{\kf59}na{\kf58}i {\kf37}o{\kf59}mo{\kf64}i
+Dialogue: 12,0:20:50.84,0:20:56.72,GoS Rom,,0,0,0,,{\kf72}{\fade(100,100)}Filled {\kf60}with {\kf40}the {\kf54}love {\kf52}from {\kf26}up {\kf21}a{\kf263}bove
+Dialogue: 12,0:20:57.35,0:21:00.06,GoS Rom,,0,0,0,,{\kf70}{\fade(100,100)}He {\kf59}guides {\kf38}my {\kf64}tra{\kf40}vels
+Dialogue: 12,0:21:00.06,0:21:03.56,GoS Rom,,0,0,0,,{\kf43}{\fade(100,100)}Se{\kf21}ma{\kf57}ru {\kf63}ko{\kf37}ku{\kf62}ge{\kf67}n
+Dialogue: 12,0:21:03.94,0:21:10.28,GoS Rom,,0,0,0,,{\kf38}{\fade(100,100)}Shed {\kf21}a {\kf37}tear {\kf46}and {\kf102}leap {\kf41}to {\kf38}a {\kf157}new {\kf154}world
+Dialogue: 12,0:21:23.16,0:21:29.17,GoS Rom,,0,0,0,,{\kf80}{\fade(100,100)\fs79}Cos{\kf208}mos {\kf19}and {\kf25}their {\kf20}cre{\kf42}a{\kf207}tion
+Dialogue: 12,0:21:29.17,0:21:35.63,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)\fs79}Tell {\kf20}me, {\kf24}do {\kf102}they {\kf13}e{\kf29}xist {\kf22}for {\kf100}in{\kf18}fi{\kf21}ni{\kf270}ty?
+Dialogue: 12,0:21:36.13,0:21:42.10,GoS Rom,,0,0,0,,{\kf88}{\fade(100,100)\fs79}Stars {\kf202}burn, {\kf19}bur{\kf11}ning {\kf30}so {\kf40}bright {\kf18}but {\kf35}they’ll {\kf154}fade
+Dialogue: 12,0:21:42.10,0:21:48.06,GoS Rom,,0,0,0,,{\kf39}{\fade(100,100)\fs79}How {\kf18}will {\kf19}I {\kf79}know? {\kf40}Se{\kf27}crets {\kf78}kept {\kf39}un{\kf28}til {\kf17}I {\kf212}die
+Dialogue: 12,0:21:48.77,0:21:52.03,GoS Rom,,0,0,0,,{\kf49}{\fade(100,100)\fs79}De{\kf68}fy {\kf63}my {\kf35}des{\kf61}ti{\kf50}ny
+Dialogue: 12,0:21:52.03,0:21:55.61,GoS Rom,,0,0,0,,{\kf36}{\fade(100,100)\fs79}Ma{\kf20}mo{\kf59}ri{\kf62}ta{\kf41}i {\kf60}mo{\kf80}no
+Dialogue: 12,0:21:55.82,0:22:01.74,GoS Rom,,0,0,0,,{\kf62}{\fade(100,100)\fs79}Foo{\kf60}lish, {\kf41}but {\kf54}it’s {\kf48}hu{\kf20}ma{\kf19}ni{\kf288}ty
+Dialogue: 12,0:22:02.08,0:22:04.96,GoS Rom,,0,0,0,,{\kf85}{\fade(100,100)\fs79}I{\kf55}ma{\kf44}gi{\kf49}na{\kf55}tion
+Dialogue: 12,0:22:05.12,0:22:08.50,GoS Rom,,0,0,0,,{\kf16}{\fade(100,100)\fs79}Ki{\kf28}se{\kf59}ki {\kf62}ni {\kf42}ka{\kf60}e{\kf71}ru
+Dialogue: 12,0:22:08.75,0:22:15.17,GoS Rom,,0,0,0,,{\kf51}{\fade(100,100)\fs79}Things {\kf14}you {\kf41}can’t {\kf32}con{\kf111}ceive, {\kf39}re{\kf41}ve{\kf157}la{\kf156}tion!
+Dialogue: 12,0:22:37.53,0:22:40.70,GoS Rom,,0,0,0,,{\kf38}{\fade(100,100)}A {\kf72}drop {\kf58}in {\kf41}the {\kf58}dark{\kf50}ness
+Dialogue: 12,0:22:40.70,0:22:43.99,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)}Chi{\kf17}i{\kf75}sa{\kf55}na {\kf44}i{\kf55}no{\kf56}chi
+Dialogue: 12,0:22:44.33,0:22:50.42,GoS Rom,,0,0,0,,{\kf73}{\fade(100,100)}U{\kf67}nique {\kf33}and {\kf53}pre{\kf47}cious {\kf18}for{\kf31}e{\kf287}ver
+Dialogue: 12,0:22:50.92,0:22:53.75,GoS Rom,,0,0,0,,{\kf62}{\fade(100,100)}Bit{\kf45}ter{\kf58}sweet {\kf42}me{\kf23}mo{\kf53}ries
+Dialogue: 12,0:22:53.75,0:22:57.17,GoS Rom,,0,0,0,,{\kf27}{\fade(100,100)}Mu{\kf22}ge{\kf60}n {\kf45}no {\kf46}se{\kf69}tsu{\kf73}na
+Dialogue: 12,0:22:57.30,0:23:02.80,GoS Rom,,0,0,0,,{\kf56}{\fade(100,100)}Make {\kf22}this {\kf40}mo{\kf41}ment {\kf101}last, {\kf36}last {\kf44}for{\kf163}e{\kf47}ver
+Dialogue: 12,0:23:03.26,0:23:06.73,GoS Rom,,0,0,0,,{\kf63}{\fade(100,100)}We {\kf66}drift {\kf61}through {\kf41}the {\kf56}hea{\kf60}vens
+Dialogue: 12,0:23:06.73,0:23:10.19,GoS Rom,,0,0,0,,{\kf25}{\fade(100,100)}Ha{\kf20}te{\kf61}na{\kf61}i {\kf38}o{\kf63}mo{\kf78}i
+Dialogue: 12,0:23:10.27,0:23:16.19,GoS Rom,,0,0,0,,{\kf76}{\fade(100,100)}Filled {\kf61}with {\kf40}the {\kf55}love {\kf48}from {\kf20}up {\kf23}a{\kf269}bove
+Dialogue: 12,0:23:16.69,0:23:19.70,GoS Rom,,0,0,0,,{\kf78}{\fade(100,100)}He {\kf60}guides {\kf37}my {\kf71}tra{\kf55}vels
+Dialogue: 12,0:23:19.70,0:23:22.87,GoS Rom,,0,0,0,,{\kf25}{\fade(100,100)}Se{\kf21}ma{\kf60}ru {\kf60}ko{\kf42}ku{\kf61}ge{\kf48}n
+Dialogue: 12,0:23:23.28,0:23:29.91,GoS Rom,,0,0,0,,{\kf52}{\fade(100,100)}Shed {\kf22}a {\kf40}tear {\kf39}and {\kf97}leap {\kf45}to {\kf41}a {\kf163}new {\kf164}world
+Dialogue: 11,0:20:18.39,0:20:24.27,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}“Time” is so sad and fleeting
+Dialogue: 11,0:20:24.27,0:20:30.36,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Can’t be controlled, like a river, never stops
+Dialogue: 11,0:20:31.40,0:20:37.28,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}“Space” is emptiness dark and so cold
+Dialogue: 11,0:20:37.28,0:20:42.91,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Can you define its presence, does it exist?
+Dialogue: 11,0:20:44.08,0:20:47.29,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}We drift through the heavens
+Dialogue: 11,0:20:47.29,0:20:50.51,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Hatenai omoi
+Dialogue: 11,0:20:50.84,0:20:56.72,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Filled with the love from up above
+Dialogue: 11,0:20:57.35,0:21:00.06,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}He guides my travels
+Dialogue: 11,0:21:00.06,0:21:03.56,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Semaru kokugen
+Dialogue: 11,0:21:03.94,0:21:10.28,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Shed a tear and leap to a new world
+Dialogue: 11,0:21:23.16,0:21:29.17,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Cosmos and their creation
+Dialogue: 11,0:21:29.17,0:21:35.63,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Tell me, do they exist for infinity?
+Dialogue: 11,0:21:36.13,0:21:42.10,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Stars burn, burning so bright but they’ll fade
+Dialogue: 11,0:21:42.10,0:21:48.06,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}How will I know? Secrets kept until I die
+Dialogue: 11,0:21:48.77,0:21:52.03,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Defy my destiny
+Dialogue: 11,0:21:52.03,0:21:55.61,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Mamoritai mono
+Dialogue: 11,0:21:55.82,0:22:01.74,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Foolish, but it’s humanity
+Dialogue: 11,0:22:02.08,0:22:04.96,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Imagination
+Dialogue: 11,0:22:05.12,0:22:08.50,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Kiseki ni kaeru
+Dialogue: 11,0:22:08.75,0:22:15.17,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Things you can’t conceive, revelation!
+Dialogue: 11,0:22:37.53,0:22:40.70,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}A drop in the darkness
+Dialogue: 11,0:22:40.70,0:22:43.99,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Chiisana inochi
+Dialogue: 11,0:22:44.33,0:22:50.42,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Unique and precious forever
+Dialogue: 11,0:22:50.92,0:22:53.75,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Bittersweet memories
+Dialogue: 11,0:22:53.75,0:22:57.17,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Mugen no setsuna
+Dialogue: 11,0:22:57.30,0:23:02.80,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Make this moment last, last forever
+Dialogue: 11,0:23:03.26,0:23:06.73,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}We drift through the heavens
+Dialogue: 11,0:23:06.73,0:23:10.19,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Hatenai omoi
+Dialogue: 11,0:23:10.27,0:23:16.19,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Filled with the love from up above
+Dialogue: 11,0:23:16.69,0:23:19.70,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}He guides my travels
+Dialogue: 11,0:23:19.70,0:23:22.87,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Semaru kokugen
+Dialogue: 11,0:23:23.28,0:23:29.91,GoS Trans Blur,,0,0,0,,{\fade(100,100,)\blur22.5}Shed a tear and leap to a new world
+Dialogue: 11,0:20:47.29,0:20:50.51,GoS Trans,,0,0,0,,{\fade(100,100)\blur22.5\an8}With boundless emotions
+Dialogue: 11,0:21:00.06,0:21:03.56,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\an8}The chosen time draws near
+Dialogue: 11,0:21:52.03,0:21:55.61,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Of the ones I wish to protect
+Dialogue: 11,0:22:05.12,0:22:08.50,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5\fs79}Will alter in a miracle
+Dialogue: 11,0:22:40.70,0:22:43.99,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}A small life
+Dialogue: 11,0:22:53.75,0:22:57.17,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}As moments perpetually fleeting
+Dialogue: 11,0:23:06.73,0:23:10.19,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}With boundless emotions
+Dialogue: 11,0:23:19.70,0:23:22.87,GoS Trans,,0,0,0,,{\fade(100,100,)\blur22.5}The chosen time draws near
+Dialogue: 10,0:21:10.40,0:22:32.11,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}Mad_Scientist:_Trick_world._Connect_all_Potentials.
+Dialogue: 10,0:21:10.40,0:22:32.11,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}Mad_Scientist:_Trick_world._Connect_all_Potentials.
+Dialogue: 1,0:10:15.00,0:10:20.00,Title,,0,0,0,,{\an3\pos(1288,904)}Arc-light
+Dialogue: 1,0:10:15.00,0:10:20.00,Title,,0,0,0,,{\an3\fs50\pos(1162,932)}of
+Dialogue: 1,0:10:15.00,0:10:20.00,Title,,0,0,0,,{\an3\fs40\fsp-3\pos(1160,952)}the
+Dialogue: 1,0:10:15.00,0:10:20.00,Title,,0,0,0,,{\an3\pos(1316,960)}Point
+Dialogue: 1,0:10:15.00,0:10:20.00,Title,,0,0,0,,{\an3\fs50\pos(1350,954)}at
+Dialogue: 1,0:10:15.00,0:10:20.00,Title,,0,0,0,,{\an3\fs120\pos(1634,968)}Infinity
+Dialogue: 1,0:16:09.85,0:16:15.86,Title,,0,0,270,,{\an3\pos(1274,912)}Stardust
+Dialogue: 1,0:16:09.85,0:16:15.86,Title,,0,0,270,,{\an3\fs50\pos(1312,908)}of
+Dialogue: 1,0:16:09.85,0:16:15.86,Title,,0,0,270,,{\an3\pos(1314,972)}Intersected
+Dialogue: 1,0:16:09.85,0:16:15.86,Title,,0,0,270,,{\an3\fs120\fsp-7\fscy130\pos(1710,978)}Coordinates
+Dialogue: 0,0:00:39.59,0:00:42.59,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEAE7E6&}m 614 527 l 878 463 l 921 562 l 654 638 {\p0}
+Dialogue: 1,0:00:39.59,0:00:39.80,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yester
+Dialogue: 1,0:00:39.80,0:00:40.09,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterd
+Dialogue: 1,0:00:40.09,0:00:40.55,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterda
+Dialogue: 1,0:00:40.55,0:00:42.59,OkabePhone,,0,0,0,,{\fs150\an4\c&HCCC6C5&\be4\frz13.68\org(466,676)\frx8\fry2\pos(666,612)}Yesterday
+Dialogue: 0,0:09:33.29,0:09:35.16,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HD6D0CC&}m 619 510 l 658 503 l 707 761 l 669 769 {\p0}
+Dialogue: 1,0:09:33.29,0:09:35.16,OkabePhone,,0,0,0,,{\c&H6C6563&\frz101\an5\fs40\be4\alpha&H50&\pos(660,630)}1 new RINE message
+Dialogue: 0,0:10:28.38,0:10:29.59,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&H1C2025&}m 1237 417 l 1237 585 l 940 586 l 987 412 {\p0}
+Dialogue: 0,0:10:28.38,0:10:29.59,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&HC0A3BF&}m 794 98 l 794 145 l 661 145 l 661 98 {\p0}
+Dialogue: 0,0:10:28.38,0:10:29.59,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H141C1E&}m 674 864 l 749 864 l 749 906 l 674 906 {\p0}
+Dialogue: 0,0:10:28.38,0:10:29.59,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H101D1C&}m 984 863 l 1059 863 l 1059 905 l 984 905 {\p0}
+Dialogue: 0,0:10:28.38,0:10:29.59,Draw,,0,0,0,,{\pos(0,0)\blur6\p1\c&H0F1B1A&}m 1135 862 l 1210 862 l 1210 904 l 1135 904 {\p0}
+Dialogue: 1,0:10:28.38,0:10:29.59,OkabePhoneOld,,0,0,0,,{\be4\an4\fs68\c&HECEFF1&\pos(660,122)}Incoming Call
+Dialogue: 1,0:10:28.38,0:10:29.59,OkabePhoneOld,,0,0,0,,{\be3\an6\fs120\c&HE6E6E8&\pos(1208,498)}Mayuri
+Dialogue: 1,0:10:28.38,0:10:29.59,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(714,882)}Decline
+Dialogue: 1,0:10:28.38,0:10:29.59,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(1018,882)}Hold
+Dialogue: 1,0:10:28.38,0:10:29.59,OkabePhoneOld,,0,0,0,,{\be4\an5\fs50\c&H515B5A&\pos(1170,882)}Accept
+Dialogue: 0,0:12:20.66,0:12:22.79,Draw,,0,0,0,,{\move(0,0,0,-25)\blur18\p1\c&HA4A2D5&}m 537 -47 l 500 46 l 926 52 l 951 -77 {\p0}
+Dialogue: 0,0:12:20.66,0:12:22.79,Draw,,0,0,0,,{\move(0,0,0,-25)\blur18\p1\c&H73636D&}m 574 129 l 1060 136 l 1007 286 l 501 274 {\p0}
+Dialogue: 0,0:12:20.66,0:12:21.29,Draw,,0,0,0,,{\move(0,0,10,-7)\blur8\p1\c&H444044&}m 1134 156 l 1570 159 l 1522 283 l 1078 276 {\p0}
+Dialogue: 0,0:12:21.29,0:12:22.79,Draw,,0,0,0,,{\move(0,0,17,-17)\blur8\p1\c&H444044&}m 1141 145 l 1577 148 l 1527 275 l 1083 268 {\p0}
+Dialogue: 0,0:12:20.66,0:12:22.79,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H685B66&}m 632 288 l 894 291 l 853 443 l 579 425 {\p0}
+Dialogue: 0,0:12:20.66,0:12:22.79,Draw,,0,0,0,,{\move(16,0,-10,0)\blur10\p1\c&H45434C&}m 454 630 l 750 634 l 728 800 l 386 780 {\p0}
+Dialogue: 0,0:12:20.66,0:12:22.79,Draw,,0,0,0,,{\move(40,-26,0,0)\blur10\p1\c&H37363F&}m 284 972 l 574 983 l 553 1157 l 211 1137 {\p0}
+Dialogue: 1,0:12:20.66,0:12:22.79,OkabePhoneOld,,0,0,0,,{\an8\be4\fs120\c&HEEEDEF&\fax-0.49\org(960,540)\t(\fs130)\frz360\move(1350,182,1384,150,0,2114)}Call History
+Dialogue: 1,0:12:20.66,0:12:22.79,OkabePhoneOld,,0,0,0,,{\an8\be4\fs120\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs130)\frz359.7\move(832,170,824,136,28,2114)}Call Register
+Dialogue: 1,0:12:20.66,0:12:22.79,OkabePhoneOld,,0,0,0,,{\an8\be4\fs100\c&HEEEDEF&\fax-0.49\org(960,540)\t(\fs110)\frz360\move(750,-18,735,-67)}Call History
+Dialogue: 1,0:12:20.66,0:12:22.79,OkabePhoneOld,,0,0,0,,{\be4\fs110\c&HEEEDEF&\an7\fax-0.56\org(960,540)\t(\fs120)\move(642,328,612,310)}Mayuri
+Dialogue: 1,0:12:20.66,0:12:22.79,OkabePhoneOld,,0,0,0,,{\an8\be4\fs110\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs120)\move(610,642,575,652)}Lukako
+Dialogue: 1,0:12:20.66,0:12:22.79,OkabePhoneOld,,0,0,0,,{\an8\be4\fs110\c&HEEEDEF&\fax-0.56\org(960,540)\t(\fs120)\move(400,970,348,1008)}Daru
+Dialogue: 0,0:14:35.01,0:14:35.51,Draw,,0,0,0,,{\pos(0,0)\blur35\p1\c&H616E6E&}m 802 852 l 1338 715 l 1424 950 l 860 1087 {\p0}
+Dialogue: 1,0:14:35.01,0:14:35.51,OkabePhoneOld,,0,0,0,,{\blur3.5\an2\fs120\c&H2A3137&\frz15.47\pos(1110,982)}You have\Nnew messages
+Dialogue: 0,0:14:35.51,0:14:36.13,Draw,,0,0,0,,{\pos(0,0)\blur20\p1\c&H826894&}m 412 441 l 898 322 l 924 411 l 429 530 {\p0}
+Dialogue: 0,0:14:35.51,0:14:36.13,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H61727B&}m 578 631 l 973 537 l 1001 622 l 595 716 {\p0}
+Dialogue: 0,0:14:35.51,0:14:36.13,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H192128&}m 618 758 l 850 706 l 878 791 l 1266 707 l 1303 799 l 661 948 {\p0}
+Dialogue: 0,0:14:35.51,0:14:36.13,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H13191F&}m 674 976 l 918 920 l 943 1006 l 1611 850 l 1642 941 l 703 1164 {\p0}
+Dialogue: 1,0:14:35.51,0:14:36.13,OkabePhoneOld,,0,0,0,,{\blur4\an4\fs140\c&H514E62&\frz12.97\pos(422,488)}Inbox
+Dialogue: 1,0:14:35.51,0:14:36.13,OkabePhoneOld,,0,0,0,,{\blur2.5\an4\fs90\c&HD7D7D7&\pos(578,678)\frz12.35}(No subject)
+Dialogue: 1,0:14:35.51,0:14:36.13,OkabePhoneOld,,0,0,0,,{\blur2.5\fs105\c&HD7D7D7&\frz12.97\pos(616,764)}Mayuri{\fs90}\NWanna eat some fried chicken?
+Dialogue: 1,0:14:35.51,0:14:36.13,OkabePhoneOld,,0,0,0,,{\blur2.5\fs105\c&HD7D7D7&\pos(682,978)\frz13.29}Lukako{\fs90}\NRe: Re: About my clothes
+Dialogue: 0,0:14:36.13,0:14:36.63,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H576FB8&}m 404 437 l 837 342 l 872 426 l 427 529 {\p0}
+Dialogue: 0,0:14:36.13,0:14:36.63,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H263038&}m 404 575 l 797 485 l 824 577 l 428 669 {\p0}
+Dialogue: 0,0:14:36.13,0:14:36.63,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H263038&}m 433 683 l 741 614 l 773 712 l 459 783 {\p0}
+Dialogue: 0,0:14:36.13,0:14:36.63,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H505F67&}m 465 798 l 1125 646 l 1157 744 l 491 898 {\p0}
+Dialogue: 0,0:14:36.13,0:14:36.63,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&H161C23&}m 496 926 l 999 800 l 1041 914 l 522 1035 {\p0}
+Dialogue: 1,0:14:36.13,0:14:36.63,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&H38445B&\an4\pos(425,479)\frz12.99}Received mail
+Dialogue: 1,0:14:36.13,0:14:36.63,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\pos(439,616)\frz12.79}Received:
+Dialogue: 1,0:14:36.13,0:14:36.63,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\pos(461,732)}Sender:
+Dialogue: 1,0:14:36.13,0:14:36.63,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz13.21\pos(498,850)}Subject: (No subject)
+Dialogue: 1,0:14:36.13,0:14:36.63,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs120\c&HFFFFFF&\pos(508,920)\frz12.87}Turn on the TV
+Dialogue: 0,0:14:36.63,0:14:37.34,Draw,,0,0,0,,{\move(0,0,-20,-80)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 966 411 l 427 536 {\p0}
+Dialogue: 0,0:14:36.63,0:14:37.34,Draw,,0,0,0,,{\move(-20,-10,-20,-80)\blur15\p1\c&H263038&}m 405 582 l 826 483 l 858 598 l 434 691 {\p0}
+Dialogue: 0,0:14:36.63,0:14:37.34,Draw,,0,0,0,,{\move(-10,-10,-20,-70)\blur15\p1\c&H263038&}m 438 691 l 773 614 l 809 724 l 461 809 {\p0}
+Dialogue: 0,0:14:36.63,0:14:37.34,Draw,,0,0,0,,{\move(0,-10,-20,-60)\blur15\p1\c&H505F67&}m 466 804 l 1198 638 l 1239 761 l 496 926 {\p0}
+Dialogue: 0,0:14:36.63,0:14:37.34,Draw,,0,0,0,,{\move(0,0,-20,-40)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
+Dialogue: 1,0:14:36.63,0:14:37.34,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&H38445B&\an4\t(\fs140)\frz12.99\move(425,479,405,405)}Received mail
+Dialogue: 1,0:14:36.63,0:14:37.34,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\t(\fs140)\move(439,616,420,545)}Received:
+Dialogue: 1,0:14:36.63,0:14:37.34,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\frz12.79\t(\fs140)\move(461,732,448,678)}Sender:
+Dialogue: 1,0:14:36.63,0:14:37.34,OkabePhoneOld,,0,0,0,,{\blur3.8\fs120\c&HFFFFFF&\an4\t(\fs140)\move(498,850,485,800)\frz13.21}Subject: (No subject)
+Dialogue: 1,0:14:36.63,0:14:37.34,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs120\c&HFFFFFF&\t(\fs140)\frz12.87\move(508,920,496,880)}Turn on the TV
+Dialogue: 0,0:14:37.34,0:14:38.09,Draw,,0,0,0,,{\move(-20,-85,-30,-155)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 977 431 l 431 553 {\p0}
+Dialogue: 0,0:14:37.34,0:14:38.09,Draw,,0,0,0,,{\move(-20,-80,-28,-120)\blur15\p1\c&H263038&}m 402 577 l 853 471 l 888 591 l 434 691 {\p0}
+Dialogue: 0,0:14:37.34,0:14:38.09,Draw,,0,0,0,,{\move(-20,-70,-25,-100)\blur15\p1\c&H263038&}m 433 677 l 797 594 l 838 718 l 461 809 {\p0}
+Dialogue: 0,0:14:37.34,0:14:38.09,Draw,,0,0,0,,{\move(-20,-60,-15,-95)\blur15\p1\c&H505F67&}m 466 804 l 1258 623 l 1299 746 l 496 926 {\p0}
+Dialogue: 0,0:14:37.34,0:14:38.09,Draw,,0,0,0,,{\move(-20,-50,-10,-70)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
+Dialogue: 1,0:14:37.34,0:14:38.09,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&H38445B&\an4\t(\fs150)\frz12.99\move(405,405,397,346)}Received mail
+Dialogue: 1,0:14:37.34,0:14:38.09,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\frz12.79\t(\fs150)\move(420,545,410,505)}Received:
+Dialogue: 1,0:14:37.34,0:14:38.09,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\frz12.79\t(\fs150)\move(448,678,442,645)}Sender:
+Dialogue: 1,0:14:37.34,0:14:38.09,OkabePhoneOld,,0,0,0,,{\blur3.8\fs140\c&HFFFFFF&\an4\t(\fs150)\move(485,800,480,775)\frz13.21}Subject: (No subject)
+Dialogue: 1,0:14:37.34,0:14:38.09,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs140\c&HFFFFFF&\t(\fs150)\frz12.87\move(496,880,490,860)}Turn on the TV
+Dialogue: 0,0:14:38.09,0:14:40.18,Draw,,0,0,0,,{\pos(-30,-155)\blur10\p1\c&H576FB8&}m 404 437 l 944 315 l 977 431 l 431 553 {\p0}
+Dialogue: 0,0:14:38.09,0:14:40.18,Draw,,0,0,0,,{\pos(-28,-120)\blur15\p1\c&H263038&}m 402 577 l 853 471 l 888 591 l 434 691 {\p0}
+Dialogue: 0,0:14:38.09,0:14:40.18,Draw,,0,0,0,,{\pos(-25,-100)\blur15\p1\c&H263038&}m 433 677 l 797 594 l 838 718 l 461 809 {\p0}
+Dialogue: 0,0:14:38.09,0:14:40.18,Draw,,0,0,0,,{\pos(-15,-95)\blur15\p1\c&H505F67&}m 466 804 l 1258 623 l 1299 746 l 496 926 {\p0}
+Dialogue: 0,0:14:38.09,0:14:40.18,Draw,,0,0,0,,{\pos(-10,-70)\blur15\p1\c&H12191E&}m 496 926 l 1198 763 l 1294 981 l 543 1146 {\p0}
+Dialogue: 1,0:14:38.09,0:14:40.18,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&H38445B&\an4\frz12.99\pos(397,346)}Received mail
+Dialogue: 1,0:14:38.09,0:14:40.18,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\frz12.79\pos(410,505)}Received:
+Dialogue: 1,0:14:38.09,0:14:40.18,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\frz12.79\pos(442,645)}Sender:
+Dialogue: 1,0:14:38.09,0:14:40.18,OkabePhoneOld,,0,0,0,,{\blur3.8\fs150\c&HFFFFFF&\an4\pos(480,775)\frz13.21}Subject: (No subject)
+Dialogue: 1,0:14:38.09,0:14:40.18,OkabePhoneOld,,0,0,0,,{\blur2\be10\fs150\c&HFFFFFF&\frz12.87\pos(490,860)}Turn on the TV
+Dialogue: 1,0:14:56.32,0:15:02.53,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\frz18.14\c&H373432&\fscx100\fscy100\frx358\fry358\pos(1019.5,747.5)}Ma
+Dialogue: 1,0:14:56.32,0:15:02.53,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\c&H373432&\frx4\fry10\frz18.9\pos(1103.5,718.5)}yu
+Dialogue: 1,0:14:56.32,0:15:02.53,Signs,,0,0,0,,{\an4\blur4\be3\fnPlaypen Sans Medium\b0\fs95\frz27.45\c&H373432&\frx4\fry14\pos(1161,699)}shii
+Dialogue: 0,0:18:47.47,0:18:50.68,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEFD8BF&}m 955 391 l 1258 307 l 1273 349 l 964 429 {\p0}
+Dialogue: 0,0:18:47.47,0:18:50.68,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HEDEAE8&}m 998 440 l 1248 372 l 1294 505 l 1044 580 {\p0}
+Dialogue: 1,0:18:47.47,0:18:50.68,OkabePhone,,0,0,0,,{\an6\fs43\c&HF5F0EB&\fax0.04\be2\pos(1238,340)\frz15.35}Mad Scientist
+Dialogue: 1,0:18:47.47,0:18:50.68,OkabePhone,,0,0,0,,{\fs50\c&H736769&\be2\org(322,862)\frz14.58\pos(1052,628)\frx2\fry358}Trick world,\Nlinking each\Npossibility.
 Dialogue: 30,0:00:15.72,0:00:19.18,Default,,0,0,0,,Okabe-san? What are you doing this early?
 Dialogue: 30,0:00:19.18,0:00:21.02,Default,,0,0,0,,Hiyajo-san...
 Dialogue: 30,0:00:21.02,0:00:22.81,Default,,0,0,0,,I have to ask you something.

@@ -27,184 +27,184 @@ Style: Typeset,Noto Sans JP,95,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,,function getPos(str) { return str.match(/\(.*\)/g).slice(1, -1) }
-Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,,function arrayConcat(total, cur) { return total + '{' + cur + "}," }
-Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,,lines.map(getPos).reduce(arrayConcat, '{').slice(0, -1) + '}'
-Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,code once,pos = {{1746.286,965.429},{1740.571,959.714},{1736,959.714},{1729.143,959.714},{1725.714,965.429},{1721.143,970},{1725.714,965.429},{1729.143,957.429},{1733.714,957.429},{1739.429,958.571},{1746.286,964.286},{1747.429,968.857},{1745.143,963.143},{1747.429,960.857},{1744,956.286},{1740.571,947.143},{1740.571,943.714},{1738.286,936.857},{1734.857,930},{1734.857,922},{1736,915.143},{1730.286,909.429},{1729.143,898},{1730.286,890},{1725.714,888.857},{1723.429,874},{1723.429,866},{1722.286,860.286},{1722.286,851.143},{1722.286,838.571},{1723.429,823.714},{1722.286,811.143},{1723.429,795.143},{1730.286,779.143},{1730.286,770},{1730.286,758.571},{1734.857,742.571},{1733.714,732.286},{1736,718.571},{1739.429,708.286},{1740.571,699.143},{1739.429,686.571},{1744,679.714},{1745.143,667.143},{1745.143,655.714},{1747.429,646.571},{1746.286,637.429},{1747.429,622.571},{1745.143,605.429},{1747.429,592.857},{1745.143,581.429},{1740.571,562},{1739.429,551.714},{1741.714,539.143},{1734.857,524.286},{1736,514},{1736.571,502.286}}
-Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,code once,function x(index) return pos[index][1] - 1736.571 end
-Comment: 0,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,code once,function y(index) return pos[index][2]  - 502.286 end
-Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H949495&\blur20\pos(!x($layer)!,!y($layer)!)}m 58 287 l 350 187 l 724 137 l 970 127 l 987 318 l 788 323 l 534 342 l 67 435 {\p0}
-Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H6B6C6B&\blur40\pos(!x($layer)!,!y($layer)!)}m 892 130 l 1175 117 l 1492 145 l 1503 346 l 1132 312 l 893 320 {\p0}
-Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H181818&\blur8\pos(!x($layer)!,!y($layer)!)}m 26 513 l 97 483 l 197 452 l 296 429 l 437 403 l 564 388 l 579 477 l 493 482 l 403 496 l 208 533 l 87 572 l 16 601 {\p0}
-Comment: 1,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H7D7D7D&\blur20\pos(!x($layer)!,!y($layer)!)}m -51 641 l 92 592 l 307 538 l 557 497 l 809 489 l 818 613 l 659 646 l 537 700 l 338 744 l 156 830 l -67 912 {\p0}
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 88!,!y($layer) + 334!)\fay-0.2\frz4.589}Aki
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.15\frz4.589\pos(!x($layer) + 176!,!y($layer) + 308!)}haba
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.1\pos(!x($layer) + 299.6!,!y($layer) + 279.2!)\frz6.517}ra
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 369.6!,!y($layer) + 265.2!)\fax\fay-0.03\frz5.974}Tech
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz5.228\pos(!x($layer) + 497.6!,!y($layer) + 247.2!)}no Forum
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz3.016\pos(!x($layer) + 765.6!,!y($layer) + 223.2!)}2010
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\fax0.045\frz1.999\pos(!x($layer) + 895.6!,!y($layer) + 217.2!)}Lecture
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay0.04\fax0.1\pos(!x($layer) + 1099.6!,!y($layer) + 217.2!)}Program
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.35\fax0.1\pos(!x($layer) + 15.6!,!y($layer) + 541.2!)}Art
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.29\fax0.07\pos(!x($layer) + 102.8!,!y($layer) + 511.6!)\frz359.6}ificial
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.18\fax0.08\pos(!x($layer) + 260.8!,!y($layer) + 467.6!)}Intel
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.13\fax0.08\pos(!x($layer) + 382.8!,!y($layer) + 445.6!)\frz0.5602}ligence
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fscy90\fay0.03\frz0.2437\fay-0.06\fax0.05\pos(!x($layer) + 574.8!,!y($layer) + 419.6!)}Revolution
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 44!,!y($layer) + 716!)}Ale
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 78!,!y($layer) + 650!)}xis
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz5.343\pos(!x($layer) + 212!,!y($layer) + 604!)}Les
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz4.749\pos(!x($layer) + 354!,!y($layer) + 576!)}kin
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\frz5.305\pos(!x($layer) + 490!,!y($layer) + 559.333!)}en
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 28!,!y($layer) + 784!)}Victor
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 720.667!)}Chond
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992\pos(!x($layer) + 218.667!,!y($layer) + 676.668!)}ria
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 281.334!,!y($layer) + 658.666!)}Univ
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 369.334!,!y($layer) + 641.999!)}ersity
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 483.067!,!y($layer) + 627.6!)\frz6.459}professor
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 18!,!y($layer) + 826!)}Brain
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 767.667!)}Science
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992.1\pos(!x($layer) + 248!,!y($layer) + 715!)}In
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 291!,!y($layer) + 703!)}stitute
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 424!,!y($layer) + 679!)}Chief
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 540!,!y($layer) + 665!)\frz6.459}Resear
-Comment: 2,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.1\fscy90\fax0.07\pos(!x($layer) + 672!,!y($layer) + 655!)\frz6.459}cher
-Comment: 1,0:16:54.53,0:16:54.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,965.429)}
-Comment: 2,0:16:54.66,0:16:54.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,959.714)}
-Comment: 3,0:16:54.78,0:16:54.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,959.714)}
-Comment: 4,0:16:54.91,0:16:55.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,959.714)}
-Comment: 5,0:16:55.03,0:16:55.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
-Comment: 6,0:16:55.16,0:16:55.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1721.143,970)}
-Comment: 7,0:16:55.28,0:16:55.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
-Comment: 8,0:16:55.41,0:16:55.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,957.429)}
-Comment: 9,0:16:55.53,0:16:55.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,957.429)}
-Comment: 10,0:16:55.66,0:16:55.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,958.571)}
-Comment: 11,0:16:55.78,0:16:55.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,964.286)}
-Comment: 12,0:16:55.91,0:16:56.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,968.857)}
-Comment: 13,0:16:56.03,0:16:56.07,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,963.143)}
-Comment: 14,0:16:56.07,0:16:56.11,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,960.857)}
-Comment: 15,0:16:56.11,0:16:56.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,956.286)}
-Comment: 16,0:16:56.16,0:16:56.20,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,947.143)}
-Comment: 17,0:16:56.20,0:16:56.24,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,943.714)}
-Comment: 18,0:16:56.24,0:16:56.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1738.286,936.857)}
-Comment: 19,0:16:56.28,0:16:56.32,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,930)}
-Comment: 20,0:16:56.32,0:16:56.37,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,922)}
-Comment: 21,0:16:56.37,0:16:56.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,915.143)}
-Comment: 22,0:16:56.41,0:16:56.45,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,909.429)}
-Comment: 23,0:16:56.45,0:16:56.49,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,898)}
-Comment: 24,0:16:56.49,0:16:56.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,890)}
-Comment: 25,0:16:56.53,0:16:56.57,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,888.857)}
-Comment: 26,0:16:56.57,0:16:56.62,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,874)}
-Comment: 27,0:16:56.62,0:16:56.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,866)}
-Comment: 28,0:16:56.66,0:16:56.70,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,860.286)}
-Comment: 29,0:16:56.70,0:16:56.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,851.143)}
-Comment: 30,0:16:56.74,0:16:56.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,838.571)}
-Comment: 31,0:16:56.78,0:16:56.82,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,823.714)}
-Comment: 32,0:16:56.82,0:16:56.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,811.143)}
-Comment: 33,0:16:56.87,0:16:56.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,795.143)}
-Comment: 34,0:16:56.91,0:16:56.95,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,779.143)}
-Comment: 35,0:16:56.95,0:16:56.99,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,770)}
-Comment: 36,0:16:56.99,0:16:57.03,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,758.571)}
-Comment: 37,0:16:57.03,0:16:57.07,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,742.571)}
-Comment: 38,0:16:57.07,0:16:57.12,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,732.286)}
-Comment: 39,0:16:57.12,0:16:57.16,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,718.571)}
-Comment: 40,0:16:57.16,0:16:57.20,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,708.286)}
-Comment: 41,0:16:57.20,0:16:57.24,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,699.143)}
-Comment: 42,0:16:57.24,0:16:57.28,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,686.571)}
-Comment: 43,0:16:57.28,0:16:57.32,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,679.714)}
-Comment: 44,0:16:57.32,0:16:57.37,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,667.143)}
-Comment: 45,0:16:57.37,0:16:57.41,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,655.714)}
-Comment: 46,0:16:57.41,0:16:57.45,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,646.571)}
-Comment: 47,0:16:57.45,0:16:57.49,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,637.429)}
-Comment: 48,0:16:57.49,0:16:57.53,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,622.571)}
-Comment: 49,0:16:57.53,0:16:57.57,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,605.429)}
-Comment: 50,0:16:57.57,0:16:57.62,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,592.857)}
-Comment: 51,0:16:57.62,0:16:57.66,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,581.429)}
-Comment: 52,0:16:57.66,0:16:57.70,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,562)}
-Comment: 53,0:16:57.70,0:16:57.74,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,551.714)}
-Comment: 54,0:16:57.74,0:16:57.78,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1741.714,539.143)}
-Comment: 55,0:16:57.78,0:16:57.82,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,524.286)}
-Comment: 56,0:16:57.82,0:16:57.87,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,514)}
-Comment: 57,0:16:57.87,0:16:57.91,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736.571,502.286)}
-Dialogue: 12,0:22:16.43,0:22:21.73,Amadeus Rom,,0,0,0,,{\ko40}A{\ko61}shi{\ko33}ta {\ko135}no {\ko52}te{\ko49}n{\ko36}ki {\ko123}mo
-Dialogue: 12,0:22:21.73,0:22:25.11,Amadeus Rom,,0,0,0,,{\ko46}Shi{\ko17}ra{\ko35}nu {\ko18}ma{\ko15}ma {\ko11}ga {\ko14}i{\ko42}i {\ko139}to
-Dialogue: 12,0:22:25.11,0:22:27.15,Amadeus Rom,,0,0,0,,{\ko22}Ka{\ko32}sa {\ko14}wo {\ko22}mo{\ko46}ta{\ko69}zu
-Dialogue: 12,0:22:27.15,0:22:32.66,Amadeus Rom,,0,0,0,,{\ko64}Na{\ko51}mi{\ko32}da {\ko137}no {\ko52}a{\ko51}me {\ko33}na{\ko130}ra
-Dialogue: 12,0:22:32.66,0:22:37.62,Amadeus Rom,,0,0,0,,{\ko32}Ya{\ko23}sa{\ko30}shi{\ko30}su{\ko16}gi{\ko14}ru {\ko26}u{\ko23}so {\ko133}ni {\ko41}ka{\ko18}ki{\ko15}ka{\ko12}e{\ko84}ta
-Dialogue: 12,0:22:37.62,0:22:42.92,Amadeus Rom,,0,0,0,,{\ko24}Ha{\ko16}ko {\ko52}ni {\ko33}to{\ko21}ji{\ko14}ko{\ko20}me{\ko39}ta {\ko42}so{\ko37}ra {\ko31}no {\ko30}da{\ko21}n{\ko49}pe{\ko21}n {\ko79}ga
-Dialogue: 12,0:22:42.92,0:22:48.30,Amadeus Rom,,0,0,0,,{\ko38}Mi{\ko20}ra{\ko40}i {\ko41}no {\ko13}pa{\ko19}zu{\ko20}ru {\ko44}ni {\ko41}ha{\ko27}ma{\ko39}t{\ko34}te{\ko18}ku{\ko43}re{\ko23}na{\ko78}i
-Dialogue: 12,0:22:48.30,0:22:54.43,Amadeus Rom,,0,0,0,,{\ko40}Mu{\ko19}ge{\ko19}n{\ko27}ka{\ko20}i {\ko56}no {\ko30}su{\ko17}i{\ko32}ro{\ko37}n {\ko44}wa {\ko41}no{\ko10}i{\ko53}zu {\ko20}ha{\ko17}ki{\ko14}da{\ko37}shi{\ko80}te
-Dialogue: 12,0:22:54.43,0:22:56.89,Amadeus Rom,,0,0,0,,{\ko16}Ka{\ko15}mi {\ko24}sa{\ko26}e {\ko44}mo {\ko7}a{\ko27}za{\ko16}mu{\ko17}ku {\ko18}ro{\ko37}jikku
-Dialogue: 12,0:22:56.89,0:23:00.06,Amadeus Rom,,0,0,0,,{\ko46}Ya{\ko13}ku{\ko19}so{\ko31}ku {\ko40}no {\ko15}a{\ko18}no {\ko8}ba{\ko25}sho {\ko101}he
-Dialogue: 12,0:23:00.06,0:23:03.65,Amadeus Rom,,0,0,0,,{\ko35}Bo{\ko14}ku{\ko15}ra {\ko39}wa {\ko26}u{\ko22}chu{\ko17}u {\ko11}mo {\ko24}ma{\ko21}da {\ko48}shi{\ko35}ra{\ko33}na{\ko19}i
-Dialogue: 12,0:23:03.65,0:23:06.74,Amadeus Rom,,0,0,0,,{\ko48}Ze{\ko19}ro {\ko17}no {\ko34}gee{\ko24}to {\ko43}hi{\ko17}ra{\ko14}ku {\ko93}yo
-Dialogue: 12,0:23:06.74,0:23:09.20,Amadeus Rom,,0,0,0,,{\ko44}Su{\ko18}be{\ko18}te {\ko30}wa {\ko19}tsu{\ko18}bu {\ko17}to {\ko18}na{\ko64}ri
-Dialogue: 12,0:23:09.20,0:23:10.91,Amadeus Rom,,0,0,0,,{\ko33}Sa{\ko11}i{\ko27}se{\ko24}i {\ko43}su{\ko33}ru
-Dialogue: 12,0:23:10.91,0:23:14.53,Amadeus Rom,,0,0,0,,{\ko35}So{\ko15}re{\ko20}na{\ko34}ra {\ko32}to{\ko20}gi{\ko12}re{\ko21}so{\ko14}u {\ko36}na {\ko28}i{\ko34}shi{\ko40}ki {\ko22}mo
-Dialogue: 12,0:23:14.53,0:23:17.50,Amadeus Rom,,0,0,0,,{\ko45}Tsu{\ko17}na{\ko17}gi{\ko12}to{\ko23}me{\ko32}te {\ko21}mi{\ko31}se{\ko16}ru {\ko82}yo
-Dialogue: 12,0:23:17.50,0:23:20.21,Amadeus Rom,,0,0,0,,{\ko20}A{\ko16}no {\ko17}ji{\ko37}ka{\ko32}n {\ko17}a{\ko13}no {\ko16}ba{\ko22}sho {\ko81}de
-Dialogue: 12,0:23:20.21,0:23:31.47,Amadeus Rom,,0,0,0,,{\ko38}{\fade(0,1500)}Ki{\ko17}mi {\ko34}no {\ko17}to{\ko16}ki {\ko77}ga {\ko26}mou {\ko33}i{\ko136}chi{\ko355}do {\ko18}ha{\ko33}ji{\ko138}ma{\ko188}ru
-Dialogue: 11,0:22:16.43,0:22:21.73,Amadeus Rom Red,,0,0,0,,Ashita no tenki mo
-Dialogue: 11,0:22:21.73,0:22:25.11,Amadeus Rom Red,,0,0,0,,Shiranu mama ga ii to
-Dialogue: 11,0:22:25.11,0:22:27.15,Amadeus Rom Red,,0,0,0,,Kasa wo motazu
-Dialogue: 11,0:22:27.15,0:22:32.66,Amadeus Rom Red,,0,0,0,,Namida no ame nara
-Dialogue: 11,0:22:32.66,0:22:37.62,Amadeus Rom Red,,0,0,0,,Yasashisugiru uso ni kakikaeta
-Dialogue: 11,0:22:37.62,0:22:42.92,Amadeus Rom Red,,0,0,0,,Hako ni tojikometa sora no danpen ga
-Dialogue: 11,0:22:42.92,0:22:48.30,Amadeus Rom Red,,0,0,0,,Mirai no pazuru ni hamattekurenai
-Dialogue: 11,0:22:48.30,0:22:54.43,Amadeus Rom Red,,0,0,0,,Mugenkai no suiron wa noizu hakidashite
-Dialogue: 11,0:22:54.43,0:22:56.89,Amadeus Rom Red,,0,0,0,,Kami sae mo azamuku rojikku
-Dialogue: 11,0:22:56.89,0:23:00.06,Amadeus Rom Red,,0,0,0,,Yakusoku no ano basho he
-Dialogue: 11,0:23:00.06,0:23:03.65,Amadeus Rom Red,,0,0,0,,Bokura wa uchuu mo mada shiranai
-Dialogue: 11,0:23:03.65,0:23:06.74,Amadeus Rom Red,,0,0,0,,Zero no geeto hiraku yo
-Dialogue: 11,0:23:06.74,0:23:09.20,Amadeus Rom Red,,0,0,0,,Subete wa tsubu to nari
-Dialogue: 11,0:23:09.20,0:23:10.91,Amadeus Rom Red,,0,0,0,,Saisei suru
-Dialogue: 11,0:23:10.91,0:23:14.53,Amadeus Rom Red,,0,0,0,,Sorenara togiresou na ishiki mo
-Dialogue: 11,0:23:14.53,0:23:17.50,Amadeus Rom Red,,0,0,0,,Tsunagitomete miseru yo
-Dialogue: 11,0:23:17.50,0:23:20.21,Amadeus Rom Red,,0,0,0,,Ano jikan ano basho de
-Dialogue: 11,0:23:20.21,0:23:31.47,Amadeus Rom Red,,0,0,0,,{\fade(0,1500)}Kimi no toki ga mou ichido hajimaru
-Dialogue: 11,0:22:16.43,0:22:21.73,Amadeus Trans,,0,0,0,,“Tomorrow’s weather
-Dialogue: 11,0:22:21.73,0:22:25.11,Amadeus Trans,,0,0,0,,“Is better of not known,” I say,
-Dialogue: 11,0:22:25.11,0:22:27.15,Amadeus Trans,,0,0,0,,So I don’t carry an umbrella
-Dialogue: 11,0:22:27.15,0:22:32.66,Amadeus Trans,,0,0,0,,Any downpour of tears that may await me
-Dialogue: 11,0:22:32.66,0:22:37.62,Amadeus Trans,,0,0,0,,Will be rewritten into the gentlest of lies
-Dialogue: 11,0:22:37.62,0:22:42.92,Amadeus Trans,,0,0,0,,The pieces of the sky enclosed within the box
-Dialogue: 11,0:22:42.92,0:22:48.30,Amadeus Trans,,0,0,0,,Cannot connect to form the puzzle of the future
-Dialogue: 11,0:22:48.30,0:22:54.43,Amadeus Trans,,0,0,0,,Static, spat out from my infinith inference,
-Dialogue: 11,0:22:54.43,0:22:56.89,Amadeus Trans,,0,0,0,,Is the logic to deceive God himself,
-Dialogue: 11,0:22:56.89,0:23:00.06,Amadeus Trans,,0,0,0,,Bringing us closer to that promised place...
-Dialogue: 11,0:23:00.06,0:23:03.65,Amadeus Trans,,0,0,0,,We will open the gate of Zero,
-Dialogue: 11,0:23:03.65,0:23:06.74,Amadeus Trans,,0,0,0,,Still unknown to the universe,
-Dialogue: 11,0:23:06.74,0:23:09.20,Amadeus Trans,,0,0,0,,Reducing everything to particles
-Dialogue: 11,0:23:09.20,0:23:10.91,Amadeus Trans,,0,0,0,,And reassembling it all
-Dialogue: 11,0:23:10.91,0:23:14.53,Amadeus Trans,,0,0,0,,Even so, I’ll show you
-Dialogue: 11,0:23:14.53,0:23:17.50,Amadeus Trans,,0,0,0,,I can hold on to this discontinuous consciousness,
-Dialogue: 11,0:23:17.50,0:23:20.21,Amadeus Trans,,0,0,0,,And in that hour, in that place,
-Dialogue: 11,0:23:20.21,0:23:31.47,Amadeus Trans,,0,0,0,,{\fade(0,1500)}Your “time” will begin once more
-Dialogue: 10,0:22:16.31,0:23:35.51,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
-Dialogue: 10,0:22:16.31,0:23:35.51,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
-Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\an3\pos(1684,686)\fsp16}Missing Link
-Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1142,658)\fs60\fsp4}of
-Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1144,700)\fs40}the
-Dialogue: 1,0:10:30.98,0:10:35.99,Title,,0,0,0,,{\pos(1194,640)\fsp4\fs120}Annihilator
-Dialogue: 1,0:01:24.18,0:01:27.15,Signs,,0,0,0,,{\an8\pos(1433.434,111.5)\fs64\1c&H493C97&\3c&H201A40&\fnConcert One\frz309\be1.5\frx352\fry326}Christmas\NSale
-Dialogue: 1,0:06:00.59,0:06:02.34,Signs,,0,0,0,,{\an8\c&H556353&\frx4\fry-2\frz-33\fnSpecial Elite\fs90\t(\frx6,\fry-5,\frz-32)\be3\1a&H4B&\move(639.245,1322.5,774,649,0,1742)} Braun Tube Workshop
-Dialogue: 1,0:09:26.50,0:09:29.46,Signs,,0,0,0,,{\an1\pos(1119.057,92.25)\fs32.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}New strain of encephalitis
-Dialogue: 1,0:09:26.50,0:09:29.46,Signs,,0,0,0,,{\an1\pos(611.057,792.25)\fs52.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}No cases have yet to be reported in Japan.
-Dialogue: 1,0:13:18.11,0:13:18.69,Signs,,0,0,0,,{\an7\c&H3B3637&\fs135\blur3.5\be4\frz290.5\fax0.1\fnPatrick Hand\b1\move(775.925,201.5,771.925,149.75,22,564)}I failed I failed I failed I failed\N{\fax-0.1}I failed I failed I failed I failed
-Dialogue: 1,0:13:18.69,0:13:19.11,Signs,,0,0,0,,{\an7\c&H5B5158&\fs100\shad0\blur3.5\be4\fnPatrick Hand\b1\move(911.925,115.5,925.925,95.75,26,401)\frz269.9}I failed I failed I failed I failed I failed\NI failed I failed I failed I failed I failed
-Dialogue: 0,0:15:54.89,0:15:56.81,Draw,,0,0,0,,{\pos(0,0)\p1\c&HE4DBD8&\blur10}m 556 349 l 902 371 l 829 522 l 444 482 {\p0}
-Dialogue: 0,0:15:54.89,0:15:56.81,Draw,,0,0,0,,{\pos(0,0)\p1\c&HD9CFCA&\blur10}m 1018 474 l 1225 494 l 1198 546 l 991 523 {\p0}
-Dialogue: 1,0:15:54.89,0:15:56.81,OkabePhone,,0,0,0,,{\an7\org(1568.075,476)\pos(434.075,418)\fs74\c&H675855&\be3\frx16\fry0\frz355.2}1 New Message\N{\fs100}Professor Izaki
-Dialogue: 1,0:15:54.89,0:15:56.81,OkabePhone,,0,0,0,,{\an6\org(2000.075,596)\pos(1148.075,580)\fs45\b1\c&H958B85&\be3\frx16\fry0\frz355.2}View mail
-Dialogue: 0,0:15:56.81,0:16:01.14,Draw,,0,0,0,,{\move(0,0,0,500)\p1\c&HEBE5E4&\blur30}m -35 0 l -35 563 l 678 1046 l 1920 1080 l 1920 759 l -35 -656 {\p0}
-Dialogue: 0,0:15:56.81,0:16:01.14,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HEDE7E6&\blur30}m 325 21 l 227 -50 l 616 -49 l 716 34 l 1908 912 l 2323 1197 l 2135 1349 l 1721 1049 {\p0}
-Dialogue: 0,0:15:56.81,0:16:01.14,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HECE6E6&\blur30}m 672 -35 l 890 124 l 977 41 l 1300 281 l 1447 137 l 879 -192 {\p0}
-Dialogue: 1,0:15:56.81,0:16:01.14,OkabePhone,,0,0,0,,{\an7\move(600,-947.5,600,-450)\fs130\c&HC2AFAD&\be3\frz323.3}From: Professor Izaki\N\N{\fs100}To: Okabe Rintaro
-Dialogue: 1,0:15:56.81,0:16:01.14,OkabePhone,,0,0,0,,{\a9\move(330,-597.5,330,-100)\fs160\c&H604C4C&\be3\frz323.3}Regarding tomorrow’s seminar
-Dialogue: 1,0:15:56.81,0:16:01.14,OkabePhone,,0,0,0,,{\an7\move(50,-597.5,50,-100)\fr-38\fs160\c&H604C4C&\be3}We’re all going out for some drinks after\Nthe seminar. If you’ve got some free time, would you care to join us?
-Dialogue: 1,0:16:43.89,0:16:48.07,Signs,,0,0,0,,{\a9\move(1358.491,720,1335.849,742.5)\c&H504C43&\3c&H645F52&\bord2.25\shad2.25\fr24\fs74.25\frx358\fry3\fs100}DEC 2010\N{\fs80}10 FR–11 SA\NUPX Theater
-Dialogue: 1,0:16:57.91,0:17:01.16,Signs,,0,0,0,,{\q2\an7\fs150\c&H101010&\fade(0,1000)\fnPlayfair Display Medium\be8\frz2.002\fay-0.025\move(370,718,88,718,0,3195)}Viktor Chondria University Professor\NBrain Science Institute Chief Researcher
-Dialogue: 0,0:20:43.59,0:20:48.60,Draw,,0,0,0,,{\pos(0,0)\p1\c&HFFFFFB&\blur15}m 860 7 l 1007 119 l 1326 385 l 1270 517 l 1139 384 l 1091 526 l 860 181 l 881 96 l 849 60 {\p0}
-Dialogue: 1,0:20:43.59,0:20:48.60,Signs,,0,0,0,,{\org(1136,1250)\pos(276,958)\c&H7D7A74&\fs80\be3\fnPlayfair Display\frz293.7\frx356\fry328}An Analysis of Neural Pulse Signals\N{\fs50}in Relation to Memories Stored in the Temporal Lobe
+Comment: 0,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,,function getPos(str) { return str.match(/\(.*\)/g).slice(1, -1) }
+Comment: 0,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,,function arrayConcat(total, cur) { return total + '{' + cur + "}," }
+Comment: 0,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,,lines.map(getPos).reduce(arrayConcat, '{').slice(0, -1) + '}'
+Comment: 0,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,code once,pos = {{1746.286,965.429},{1740.571,959.714},{1736,959.714},{1729.143,959.714},{1725.714,965.429},{1721.143,970},{1725.714,965.429},{1729.143,957.429},{1733.714,957.429},{1739.429,958.571},{1746.286,964.286},{1747.429,968.857},{1745.143,963.143},{1747.429,960.857},{1744,956.286},{1740.571,947.143},{1740.571,943.714},{1738.286,936.857},{1734.857,930},{1734.857,922},{1736,915.143},{1730.286,909.429},{1729.143,898},{1730.286,890},{1725.714,888.857},{1723.429,874},{1723.429,866},{1722.286,860.286},{1722.286,851.143},{1722.286,838.571},{1723.429,823.714},{1722.286,811.143},{1723.429,795.143},{1730.286,779.143},{1730.286,770},{1730.286,758.571},{1734.857,742.571},{1733.714,732.286},{1736,718.571},{1739.429,708.286},{1740.571,699.143},{1739.429,686.571},{1744,679.714},{1745.143,667.143},{1745.143,655.714},{1747.429,646.571},{1746.286,637.429},{1747.429,622.571},{1745.143,605.429},{1747.429,592.857},{1745.143,581.429},{1740.571,562},{1739.429,551.714},{1741.714,539.143},{1734.857,524.286},{1736,514},{1736.571,502.286}}
+Comment: 0,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,code once,function x(index) return pos[index][1] - 1736.571 end
+Comment: 0,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,code once,function y(index) return pos[index][2]  - 502.286 end
+Comment: 1,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H949495&\blur20\pos(!x($layer)!,!y($layer)!)}m 58 287 l 350 187 l 724 137 l 970 127 l 987 318 l 788 323 l 534 342 l 67 435 {\p0}
+Comment: 1,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H6B6C6B&\blur40\pos(!x($layer)!,!y($layer)!)}m 892 130 l 1175 117 l 1492 145 l 1503 346 l 1132 312 l 893 320 {\p0}
+Comment: 1,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H181818&\blur8\pos(!x($layer)!,!y($layer)!)}m 26 513 l 97 483 l 197 452 l 296 429 l 437 403 l 564 388 l 579 477 l 493 482 l 403 496 l 208 533 l 87 572 l 16 601 {\p0}
+Comment: 1,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an7\p1\c&H7D7D7D&\blur20\pos(!x($layer)!,!y($layer)!)}m -51 641 l 92 592 l 307 538 l 557 497 l 809 489 l 818 613 l 659 646 l 537 700 l 338 744 l 156 830 l -67 912 {\p0}
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 88!,!y($layer) + 334!)\fay-0.2\frz4.589}Aki
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.15\frz4.589\pos(!x($layer) + 176!,!y($layer) + 308!)}haba
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.1\pos(!x($layer) + 299.6!,!y($layer) + 279.2!)\frz6.517}ra
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\pos(!x($layer) + 369.6!,!y($layer) + 265.2!)\fax\fay-0.03\frz5.974}Tech
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz5.228\pos(!x($layer) + 497.6!,!y($layer) + 247.2!)}no Forum
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\frz3.016\pos(!x($layer) + 765.6!,!y($layer) + 223.2!)}2010
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\fax0.045\frz1.999\pos(!x($layer) + 895.6!,!y($layer) + 217.2!)}Lecture
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay0.04\fax0.1\pos(!x($layer) + 1099.6!,!y($layer) + 217.2!)}Program
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.35\fax0.1\pos(!x($layer) + 15.6!,!y($layer) + 541.2!)}Art
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.29\fax0.07\pos(!x($layer) + 102.8!,!y($layer) + 511.6!)\frz359.6}ificial
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\frz0.2437\fay-0.18\fax0.08\pos(!x($layer) + 260.8!,!y($layer) + 467.6!)}Intel
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fay0.03\fay-0.13\fax0.08\pos(!x($layer) + 382.8!,!y($layer) + 445.6!)\frz0.5602}ligence
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs80\c&H909090&\be5\fnPlayfair Display Semibold\fscy90\fay0.03\frz0.2437\fay-0.06\fax0.05\pos(!x($layer) + 574.8!,!y($layer) + 419.6!)}Revolution
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 44!,!y($layer) + 716!)}Ale
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 78!,!y($layer) + 650!)}xis
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz5.343\pos(!x($layer) + 212!,!y($layer) + 604!)}Les
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz4.749\pos(!x($layer) + 354!,!y($layer) + 576!)}kin
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs130\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\frz5.305\pos(!x($layer) + 490!,!y($layer) + 559.333!)}en
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 28!,!y($layer) + 784!)}Victor
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 720.667!)}Chond
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992\pos(!x($layer) + 218.667!,!y($layer) + 676.668!)}ria
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 281.334!,!y($layer) + 658.666!)}Univ
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 369.334!,!y($layer) + 641.999!)}ersity
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 483.067!,!y($layer) + 627.6!)\frz6.459}professor
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.5\fscy86\fax0.08\frz4.444\pos(!x($layer) - 18!,!y($layer) + 826!)}Brain
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.3\fscy86\fax0.14\frz4.444\pos(!x($layer) + 92.667!,!y($layer) + 767.667!)}Science
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.25\fscy86\fax0.16\frz3.992.1\pos(!x($layer) + 248!,!y($layer) + 715!)}In
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.12\fscy86\fax0.1\frz4.444\pos(!x($layer) + 291!,!y($layer) + 703!)}stitute
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay-0.05\fscy90\fax0.09\frz3.826\pos(!x($layer) + 424!,!y($layer) + 679!)}Chief
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.04\fscy90\fax0.07\pos(!x($layer) + 540!,!y($layer) + 665!)\frz6.459}Resear
+Comment: 2,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,template line notext,{\an4\fs60\c&H1D1A1C&\be5\fnPlayfair Display Semibold\fay0.1\fscy90\fax0.07\pos(!x($layer) + 672!,!y($layer) + 655!)\frz6.459}cher
+Comment: 1,0:16:54.52,0:16:54.65,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,965.429)}
+Comment: 2,0:16:54.65,0:16:54.77,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,959.714)}
+Comment: 3,0:16:54.77,0:16:54.90,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,959.714)}
+Comment: 4,0:16:54.90,0:16:55.02,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,959.714)}
+Comment: 5,0:16:55.02,0:16:55.15,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
+Comment: 6,0:16:55.15,0:16:55.27,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1721.143,970)}
+Comment: 7,0:16:55.27,0:16:55.40,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,965.429)}
+Comment: 8,0:16:55.40,0:16:55.52,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,957.429)}
+Comment: 9,0:16:55.52,0:16:55.65,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,957.429)}
+Comment: 10,0:16:55.65,0:16:55.77,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,958.571)}
+Comment: 11,0:16:55.77,0:16:55.90,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,964.286)}
+Comment: 12,0:16:55.90,0:16:56.02,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,968.857)}
+Comment: 13,0:16:56.02,0:16:56.06,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,963.143)}
+Comment: 14,0:16:56.06,0:16:56.10,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,960.857)}
+Comment: 15,0:16:56.10,0:16:56.15,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,956.286)}
+Comment: 16,0:16:56.15,0:16:56.19,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,947.143)}
+Comment: 17,0:16:56.19,0:16:56.23,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,943.714)}
+Comment: 18,0:16:56.23,0:16:56.27,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1738.286,936.857)}
+Comment: 19,0:16:56.27,0:16:56.31,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,930)}
+Comment: 20,0:16:56.31,0:16:56.36,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,922)}
+Comment: 21,0:16:56.36,0:16:56.40,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,915.143)}
+Comment: 22,0:16:56.40,0:16:56.44,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,909.429)}
+Comment: 23,0:16:56.44,0:16:56.48,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1729.143,898)}
+Comment: 24,0:16:56.48,0:16:56.52,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,890)}
+Comment: 25,0:16:56.52,0:16:56.56,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1725.714,888.857)}
+Comment: 26,0:16:56.56,0:16:56.61,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,874)}
+Comment: 27,0:16:56.61,0:16:56.65,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,866)}
+Comment: 28,0:16:56.65,0:16:56.69,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,860.286)}
+Comment: 29,0:16:56.69,0:16:56.73,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,851.143)}
+Comment: 30,0:16:56.73,0:16:56.77,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,838.571)}
+Comment: 31,0:16:56.77,0:16:56.81,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,823.714)}
+Comment: 32,0:16:56.81,0:16:56.86,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1722.286,811.143)}
+Comment: 33,0:16:56.86,0:16:56.90,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1723.429,795.143)}
+Comment: 34,0:16:56.90,0:16:56.94,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,779.143)}
+Comment: 35,0:16:56.94,0:16:56.98,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,770)}
+Comment: 36,0:16:56.98,0:16:57.02,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1730.286,758.571)}
+Comment: 37,0:16:57.02,0:16:57.06,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,742.571)}
+Comment: 38,0:16:57.06,0:16:57.11,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1733.714,732.286)}
+Comment: 39,0:16:57.11,0:16:57.15,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,718.571)}
+Comment: 40,0:16:57.15,0:16:57.19,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,708.286)}
+Comment: 41,0:16:57.19,0:16:57.23,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,699.143)}
+Comment: 42,0:16:57.23,0:16:57.27,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,686.571)}
+Comment: 43,0:16:57.27,0:16:57.31,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1744,679.714)}
+Comment: 44,0:16:57.31,0:16:57.36,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,667.143)}
+Comment: 45,0:16:57.36,0:16:57.40,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,655.714)}
+Comment: 46,0:16:57.40,0:16:57.44,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,646.571)}
+Comment: 47,0:16:57.44,0:16:57.48,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1746.286,637.429)}
+Comment: 48,0:16:57.48,0:16:57.52,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,622.571)}
+Comment: 49,0:16:57.52,0:16:57.56,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,605.429)}
+Comment: 50,0:16:57.56,0:16:57.61,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1747.429,592.857)}
+Comment: 51,0:16:57.61,0:16:57.65,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1745.143,581.429)}
+Comment: 52,0:16:57.65,0:16:57.69,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1740.571,562)}
+Comment: 53,0:16:57.69,0:16:57.73,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1739.429,551.714)}
+Comment: 54,0:16:57.73,0:16:57.77,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1741.714,539.143)}
+Comment: 55,0:16:57.77,0:16:57.81,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1734.857,524.286)}
+Comment: 56,0:16:57.81,0:16:57.86,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736,514)}
+Comment: 57,0:16:57.86,0:16:57.90,LectureProgramme,,0,0,0,karaoke,{\k42\pos(1736.571,502.286)}
+Dialogue: 12,0:22:16.42,0:22:21.72,Amadeus Rom,,0,0,0,,{\ko40}A{\ko61}shi{\ko33}ta {\ko135}no {\ko52}te{\ko49}n{\ko36}ki {\ko123}mo
+Dialogue: 12,0:22:21.72,0:22:25.10,Amadeus Rom,,0,0,0,,{\ko46}Shi{\ko17}ra{\ko35}nu {\ko18}ma{\ko15}ma {\ko11}ga {\ko14}i{\ko42}i {\ko139}to
+Dialogue: 12,0:22:25.10,0:22:27.14,Amadeus Rom,,0,0,0,,{\ko22}Ka{\ko32}sa {\ko14}wo {\ko22}mo{\ko46}ta{\ko69}zu
+Dialogue: 12,0:22:27.14,0:22:32.65,Amadeus Rom,,0,0,0,,{\ko64}Na{\ko51}mi{\ko32}da {\ko137}no {\ko52}a{\ko51}me {\ko33}na{\ko130}ra
+Dialogue: 12,0:22:32.65,0:22:37.61,Amadeus Rom,,0,0,0,,{\ko32}Ya{\ko23}sa{\ko30}shi{\ko30}su{\ko16}gi{\ko14}ru {\ko26}u{\ko23}so {\ko133}ni {\ko41}ka{\ko18}ki{\ko15}ka{\ko12}e{\ko84}ta
+Dialogue: 12,0:22:37.61,0:22:42.91,Amadeus Rom,,0,0,0,,{\ko24}Ha{\ko16}ko {\ko52}ni {\ko33}to{\ko21}ji{\ko14}ko{\ko20}me{\ko39}ta {\ko42}so{\ko37}ra {\ko31}no {\ko30}da{\ko21}n{\ko49}pe{\ko21}n {\ko79}ga
+Dialogue: 12,0:22:42.91,0:22:48.29,Amadeus Rom,,0,0,0,,{\ko38}Mi{\ko20}ra{\ko40}i {\ko41}no {\ko13}pa{\ko19}zu{\ko20}ru {\ko44}ni {\ko41}ha{\ko27}ma{\ko39}t{\ko34}te{\ko18}ku{\ko43}re{\ko23}na{\ko78}i
+Dialogue: 12,0:22:48.29,0:22:54.42,Amadeus Rom,,0,0,0,,{\ko40}Mu{\ko19}ge{\ko19}n{\ko27}ka{\ko20}i {\ko56}no {\ko30}su{\ko17}i{\ko32}ro{\ko37}n {\ko44}wa {\ko41}no{\ko10}i{\ko53}zu {\ko20}ha{\ko17}ki{\ko14}da{\ko37}shi{\ko80}te
+Dialogue: 12,0:22:54.42,0:22:56.88,Amadeus Rom,,0,0,0,,{\ko16}Ka{\ko15}mi {\ko24}sa{\ko26}e {\ko44}mo {\ko7}a{\ko27}za{\ko16}mu{\ko17}ku {\ko18}ro{\ko37}jikku
+Dialogue: 12,0:22:56.88,0:23:00.05,Amadeus Rom,,0,0,0,,{\ko46}Ya{\ko13}ku{\ko19}so{\ko31}ku {\ko40}no {\ko15}a{\ko18}no {\ko8}ba{\ko25}sho {\ko101}he
+Dialogue: 12,0:23:00.05,0:23:03.64,Amadeus Rom,,0,0,0,,{\ko35}Bo{\ko14}ku{\ko15}ra {\ko39}wa {\ko26}u{\ko22}chu{\ko17}u {\ko11}mo {\ko24}ma{\ko21}da {\ko48}shi{\ko35}ra{\ko33}na{\ko19}i
+Dialogue: 12,0:23:03.64,0:23:06.73,Amadeus Rom,,0,0,0,,{\ko48}Ze{\ko19}ro {\ko17}no {\ko34}gee{\ko24}to {\ko43}hi{\ko17}ra{\ko14}ku {\ko93}yo
+Dialogue: 12,0:23:06.73,0:23:09.19,Amadeus Rom,,0,0,0,,{\ko44}Su{\ko18}be{\ko18}te {\ko30}wa {\ko19}tsu{\ko18}bu {\ko17}to {\ko18}na{\ko64}ri
+Dialogue: 12,0:23:09.19,0:23:10.90,Amadeus Rom,,0,0,0,,{\ko33}Sa{\ko11}i{\ko27}se{\ko24}i {\ko43}su{\ko33}ru
+Dialogue: 12,0:23:10.90,0:23:14.52,Amadeus Rom,,0,0,0,,{\ko35}So{\ko15}re{\ko20}na{\ko34}ra {\ko32}to{\ko20}gi{\ko12}re{\ko21}so{\ko14}u {\ko36}na {\ko28}i{\ko34}shi{\ko40}ki {\ko22}mo
+Dialogue: 12,0:23:14.52,0:23:17.49,Amadeus Rom,,0,0,0,,{\ko45}Tsu{\ko17}na{\ko17}gi{\ko12}to{\ko23}me{\ko32}te {\ko21}mi{\ko31}se{\ko16}ru {\ko82}yo
+Dialogue: 12,0:23:17.49,0:23:20.20,Amadeus Rom,,0,0,0,,{\ko20}A{\ko16}no {\ko17}ji{\ko37}ka{\ko32}n {\ko17}a{\ko13}no {\ko16}ba{\ko22}sho {\ko81}de
+Dialogue: 12,0:23:20.20,0:23:31.46,Amadeus Rom,,0,0,0,,{\ko38}{\fade(0,1500)}Ki{\ko17}mi {\ko34}no {\ko17}to{\ko16}ki {\ko77}ga {\ko26}mou {\ko33}i{\ko136}chi{\ko355}do {\ko18}ha{\ko33}ji{\ko138}ma{\ko188}ru
+Dialogue: 11,0:22:16.42,0:22:21.72,Amadeus Rom Red,,0,0,0,,Ashita no tenki mo
+Dialogue: 11,0:22:21.72,0:22:25.10,Amadeus Rom Red,,0,0,0,,Shiranu mama ga ii to
+Dialogue: 11,0:22:25.10,0:22:27.14,Amadeus Rom Red,,0,0,0,,Kasa wo motazu
+Dialogue: 11,0:22:27.14,0:22:32.65,Amadeus Rom Red,,0,0,0,,Namida no ame nara
+Dialogue: 11,0:22:32.65,0:22:37.61,Amadeus Rom Red,,0,0,0,,Yasashisugiru uso ni kakikaeta
+Dialogue: 11,0:22:37.61,0:22:42.91,Amadeus Rom Red,,0,0,0,,Hako ni tojikometa sora no danpen ga
+Dialogue: 11,0:22:42.91,0:22:48.29,Amadeus Rom Red,,0,0,0,,Mirai no pazuru ni hamattekurenai
+Dialogue: 11,0:22:48.29,0:22:54.42,Amadeus Rom Red,,0,0,0,,Mugenkai no suiron wa noizu hakidashite
+Dialogue: 11,0:22:54.42,0:22:56.88,Amadeus Rom Red,,0,0,0,,Kami sae mo azamuku rojikku
+Dialogue: 11,0:22:56.88,0:23:00.05,Amadeus Rom Red,,0,0,0,,Yakusoku no ano basho he
+Dialogue: 11,0:23:00.05,0:23:03.64,Amadeus Rom Red,,0,0,0,,Bokura wa uchuu mo mada shiranai
+Dialogue: 11,0:23:03.64,0:23:06.73,Amadeus Rom Red,,0,0,0,,Zero no geeto hiraku yo
+Dialogue: 11,0:23:06.73,0:23:09.19,Amadeus Rom Red,,0,0,0,,Subete wa tsubu to nari
+Dialogue: 11,0:23:09.19,0:23:10.90,Amadeus Rom Red,,0,0,0,,Saisei suru
+Dialogue: 11,0:23:10.90,0:23:14.52,Amadeus Rom Red,,0,0,0,,Sorenara togiresou na ishiki mo
+Dialogue: 11,0:23:14.52,0:23:17.49,Amadeus Rom Red,,0,0,0,,Tsunagitomete miseru yo
+Dialogue: 11,0:23:17.49,0:23:20.20,Amadeus Rom Red,,0,0,0,,Ano jikan ano basho de
+Dialogue: 11,0:23:20.20,0:23:31.46,Amadeus Rom Red,,0,0,0,,{\fade(0,1500)}Kimi no toki ga mou ichido hajimaru
+Dialogue: 11,0:22:16.42,0:22:21.72,Amadeus Trans,,0,0,0,,“Tomorrow’s weather
+Dialogue: 11,0:22:21.72,0:22:25.10,Amadeus Trans,,0,0,0,,“Is better of not known,” I say,
+Dialogue: 11,0:22:25.10,0:22:27.14,Amadeus Trans,,0,0,0,,So I don’t carry an umbrella
+Dialogue: 11,0:22:27.14,0:22:32.65,Amadeus Trans,,0,0,0,,Any downpour of tears that may await me
+Dialogue: 11,0:22:32.65,0:22:37.61,Amadeus Trans,,0,0,0,,Will be rewritten into the gentlest of lies
+Dialogue: 11,0:22:37.61,0:22:42.91,Amadeus Trans,,0,0,0,,The pieces of the sky enclosed within the box
+Dialogue: 11,0:22:42.91,0:22:48.29,Amadeus Trans,,0,0,0,,Cannot connect to form the puzzle of the future
+Dialogue: 11,0:22:48.29,0:22:54.42,Amadeus Trans,,0,0,0,,Static, spat out from my infinith inference,
+Dialogue: 11,0:22:54.42,0:22:56.88,Amadeus Trans,,0,0,0,,Is the logic to deceive God himself,
+Dialogue: 11,0:22:56.88,0:23:00.05,Amadeus Trans,,0,0,0,,Bringing us closer to that promised place...
+Dialogue: 11,0:23:00.05,0:23:03.64,Amadeus Trans,,0,0,0,,We will open the gate of Zero,
+Dialogue: 11,0:23:03.64,0:23:06.73,Amadeus Trans,,0,0,0,,Still unknown to the universe,
+Dialogue: 11,0:23:06.73,0:23:09.19,Amadeus Trans,,0,0,0,,Reducing everything to particles
+Dialogue: 11,0:23:09.19,0:23:10.90,Amadeus Trans,,0,0,0,,And reassembling it all
+Dialogue: 11,0:23:10.90,0:23:14.52,Amadeus Trans,,0,0,0,,Even so, I’ll show you
+Dialogue: 11,0:23:14.52,0:23:17.49,Amadeus Trans,,0,0,0,,I can hold on to this discontinuous consciousness,
+Dialogue: 11,0:23:17.49,0:23:20.20,Amadeus Trans,,0,0,0,,And in that hour, in that place,
+Dialogue: 11,0:23:20.20,0:23:31.46,Amadeus Trans,,0,0,0,,{\fade(0,1500)}Your “time” will begin once more
+Dialogue: 10,0:22:16.30,0:23:35.50,Typeset Top,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+Dialogue: 10,0:22:16.30,0:23:35.50,Typeset,,0,0,0,,{\bord10\1a&FFF&\q1\blur3}MUWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+Dialogue: 1,0:10:30.97,0:10:35.98,Title,,0,0,0,,{\an3\pos(1684,686)\fsp16}Missing Link
+Dialogue: 1,0:10:30.97,0:10:35.98,Title,,0,0,0,,{\pos(1142,658)\fs60\fsp4}of
+Dialogue: 1,0:10:30.97,0:10:35.98,Title,,0,0,0,,{\pos(1144,700)\fs40}the
+Dialogue: 1,0:10:30.97,0:10:35.98,Title,,0,0,0,,{\pos(1194,640)\fsp4\fs120}Annihilator
+Dialogue: 1,0:01:24.17,0:01:27.14,Signs,,0,0,0,,{\an8\pos(1433.434,111.5)\fs64\1c&H493C97&\3c&H201A40&\fnConcert One\frz309\be1.5\frx352\fry326}Christmas\NSale
+Dialogue: 1,0:06:00.58,0:06:02.33,Signs,,0,0,0,,{\an8\c&H556353&\frx4\fry-2\frz-33\fnSpecial Elite\fs90\t(\frx6,\fry-5,\frz-32)\be3\1a&H4B&\move(639.245,1322.5,774,649,0,1742)} Braun Tube Workshop
+Dialogue: 1,0:09:26.49,0:09:29.45,Signs,,0,0,0,,{\an1\pos(1119.057,92.25)\fs32.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}New strain of encephalitis
+Dialogue: 1,0:09:26.49,0:09:29.45,Signs,,0,0,0,,{\an1\pos(611.057,792.25)\fs52.25\3c&H422C20&\c&HCBCFC1&\bord3\be1\alpha&H30&}No cases have yet to be reported in Japan.
+Dialogue: 1,0:13:18.10,0:13:18.68,Signs,,0,0,0,,{\an7\c&H3B3637&\fs135\blur3.5\be4\frz290.5\fax0.1\fnPatrick Hand\b1\move(775.925,201.5,771.925,149.75,22,564)}I failed I failed I failed I failed\N{\fax-0.1}I failed I failed I failed I failed
+Dialogue: 1,0:13:18.68,0:13:19.10,Signs,,0,0,0,,{\an7\c&H5B5158&\fs100\shad0\blur3.5\be4\fnPatrick Hand\b1\move(911.925,115.5,925.925,95.75,26,401)\frz269.9}I failed I failed I failed I failed I failed\NI failed I failed I failed I failed I failed
+Dialogue: 0,0:15:54.88,0:15:56.80,Draw,,0,0,0,,{\pos(0,0)\p1\c&HE4DBD8&\blur10}m 556 349 l 902 371 l 829 522 l 444 482 {\p0}
+Dialogue: 0,0:15:54.88,0:15:56.80,Draw,,0,0,0,,{\pos(0,0)\p1\c&HD9CFCA&\blur10}m 1018 474 l 1225 494 l 1198 546 l 991 523 {\p0}
+Dialogue: 1,0:15:54.88,0:15:56.80,OkabePhone,,0,0,0,,{\an7\org(1568.075,476)\pos(434.075,418)\fs74\c&H675855&\be3\frx16\fry0\frz355.2}1 New Message\N{\fs100}Professor Izaki
+Dialogue: 1,0:15:54.88,0:15:56.80,OkabePhone,,0,0,0,,{\an6\org(2000.075,596)\pos(1148.075,580)\fs45\b1\c&H958B85&\be3\frx16\fry0\frz355.2}View mail
+Dialogue: 0,0:15:56.80,0:16:01.13,Draw,,0,0,0,,{\move(0,0,0,500)\p1\c&HEBE5E4&\blur30}m -35 0 l -35 563 l 678 1046 l 1920 1080 l 1920 759 l -35 -656 {\p0}
+Dialogue: 0,0:15:56.80,0:16:01.13,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HEDE7E6&\blur30}m 325 21 l 227 -50 l 616 -49 l 716 34 l 1908 912 l 2323 1197 l 2135 1349 l 1721 1049 {\p0}
+Dialogue: 0,0:15:56.80,0:16:01.13,Draw,,0,0,0,,{\move(0,-500,0,0)\p1\c&HECE6E6&\blur30}m 672 -35 l 890 124 l 977 41 l 1300 281 l 1447 137 l 879 -192 {\p0}
+Dialogue: 1,0:15:56.80,0:16:01.13,OkabePhone,,0,0,0,,{\an7\move(600,-947.5,600,-450)\fs130\c&HC2AFAD&\be3\frz323.3}From: Professor Izaki\N\N{\fs100}To: Okabe Rintaro
+Dialogue: 1,0:15:56.80,0:16:01.13,OkabePhone,,0,0,0,,{\a9\move(330,-597.5,330,-100)\fs160\c&H604C4C&\be3\frz323.3}Regarding tomorrow’s seminar
+Dialogue: 1,0:15:56.80,0:16:01.13,OkabePhone,,0,0,0,,{\an7\move(50,-597.5,50,-100)\fr-38\fs160\c&H604C4C&\be3}We’re all going out for some drinks after\Nthe seminar. If you’ve got some free time, would you care to join us?
+Dialogue: 1,0:16:43.88,0:16:48.06,Signs,,0,0,0,,{\a9\move(1358.491,720,1335.849,742.5)\c&H504C43&\3c&H645F52&\bord2.25\shad2.25\fr24\fs74.25\frx358\fry3\fs100}DEC 2010\N{\fs80}10 FR–11 SA\NUPX Theater
+Dialogue: 1,0:16:57.90,0:17:01.15,Signs,,0,0,0,,{\q2\an7\fs150\c&H101010&\fade(0,1000)\fnPlayfair Display Medium\be8\frz2.002\fay-0.025\move(370,718,88,718,0,3195)}Viktor Chondria University Professor\NBrain Science Institute Chief Researcher
+Dialogue: 0,0:20:43.58,0:20:48.59,Draw,,0,0,0,,{\pos(0,0)\p1\c&HFFFFFB&\blur15}m 860 7 l 1007 119 l 1326 385 l 1270 517 l 1139 384 l 1091 526 l 860 181 l 881 96 l 849 60 {\p0}
+Dialogue: 1,0:20:43.58,0:20:48.59,Signs,,0,0,0,,{\org(1136,1250)\pos(276,958)\c&H7D7A74&\fs80\be3\fnPlayfair Display\frz293.7\frx356\fry328}An Analysis of Neural Pulse Signals\N{\fs50}in Relation to Memories Stored in the Temporal Lobe
 Dialogue: 30,0:00:15.47,0:00:19.51,Default,,0,0,0,,So this is where you’ve been, Big Sis Mayu.
 Dialogue: 30,0:00:19.51,0:00:21.27,Default,,0,0,0,,Suzu-chan...
 Dialogue: 30,0:00:21.27,0:00:23.39,Default,,0,0,0,,Dad and the others are looking for you.

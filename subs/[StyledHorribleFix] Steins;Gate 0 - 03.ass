@@ -26,97 +26,97 @@ Style: LastGame Rom,Lugrasimo,68,&H00E8E8E8,&H80262626,&H40404040,&H00000000,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:41.03,0:01:43.04,OP Rom,,0,0,0,code once,hor = 0
-Comment: 0,0:01:41.03,0:01:43.04,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
-Comment: 12,0:01:43.04,0:01:45.04,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
-Comment: 11,0:01:45.04,0:01:47.04,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
-Comment: 11,0:01:47.04,0:01:52.17,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
-Comment: 11,0:01:52.17,0:01:58.26,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
-Comment: 11,0:01:59.18,0:02:04.64,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
-Comment: 11,0:02:04.64,0:02:10.06,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
-Comment: 11,0:02:10.06,0:02:15.40,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
-Comment: 11,0:02:15.40,0:02:19.74,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
-Comment: 11,0:02:19.74,0:02:25.12,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
-Comment: 11,0:02:25.12,0:02:31.83,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
-Comment: 11,0:02:31.83,0:02:32.96,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
-Comment: 11,0:02:32.96,0:02:38.26,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
-Comment: 11,0:02:38.80,0:02:43.72,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
-Comment: 11,0:02:43.72,0:02:46.43,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
-Comment: 11,0:02:46.43,0:02:49.27,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
-Comment: 11,0:02:49.27,0:02:54.61,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
-Comment: 11,0:02:54.61,0:03:00.07,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}God. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
-Dialogue: 11,0:01:47.04,0:01:52.17,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
-Dialogue: 11,0:01:52.17,0:01:58.26,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It’s merely a vision projected into our eyes
-Dialogue: 11,0:01:59.18,0:02:04.64,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
-Dialogue: 11,0:02:04.64,0:02:10.06,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
-Dialogue: 11,0:02:10.06,0:02:15.40,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
-Dialogue: 11,0:02:15.40,0:02:19.74,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
-Dialogue: 11,0:02:19.74,0:02:25.12,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
-Dialogue: 11,0:02:25.12,0:02:31.83,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
-Dialogue: 11,0:02:32.96,0:02:38.26,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
-Dialogue: 11,0:02:38.80,0:02:43.72,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn’t merely something that’s expanding our distance
-Dialogue: 11,0:02:43.72,0:02:46.43,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
-Dialogue: 11,0:02:46.43,0:02:49.27,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
-Dialogue: 11,0:02:49.27,0:02:54.61,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
-Dialogue: 11,0:22:10.51,0:22:16.10,LastGame Rom,,0,0,0,,{\kf64\fade(100,100)}Come {\kf20}to {\kf220}me, {\kf18}em{\kf60}brace {\kf18}my {\kf159}tears
-Dialogue: 11,0:22:16.85,0:22:22.82,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Let {\kf22}me {\kf118}guide {\kf39}you {\kf119}down {\kf76}in{\kf29}to {\kf10}my {\kf125}soul
-Dialogue: 11,0:22:23.02,0:22:28.95,LastGame Rom,,0,0,0,,{\kf16\fade(100,100)}And {\kf62}let {\kf17}us {\kf107}pray {\kf32}for {\kf19}the {\kf118}world {\kf79}to {\kf25}re{\kf16}a{\kf101}lize
-Dialogue: 11,0:22:29.57,0:22:35.37,LastGame Rom,,0,0,0,,{\kf40\fade(100,100)}There {\kf32}is {\kf139}peace, {\kf15}the {\kf124}truth {\kf19}with{\kf19}in {\kf192}us
-Dialogue: 11,0:22:35.75,0:22:42.13,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Emp{\kf27}ti{\kf217}ness {\kf20}e{\kf64}rodes {\kf18}your {\kf233}heart
-Dialogue: 11,0:22:42.13,0:22:47.97,LastGame Rom,,0,0,0,,{\kf61\fade(100,100)}’Cause {\kf9}you’re {\kf121}free {\kf45}from {\kf116}pain {\kf71}and {\kf51}so{\kf110}rrow
-Dialogue: 11,0:22:48.38,0:22:54.43,LastGame Rom,,0,0,0,,{\kf57\fade(100,100)}The fu{\kf28}ture {\kf112}is {\kf20}just {\kf23}too {\kf115}bright {\kf67}to {\kf42}show {\kf17}you {\kf123}ways
-Dialogue: 11,0:22:54.68,0:23:00.52,LastGame Rom,,0,0,0,,{\kf47\fade(100,100)}Wake {\kf40}up {\kf116}now, {\kf16}it’s {\kf60}time {\kf25}to {\kf60}lead {\kf66}new {\kf154}souls
-Dialogue: 11,0:23:01.81,0:23:07.78,LastGame Rom,,0,0,0,,{\kf202\fade(100,100)}Or{\kf40}bit {\kf36}of {\kf41}pho{\kf62}ton {\kf21}and {\kf39}u{\kf26}ni{\kf129}verse
-Dialogue: 11,0:23:08.24,0:23:13.83,LastGame Rom,,0,0,0,,{\kf194\fade(100,100)}I {\kf34}am {\kf44}just {\kf38}a {\kf78}part {\kf41}of {\kf20}its {\kf110}plan
-Dialogue: 11,0:23:14.49,0:23:20.50,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me {\kf18}ni {\kf18}wa {\kf48}mi{\kf14}e{\kf25}na{\kf52}i {\kf41}yu{\kf33}ga{\kf45}n{\kf113}da {\kf24}so{\kf147}ra
-Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{\kf26}to {\kf18}wa {\kf38}do{\kf23}ko {\kf20}he {\kf60}to {\kf39}a{\kf39}ru{\kf38}i{\kf81}te {\kf39}yu{\kf20}ku {\kf268}no?
-Dialogue: 11,0:23:29.30,0:23:34.43,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
-Dialogue: 11,0:23:14.49,0:23:20.50,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}The eye cannot see the distortion of the sky
-Dialogue: 11,0:23:20.75,0:23:28.05,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think they are walking towards?
-Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\fsp-2\an1\pos(1102,952)}Protocol
-Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an2\fs70\fsp3\pos(1362,924)}of
-Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an2\fs50\pos(1360,948)\fsp-2}the
-Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an3\fs70\fsp-3\pos(1384,994)}Two-sided
-Dialogue: 1,0:03:00.95,0:03:05.95,Title,,0,0,0,,{\an1\fs140\pos(1390,1008)}Gospel
-Dialogue: 1,0:03:05.95,0:03:10.16,Draw,,0,0,0,,{\move(0,0,0,-904.5)\p1\c&HDBDADA&\blur10}m 1228 570 l 1468 559 l 1478 985 l 1229 983 {\p0}
-Dialogue: 1,0:03:05.95,0:03:10.16,Draw,,0,0,0,,{\move(0,904.5,0,0)\p1\c&HC9D0CE&\blur10}m 1228 818 l 1489 820 l 1478 -14 l 1226 -15 {\p0}
-Dialogue: 1,0:03:05.95,0:03:10.16,Signs,,0,0,0,,{\an6\move(1375,1602,1375,697.5)\fax0.02\fscy130\be4\fs125\c&H816551&\frz270.9}Tokyo Denki University
-Dialogue: 1,0:03:05.95,0:03:10.16,Signs,,0,0,0,,{\an7\fs67\be4\move(1242,1629.5,1242,725)\fay-0.01\c&H816551&}Building 7
-Dialogue: 0,0:03:56.38,0:03:57.59,Draw,,0,0,0,,{\fade(192,0)\p1\c&HDBD2CF&\blur10}m 519 960 l 667 1096 l 890 894 l 728 772 {\p0}
-Dialogue: 1,0:03:56.38,0:03:57.59,OkabePhone,,0,0,0,,{\fr43\fs70\c&H473F3D&\fade(192,0)\be4\pos(524.226,964)}Incoming Call:\N{\fs130\b0}Mayuri
-Dialogue: 1,0:09:30.13,0:09:32.59,Signs,,0,0,0,,{\an2\fs90\fax0.12\fay-0.02\c&H282120&\4c&H030202&\xshad4.5\yshad-2.25\frz0.512\pos(1131.358,422.25)}Brain Science Institute
-Dialogue: 1,0:10:23.97,0:10:26.52,Signs,,0,0,0,,{\fay-0.53\fs90\an8\c&H545355&\be4\pos(645.283,367)}Okabe Green Grocer
-Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 447 59 l 960 178 l 950 275 l 437 136 {\p0}
-Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 423 365 l 1140 638 l 1114 713 l 414 428 {\p0}
-Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 391 664 l 516 724 l 502 789 l 378 722 {\p0}
-Dialogue: 0,0:10:42.28,0:10:43.74,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 349 956 l 598 1112 l 458 1099 l 336 1014 {\p0}
-Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\org(1446.679,267.75)\frx358\fry358\frz344.3\pos(352.679,381.75)}Fill sadness in grief — reperative conduct{\u0}
-Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\frx358\fry358\org(1692.679,711.75)\frz338\pos(249,911.75)}What causes dependence? How to treat it | psychology...
-Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\pos(309,1335)\org(1644.679,841.75)\frx357\fry358\frz333}Reperative Conduct
-Dialogue: 1,0:10:42.28,0:10:43.74,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\org(1644.679,831.75)\frx357\fry358\frz335\pos(320,1681)}“Reperative conduct”
-Dialogue: 0,0:11:18.49,0:11:20.95,Draw,,0,0,0,,{\move(0,0,-70,-104)\p1\c&H335E57&\blur10}m 691 123 l 1218 526 l 1175 640 l 675 227 {\p0}
-Dialogue: 1,0:11:18.49,0:11:20.95,Signs,,0,0,0,,{\an7\fay0.81\fax-0.3\fs51.75\c&HB5B9BB&\b0\be3\org(1228,254)\frx358\fry356\frz2.55\move(626,88,558,-30)}1/120 Scale Radio-Controlled\N{\b1\fs56.25}Plastic Model Helicopter
-Dialogue: 0,0:15:43.42,0:15:44.42,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
-Dialogue: 0,0:15:44.42,0:15:44.54,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
-Dialogue: 0,0:15:44.54,0:15:44.67,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
-Dialogue: 0,0:15:44.67,0:15:44.79,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
-Dialogue: 0,0:15:44.79,0:15:44.92,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
-Dialogue: 0,0:15:44.92,0:15:45.00,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 918 436 l 948 448 958 480 954 504 945 528 931 546 798 513 844 490 860 485)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
-Dialogue: 1,0:15:43.42,0:15:44.42,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)}2 RINE messages from
-Dialogue: 1,0:15:44.42,0:15:44.54,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}2 RINE messages from
-Dialogue: 1,0:15:44.54,0:15:44.67,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}2 RINE messages from
-Dialogue: 1,0:15:44.67,0:15:44.79,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}2 RINE messages from
-Dialogue: 1,0:15:44.79,0:15:44.92,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}2 RINE messages from
-Dialogue: 1,0:15:44.92,0:15:45.00,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 918 436 l 948 448 958 480 954 504 945 528 931 546 798 513 844 490 860 485)}2 RINE messages from
-Dialogue: 1,0:15:43.42,0:15:44.42,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)}Daru-kun
-Dialogue: 1,0:15:44.42,0:15:44.54,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}Daru-kun
-Dialogue: 1,0:15:44.54,0:15:44.67,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}Daru-kun
-Dialogue: 1,0:15:44.67,0:15:44.79,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}Daru-kun
-Dialogue: 1,0:15:44.79,0:15:44.92,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}Daru-kun
-Dialogue: 0,0:15:45.00,0:15:45.38,Draw,,0,0,0,,{\p1\pos(0,0)\c&HEDEBEB&}m 928 319 l 894 362 l 1100 368 l 1131 328 {\p0}
-Dialogue: 1,0:15:45.00,0:15:45.38,MayuriPhone,,0,0,0,,{\fs33\be2.5\fax-0.8\fr-2\c&H6E6E6E&\pos(927.547,323)}Good luck, Daru-kun~~
-Dialogue: 0,0:15:45.00,0:15:45.38,Draw,,0,0,0,,{\p1\pos(0,0)\c&HE1DFE0&}m 1068 470 l 960 466 l 959 493 l 1049 497{\p0}
-Dialogue: 1,0:15:45.00,0:15:45.38,MayuriPhone,,0,0,0,,{\fs35\fax-0.8\fr-2\be2\c&H696969&\pos(974.528,462)}-dokey
+Comment: 0,0:01:41.02,0:01:43.03,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:01:41.02,0:01:43.03,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 12,0:01:43.03,0:01:45.03,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 11,0:01:45.03,0:01:47.03,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:01:47.03,0:01:52.16,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
+Comment: 11,0:01:52.16,0:01:58.25,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
+Comment: 11,0:01:59.17,0:02:04.63,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
+Comment: 11,0:02:04.63,0:02:10.05,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
+Comment: 11,0:02:10.05,0:02:15.39,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
+Comment: 11,0:02:15.39,0:02:19.73,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
+Comment: 11,0:02:19.73,0:02:25.11,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
+Comment: 11,0:02:25.11,0:02:31.82,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
+Comment: 11,0:02:31.82,0:02:32.95,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
+Comment: 11,0:02:32.95,0:02:38.25,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
+Comment: 11,0:02:38.79,0:02:43.71,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
+Comment: 11,0:02:43.71,0:02:46.42,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
+Comment: 11,0:02:46.42,0:02:49.26,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
+Comment: 11,0:02:49.26,0:02:54.60,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
+Comment: 11,0:02:54.60,0:03:00.06,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}God. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
+Dialogue: 11,0:01:47.03,0:01:52.16,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
+Dialogue: 11,0:01:52.16,0:01:58.25,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It’s merely a vision projected into our eyes
+Dialogue: 11,0:01:59.17,0:02:04.63,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
+Dialogue: 11,0:02:04.63,0:02:10.05,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
+Dialogue: 11,0:02:10.05,0:02:15.39,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
+Dialogue: 11,0:02:15.39,0:02:19.73,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
+Dialogue: 11,0:02:19.73,0:02:25.11,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
+Dialogue: 11,0:02:25.11,0:02:31.82,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
+Dialogue: 11,0:02:32.95,0:02:38.25,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
+Dialogue: 11,0:02:38.79,0:02:43.71,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn’t merely something that’s expanding our distance
+Dialogue: 11,0:02:43.71,0:02:46.42,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
+Dialogue: 11,0:02:46.42,0:02:49.26,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
+Dialogue: 11,0:02:49.26,0:02:54.60,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
+Dialogue: 11,0:22:10.50,0:22:16.09,LastGame Rom,,0,0,0,,{\kf64\fade(100,100)}Come {\kf20}to {\kf220}me, {\kf18}em{\kf60}brace {\kf18}my {\kf159}tears
+Dialogue: 11,0:22:16.84,0:22:22.81,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Let {\kf22}me {\kf118}guide {\kf39}you {\kf119}down {\kf76}in{\kf29}to {\kf10}my {\kf125}soul
+Dialogue: 11,0:22:23.01,0:22:28.94,LastGame Rom,,0,0,0,,{\kf16\fade(100,100)}And {\kf62}let {\kf17}us {\kf107}pray {\kf32}for {\kf19}the {\kf118}world {\kf79}to {\kf25}re{\kf16}a{\kf101}lize
+Dialogue: 11,0:22:29.56,0:22:35.36,LastGame Rom,,0,0,0,,{\kf40\fade(100,100)}There {\kf32}is {\kf139}peace, {\kf15}the {\kf124}truth {\kf19}with{\kf19}in {\kf192}us
+Dialogue: 11,0:22:35.74,0:22:42.12,LastGame Rom,,0,0,0,,{\kf59\fade(100,100)}Emp{\kf27}ti{\kf217}ness {\kf20}e{\kf64}rodes {\kf18}your {\kf233}heart
+Dialogue: 11,0:22:42.12,0:22:47.96,LastGame Rom,,0,0,0,,{\kf61\fade(100,100)}’Cause {\kf9}you’re {\kf121}free {\kf45}from {\kf116}pain {\kf71}and {\kf51}so{\kf110}rrow
+Dialogue: 11,0:22:48.37,0:22:54.42,LastGame Rom,,0,0,0,,{\kf57\fade(100,100)}The fu{\kf28}ture {\kf112}is {\kf20}just {\kf23}too {\kf115}bright {\kf67}to {\kf42}show {\kf17}you {\kf123}ways
+Dialogue: 11,0:22:54.67,0:23:00.51,LastGame Rom,,0,0,0,,{\kf47\fade(100,100)}Wake {\kf40}up {\kf116}now, {\kf16}it’s {\kf60}time {\kf25}to {\kf60}lead {\kf66}new {\kf154}souls
+Dialogue: 11,0:23:01.80,0:23:07.77,LastGame Rom,,0,0,0,,{\kf202\fade(100,100)}Or{\kf40}bit {\kf36}of {\kf41}pho{\kf62}ton {\kf21}and {\kf39}u{\kf26}ni{\kf129}verse
+Dialogue: 11,0:23:08.23,0:23:13.82,LastGame Rom,,0,0,0,,{\kf194\fade(100,100)}I {\kf34}am {\kf44}just {\kf38}a {\kf78}part {\kf41}of {\kf20}its {\kf110}plan
+Dialogue: 11,0:23:14.48,0:23:20.49,LastGame Rom,,0,0,0,,{\kf23\fade(100,100)}Me {\kf18}ni {\kf18}wa {\kf48}mi{\kf14}e{\kf25}na{\kf52}i {\kf41}yu{\kf33}ga{\kf45}n{\kf113}da {\kf24}so{\kf147}ra
+Dialogue: 11,0:23:20.74,0:23:28.04,LastGame Rom,,0,0,0,,{\kf21\fade(100,100)}Hi{\kf26}to {\kf18}wa {\kf38}do{\kf23}ko {\kf20}he {\kf60}to {\kf39}a{\kf39}ru{\kf38}i{\kf81}te {\kf39}yu{\kf20}ku {\kf268}no?
+Dialogue: 11,0:23:29.29,0:23:34.42,LastGame Rom,,0,0,0,,{\kf23\fade(100,2000)}The {\kf77}last {\kf413}game
+Dialogue: 11,0:23:14.48,0:23:20.49,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}The eye cannot see the distortion of the sky
+Dialogue: 11,0:23:20.74,0:23:28.04,LastGame Rom,,0,0,0,,{\a2,\fade(100,100)}Where does man think they are walking towards?
+Dialogue: 1,0:03:00.94,0:03:05.94,Title,,0,0,0,,{\fsp-2\an1\pos(1102,952)}Protocol
+Dialogue: 1,0:03:00.94,0:03:05.94,Title,,0,0,0,,{\an2\fs70\fsp3\pos(1362,924)}of
+Dialogue: 1,0:03:00.94,0:03:05.94,Title,,0,0,0,,{\an2\fs50\pos(1360,948)\fsp-2}the
+Dialogue: 1,0:03:00.94,0:03:05.94,Title,,0,0,0,,{\an3\fs70\fsp-3\pos(1384,994)}Two-sided
+Dialogue: 1,0:03:00.94,0:03:05.94,Title,,0,0,0,,{\an1\fs140\pos(1390,1008)}Gospel
+Dialogue: 1,0:03:05.94,0:03:10.15,Draw,,0,0,0,,{\move(0,0,0,-904.5)\p1\c&HDBDADA&\blur10}m 1228 570 l 1468 559 l 1478 985 l 1229 983 {\p0}
+Dialogue: 1,0:03:05.94,0:03:10.15,Draw,,0,0,0,,{\move(0,904.5,0,0)\p1\c&HC9D0CE&\blur10}m 1228 818 l 1489 820 l 1478 -14 l 1226 -15 {\p0}
+Dialogue: 1,0:03:05.94,0:03:10.15,Signs,,0,0,0,,{\an6\move(1375,1602,1375,697.5)\fax0.02\fscy130\be4\fs125\c&H816551&\frz270.9}Tokyo Denki University
+Dialogue: 1,0:03:05.94,0:03:10.15,Signs,,0,0,0,,{\an7\fs67\be4\move(1242,1629.5,1242,725)\fay-0.01\c&H816551&}Building 7
+Dialogue: 0,0:03:56.37,0:03:57.58,Draw,,0,0,0,,{\fade(192,0)\p1\c&HDBD2CF&\blur10}m 519 960 l 667 1096 l 890 894 l 728 772 {\p0}
+Dialogue: 1,0:03:56.37,0:03:57.58,OkabePhone,,0,0,0,,{\fr43\fs70\c&H473F3D&\fade(192,0)\be4\pos(524.226,964)}Incoming Call:\N{\fs130\b0}Mayuri
+Dialogue: 1,0:09:30.12,0:09:32.58,Signs,,0,0,0,,{\an2\fs90\fax0.12\fay-0.02\c&H282120&\4c&H030202&\xshad4.5\yshad-2.25\frz0.512\pos(1131.358,422.25)}Brain Science Institute
+Dialogue: 1,0:10:23.96,0:10:26.51,Signs,,0,0,0,,{\fay-0.53\fs90\an8\c&H545355&\be4\pos(645.283,367)}Okabe Green Grocer
+Dialogue: 0,0:10:42.27,0:10:43.73,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 447 59 l 960 178 l 950 275 l 437 136 {\p0}
+Dialogue: 0,0:10:42.27,0:10:43.73,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 423 365 l 1140 638 l 1114 713 l 414 428 {\p0}
+Dialogue: 0,0:10:42.27,0:10:43.73,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 391 664 l 516 724 l 502 789 l 378 722 {\p0}
+Dialogue: 0,0:10:42.27,0:10:43.73,Draw,,0,0,0,,{\pos(0,0)\p1\c&HF6F6F6&\blur5}m 349 956 l 598 1112 l 458 1099 l 336 1014 {\p0}
+Dialogue: 1,0:10:42.27,0:10:43.73,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\org(1446.679,267.75)\frx358\fry358\frz344.3\pos(352.679,381.75)}Fill sadness in grief — reperative conduct{\u0}
+Dialogue: 1,0:10:42.27,0:10:43.73,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\frx358\fry358\org(1692.679,711.75)\frz338\pos(249,911.75)}What causes dependence? How to treat it | psychology...
+Dialogue: 1,0:10:42.27,0:10:43.73,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\pos(309,1335)\org(1644.679,841.75)\frx357\fry358\frz333}Reperative Conduct
+Dialogue: 1,0:10:42.27,0:10:43.73,Signs,,0,0,0,,{\u1\an7\fs52\c&H996370&\blur3\fnRoboto\b0\org(1644.679,831.75)\frx357\fry358\frz335\pos(320,1681)}“Reperative conduct”
+Dialogue: 0,0:11:18.48,0:11:20.94,Draw,,0,0,0,,{\move(0,0,-70,-104)\p1\c&H335E57&\blur10}m 691 123 l 1218 526 l 1175 640 l 675 227 {\p0}
+Dialogue: 1,0:11:18.48,0:11:20.94,Signs,,0,0,0,,{\an7\fay0.81\fax-0.3\fs51.75\c&HB5B9BB&\b0\be3\org(1228,254)\frx358\fry356\frz2.55\move(626,88,558,-30)}1/120 Scale Radio-Controlled\N{\b1\fs56.25}Plastic Model Helicopter
+Dialogue: 0,0:15:43.41,0:15:44.41,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.41,0:15:44.53,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.53,0:15:44.66,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.66,0:15:44.78,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.78,0:15:44.91,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 0,0:15:44.91,0:15:44.99,Draw,,0,0,0,,{\pos(0,0)\p1\c&HB7D36E&\blur10\iclip(m 918 436 l 948 448 958 480 954 504 945 528 931 546 798 513 844 490 860 485)}m 821 449 l 1061 460 l 1046 490 l 981 486 l 967 518 l 837 512 l 862 480 l 805 476 {\p0}
+Dialogue: 1,0:15:43.41,0:15:44.41,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)}2 RINE messages from
+Dialogue: 1,0:15:44.41,0:15:44.53,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}2 RINE messages from
+Dialogue: 1,0:15:44.53,0:15:44.66,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}2 RINE messages from
+Dialogue: 1,0:15:44.66,0:15:44.78,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}2 RINE messages from
+Dialogue: 1,0:15:44.78,0:15:44.91,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}2 RINE messages from
+Dialogue: 1,0:15:44.91,0:15:44.99,MayuriPhone,,0,0,0,,{\an8\be2\fs36\fax-0.7\fay0.03\c&H849E4A&\pos(940.943,444.5)\iclip(m 918 436 l 948 448 958 480 954 504 945 528 931 546 798 513 844 490 860 485)}2 RINE messages from
+Dialogue: 1,0:15:43.41,0:15:44.41,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)}Daru-kun
+Dialogue: 1,0:15:44.41,0:15:44.53,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 894 432 l 926 442 922 472 918 497 904 516 878 534 846 546 739 526 765 490 779 477 823 461 862 448)}Daru-kun
+Dialogue: 1,0:15:44.53,0:15:44.66,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 852 404 l 900 436 878 468 856 491 825 532 732 501 734 492 776 430 833 394)}Daru-kun
+Dialogue: 1,0:15:44.66,0:15:44.78,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 870 428 l 942 440 934 472 915 501 892 521 866 538 781 481 820 458)}Daru-kun
+Dialogue: 1,0:15:44.78,0:15:44.91,MayuriPhone,,0,0,0,,{\an8\be2\fs45\fax-0.8\fay0.03\c&H647535&\b1\pos(912.302,476.5)\iclip(m 892 436 l 948 444 948 470 936 496 920 522 900 545 781 499 860 462)}Daru-kun
+Dialogue: 0,0:15:44.99,0:15:45.37,Draw,,0,0,0,,{\p1\pos(0,0)\c&HEDEBEB&}m 928 319 l 894 362 l 1100 368 l 1131 328 {\p0}
+Dialogue: 1,0:15:44.99,0:15:45.37,MayuriPhone,,0,0,0,,{\fs33\be2.5\fax-0.8\fr-2\c&H6E6E6E&\pos(927.547,323)}Good luck, Daru-kun~~
+Dialogue: 0,0:15:44.99,0:15:45.37,Draw,,0,0,0,,{\p1\pos(0,0)\c&HE1DFE0&}m 1068 470 l 960 466 l 959 493 l 1049 497{\p0}
+Dialogue: 1,0:15:44.99,0:15:45.37,MayuriPhone,,0,0,0,,{\fs35\fax-0.8\fr-2\be2\c&H696969&\pos(974.528,462)}-dokey
 Dialogue: 30,0:00:02.46,0:00:04.29,Default,,0,0,0,,Christmas Party?
 Dialogue: 30,0:00:04.29,0:00:07.79,Default,,0,0,0,,Yup! I’m getting everyone\Ntogether to come to the lab.
 Dialogue: 30,0:00:07.79,0:00:10.38,Default,,0,0,0,,It’d be really great if you all could come!

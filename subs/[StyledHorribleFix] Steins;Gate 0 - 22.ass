@@ -26,192 +26,192 @@ Style: Amadeus Rom Square,Pixelify Sans,90,&H55000011,&H550000FF,&H554BB1D6,&H55
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:22:12.27,0:22:14.27,Amadeus Rom Square,,0,0,0,code syl,size = math.random(15, 23)
-Comment: 0,0:22:12.27,0:22:14.27,Amadeus Rom Square,,0,0,0,code syl,horizOffset = math.random(-20, 10)
-Comment: 11,0:22:12.27,0:22:14.27,Amadeus Rom Square,,0,0,0,template notext,!retime("syl", -200, 3000)! !maxloop(math.random(1, 3))! {\r\move(!$center + horizOffset + 12*j!,!$middle + math.random(30, 50)!,!$center + horizOffset + 12*j!,!$middle + math.random(80, 170)!, )\frz!math.random(0, 359)!\t(\frz180, )\fade(500,1500)} {\p1\blur0.5}m !-(size - 3*j)! !-(size - 3*j)! l !-(size - 3*j)! !size - 3*j! l !size - 3*j! !size - 3*j! l !size - 3*j! !-(size - 3*j)! {\p0}
-Comment: 11,0:23:01.48,0:23:04.52,Amadeus Rom Square,,0,0,0,karaoke,{\k43}Ze{\k12}ro {\k15}no {\k39}gee{\k33}to {\k37}hi{\k14}ra{\k21}ku {\k90}yo
-Comment: 11,0:23:04.52,0:23:06.99,Amadeus Rom Square,,0,0,0,karaoke,{\k41}Ma{\k10}bu{\k27}shi{\k27}i {\k36}hi{\k21}ka{\k18}ri {\k67}ni
-Comment: 11,0:23:06.99,0:23:08.70,Amadeus Rom Square,,0,0,0,karaoke,{\k34}Tsu{\k18}tsu{\k17}ma{\k28}re {\k34}yu{\k40}ku
-Comment: 11,0:23:08.70,0:23:12.32,Amadeus Rom Square,,0,0,0,karaoke,{\k26}Ki{\k21}se{\k19}ki {\k34}wo {\k24}u{\k31}n{\k17}me{\k11}i {\k21}ni {\k31}ka{\k34}ki{\k30}ka{\k36}e{\k27}te
-Comment: 11,0:23:12.32,0:23:15.29,Amadeus Rom Square,,0,0,0,karaoke,{\k45}Wa{\k17}ra{\k16}i{\k13}go{\k19}e {\k36}ga {\k32}a{\k18}fu{\k20}re{\k81}ru
-Comment: 11,0:23:15.29,0:23:18.00,Amadeus Rom Square,,0,0,0,karaoke,{\k19}A{\k16}no {\k17}ji{\k32}ka{\k39}n {\k13}a{\k16}no {\k16}ba{\k18}sho {\k85}de
-Comment: 11,0:23:18.00,0:23:27.67,Amadeus Rom Square,,0,0,0,karaoke,{\k33}Ki{\k20}mi {\k34}no {\k19}“to{\k14}ki” {\k70}ga {\k33}mou{\k29}i{\k140}chi{\k352}do {\k21}ha{\k31}ji{\k133}ma{\k184}ru
-Dialogue: 13,0:22:14.27,0:22:19.56,Amadeus Rom Red,,0,0,0,karaoke,{\ko51}{\fs65}Da{\ko48}i{\ko36}ji{\ko133}na {\ko56}ki{\ko52}o{\ko31}ku {\ko122}wa
-Dialogue: 13,0:22:19.56,0:22:24.99,Amadeus Rom Red,,0,0,0,karaoke,{\ko38}{\fs65}Be{\ko21}tsu {\ko40}no {\ko17}ri{\ko18}ro{\ko15}n{\ko36}shi{\ko13}ki {\ko136}de {\ko30}u{\ko22}chi{\ko12}ke{\ko24}sa{\ko50}re{\ko71}ru
-Dialogue: 13,0:22:24.99,0:22:30.45,Amadeus Rom Red,,0,0,0,karaoke,{\ko53}{\fs65}Ji{\ko55}sho{\ko33}u {\ko141}no {\ko53}chi{\ko52}he{\ko33}i {\ko126}mo
-Dialogue: 13,0:22:30.45,0:22:35.45,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}{\fs65}Ba{\ko17}n{\ko33}bu{\ko28}tsu {\ko13}no {\ko21}so{\ko19}re {\ko28}sa{\ko141}e {\ko32}ka{\ko21}ki{\ko11}ka{\ko18}e{\ko85}ta
-Dialogue: 13,0:22:35.45,0:22:40.75,Amadeus Rom Red,,0,0,0,karaoke,{\ko18}{\fs65}Ha{\ko16}ko {\ko51}ni {\ko32}to{\ko19}ji{\ko19}ko{\ko14}me{\ko52}ta {\ko32}a{\ko25}i {\ko45}no {\ko36}da{\ko18}n{\ko47}pe{\ko23}n {\ko83}wa
-Dialogue: 13,0:22:40.75,0:22:46.09,Amadeus Rom Red,,0,0,0,karaoke,{\ko30}{\fs65}Chi{\ko26}ka{\ko44}ku {\ko15}to{\ko26}u{\ko25}su{\ko22}gi{\ko42}ru {\ko37}ji{\ko34}ge{\ko34}n {\ko24}no {\ko27}sa{\ko47}i{\ko18}ha{\ko83}te
-Dialogue: 13,0:22:46.09,0:22:52.26,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}Ka{\ko16}i{\ko25}he{\ko40}n {\ko80}no {\ko15}pu{\ko16}ro{\ko20}se{\ko49}su {\ko51}wa {\ko32}to{\ko20}te{\ko64}mo {\ko18}mu{\ko18}ja{\ko32}ki {\ko88}ni
-Dialogue: 13,0:22:52.26,0:22:54.72,Amadeus Rom Red,,0,0,0,karaoke,{\ko15}Ka{\ko17}mi {\ko16}sa{\ko28}e {\ko40}mo {\ko7}a{\ko25}zu{\ko20}mu{\ko14}ku {\ko25}fikku{\ko39}shon
-Dialogue: 13,0:22:54.72,0:22:57.89,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ya{\ko12}ku{\ko19}so{\ko30}ku {\ko39}no {\ko19}a{\ko15}no {\ko11}ba{\ko20}sho {\ko109}he
-Dialogue: 13,0:22:57.89,0:23:01.48,Amadeus Rom Red,,0,0,0,karaoke,{\ko23}Mo{\ko12}u{\ko23}su{\ko35}gu {\ko26}to{\ko20}ke{\ko23}i {\ko23}no {\ko12}ka{\ko34}ne {\ko36}ga {\ko27}hi{\ko42}bi{\ko23}ki
-Dialogue: 13,0:23:01.48,0:23:04.52,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ze{\ko12}ro {\ko15}no {\ko39}gee{\ko33}to {\ko37}hi{\ko14}ra{\ko21}ku {\ko90}yo
-Dialogue: 13,0:23:04.52,0:23:06.99,Amadeus Rom Red,,0,0,0,karaoke,{\ko41}Ma{\ko10}bu{\ko27}shi{\ko27}i {\ko36}hi{\ko21}ka{\ko18}ri {\ko67}ni
-Dialogue: 13,0:23:06.99,0:23:08.70,Amadeus Rom Red,,0,0,0,karaoke,{\ko34}Tsu{\ko18}tsu{\ko17}ma{\ko28}re {\ko34}yu{\ko40}ku
-Dialogue: 13,0:23:08.70,0:23:12.32,Amadeus Rom Red,,0,0,0,karaoke,{\ko26}Ki{\ko21}se{\ko19}ki {\ko34}wo {\ko24}u{\ko31}n{\ko17}me{\ko11}i {\ko21}ni {\ko31}ka{\ko34}ki{\ko30}ka{\ko36}e{\ko27}te
-Dialogue: 13,0:23:12.32,0:23:15.29,Amadeus Rom Red,,0,0,0,karaoke,{\t(333,11458,\3c&HC7C7C7&)}{\ko45}Wa{\ko17}ra{\ko16}i{\ko13}go{\ko19}e {\ko36}ga {\ko32}a{\ko18}fu{\ko20}re{\ko81}ru
-Dialogue: 13,0:23:15.29,0:23:18.00,Amadeus Rom Red,,0,0,0,karaoke,{\t(-2583,8500,\3c&HC7C7C7&)}{\ko19}A{\ko16}no {\ko17}ji{\ko32}ka{\ko39}n {\ko13}a{\ko16}no {\ko16}ba{\ko18}sho {\ko85}de
-Dialogue: 13,0:23:18.00,0:23:27.67,Amadeus Rom Red,,0,0,0,karaoke,{\t(-5333,5792,\3c&HC7C7C7&)}{\ko33}Ki{\ko20}mi {\ko34}no {\ko19}“to{\ko14}ki” {\ko70}ga {\ko33}mou{\ko29}i{\ko140}chi{\ko352}do {\ko21}ha{\ko31}ji{\ko133}ma{\ko184}ru
-Dialogue: 12,0:22:14.27,0:22:19.56,Amadeus Rom,,0,0,0,karaoke,{\fs65}Daijina kioku wa
-Dialogue: 12,0:22:19.56,0:22:24.99,Amadeus Rom,,0,0,0,karaoke,{\fs65}Betsu no rironshiki de uchikesareru
-Dialogue: 12,0:22:24.99,0:22:30.45,Amadeus Rom,,0,0,0,karaoke,{\fs65}Jishou no chihei mo
-Dialogue: 12,0:22:30.45,0:22:35.45,Amadeus Rom,,0,0,0,karaoke,{\fs65}Banbutsu no sore sae kakikaeta
-Dialogue: 12,0:22:35.45,0:22:40.75,Amadeus Rom,,0,0,0,karaoke,{\fs65}Hako ni tojikometa ai no danpen wa
-Dialogue: 12,0:22:40.75,0:22:46.09,Amadeus Rom,,0,0,0,karaoke,{\fs65}Chikaku tousugiru jigen no saihate
-Dialogue: 12,0:22:46.09,0:22:52.26,Amadeus Rom,,0,0,0,karaoke,Kaihen no purosesu wa totemo mujaki ni
-Dialogue: 12,0:22:52.26,0:22:54.72,Amadeus Rom,,0,0,0,karaoke,Kami sae mo azumuku fikkushon
-Dialogue: 12,0:22:54.72,0:22:57.89,Amadeus Rom,,0,0,0,karaoke,Yakusoku no ano basho he
-Dialogue: 12,0:22:57.89,0:23:01.48,Amadeus Rom,,0,0,0,karaoke,Mousugu tokei no kane ga hibiki
-Dialogue: 12,0:23:01.48,0:23:04.52,Amadeus Rom,,0,0,0,karaoke,Zero no geeto hiraku yo
-Dialogue: 12,0:23:04.52,0:23:06.99,Amadeus Rom,,0,0,0,karaoke,Mabushii hikari ni
-Dialogue: 12,0:23:06.99,0:23:08.70,Amadeus Rom,,0,0,0,karaoke,Tsutsumare yuku
-Dialogue: 12,0:23:08.70,0:23:12.32,Amadeus Rom,,0,0,0,karaoke,Kiseki wo unmei ni kakikaete
-Dialogue: 12,0:23:12.32,0:23:15.29,Amadeus Rom,,0,0,0,karaoke,{\t(333,11458,\3c&HC7C7C7&)}Waraigoe ga afureru
-Dialogue: 12,0:23:15.29,0:23:18.00,Amadeus Rom,,0,0,0,karaoke,{\t(-2583,8500,\3c&HC7C7C7&)}Ano jikan ano basho de
-Dialogue: 12,0:23:18.00,0:23:27.67,Amadeus Rom,,0,0,0,karaoke,{\t(-5333,5792,\3c&HC7C7C7&)}Kimi no “toki” ga mouichido hajimaru
-Dialogue: 12,0:22:14.27,0:22:19.56,Amadeus Trans,,0,0,0,,{\a6\fs65}Important memories
-Dialogue: 12,0:22:19.56,0:22:24.99,Amadeus Trans,,0,0,0,,{\a6\fs65}Contradict a specific equation
-Dialogue: 12,0:22:24.99,0:22:30.45,Amadeus Trans,,0,0,0,,{\a6\fs65}And thus, the event horizon, and everything thereafter
-Dialogue: 12,0:22:30.45,0:22:35.45,Amadeus Trans,,0,0,0,,{\a6\fs65}Will be overwritten
-Dialogue: 12,0:22:35.45,0:22:40.75,Amadeus Trans,,0,0,0,,{\a6\fs65}The fragments of love enclosed within the box
-Dialogue: 12,0:22:40.75,0:22:46.09,Amadeus Trans,,0,0,0,,{\a6\fs65}Are within reach, but too distant in the higher dimension
-Dialogue: 12,0:22:46.09,0:22:52.26,Amadeus Trans,,0,0,0,,The process of alteration is all too simple:
-Dialogue: 12,0:22:52.26,0:22:54.72,Amadeus Trans,,0,0,0,,Fabricate fiction to deceive even God
-Dialogue: 12,0:22:54.72,0:22:57.89,Amadeus Trans,,0,0,0,,Bringing us closer to that promised place...
-Dialogue: 12,0:22:57.89,0:23:01.48,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}Soon, the bells of the clock will chime
-Dialogue: 12,0:23:01.48,0:23:04.52,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}And the gate to Zero will open
-Dialogue: 12,0:23:04.52,0:23:08.70,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}Enveloping us in a most radiant light
-Dialogue: 12,0:23:08.70,0:23:12.32,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}With miracles we will overwrite fate
-Dialogue: 12,0:23:12.32,0:23:15.29,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(333,11458,\3c&HC7C7C7&)}Cackling at the notion of destiny
-Dialogue: 12,0:23:15.29,0:23:18.00,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(-2583,8500,\3c&HC7C7C7&)}And in that hour, in that place,
-Dialogue: 12,0:23:18.00,0:23:27.67,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(-5333,5792,\3c&HC7C7C7&)}Your “time” will begin once more
-Dialogue: 1,0:12:18.00,0:12:23.01,Title,,0,0,0,,{\an3\pos(1468,902)\fsp-3}Rinascimento
-Dialogue: 1,0:12:18.00,0:12:23.01,Title,,0,0,0,,{\an3\pos(1514,900)\fs60}of
-Dialogue: 1,0:12:18.00,0:12:23.01,Title,,0,0,0,,{\an3\pos(1708,958)}Entwurf
-Dialogue: 1,0:03:06.49,0:03:07.16,Whiteboard,,0,0,0,,{\pos(826,116)\c&H362821&\fay0.55\fax-0.1\fs130\be4}America
-Dialogue: 1,0:03:07.16,0:03:07.20,Whiteboard,,0,0,0,,{\pos(212,-169)\c&H362821&\fay0.55\fax-0.1\fs130\be4}America
-Dialogue: 1,0:03:06.49,0:03:07.16,Whiteboard,,0,0,0,,{\pos(982,708)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
-Dialogue: 1,0:03:07.16,0:03:07.20,Whiteboard,,0,0,0,,{\pos(364,418)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
-Dialogue: 1,0:03:07.20,0:03:07.25,Whiteboard,,0,0,0,,{\pos(2,246)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
-Dialogue: 1,0:03:07.20,0:03:07.25,Whiteboard,,0,0,0,,{\pos(2016,872)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
-Dialogue: 1,0:03:07.25,0:03:07.29,Whiteboard,,0,0,0,,{\pos(1772,746)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
-Dialogue: 1,0:03:07.29,0:03:07.37,Whiteboard,,0,0,0,,{\c&H3E352E&\fay0.65\fax0.05\fs130\be4\move(1586,664,1460,600,23,65)}Russia
-Dialogue: 1,0:03:07.37,0:03:07.45,Whiteboard,,0,0,0,,{\c&H3E352E&\fay0.65\fax0.05\fs130\be4\move(1382,566,1330,542,27,69)}Russia
-Dialogue: 1,0:03:07.45,0:03:07.62,Whiteboard,,0,0,0,,{\c&H3E352E&\fay0.65\fax0.05\fs130\be4\move(1284,518,1230,488,20,145)}Russia
-Dialogue: 1,0:03:07.62,0:03:08.62,Whiteboard,,0,0,0,,{\pos(1228,486)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
-Dialogue: 1,0:03:10.37,0:03:10.54,Whiteboard,,0,0,0,,{\c&H5F564F&\fs150\be4\move(500,182,676,194,30,155)}Time machine
-Dialogue: 1,0:03:10.54,0:03:10.71,Whiteboard,,0,0,0,,{\c&H5F564F&\fs150\be4\move(730,196,862,206,27,152)}Time machine
-Dialogue: 1,0:03:10.71,0:03:10.83,Whiteboard,,0,0,0,,{\c&H5F564F&\fs150\be4\move(892,210,928,210,24,107)}Time machine
-Dialogue: 1,0:03:10.83,0:03:11.75,Whiteboard,,0,0,0,,{\pos(940,210)\cH5F564F&\fs150\be4}Time machine
-Dialogue: 1,0:03:15.96,0:03:18.51,Whiteboard,,0,0,0,,{\pos(774,-60)\c&H463D35&\fay0.35\fs100\be4}America
-Dialogue: 1,0:03:18.51,0:03:18.63,Whiteboard,,0,0,0,,{\move(774,-50,774,-150)\c&H463D35&\fay0.35\fs100\be4}America
-Dialogue: 1,0:03:15.96,0:03:16.88,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:16.88,0:03:16.96,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 826 362 l 930 390 1034 396 1160 434 1054 576 714 444)}Stratfo
-Dialogue: 1,0:03:16.96,0:03:17.05,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 820 350 l 806 338 764 346 744 320 716 272 866 192)}Stratfo
-Dialogue: 1,0:03:17.05,0:03:18.51,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:18.51,0:03:18.63,Whiteboard,,0,0,0,,{\move(922,306,922,210)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:18.63,0:03:18.76,Whiteboard,,0,0,0,,{\move(922,206,922,12)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:18.76,0:03:18.84,Whiteboard,,0,0,0,,{\move(922,0,922,-160)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:15.96,0:03:16.63,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
-Dialogue: 1,0:03:16.63,0:03:16.71,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 1224 702 l 1250 724 1188 778 1174 744)}Leskinen
-Dialogue: 1,0:03:16.71,0:03:16.80,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 1092 706 l 1146 668 1382 830 1070 740)}Leskinen
-Dialogue: 1,0:03:16.80,0:03:16.88,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 980 672 l 1028 636 1394 768 952 730)}Leskinen
-Dialogue: 1,0:03:16.96,0:03:18.51,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
-Dialogue: 1,0:03:18.51,0:03:18.63,Whiteboard,,0,0,0,,{\move(988,630,988,530)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
-Dialogue: 1,0:03:18.63,0:03:18.80,Whiteboard,,0,0,0,,{\move(988,530,988,250)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
-Dialogue: 1,0:03:18.80,0:03:18.97,Whiteboard,,0,0,0,,{\move(988,240,988,-90)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
-Dialogue: 1,0:03:15.96,0:03:16.13,Whiteboard,,0,0,0,,{\pos(1784,1040)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:16.96,0:03:17.13,Whiteboard,,0,0,0,,{\pos(1784,1040)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:17.63,0:03:18.51,Whiteboard,,0,0,0,,{\pos(1784,1040)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:18.51,0:03:18.67,Whiteboard,,0,0,0,,{\move(1784,1050,1794,890)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:18.67,0:03:18.84,Whiteboard,,0,0,0,,{\move(1789,895,1815,580)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:18.84,0:03:19.01,Whiteboard,,0,0,0,,{\move(1820,580,1845,250)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:19.01,0:03:19.17,Whiteboard,,0,0,0,,{\move(1850,240,1865,30)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:19.17,0:03:20.80,Whiteboard,,0,0,0,,{\pos(1865,10)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:20.80,0:03:20.88,Whiteboard,,0,0,0,,{\pos(1865,10)\c&H4F463E&\fs90\be4\fay0.13\iclip(m 1586 24 l 1690 24 1724 86 1686 138)}Time machine
-Dialogue: 1,0:03:20.88,0:03:21.13,Whiteboard,,0,0,0,,{\pos(1865,10)\c&H4F463E&\fs90\be4\fay0.13}Time machine
-Dialogue: 1,0:03:18.71,0:03:18.88,Whiteboard,,0,0,0,,{\move(782,1080,798,782)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
-Dialogue: 1,0:03:18.88,0:03:19.05,Whiteboard,,0,0,0,,{\move(802,774,832,445)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
-Dialogue: 1,0:03:19.05,0:03:19.22,Whiteboard,,0,0,0,,{\move(832,444,842,285)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
-Dialogue: 1,0:03:19.22,0:03:20.72,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
-Dialogue: 1,0:03:20.72,0:03:20.80,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1\iclip(m 854 320 l 1276 420 698 524 758 392)}DURPA
-Dialogue: 1,0:03:20.80,0:03:21.13,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
-Dialogue: 1,0:05:21.96,0:05:23.51,Whiteboard,,0,0,0,,{\pos(940,108)\c&H443932&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:23.51,0:05:23.63,Whiteboard,,0,0,0,,{\move(940,110,940,50)\c&H443932&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:23.63,0:05:23.76,Whiteboard,,0,0,0,,{\move(940,50,940,-90)\c&H443932&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:21.96,0:05:23.51,Whiteboard,,0,0,0,,{\pos(1062,444)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:23.51,0:05:23.67,Whiteboard,,0,0,0,,{\move(1062,434,1062,350)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:23.67,0:05:23.84,Whiteboard,,0,0,0,,{\move(1062,340,1062,110)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:23.84,0:05:24.01,Whiteboard,,0,0,0,,{\move(1062,110,1062,-160)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:23.84,0:05:24.01,Whiteboard,,0,0,0,,{\move(768,1026,768,746)\c&H3E342A&\fs160\be4\frz359.6}DURPA
-Dialogue: 1,0:05:24.01,0:05:24.13,Whiteboard,,0,0,0,,{\move(768,736,768,546)\c&H3E342A&\fs160\be4\frz359.6}DURPA
-Dialogue: 1,0:05:24.13,0:05:24.26,Whiteboard,,0,0,0,,{\move(768,536,768,366)\c&H3E342A&\fs160\be4\frz359.6}DURPA
-Dialogue: 1,0:05:24.26,0:05:24.38,Whiteboard,,0,0,0,,{\move(768,356,768,276)\c&H3E342A&\fs160\be4\frz359.6}DURPA
-Dialogue: 1,0:05:24.38,0:05:25.76,Whiteboard,,0,0,0,,{\pos(768,266)\c&H3E342A&\fs160\be4\frz359.6}DURPA
-Dialogue: 1,0:05:25.76,0:05:25.88,Whiteboard,,0,0,0,,{\c&H3E342A&\fs160\be4\frz359.6\move(752,266,652,316,25,109)}DURPA
-Dialogue: 1,0:05:25.88,0:05:26.01,Whiteboard,,0,0,0,,{\c&H3E342A&\fs160\be4\frz359.6\move(576,362,364,462,20,104)}DURPA
-Dialogue: 1,0:05:26.01,0:05:26.13,Whiteboard,,0,0,0,,{\c&H3E342A&\fs160\be4\frz359.6\move(226,534,-52,676,25,109)}DURPA
-Dialogue: 1,0:05:26.01,0:05:26.18,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(1636,-12,1198,216,25,150)}Time Machine
-Dialogue: 1,0:05:26.18,0:05:26.34,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(1040,294,568,528,22,147)}Time Machine
-Dialogue: 1,0:05:26.34,0:05:26.51,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(422,606,22,796,29,154)}Time Machine
-Dialogue: 1,0:05:26.51,0:05:26.68,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(-90,848,-266,946,26,151)}Time Machine
-Dialogue: 1,0:05:26.34,0:05:26.51,Whiteboard,,0,0,0,,{\c&H493E39&\fs160\be4\move(1758,-162,1282,84,0,154)}Foreign Intel
-Dialogue: 1,0:05:26.51,0:05:26.63,Whiteboard,,0,0,0,,{\c&H493E39&\fs160\be4\move(1182,138,1034,206,26,109)}Foreign Intel
-Dialogue: 1,0:05:26.63,0:05:27.89,Whiteboard,,0,0,0,,{\pos(986,234)\c&H493E39&\fs160\be4}Foreign Intel
-Dialogue: 1,0:05:45.57,0:05:46.49,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:46.49,0:05:46.57,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 1044 172 l 1134 100 1370 262 1166 256)}Stratfo
-Dialogue: 1,0:05:46.57,0:05:46.65,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 898 200 l 1136 84 1356 258 1058 288 990 242)}Stratfo
-Dialogue: 1,0:05:46.65,0:05:46.74,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 816 196 l 1192 100 1356 258 942 280 836 228)}Stratfo
-Dialogue: 1,0:05:46.74,0:05:46.82,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 870 276 800 250)}Stratfo
-Dialogue: 1,0:05:46.82,0:05:46.90,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 862 284 800 260)}Stratfo
-Dialogue: 1,0:05:47.07,0:05:47.15,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\clip(m 772 200 l 1026 168 982 246 962 290 818 302)}Stratfo
-Dialogue: 1,0:05:47.15,0:05:49.32,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:49.32,0:05:49.49,Whiteboard,,0,0,0,,{\c&H483F37&\fs160\be4\frz4.164\move(1026,126,1026,56,20,145)}Stratfo
-Dialogue: 1,0:05:49.49,0:05:49.66,Whiteboard,,0,0,0,,{\move(1026,50,1026,-146)\c&H483F37&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:45.57,0:05:46.65,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:46.65,0:05:46.74,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1310 462 1336 590 820 622)}Leskinen
-Dialogue: 1,0:05:46.74,0:05:46.82,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1272 470 1296 584 820 622)}Leskinen
-Dialogue: 1,0:05:46.82,0:05:46.90,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1258 474 1282 588 820 622)}Leskinen
-Dialogue: 1,0:05:46.90,0:05:46.99,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1284 492 1298 580 820 622)}Leskinen
-Dialogue: 1,0:05:46.99,0:05:47.07,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1056 488 1102 520 1146 552 1194 580 906 650)}Leskinen
-Dialogue: 1,0:05:47.07,0:05:47.15,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1006 506 1026 548 1116 592 906 650)}Leskinen
-Dialogue: 1,0:05:47.15,0:05:47.24,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1130 478 1066 560 1050 590 910 620)}Leskinen
-Dialogue: 1,0:05:47.24,0:05:47.32,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1340 478 1282 576 910 620)}Leskinen
-Dialogue: 1,0:05:47.32,0:05:48.07,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:48.07,0:05:48.16,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\iclip(m 1208 576 l 1114 630 1072 572 1008 568 1100 222 1494 284 1396 562 1290 570 1274 526 1180 556)}Leskinen
-Dialogue: 1,0:05:48.16,0:05:48.57,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:48.57,0:05:48.66,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\iclip(m 1124 556 l 1228 536 1290 510 1414 476 1384 584 1092 596)}Leskinen
-Dialogue: 1,0:05:48.66,0:05:48.74,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\iclip(m 1340 478 l 1470 442 1440 606 1288 576)}Leskinen
-Dialogue: 1,0:05:48.74,0:05:49.32,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:49.32,0:05:49.45,Whiteboard,,0,0,0,,{\move(1142,444,1142,394)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:49.45,0:05:49.57,Whiteboard,,0,0,0,,{\move(1142,374,1142,274)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:49.57,0:05:49.74,Whiteboard,,0,0,0,,{\move(1142,264,1142,54)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:49.74,0:05:49.87,Whiteboard,,0,0,0,,{\move(1142,50,1142,-134)\c&H473B31&\fs160\be4\frz6.145}Leskinen
-Dialogue: 1,0:05:49.66,0:05:49.82,Whiteboard,,0,0,0,,{\move(868,1054,868,804)\c&H473B31&\fs160\be4}DURPA
-Dialogue: 1,0:05:49.82,0:05:49.99,Whiteboard,,0,0,0,,{\move(868,794,868,564)\c&H473B31&\fs160\be4}DURPA
-Dialogue: 1,0:05:49.99,0:05:50.12,Whiteboard,,0,0,0,,{\move(868,564,868,424)\c&H473B31&\fs160\be4}DURPA
-Dialogue: 1,0:05:50.12,0:05:50.24,Whiteboard,,0,0,0,,{\move(868,414,868,344)\c&H473B31&\fs160\be4}DURPA
-Dialogue: 1,0:05:50.24,0:05:50.74,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4}DURPA
-Dialogue: 1,0:05:50.74,0:05:50.83,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 876 358 l 1098 322 1096 510 976 432)}DURPA
-Dialogue: 1,0:05:50.83,0:05:50.91,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 814 378 l 1086 360 1084 548 914 452)}DURPA
-Dialogue: 1,0:05:50.91,0:05:50.99,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 796 416 l 716 298 1084 348 1094 460 990 534 874 450)}DURPA
-Dialogue: 1,0:05:50.99,0:05:51.08,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 918 420 l 882 396 920 296 1314 500 856 466 880 430)}DURPA
-Dialogue: 1,0:05:51.08,0:05:51.83,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4}DURPA
-Dialogue: 1,0:05:51.83,0:05:51.91,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 894 382 l 1140 306 1130 502 846 468)}DURPA
-Dialogue: 1,0:05:51.91,0:05:52.29,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4}DURPA
-Dialogue: 1,0:06:40.17,0:06:43.13,Whiteboard,,0,0,0,,{\pos(1012,124)\c&H4D413C&\fs110\be4\frz358}Foreign Intel
-Dialogue: 1,0:06:40.17,0:06:43.13,Whiteboard,,0,0,0,,{\pos(186,582)\c&H534B43&\fs100\be4}Time machine
-Dialogue: 0,0:13:25.57,0:13:27.66,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HCEC3BF&}m 264 57 l 560 10 l 588 84 l 281 132 {\p0}
-Dialogue: 0,0:13:25.57,0:13:27.66,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEBE4E0&}m 246 188 l 766 105 l 802 188 l 620 218 l 632 265 l 279 319 {\p0}
-Dialogue: 0,0:13:25.57,0:13:27.66,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEBE4E0&}m 296 349 l 664 285 l 695 368 l 317 431 {\p0}
-Dialogue: 1,0:13:25.57,0:13:27.66,OkabePhone,,0,0,0,,{\org(26,146)\fnPlaypen Sans Medium\c&H948683&\fs80\be3\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.097\pos(268,86)}Inbox
-Dialogue: 1,0:13:25.57,0:13:27.66,OkabePhone,,0,0,0,,{\org(-08,222)\c&H787473&\fs77\fnPlaypen Sans Medium\be3\blur6\t(0,1000,\blur0)\frz8.685\frx6\fry356\pos(234,208)}From: {\c&HC2BBB8&}Hiyajo-san\N{\fs65\c&H787473&}To: {\c&HC2BBB8&}Okabe Rintaro
-Dialogue: 1,0:13:25.57,0:13:27.66,OkabePhone,,0,0,0,,{\an4\org(108,260)\c&H787473&\fnPlaypen Sans Medium\fs70\be4\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.866\pos(256,400)}Subject: {\c&HD5CFCE&}(No subject)
-Dialogue: 0,0:20:43.68,0:20:47.89,Draw,,0,0,0,,{\pos(0,0)\blur7\p1\c&H3C2929&}m 472 206 l 1207 204 l 1208 301 l 881 304 l 881 341 l 477 337 l 478 364 l 1015 363 l 1020 422 l 476 424 {\p0}
-Dialogue: 1,0:20:43.68,0:20:47.89,Signs,,0,0,0,,{\an7\pos(474,206)\fnCourier Prime\b0\fs46\be2\c&HFFF4EA&}Break into the servers of Viktor\NChondria University’s Brain Science\NInstitute and destroy all the data\Nconcerning the Amadeus AI.\N\NOpen the door with the attached key\Nbelow.
-Dialogue: 0,0:22:35.45,0:22:36.96,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H815955&}m 849 342 l 1855 166 l 1885 518 l 1729 536 l 1737 655 l 842 763 {\p0}
-Dialogue: 1,0:22:35.45,0:22:36.96,Signs,,0,0,0,,{\an7\org(2058,640)\pos(670,120)\fnCourier Prime\b0\fs75\be3\c&HFFFFFF&\frx2\fry358\frz7.117\iclip(m 1744 548 l 1898 524 1908 630 1750 652)}Break into the servers of Viktor\NChondria University’s Brain Science\NInstitute and destroy all the data\Nconcerning the Amadeus AI.\N\NOpen the door with the attached key\Nbelow.
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,size = math.random(15, 23)
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,horizOffset = math.random(-20, 10)
+Comment: 11,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,template notext,!retime("syl", -200, 3000)! !maxloop(math.random(1, 3))! {\r\move(!$center + horizOffset + 12*j!,!$middle + math.random(30, 50)!,!$center + horizOffset + 12*j!,!$middle + math.random(80, 170)!, )\frz!math.random(0, 359)!\t(\frz180, )\fade(500,1500)} {\p1\blur0.5}m !-(size - 3*j)! !-(size - 3*j)! l !-(size - 3*j)! !size - 3*j! l !size - 3*j! !size - 3*j! l !size - 3*j! !-(size - 3*j)! {\p0}
+Comment: 11,0:23:01.47,0:23:04.51,Amadeus Rom Square,,0,0,0,karaoke,{\k43}Ze{\k12}ro {\k15}no {\k39}gee{\k33}to {\k37}hi{\k14}ra{\k21}ku {\k90}yo
+Comment: 11,0:23:04.51,0:23:06.98,Amadeus Rom Square,,0,0,0,karaoke,{\k41}Ma{\k10}bu{\k27}shi{\k27}i {\k36}hi{\k21}ka{\k18}ri {\k67}ni
+Comment: 11,0:23:06.98,0:23:08.69,Amadeus Rom Square,,0,0,0,karaoke,{\k34}Tsu{\k18}tsu{\k17}ma{\k28}re {\k34}yu{\k40}ku
+Comment: 11,0:23:08.69,0:23:12.31,Amadeus Rom Square,,0,0,0,karaoke,{\k26}Ki{\k21}se{\k19}ki {\k34}wo {\k24}u{\k31}n{\k17}me{\k11}i {\k21}ni {\k31}ka{\k34}ki{\k30}ka{\k36}e{\k27}te
+Comment: 11,0:23:12.31,0:23:15.28,Amadeus Rom Square,,0,0,0,karaoke,{\k45}Wa{\k17}ra{\k16}i{\k13}go{\k19}e {\k36}ga {\k32}a{\k18}fu{\k20}re{\k81}ru
+Comment: 11,0:23:15.28,0:23:17.99,Amadeus Rom Square,,0,0,0,karaoke,{\k19}A{\k16}no {\k17}ji{\k32}ka{\k39}n {\k13}a{\k16}no {\k16}ba{\k18}sho {\k85}de
+Comment: 11,0:23:17.99,0:23:27.66,Amadeus Rom Square,,0,0,0,karaoke,{\k33}Ki{\k20}mi {\k34}no {\k19}“to{\k14}ki” {\k70}ga {\k33}mou{\k29}i{\k140}chi{\k352}do {\k21}ha{\k31}ji{\k133}ma{\k184}ru
+Dialogue: 13,0:22:14.26,0:22:19.55,Amadeus Rom Red,,0,0,0,karaoke,{\ko51}{\fs65}Da{\ko48}i{\ko36}ji{\ko133}na {\ko56}ki{\ko52}o{\ko31}ku {\ko122}wa
+Dialogue: 13,0:22:19.55,0:22:24.98,Amadeus Rom Red,,0,0,0,karaoke,{\ko38}{\fs65}Be{\ko21}tsu {\ko40}no {\ko17}ri{\ko18}ro{\ko15}n{\ko36}shi{\ko13}ki {\ko136}de {\ko30}u{\ko22}chi{\ko12}ke{\ko24}sa{\ko50}re{\ko71}ru
+Dialogue: 13,0:22:24.98,0:22:30.44,Amadeus Rom Red,,0,0,0,karaoke,{\ko53}{\fs65}Ji{\ko55}sho{\ko33}u {\ko141}no {\ko53}chi{\ko52}he{\ko33}i {\ko126}mo
+Dialogue: 13,0:22:30.44,0:22:35.44,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}{\fs65}Ba{\ko17}n{\ko33}bu{\ko28}tsu {\ko13}no {\ko21}so{\ko19}re {\ko28}sa{\ko141}e {\ko32}ka{\ko21}ki{\ko11}ka{\ko18}e{\ko85}ta
+Dialogue: 13,0:22:35.44,0:22:40.74,Amadeus Rom Red,,0,0,0,karaoke,{\ko18}{\fs65}Ha{\ko16}ko {\ko51}ni {\ko32}to{\ko19}ji{\ko19}ko{\ko14}me{\ko52}ta {\ko32}a{\ko25}i {\ko45}no {\ko36}da{\ko18}n{\ko47}pe{\ko23}n {\ko83}wa
+Dialogue: 13,0:22:40.74,0:22:46.08,Amadeus Rom Red,,0,0,0,karaoke,{\ko30}{\fs65}Chi{\ko26}ka{\ko44}ku {\ko15}to{\ko26}u{\ko25}su{\ko22}gi{\ko42}ru {\ko37}ji{\ko34}ge{\ko34}n {\ko24}no {\ko27}sa{\ko47}i{\ko18}ha{\ko83}te
+Dialogue: 13,0:22:46.08,0:22:52.25,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}Ka{\ko16}i{\ko25}he{\ko40}n {\ko80}no {\ko15}pu{\ko16}ro{\ko20}se{\ko49}su {\ko51}wa {\ko32}to{\ko20}te{\ko64}mo {\ko18}mu{\ko18}ja{\ko32}ki {\ko88}ni
+Dialogue: 13,0:22:52.25,0:22:54.71,Amadeus Rom Red,,0,0,0,karaoke,{\ko15}Ka{\ko17}mi {\ko16}sa{\ko28}e {\ko40}mo {\ko7}a{\ko25}zu{\ko20}mu{\ko14}ku {\ko25}fikku{\ko39}shon
+Dialogue: 13,0:22:54.71,0:22:57.88,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ya{\ko12}ku{\ko19}so{\ko30}ku {\ko39}no {\ko19}a{\ko15}no {\ko11}ba{\ko20}sho {\ko109}he
+Dialogue: 13,0:22:57.88,0:23:01.47,Amadeus Rom Red,,0,0,0,karaoke,{\ko23}Mo{\ko12}u{\ko23}su{\ko35}gu {\ko26}to{\ko20}ke{\ko23}i {\ko23}no {\ko12}ka{\ko34}ne {\ko36}ga {\ko27}hi{\ko42}bi{\ko23}ki
+Dialogue: 13,0:23:01.47,0:23:04.51,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ze{\ko12}ro {\ko15}no {\ko39}gee{\ko33}to {\ko37}hi{\ko14}ra{\ko21}ku {\ko90}yo
+Dialogue: 13,0:23:04.51,0:23:06.98,Amadeus Rom Red,,0,0,0,karaoke,{\ko41}Ma{\ko10}bu{\ko27}shi{\ko27}i {\ko36}hi{\ko21}ka{\ko18}ri {\ko67}ni
+Dialogue: 13,0:23:06.98,0:23:08.69,Amadeus Rom Red,,0,0,0,karaoke,{\ko34}Tsu{\ko18}tsu{\ko17}ma{\ko28}re {\ko34}yu{\ko40}ku
+Dialogue: 13,0:23:08.69,0:23:12.31,Amadeus Rom Red,,0,0,0,karaoke,{\ko26}Ki{\ko21}se{\ko19}ki {\ko34}wo {\ko24}u{\ko31}n{\ko17}me{\ko11}i {\ko21}ni {\ko31}ka{\ko34}ki{\ko30}ka{\ko36}e{\ko27}te
+Dialogue: 13,0:23:12.31,0:23:15.28,Amadeus Rom Red,,0,0,0,karaoke,{\t(333,11458,\3c&HC7C7C7&)}{\ko45}Wa{\ko17}ra{\ko16}i{\ko13}go{\ko19}e {\ko36}ga {\ko32}a{\ko18}fu{\ko20}re{\ko81}ru
+Dialogue: 13,0:23:15.28,0:23:17.99,Amadeus Rom Red,,0,0,0,karaoke,{\t(-2583,8500,\3c&HC7C7C7&)}{\ko19}A{\ko16}no {\ko17}ji{\ko32}ka{\ko39}n {\ko13}a{\ko16}no {\ko16}ba{\ko18}sho {\ko85}de
+Dialogue: 13,0:23:17.99,0:23:27.66,Amadeus Rom Red,,0,0,0,karaoke,{\t(-5333,5792,\3c&HC7C7C7&)}{\ko33}Ki{\ko20}mi {\ko34}no {\ko19}“to{\ko14}ki” {\ko70}ga {\ko33}mou{\ko29}i{\ko140}chi{\ko352}do {\ko21}ha{\ko31}ji{\ko133}ma{\ko184}ru
+Dialogue: 12,0:22:14.26,0:22:19.55,Amadeus Rom,,0,0,0,karaoke,{\fs65}Daijina kioku wa
+Dialogue: 12,0:22:19.55,0:22:24.98,Amadeus Rom,,0,0,0,karaoke,{\fs65}Betsu no rironshiki de uchikesareru
+Dialogue: 12,0:22:24.98,0:22:30.44,Amadeus Rom,,0,0,0,karaoke,{\fs65}Jishou no chihei mo
+Dialogue: 12,0:22:30.44,0:22:35.44,Amadeus Rom,,0,0,0,karaoke,{\fs65}Banbutsu no sore sae kakikaeta
+Dialogue: 12,0:22:35.44,0:22:40.74,Amadeus Rom,,0,0,0,karaoke,{\fs65}Hako ni tojikometa ai no danpen wa
+Dialogue: 12,0:22:40.74,0:22:46.08,Amadeus Rom,,0,0,0,karaoke,{\fs65}Chikaku tousugiru jigen no saihate
+Dialogue: 12,0:22:46.08,0:22:52.25,Amadeus Rom,,0,0,0,karaoke,Kaihen no purosesu wa totemo mujaki ni
+Dialogue: 12,0:22:52.25,0:22:54.71,Amadeus Rom,,0,0,0,karaoke,Kami sae mo azumuku fikkushon
+Dialogue: 12,0:22:54.71,0:22:57.88,Amadeus Rom,,0,0,0,karaoke,Yakusoku no ano basho he
+Dialogue: 12,0:22:57.88,0:23:01.47,Amadeus Rom,,0,0,0,karaoke,Mousugu tokei no kane ga hibiki
+Dialogue: 12,0:23:01.47,0:23:04.51,Amadeus Rom,,0,0,0,karaoke,Zero no geeto hiraku yo
+Dialogue: 12,0:23:04.51,0:23:06.98,Amadeus Rom,,0,0,0,karaoke,Mabushii hikari ni
+Dialogue: 12,0:23:06.98,0:23:08.69,Amadeus Rom,,0,0,0,karaoke,Tsutsumare yuku
+Dialogue: 12,0:23:08.69,0:23:12.31,Amadeus Rom,,0,0,0,karaoke,Kiseki wo unmei ni kakikaete
+Dialogue: 12,0:23:12.31,0:23:15.28,Amadeus Rom,,0,0,0,karaoke,{\t(333,11458,\3c&HC7C7C7&)}Waraigoe ga afureru
+Dialogue: 12,0:23:15.28,0:23:17.99,Amadeus Rom,,0,0,0,karaoke,{\t(-2583,8500,\3c&HC7C7C7&)}Ano jikan ano basho de
+Dialogue: 12,0:23:17.99,0:23:27.66,Amadeus Rom,,0,0,0,karaoke,{\t(-5333,5792,\3c&HC7C7C7&)}Kimi no “toki” ga mouichido hajimaru
+Dialogue: 12,0:22:14.26,0:22:19.55,Amadeus Trans,,0,0,0,,{\a6\fs65}Important memories
+Dialogue: 12,0:22:19.55,0:22:24.98,Amadeus Trans,,0,0,0,,{\a6\fs65}Contradict a specific equation
+Dialogue: 12,0:22:24.98,0:22:30.44,Amadeus Trans,,0,0,0,,{\a6\fs65}And thus, the event horizon, and everything thereafter
+Dialogue: 12,0:22:30.44,0:22:35.44,Amadeus Trans,,0,0,0,,{\a6\fs65}Will be overwritten
+Dialogue: 12,0:22:35.44,0:22:40.74,Amadeus Trans,,0,0,0,,{\a6\fs65}The fragments of love enclosed within the box
+Dialogue: 12,0:22:40.74,0:22:46.08,Amadeus Trans,,0,0,0,,{\a6\fs65}Are within reach, but too distant in the higher dimension
+Dialogue: 12,0:22:46.08,0:22:52.25,Amadeus Trans,,0,0,0,,The process of alteration is all too simple:
+Dialogue: 12,0:22:52.25,0:22:54.71,Amadeus Trans,,0,0,0,,Fabricate fiction to deceive even God
+Dialogue: 12,0:22:54.71,0:22:57.88,Amadeus Trans,,0,0,0,,Bringing us closer to that promised place...
+Dialogue: 12,0:22:57.88,0:23:01.47,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}Soon, the bells of the clock will chime
+Dialogue: 12,0:23:01.47,0:23:04.51,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}And the gate to Zero will open
+Dialogue: 12,0:23:04.51,0:23:08.69,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}Enveloping us in a most radiant light
+Dialogue: 12,0:23:08.69,0:23:12.31,Amadeus Trans,,0,0,0,,{\3c&H210FBD&}With miracles we will overwrite fate
+Dialogue: 12,0:23:12.31,0:23:15.28,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(333,11458,\3c&HC7C7C7&)}Cackling at the notion of destiny
+Dialogue: 12,0:23:15.28,0:23:17.99,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(-2583,8500,\3c&HC7C7C7&)}And in that hour, in that place,
+Dialogue: 12,0:23:17.99,0:23:27.66,Amadeus Trans,,0,0,0,,{\3c&H210FBD&\t(-5333,5792,\3c&HC7C7C7&)}Your “time” will begin once more
+Dialogue: 1,0:12:17.99,0:12:23.00,Title,,0,0,0,,{\an3\pos(1468,902)\fsp-3}Rinascimento
+Dialogue: 1,0:12:17.99,0:12:23.00,Title,,0,0,0,,{\an3\pos(1514,900)\fs60}of
+Dialogue: 1,0:12:17.99,0:12:23.00,Title,,0,0,0,,{\an3\pos(1708,958)}Entwurf
+Dialogue: 1,0:03:06.48,0:03:07.15,Whiteboard,,0,0,0,,{\pos(826,116)\c&H362821&\fay0.55\fax-0.1\fs130\be4}America
+Dialogue: 1,0:03:07.15,0:03:07.19,Whiteboard,,0,0,0,,{\pos(212,-169)\c&H362821&\fay0.55\fax-0.1\fs130\be4}America
+Dialogue: 1,0:03:06.48,0:03:07.15,Whiteboard,,0,0,0,,{\pos(982,708)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
+Dialogue: 1,0:03:07.15,0:03:07.19,Whiteboard,,0,0,0,,{\pos(364,418)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
+Dialogue: 1,0:03:07.19,0:03:07.24,Whiteboard,,0,0,0,,{\pos(2,246)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
+Dialogue: 1,0:03:07.19,0:03:07.24,Whiteboard,,0,0,0,,{\pos(2016,872)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
+Dialogue: 1,0:03:07.24,0:03:07.28,Whiteboard,,0,0,0,,{\pos(1772,746)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
+Dialogue: 1,0:03:07.28,0:03:07.36,Whiteboard,,0,0,0,,{\c&H3E352E&\fay0.65\fax0.05\fs130\be4\move(1586,664,1460,600,23,65)}Russia
+Dialogue: 1,0:03:07.36,0:03:07.44,Whiteboard,,0,0,0,,{\c&H3E352E&\fay0.65\fax0.05\fs130\be4\move(1382,566,1330,542,27,69)}Russia
+Dialogue: 1,0:03:07.44,0:03:07.61,Whiteboard,,0,0,0,,{\c&H3E352E&\fay0.65\fax0.05\fs130\be4\move(1284,518,1230,488,20,145)}Russia
+Dialogue: 1,0:03:07.61,0:03:08.61,Whiteboard,,0,0,0,,{\pos(1228,486)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
+Dialogue: 1,0:03:10.36,0:03:10.53,Whiteboard,,0,0,0,,{\c&H5F564F&\fs150\be4\move(500,182,676,194,30,155)}Time machine
+Dialogue: 1,0:03:10.53,0:03:10.70,Whiteboard,,0,0,0,,{\c&H5F564F&\fs150\be4\move(730,196,862,206,27,152)}Time machine
+Dialogue: 1,0:03:10.70,0:03:10.82,Whiteboard,,0,0,0,,{\c&H5F564F&\fs150\be4\move(892,210,928,210,24,107)}Time machine
+Dialogue: 1,0:03:10.82,0:03:11.74,Whiteboard,,0,0,0,,{\pos(940,210)\cH5F564F&\fs150\be4}Time machine
+Dialogue: 1,0:03:15.95,0:03:18.50,Whiteboard,,0,0,0,,{\pos(774,-60)\c&H463D35&\fay0.35\fs100\be4}America
+Dialogue: 1,0:03:18.50,0:03:18.62,Whiteboard,,0,0,0,,{\move(774,-50,774,-150)\c&H463D35&\fay0.35\fs100\be4}America
+Dialogue: 1,0:03:15.95,0:03:16.87,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfo
+Dialogue: 1,0:03:16.87,0:03:16.95,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 826 362 l 930 390 1034 396 1160 434 1054 576 714 444)}Stratfo
+Dialogue: 1,0:03:16.95,0:03:17.04,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 820 350 l 806 338 764 346 744 320 716 272 866 192)}Stratfo
+Dialogue: 1,0:03:17.04,0:03:18.50,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfo
+Dialogue: 1,0:03:18.50,0:03:18.62,Whiteboard,,0,0,0,,{\move(922,306,922,210)\c&H473E36&\fs130\be4\fay0.25}Stratfo
+Dialogue: 1,0:03:18.62,0:03:18.75,Whiteboard,,0,0,0,,{\move(922,206,922,12)\c&H473E36&\fs130\be4\fay0.25}Stratfo
+Dialogue: 1,0:03:18.75,0:03:18.83,Whiteboard,,0,0,0,,{\move(922,0,922,-160)\c&H473E36&\fs130\be4\fay0.25}Stratfo
+Dialogue: 1,0:03:15.95,0:03:16.62,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
+Dialogue: 1,0:03:16.62,0:03:16.70,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 1224 702 l 1250 724 1188 778 1174 744)}Leskinen
+Dialogue: 1,0:03:16.70,0:03:16.79,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 1092 706 l 1146 668 1382 830 1070 740)}Leskinen
+Dialogue: 1,0:03:16.79,0:03:16.87,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 980 672 l 1028 636 1394 768 952 730)}Leskinen
+Dialogue: 1,0:03:16.95,0:03:18.50,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
+Dialogue: 1,0:03:18.50,0:03:18.62,Whiteboard,,0,0,0,,{\move(988,630,988,530)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
+Dialogue: 1,0:03:18.62,0:03:18.79,Whiteboard,,0,0,0,,{\move(988,530,988,250)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
+Dialogue: 1,0:03:18.79,0:03:18.96,Whiteboard,,0,0,0,,{\move(988,240,988,-90)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
+Dialogue: 1,0:03:15.95,0:03:16.12,Whiteboard,,0,0,0,,{\pos(1784,1040)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:16.95,0:03:17.12,Whiteboard,,0,0,0,,{\pos(1784,1040)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:17.62,0:03:18.50,Whiteboard,,0,0,0,,{\pos(1784,1040)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:18.50,0:03:18.66,Whiteboard,,0,0,0,,{\move(1784,1050,1794,890)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:18.66,0:03:18.83,Whiteboard,,0,0,0,,{\move(1789,895,1815,580)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:18.83,0:03:19.00,Whiteboard,,0,0,0,,{\move(1820,580,1845,250)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:19.00,0:03:19.16,Whiteboard,,0,0,0,,{\move(1850,240,1865,30)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:19.16,0:03:20.79,Whiteboard,,0,0,0,,{\pos(1865,10)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:20.79,0:03:20.87,Whiteboard,,0,0,0,,{\pos(1865,10)\c&H4F463E&\fs90\be4\fay0.13\iclip(m 1586 24 l 1690 24 1724 86 1686 138)}Time machine
+Dialogue: 1,0:03:20.87,0:03:21.12,Whiteboard,,0,0,0,,{\pos(1865,10)\c&H4F463E&\fs90\be4\fay0.13}Time machine
+Dialogue: 1,0:03:18.70,0:03:18.87,Whiteboard,,0,0,0,,{\move(782,1080,798,782)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
+Dialogue: 1,0:03:18.87,0:03:19.04,Whiteboard,,0,0,0,,{\move(802,774,832,445)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
+Dialogue: 1,0:03:19.04,0:03:19.21,Whiteboard,,0,0,0,,{\move(832,444,842,285)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
+Dialogue: 1,0:03:19.21,0:03:20.71,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
+Dialogue: 1,0:03:20.71,0:03:20.79,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1\iclip(m 854 320 l 1276 420 698 524 758 392)}DURPA
+Dialogue: 1,0:03:20.79,0:03:21.12,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
+Dialogue: 1,0:05:21.95,0:05:23.50,Whiteboard,,0,0,0,,{\pos(940,108)\c&H443932&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:23.50,0:05:23.62,Whiteboard,,0,0,0,,{\move(940,110,940,50)\c&H443932&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:23.62,0:05:23.75,Whiteboard,,0,0,0,,{\move(940,50,940,-90)\c&H443932&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:21.95,0:05:23.50,Whiteboard,,0,0,0,,{\pos(1062,444)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:23.50,0:05:23.66,Whiteboard,,0,0,0,,{\move(1062,434,1062,350)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:23.66,0:05:23.83,Whiteboard,,0,0,0,,{\move(1062,340,1062,110)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:23.83,0:05:24.00,Whiteboard,,0,0,0,,{\move(1062,110,1062,-160)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:23.83,0:05:24.00,Whiteboard,,0,0,0,,{\move(768,1026,768,746)\c&H3E342A&\fs160\be4\frz359.6}DURPA
+Dialogue: 1,0:05:24.00,0:05:24.12,Whiteboard,,0,0,0,,{\move(768,736,768,546)\c&H3E342A&\fs160\be4\frz359.6}DURPA
+Dialogue: 1,0:05:24.12,0:05:24.25,Whiteboard,,0,0,0,,{\move(768,536,768,366)\c&H3E342A&\fs160\be4\frz359.6}DURPA
+Dialogue: 1,0:05:24.25,0:05:24.37,Whiteboard,,0,0,0,,{\move(768,356,768,276)\c&H3E342A&\fs160\be4\frz359.6}DURPA
+Dialogue: 1,0:05:24.37,0:05:25.75,Whiteboard,,0,0,0,,{\pos(768,266)\c&H3E342A&\fs160\be4\frz359.6}DURPA
+Dialogue: 1,0:05:25.75,0:05:25.87,Whiteboard,,0,0,0,,{\c&H3E342A&\fs160\be4\frz359.6\move(752,266,652,316,25,109)}DURPA
+Dialogue: 1,0:05:25.87,0:05:26.00,Whiteboard,,0,0,0,,{\c&H3E342A&\fs160\be4\frz359.6\move(576,362,364,462,20,104)}DURPA
+Dialogue: 1,0:05:26.00,0:05:26.12,Whiteboard,,0,0,0,,{\c&H3E342A&\fs160\be4\frz359.6\move(226,534,-52,676,25,109)}DURPA
+Dialogue: 1,0:05:26.00,0:05:26.17,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(1636,-12,1198,216,25,150)}Time Machine
+Dialogue: 1,0:05:26.17,0:05:26.33,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(1040,294,568,528,22,147)}Time Machine
+Dialogue: 1,0:05:26.33,0:05:26.50,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(422,606,22,796,29,154)}Time Machine
+Dialogue: 1,0:05:26.50,0:05:26.67,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz359.6\move(-90,848,-266,946,26,151)}Time Machine
+Dialogue: 1,0:05:26.33,0:05:26.50,Whiteboard,,0,0,0,,{\c&H493E39&\fs160\be4\move(1758,-162,1282,84,0,154)}Foreign Intel
+Dialogue: 1,0:05:26.50,0:05:26.62,Whiteboard,,0,0,0,,{\c&H493E39&\fs160\be4\move(1182,138,1034,206,26,109)}Foreign Intel
+Dialogue: 1,0:05:26.62,0:05:27.88,Whiteboard,,0,0,0,,{\pos(986,234)\c&H493E39&\fs160\be4}Foreign Intel
+Dialogue: 1,0:05:45.56,0:05:46.48,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:46.48,0:05:46.56,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 1044 172 l 1134 100 1370 262 1166 256)}Stratfo
+Dialogue: 1,0:05:46.56,0:05:46.64,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 898 200 l 1136 84 1356 258 1058 288 990 242)}Stratfo
+Dialogue: 1,0:05:46.64,0:05:46.73,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 816 196 l 1192 100 1356 258 942 280 836 228)}Stratfo
+Dialogue: 1,0:05:46.73,0:05:46.81,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 870 276 800 250)}Stratfo
+Dialogue: 1,0:05:46.81,0:05:46.89,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 862 284 800 260)}Stratfo
+Dialogue: 1,0:05:47.06,0:05:47.14,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\clip(m 772 200 l 1026 168 982 246 962 290 818 302)}Stratfo
+Dialogue: 1,0:05:47.14,0:05:49.31,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:49.31,0:05:49.48,Whiteboard,,0,0,0,,{\c&H483F37&\fs160\be4\frz4.164\move(1026,126,1026,56,20,145)}Stratfo
+Dialogue: 1,0:05:49.48,0:05:49.65,Whiteboard,,0,0,0,,{\move(1026,50,1026,-146)\c&H483F37&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:45.56,0:05:46.64,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:46.64,0:05:46.73,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1310 462 1336 590 820 622)}Leskinen
+Dialogue: 1,0:05:46.73,0:05:46.81,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1272 470 1296 584 820 622)}Leskinen
+Dialogue: 1,0:05:46.81,0:05:46.89,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1258 474 1282 588 820 622)}Leskinen
+Dialogue: 1,0:05:46.89,0:05:46.98,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1284 492 1298 580 820 622)}Leskinen
+Dialogue: 1,0:05:46.98,0:05:47.06,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1056 488 1102 520 1146 552 1194 580 906 650)}Leskinen
+Dialogue: 1,0:05:47.06,0:05:47.14,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1006 506 1026 548 1116 592 906 650)}Leskinen
+Dialogue: 1,0:05:47.14,0:05:47.23,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1130 478 1066 560 1050 590 910 620)}Leskinen
+Dialogue: 1,0:05:47.23,0:05:47.31,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 922 496 l 1340 478 1282 576 910 620)}Leskinen
+Dialogue: 1,0:05:47.31,0:05:48.06,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:48.06,0:05:48.15,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\iclip(m 1208 576 l 1114 630 1072 572 1008 568 1100 222 1494 284 1396 562 1290 570 1274 526 1180 556)}Leskinen
+Dialogue: 1,0:05:48.15,0:05:48.56,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:48.56,0:05:48.65,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\iclip(m 1124 556 l 1228 536 1290 510 1414 476 1384 584 1092 596)}Leskinen
+Dialogue: 1,0:05:48.65,0:05:48.73,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\iclip(m 1340 478 l 1470 442 1440 606 1288 576)}Leskinen
+Dialogue: 1,0:05:48.73,0:05:49.31,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:49.31,0:05:49.44,Whiteboard,,0,0,0,,{\move(1142,444,1142,394)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:49.44,0:05:49.56,Whiteboard,,0,0,0,,{\move(1142,374,1142,274)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:49.56,0:05:49.73,Whiteboard,,0,0,0,,{\move(1142,264,1142,54)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:49.73,0:05:49.86,Whiteboard,,0,0,0,,{\move(1142,50,1142,-134)\c&H473B31&\fs160\be4\frz6.145}Leskinen
+Dialogue: 1,0:05:49.65,0:05:49.81,Whiteboard,,0,0,0,,{\move(868,1054,868,804)\c&H473B31&\fs160\be4}DURPA
+Dialogue: 1,0:05:49.81,0:05:49.98,Whiteboard,,0,0,0,,{\move(868,794,868,564)\c&H473B31&\fs160\be4}DURPA
+Dialogue: 1,0:05:49.98,0:05:50.11,Whiteboard,,0,0,0,,{\move(868,564,868,424)\c&H473B31&\fs160\be4}DURPA
+Dialogue: 1,0:05:50.11,0:05:50.23,Whiteboard,,0,0,0,,{\move(868,414,868,344)\c&H473B31&\fs160\be4}DURPA
+Dialogue: 1,0:05:50.23,0:05:50.73,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4}DURPA
+Dialogue: 1,0:05:50.73,0:05:50.82,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 876 358 l 1098 322 1096 510 976 432)}DURPA
+Dialogue: 1,0:05:50.82,0:05:50.90,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 814 378 l 1086 360 1084 548 914 452)}DURPA
+Dialogue: 1,0:05:50.90,0:05:50.98,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 796 416 l 716 298 1084 348 1094 460 990 534 874 450)}DURPA
+Dialogue: 1,0:05:50.98,0:05:51.07,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 918 420 l 882 396 920 296 1314 500 856 466 880 430)}DURPA
+Dialogue: 1,0:05:51.07,0:05:51.82,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4}DURPA
+Dialogue: 1,0:05:51.82,0:05:51.90,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4\iclip(m 894 382 l 1140 306 1130 502 846 468)}DURPA
+Dialogue: 1,0:05:51.90,0:05:52.28,Whiteboard,,0,0,0,,{\pos(868,334)\c&H473B31&\fs160\be4}DURPA
+Dialogue: 1,0:06:40.16,0:06:43.12,Whiteboard,,0,0,0,,{\pos(1012,124)\c&H4D413C&\fs110\be4\frz358}Foreign Intel
+Dialogue: 1,0:06:40.16,0:06:43.12,Whiteboard,,0,0,0,,{\pos(186,582)\c&H534B43&\fs100\be4}Time machine
+Dialogue: 0,0:13:25.56,0:13:27.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HCEC3BF&}m 264 57 l 560 10 l 588 84 l 281 132 {\p0}
+Dialogue: 0,0:13:25.56,0:13:27.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEBE4E0&}m 246 188 l 766 105 l 802 188 l 620 218 l 632 265 l 279 319 {\p0}
+Dialogue: 0,0:13:25.56,0:13:27.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEBE4E0&}m 296 349 l 664 285 l 695 368 l 317 431 {\p0}
+Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\org(26,146)\fnPlaypen Sans Medium\c&H948683&\fs80\be3\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.097\pos(268,86)}Inbox
+Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\org(-08,222)\c&H787473&\fs77\fnPlaypen Sans Medium\be3\blur6\t(0,1000,\blur0)\frz8.685\frx6\fry356\pos(234,208)}From: {\c&HC2BBB8&}Hiyajo-san\N{\fs65\c&H787473&}To: {\c&HC2BBB8&}Okabe Rintaro
+Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\an4\org(108,260)\c&H787473&\fnPlaypen Sans Medium\fs70\be4\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.866\pos(256,400)}Subject: {\c&HD5CFCE&}(No subject)
+Dialogue: 0,0:20:43.67,0:20:47.88,Draw,,0,0,0,,{\pos(0,0)\blur7\p1\c&H3C2929&}m 472 206 l 1207 204 l 1208 301 l 881 304 l 881 341 l 477 337 l 478 364 l 1015 363 l 1020 422 l 476 424 {\p0}
+Dialogue: 1,0:20:43.67,0:20:47.88,Signs,,0,0,0,,{\an7\pos(474,206)\fnCourier Prime\b0\fs46\be2\c&HFFF4EA&}Break into the servers of Viktor\NChondria University’s Brain Science\NInstitute and destroy all the data\Nconcerning the Amadeus AI.\N\NOpen the door with the attached key\Nbelow.
+Dialogue: 0,0:22:35.44,0:22:36.95,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H815955&}m 849 342 l 1855 166 l 1885 518 l 1729 536 l 1737 655 l 842 763 {\p0}
+Dialogue: 1,0:22:35.44,0:22:36.95,Signs,,0,0,0,,{\an7\org(2058,640)\pos(670,120)\fnCourier Prime\b0\fs75\be3\c&HFFFFFF&\frx2\fry358\frz7.117\iclip(m 1744 548 l 1898 524 1908 630 1750 652)}Break into the servers of Viktor\NChondria University’s Brain Science\NInstitute and destroy all the data\Nconcerning the Amadeus AI.\N\NOpen the door with the attached key\Nbelow.
 Dialogue: 30,0:00:25.94,0:00:31.78,Default,,0,0,0,,Basically, no matter how much you time leap,\Nthe time machine keeps getting destroyed?
 Dialogue: 30,0:00:31.78,0:00:32.74,Default,,0,0,0,,Yeah.
 Dialogue: 30,0:00:32.74,0:00:37.95,Default,,0,0,0,,Can’t you rush to Radikan\Nand stop Mayu-shi before she hops in?

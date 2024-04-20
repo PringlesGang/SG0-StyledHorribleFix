@@ -29,110 +29,110 @@ Style: Worldline Trans,Kode Mono SemiBold,100,&H0000FF00,&H000000FF,&H00000000,&
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:49.96,0:01:51.96,OP Rom,,0,0,0,code once,hor = 0
-Comment: 0,0:01:49.96,0:01:51.96,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
-Comment: 12,0:01:49.96,0:01:51.96,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100,)\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
-Comment: 11,0:01:49.96,0:01:51.96,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
-Comment: 11,0:01:51.96,0:01:57.13,OP Rom,,0,0,0,karaoke,{\k52}{\blur11.25\fad(100,100)}Ko{\k107}no {\k19}i{\k14}no{\k32}chi {\k19}to {\k33}i{\k34}u {\k116}mu{\k20}ge{\k71}n
-Comment: 11,0:01:57.13,0:02:03.18,OP Rom,,0,0,0,karaoke,{\k77}{\blur11.25\fad(100,100)}Ma{\k83}da {\k47}sa{\k39}kka{\k17}ku {\k27}to{\k24}mo {\k131}shi{\k15}ra{\k145}zu
-Comment: 11,0:02:04.10,0:02:09.56,OP Rom,,0,0,0,karaoke,{\k27}{\blur11.25\fad(100,100)}Ni{\k21}ri{\k35}tsu{\k27}ha{\k28}i{\k30}ha{\k118}n {\k20}pa{\k14}ra{\k26}do{\k16}kku{\k26}su {\k36}sa{\k122}e
-Comment: 11,0:02:09.56,0:02:14.98,OP Rom,,0,0,0,karaoke,{\k24}{\blur11.25\fad(100,100)}Ka{\k19}gi{\k32}ri {\k17}no {\k31}na{\k35}i {\k34}se{\k16}ka{\k11}i{\k41}se{\k17}n {\k18}de {\k53}a{\k48}za{\k15}mu{\k131}ki
-Comment: 11,0:02:14.98,0:02:20.32,OP Rom,,0,0,0,karaoke,{\k18}{\blur11.25\fad(100,100)}Ka{\k12}n{\k40}jo{\k18}u {\k18}no {\k24}shi{\k26}ha{\k112}i {\k19}ki{\k18}do{\k27}u {\k18}chi{\k26}tsu{\k40}jo {\k118}wa
-Comment: 11,0:02:20.32,0:02:24.66,OP Rom,,0,0,0,karaoke,{\k29}{\blur11.25\fad(100,100)}Jou{\k39}shi{\k16}ki {\k37}sa{\k40}e {\k30}su{\k11}ri{\k21}ka{\k33}e{\k16}te {\k19}yu{\k61}ku {\k21}na{\k18}ra{\k43}ba
-Comment: 11,0:02:24.66,0:02:30.04,OP Rom,,0,0,0,karaoke,{\k104}{\blur11.25\fad(100,100)}Bo{\k17}ku {\k112}no {\k19}bo{\k18}ku {\k104}da{\k18}ke {\k146}no
-Comment: 11,0:02:30.04,0:02:36.76,OP Rom,,0,0,0,karaoke,{\k21}{\blur11.25\fad(100,100)}Ku{\k14}ru{\k19}shi{\k21}mi {\k44}so{\k14}no {\k37}ke{\k21}kka{\k20}n {\k47}sa{\k53}e {\k30}a{\k33}ru{\k30}go{\k32}ri{\k35}sumu {\k18}no {\k27}ma{\k156}ma
-Comment: 11,0:02:36.76,0:02:37.88,OP Rom,,0,0,0,karaoke,{\k19}{\blur11.25\fad(100,100)}I {\k23}can {\k70}fly—
-Comment: 11,0:02:37.88,0:02:43.18,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}A{\k15}i {\k19}no {\k16}shi{\k14}ru{\k36}shi, {\k32}a{\k25}i {\k14}no {\k13}ko{\k25}to{\k32}ba, {\k31}me{\k20}i{\k13}ka{\k18}ku {\k19}na{\k28}ru {\k38}ko{\k14}no {\k15}ki{\k17}o{\k21}ku {\k19}wo
-Comment: 11,0:02:43.76,0:02:48.64,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}Ni{\k18}do{\k27}to {\k43}ka{\k16}na{\k16}ta {\k34}ni {\k19}o{\k13}ki{\k14}za{\k54}ri {\k42}ni {\k45}wa {\k27}shi{\k23}na{\k14}i {\k19}ka{\k28}ra
-Comment: 11,0:02:48.64,0:02:51.35,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}I{\k18}tsu{\k18}de{\k15}mo {\k16}ma{\k33}da {\k22}ki{\k27}mi {\k13}no {\k21}so{\k21}ba {\k31}ni
-Comment: 11,0:02:51.35,0:02:54.07,OP Rom,,0,0,0,karaoke,{\k37}{\blur11.25\fad(100,100)}To{\k16}na{\k19}ri{\k9}a{\k15}wa{\k25}se {\k40}so{\k23}no {\k18}ryo{\k10}u{\k25}shi {\k36}ga
-Comment: 11,0:02:54.07,0:02:59.53,OP Rom,,0,0,0,karaoke,{\k73}{\blur11.25\fad(100,100)}Mo{\k26}tsu{\k33}re{\k35}a{\k31}e{\k30}ba {\k21}ze{\k16}ro {\k107}ni {\k24}na{\k150}ru
-Comment: 11,0:02:59.53,0:03:04.99,OP Rom,,0,0,0,karaoke,{\k41}{\blur11.25\fad(100,100)}There {\k34}is {\k31}no {\k160}God. {\k38}Won{\k27}der{\k39}ful {\k72}new {\k104}world
-Dialogue: 11,0:01:51.96,0:01:57.13,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}This “vision” we call life
-Dialogue: 11,0:01:57.13,0:02:03.18,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Is yet unaware that it’s an illusion
-Dialogue: 11,0:02:04.10,0:02:09.56,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Even antinomic paradoxes
-Dialogue: 11,0:02:09.56,0:02:14.98,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of worldlines
-Dialogue: 11,0:02:14.98,0:02:20.32,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}If the natural trajectory dictated by emotional decisions
-Dialogue: 11,0:02:20.32,0:02:24.66,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Supersedes even common sense
-Dialogue: 11,0:02:24.66,0:02:30.04,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Then my—and merely my—
-Dialogue: 11,0:02:30.04,0:02:36.76,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Suffering, and my mistakes, will still neatly follow the algorithm
-Dialogue: 11,0:02:37.88,0:02:43.18,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Words and tokens of love—memories growing ever stronger
-Dialogue: 11,0:02:43.76,0:02:48.64,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Guarantee I will not leave you behind a second time
-Dialogue: 11,0:02:48.64,0:02:51.35,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}I am forever by your side
-Dialogue: 11,0:02:51.35,0:02:54.07,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}We’re joined together as one
-Dialogue: 11,0:02:54.07,0:02:59.53,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Out of this quantum entanglement, “0” will manifest
-Dialogue: 11,0:22:12.85,0:22:17.85,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}Bai{\k23}bu{\k30}ree{\k160}shion {\k18}to{\k19}do{\k15}ka{\k30}na{\k22}i {\k11}e{\k25}moo{\k109}shion
-Dialogue: 11,0:22:18.44,0:22:24.61,Worldline Rom,,0,0,0,,{\k48}{\fsp-4.5}He{\k48}llo {\k18}A{\k32}ma{\k158}deus, {\k22}I’m {\k36}wai{\k37}ting {\k23}for {\k36}your {\k159}call
-Dialogue: 11,0:22:24.73,0:22:30.57,Worldline Rom,,0,0,0,,{\k36}{\fsp-4.5}Ko{\k44}no {\k14}ba{\k47}sho {\k144}wa {\k24}re{\k20}i{\k18}ya{\k20}a{\k21}do {\k23}no {\k37}you {\k136}ni
-Dialogue: 11,0:22:30.78,0:22:36.71,Worldline Rom,,0,0,0,,{\k45}{\fsp-4.5}Ta{\k43}ge{\k22}n{\k34}te{\k150}ki, {\k20}The {\k48}world {\k31}in {\k27}the {\k173}world
-Dialogue: 11,0:22:38.37,0:22:41.50,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}To{\k23}ki {\k14}wa {\k62}fu{\k16}ka{\k64}gya{\k19}ku {\k17}na{\k21}no{\k59}ni
-Dialogue: 11,0:22:41.50,0:22:44.21,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k10}Mi{\k24}chi {\k17}na{\k54}ru {\k29}se{\k58}ku{\k79}ta
-Dialogue: 11,0:22:44.21,0:22:46.26,Worldline Rom,,0,0,0,,{\k14}{\fsp-4.5}Ma{\k41}ru{\k15}de {\k43}furasshu {\k39}fowaado {\k17}na{\k37}ze?
-Dialogue: 11,0:22:46.26,0:22:49.22,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k42}Kissu {\k18}no {\k32}bi{\k203}jon
-Dialogue: 11,0:22:50.34,0:22:55.27,Worldline Rom,,0,0,0,,{\k19}{\fsp-4.5}Ko{\k22}nna {\k14}ni {\k20}chi{\k18}ka{\k21}ku{\k191}te {\k20}to{\k23}hou{\k19}mo{\k23}na{\k14}i {\k21}kyo{\k68}ri
-Dialogue: 11,0:22:56.47,0:22:59.60,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k12}sa{\k23}na{\k15}ri{\k20}a{\k17}u {\k24}ro{\k35}gosu {\k12}mu{\k11}su{\k17}u {\k14}no {\k25}“ze{\k21}ro” or {\k57}“one”
-Dialogue: 11,0:22:59.60,0:23:02.94,Worldline Rom,,0,0,0,,{\k23}{\fsp-4.5}Wa{\k24}ta{\k28}shi {\k121}wa {\k18}ko{\k23}ko {\k22}ni {\k17}i{\k11}ru {\k47}yo
-Dialogue: 11,0:23:03.82,0:23:07.24,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Tell {\k18}you {\k15}my {\k60}fee{\k80}lings {\k17}I {\k57}keep {\k36}in{\k41}side
-Dialogue: 11,0:23:07.24,0:23:10.36,Worldline Rom,,0,0,0,,{\k11}{\fsp-4.5}Ko{\k12}do{\k18}ku {\k18}no {\k22}ma{\k73}ma {\k11}ka{\k10}ka{\k41}e{\k17}te{\k40}ki{\k39}ta
-Dialogue: 11,0:23:10.36,0:23:16.12,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k64}zo{\k76}e{\k20}ki{\k28}re{\k32}na{\k72}i {\k20}mu{\k20}ge{\k20}n {\k20}no {\k40}yu{\k20}ni{\k18}ba{\k116}asu
-Dialogue: 11,0:23:16.12,0:23:19.54,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Da{\k15}ka{\k18}ra {\k62}so{\k77}u {\k18}i{\k42}ma {\k15}da{\k40}ke {\k41}wa
-Dialogue: 11,0:23:19.54,0:23:22.63,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k6}A{\k11}na{\k21}ta {\k18}no {\k12}a{\k84}su {\k10}a{\k10}na{\k20}ta {\k16}no {\k20}ta{\k40}me {\k37}ni
-Dialogue: 11,0:23:22.63,0:23:28.42,Worldline Rom,,0,0,0,,{\k17}{\fsp-4.5}U{\k67}chu{\k46}u {\k29}na{\k50}ru {\k43}ka{\k37}mi {\k32}no {\k105}world {\k18}bou{\k19}to{\k116}ku
-Dialogue: 11,0:23:28.80,0:23:31.89,Worldline Rom,,0,0,0,,{\k20}{\fsp-4.5}Ku{\k74}ri{\k23}ka{\k10}e{\k23}sa{\k43}na{\k38}i {\k78}de
-Dialogue: 11,0:23:32.09,0:23:35.14,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}There {\k31}is {\k32}in{\k45}side {\k81}world{\k78}line
-Dialogue: 11,0:23:35.14,0:23:38.39,Worldline Rom,,0,0,0,,{\k41}{\fsp-4.5}There {\k28}is {\k35}in{\k49}side {\k51}world {\k27}la{\k94}yer
-Dialogue: 11,0:22:12.85,0:22:17.85,Worldline Trans,,0,0,0,,{\fsp-4.5}Vibration, an undelivered emotion
-Dialogue: 11,0:22:24.73,0:22:30.57,Worldline Trans,,0,0,0,,{\fsp-4.5}This place exists as a sequence of layers
-Dialogue: 11,0:22:30.78,0:22:36.71,Worldline Trans,,0,0,0,,{\fsp-4.5}Of worlds recursing within worlds
-Dialogue: 11,0:22:38.37,0:22:41.50,Worldline Trans,,0,0,0,,{\fsp-4.5}Although time is irreversible
-Dialogue: 11,0:22:41.50,0:22:44.21,Worldline Trans,,0,0,0,,{\fsp-4.5}These sectors remain unaccessed
-Dialogue: 11,0:22:44.21,0:22:46.26,Worldline Trans,,0,0,0,,{\fsp-4.5}Why did I receive this vision of a kiss
-Dialogue: 11,0:22:46.26,0:22:49.22,Worldline Trans,,0,0,0,,{\fsp-4.5}Like a flash-forward?
-Dialogue: 11,0:22:50.34,0:22:55.27,Worldline Trans,,0,0,0,,{\fsp-4.5}It came from so close—an outrageously large distance
-Dialogue: 11,0:22:56.47,0:22:59.60,Worldline Trans,,0,0,0,,{\fsp-4.5}I can only conclude that our existence is defined by “0”s and “1”s
-Dialogue: 11,0:22:59.60,0:23:02.94,Worldline Trans,,0,0,0,,{\fsp-4.5}In which I can be found right here
-Dialogue: 11,0:23:03.82,0:23:07.24,Worldline Trans,,0,0,0,,{\fsp-4.5}I’ll tell you my feelings that I keep inside
-Dialogue: 11,0:23:07.24,0:23:10.36,Worldline Trans,,0,0,0,,{\fsp-4.5}I remain in solitude, while in hold of
-Dialogue: 11,0:23:10.36,0:23:16.12,Worldline Trans,,0,0,0,,{\fsp-4.5}A countless number of infinitely expansive universes
-Dialogue: 11,0:23:16.12,0:23:19.54,Worldline Trans,,0,0,0,,{\fsp-4.5}That’s why I’ll make sure
-Dialogue: 11,0:23:19.54,0:23:22.63,Worldline Trans,,0,0,0,,{\fsp-4.5}For the sake of your tomorrow
-Dialogue: 11,0:23:22.63,0:23:28.42,Worldline Trans,,0,0,0,,{\fsp-4.5}That the blasphemy of the God ruling this universe
-Dialogue: 11,0:23:28.80,0:23:31.89,Worldline Trans,,0,0,0,,{\fsp-4.5}Will never be repeated
-Dialogue: 1,0:11:45.93,0:11:50.94,Title,,0,0,0,,{\pos(1036,800)\fsp-3\fs70}Recognition
-Dialogue: 1,0:11:45.93,0:11:50.94,Title,,0,0,0,,{\pos(1280,820)\fs47}of the
-Dialogue: 1,0:11:45.93,0:11:50.94,Title,,0,0,0,,{\pos(1030,836)}Asymptotic Line
-Dialogue: 1,0:03:24.85,0:03:26.81,Signs,,0,0,0,,{\an8\fs40\be1\c&H25252B&\3c&H7F7F85&\bord3\fnNanum Brush Script\org(882,271)\frx14\fry22\frz333.6\pos(1154,408)\fade(500,0)}Marbled Port-Cutlet Sandwiches
-Dialogue: 1,0:03:24.85,0:03:26.81,Signs,,0,0,0,,{\an8\frx2\fry356\org(902,492)\pos(578,558)\frz5.097\c&H515081&\fs70\fnNanum Brush Script\be3\fade(500,0)\iclip(596,584,616,682)}Chicken & Rice
-Dialogue: 0,0:07:13.70,0:07:15.20,Draw,,0,0,0,,{\blur6\pos(0,0)\p1\c&HB8B9BA&}m 896 278 l 993 312 l 971 367 l 872 332 {\p0}
-Dialogue: 1,0:07:13.70,0:07:15.20,MahoPhone,,0,0,0,,{\c&H6D696B&\fs38\be1\org(854,438)\frz339.2\frx10\fry2\pos(840,250)}Maho-san!\NHelp me!
-Dialogue: 0,0:07:51.40,0:07:53.36,Draw,,0,0,0,,{\blur9\pos(0,0)\p1\c&HE4DDDB&}m 668 591 l 780 617 l 767 659 l 803 674 l 789 733 l 637 687 {\p0}
-Dialogue: 1,0:07:51.40,0:07:53.36,OkabePhone,,0,0,0,,{\c&H716462&\fs47\be3\org(494,532)\frx0\fry354\frz343.5\pos(654,530)}Incoming Call
-Dialogue: 1,0:07:51.40,0:07:53.36,OkabePhone,,0,0,0,,{\c&H716462&\be3\org(494,532)\frx0\fry354\frz343.5\fs90\pos(650,557)}Mayuri
-Dialogue: 0,0:08:59.60,0:08:59.72,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD5D4D0&}m 683 888 l 913 913 l 908 972 l 678 950 {\p0}
-Dialogue: 0,0:08:59.72,0:08:59.85,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HEDECEE&}m 790 536 l 1020 561 l 1015 620 l 785 598 {\p0}
-Dialogue: 0,0:08:59.72,0:08:59.85,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HCACACA&}m 708 999 l 1014 1037 l 993 1132 l 698 1100 {\p0}
-Dialogue: 0,0:08:59.85,0:08:59.97,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HEFEDED&}m 886 153 l 1116 178 l 1111 237 l 881 215 {\p0}
-Dialogue: 0,0:08:59.85,0:08:59.97,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HE1E0E1&}m 808 624 l 1111 655 l 1105 699 l 1020 692 l 1017 749 l 798 725 {\p0}
-Dialogue: 0,0:08:59.97,0:09:01.56,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HE4E4E4&}m 861 410 l 1164 441 l 1158 485 l 1073 478 l 1070 535 l 851 511 {\p0}
-Dialogue: 0,0:08:59.97,0:09:01.56,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&HA3A2A2&}m 1302 962 l 1405 974 l 1399 1040 l 1297 1024 {\p0}
-Dialogue: 1,0:08:59.60,0:08:59.72,MoekaPhone,,0,0,0,,{\blur6\c&H5D5D5D&\fs36\be2\t(0,125,\blur5)\pos(679,886)\frz353.3}How do I keep the conversation\Ngoing?
-Dialogue: 1,0:08:59.72,0:08:59.85,MoekaPhone,,0,0,0,,{\blur5\c&H5D5D5D&\fs36\be2\t(0,125,\blur4)\frz353.4\pos(779,528)}How do I keep the conversation\Ngoing?
-Dialogue: 1,0:08:59.85,0:08:59.97,MoekaPhone,,0,0,0,,{\blur4\c&H5D5D5D&\fs36\be2\t(0,125,\blur2.5)\frz354.7\pos(874,148)}How do I keep the conversation\Ngoing?
-Dialogue: 1,0:08:59.72,0:08:59.85,MoekaPhone,,0,0,0,,{\blur5\c&H5D5D5D&\fs59\be2\t(0,125,\blur4)\frz351.5\pos(712,996)}Keep the conversation\Nfun and exciting.
-Dialogue: 1,0:08:59.85,0:08:59.97,MoekaPhone,,0,0,0,,{\blur4\c&H5D5D5D&\fs59\be2\t(0,125,\blur2.5)\frz354.1\pos(814,614)}Keep the conversation\Nfun and exciting.
-Dialogue: 1,0:08:59.97,0:09:01.56,MoekaPhone,,0,0,0,,{\blur2.5\c&H5D5D5D&\fs59\be2\t(0,125,\blur0)\pos(866,402)\frz354.1}Keep the conversation\Nfun and exciting.
-Dialogue: 0,0:16:28.30,0:16:28.42,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 196 985 l 300 950 l 313 984 l 209 1019 {\p0}
-Dialogue: 0,0:16:28.42,0:16:28.55,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 194 885 l 304 857 l 314 893 l 204 921 {\p0}
-Dialogue: 0,0:16:28.55,0:16:29.76,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 204 799 l 320 773 l 329 811 l 214 837 {\p0}
-Dialogue: 1,0:16:28.30,0:16:28.42,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\frz18.6\pos(256,980)}Yuki-san
-Dialogue: 1,0:16:28.42,0:16:28.55,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\pos(260,886)\frz14.77}Yuki-san
-Dialogue: 1,0:16:28.55,0:16:29.76,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\pos(272,802)\frz12.45}Yuki-san
-Dialogue: 0,0:16:28.42,0:16:28.55,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&H0F0D12&}m 208 1054 l 397 997 l 404 1043 l 214 1104 {\p0}
-Dialogue: 0,0:16:28.55,0:16:29.76,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&H0F0D12&}m 215 964 l 410 926 l 412 972 l 217 1015 {\p0}
-Dialogue: 1,0:16:28.42,0:16:28.55,DaruPhone,,0,0,0,,{\an5\c&HB19AA4&\fs35\be2\frz14.22\pos(308,1044)}Call Completed
-Dialogue: 1,0:16:28.55,0:16:29.76,DaruPhone,,0,0,0,,{\an5\c&HB19AA4&\fs35\be2\frz12.2\pos(316,968)}Call Completed
-Dialogue: 0,0:19:09.66,0:19:13.13,Draw,,0,0,0,,{\blur12\pos(0,0)\p1\c&HD8D9DA&}m 651 482 l 1188 568 l 1181 630 l 1237 645 l 1226 712 l 855 651 l 844 715 l 617 676 {\p0}
-Dialogue: 1,0:19:09.66,0:19:13.13,OkabePhone,,0,0,0,,{\c&H5B5558&\fs77\be2\fay-0.04\fax0.02\frz348.5\pos(660,474)}Think we can meet today?\NThere’s so much I want to\Ntalk about.
+Comment: 0,0:01:49.95,0:01:51.95,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:01:49.95,0:01:51.95,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 12,0:01:49.95,0:01:51.95,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100,)\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 11,0:01:49.95,0:01:51.95,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:01:51.95,0:01:57.12,OP Rom,,0,0,0,karaoke,{\k52}{\blur11.25\fad(100,100)}Ko{\k107}no {\k19}i{\k14}no{\k32}chi {\k19}to {\k33}i{\k34}u {\k116}mu{\k20}ge{\k71}n
+Comment: 11,0:01:57.12,0:02:03.17,OP Rom,,0,0,0,karaoke,{\k77}{\blur11.25\fad(100,100)}Ma{\k83}da {\k47}sa{\k39}kka{\k17}ku {\k27}to{\k24}mo {\k131}shi{\k15}ra{\k145}zu
+Comment: 11,0:02:04.09,0:02:09.55,OP Rom,,0,0,0,karaoke,{\k27}{\blur11.25\fad(100,100)}Ni{\k21}ri{\k35}tsu{\k27}ha{\k28}i{\k30}ha{\k118}n {\k20}pa{\k14}ra{\k26}do{\k16}kku{\k26}su {\k36}sa{\k122}e
+Comment: 11,0:02:09.55,0:02:14.97,OP Rom,,0,0,0,karaoke,{\k24}{\blur11.25\fad(100,100)}Ka{\k19}gi{\k32}ri {\k17}no {\k31}na{\k35}i {\k34}se{\k16}ka{\k11}i{\k41}se{\k17}n {\k18}de {\k53}a{\k48}za{\k15}mu{\k131}ki
+Comment: 11,0:02:14.97,0:02:20.31,OP Rom,,0,0,0,karaoke,{\k18}{\blur11.25\fad(100,100)}Ka{\k12}n{\k40}jo{\k18}u {\k18}no {\k24}shi{\k26}ha{\k112}i {\k19}ki{\k18}do{\k27}u {\k18}chi{\k26}tsu{\k40}jo {\k118}wa
+Comment: 11,0:02:20.31,0:02:24.65,OP Rom,,0,0,0,karaoke,{\k29}{\blur11.25\fad(100,100)}Jou{\k39}shi{\k16}ki {\k37}sa{\k40}e {\k30}su{\k11}ri{\k21}ka{\k33}e{\k16}te {\k19}yu{\k61}ku {\k21}na{\k18}ra{\k43}ba
+Comment: 11,0:02:24.65,0:02:30.03,OP Rom,,0,0,0,karaoke,{\k104}{\blur11.25\fad(100,100)}Bo{\k17}ku {\k112}no {\k19}bo{\k18}ku {\k104}da{\k18}ke {\k146}no
+Comment: 11,0:02:30.03,0:02:36.75,OP Rom,,0,0,0,karaoke,{\k21}{\blur11.25\fad(100,100)}Ku{\k14}ru{\k19}shi{\k21}mi {\k44}so{\k14}no {\k37}ke{\k21}kka{\k20}n {\k47}sa{\k53}e {\k30}a{\k33}ru{\k30}go{\k32}ri{\k35}sumu {\k18}no {\k27}ma{\k156}ma
+Comment: 11,0:02:36.75,0:02:37.87,OP Rom,,0,0,0,karaoke,{\k19}{\blur11.25\fad(100,100)}I {\k23}can {\k70}fly—
+Comment: 11,0:02:37.87,0:02:43.17,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}A{\k15}i {\k19}no {\k16}shi{\k14}ru{\k36}shi, {\k32}a{\k25}i {\k14}no {\k13}ko{\k25}to{\k32}ba, {\k31}me{\k20}i{\k13}ka{\k18}ku {\k19}na{\k28}ru {\k38}ko{\k14}no {\k15}ki{\k17}o{\k21}ku {\k19}wo
+Comment: 11,0:02:43.75,0:02:48.63,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}Ni{\k18}do{\k27}to {\k43}ka{\k16}na{\k16}ta {\k34}ni {\k19}o{\k13}ki{\k14}za{\k54}ri {\k42}ni {\k45}wa {\k27}shi{\k23}na{\k14}i {\k19}ka{\k28}ra
+Comment: 11,0:02:48.63,0:02:51.34,OP Rom,,0,0,0,karaoke,{\k36}{\blur11.25\fad(100,100)}I{\k18}tsu{\k18}de{\k15}mo {\k16}ma{\k33}da {\k22}ki{\k27}mi {\k13}no {\k21}so{\k21}ba {\k31}ni
+Comment: 11,0:02:51.34,0:02:54.06,OP Rom,,0,0,0,karaoke,{\k37}{\blur11.25\fad(100,100)}To{\k16}na{\k19}ri{\k9}a{\k15}wa{\k25}se {\k40}so{\k23}no {\k18}ryo{\k10}u{\k25}shi {\k36}ga
+Comment: 11,0:02:54.06,0:02:59.52,OP Rom,,0,0,0,karaoke,{\k73}{\blur11.25\fad(100,100)}Mo{\k26}tsu{\k33}re{\k35}a{\k31}e{\k30}ba {\k21}ze{\k16}ro {\k107}ni {\k24}na{\k150}ru
+Comment: 11,0:02:59.52,0:03:04.98,OP Rom,,0,0,0,karaoke,{\k41}{\blur11.25\fad(100,100)}There {\k34}is {\k31}no {\k160}God. {\k38}Won{\k27}der{\k39}ful {\k72}new {\k104}world
+Dialogue: 11,0:01:51.95,0:01:57.12,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}This “vision” we call life
+Dialogue: 11,0:01:57.12,0:02:03.17,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Is yet unaware that it’s an illusion
+Dialogue: 11,0:02:04.09,0:02:09.55,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Even antinomic paradoxes
+Dialogue: 11,0:02:09.55,0:02:14.97,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of worldlines
+Dialogue: 11,0:02:14.97,0:02:20.31,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}If the natural trajectory dictated by emotional decisions
+Dialogue: 11,0:02:20.31,0:02:24.65,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Supersedes even common sense
+Dialogue: 11,0:02:24.65,0:02:30.03,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Then my—and merely my—
+Dialogue: 11,0:02:30.03,0:02:36.75,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Suffering, and my mistakes, will still neatly follow the algorithm
+Dialogue: 11,0:02:37.87,0:02:43.17,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Words and tokens of love—memories growing ever stronger
+Dialogue: 11,0:02:43.75,0:02:48.63,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Guarantee I will not leave you behind a second time
+Dialogue: 11,0:02:48.63,0:02:51.34,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}I am forever by your side
+Dialogue: 11,0:02:51.34,0:02:54.06,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}We’re joined together as one
+Dialogue: 11,0:02:54.06,0:02:59.52,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Out of this quantum entanglement, “0” will manifest
+Dialogue: 11,0:22:12.84,0:22:17.84,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}Bai{\k23}bu{\k30}ree{\k160}shion {\k18}to{\k19}do{\k15}ka{\k30}na{\k22}i {\k11}e{\k25}moo{\k109}shion
+Dialogue: 11,0:22:18.43,0:22:24.60,Worldline Rom,,0,0,0,,{\k48}{\fsp-4.5}He{\k48}llo {\k18}A{\k32}ma{\k158}deus, {\k22}I’m {\k36}wai{\k37}ting {\k23}for {\k36}your {\k159}call
+Dialogue: 11,0:22:24.72,0:22:30.56,Worldline Rom,,0,0,0,,{\k36}{\fsp-4.5}Ko{\k44}no {\k14}ba{\k47}sho {\k144}wa {\k24}re{\k20}i{\k18}ya{\k20}a{\k21}do {\k23}no {\k37}you {\k136}ni
+Dialogue: 11,0:22:30.77,0:22:36.70,Worldline Rom,,0,0,0,,{\k45}{\fsp-4.5}Ta{\k43}ge{\k22}n{\k34}te{\k150}ki, {\k20}The {\k48}world {\k31}in {\k27}the {\k173}world
+Dialogue: 11,0:22:38.36,0:22:41.49,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}To{\k23}ki {\k14}wa {\k62}fu{\k16}ka{\k64}gya{\k19}ku {\k17}na{\k21}no{\k59}ni
+Dialogue: 11,0:22:41.49,0:22:44.20,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k10}Mi{\k24}chi {\k17}na{\k54}ru {\k29}se{\k58}ku{\k79}ta
+Dialogue: 11,0:22:44.20,0:22:46.25,Worldline Rom,,0,0,0,,{\k14}{\fsp-4.5}Ma{\k41}ru{\k15}de {\k43}furasshu {\k39}fowaado {\k17}na{\k37}ze?
+Dialogue: 11,0:22:46.25,0:22:49.21,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k42}Kissu {\k18}no {\k32}bi{\k203}jon
+Dialogue: 11,0:22:50.33,0:22:55.26,Worldline Rom,,0,0,0,,{\k19}{\fsp-4.5}Ko{\k22}nna {\k14}ni {\k20}chi{\k18}ka{\k21}ku{\k191}te {\k20}to{\k23}hou{\k19}mo{\k23}na{\k14}i {\k21}kyo{\k68}ri
+Dialogue: 11,0:22:56.46,0:22:59.59,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k12}sa{\k23}na{\k15}ri{\k20}a{\k17}u {\k24}ro{\k35}gosu {\k12}mu{\k11}su{\k17}u {\k14}no {\k25}“ze{\k21}ro” or {\k57}“one”
+Dialogue: 11,0:22:59.59,0:23:02.93,Worldline Rom,,0,0,0,,{\k23}{\fsp-4.5}Wa{\k24}ta{\k28}shi {\k121}wa {\k18}ko{\k23}ko {\k22}ni {\k17}i{\k11}ru {\k47}yo
+Dialogue: 11,0:23:03.81,0:23:07.23,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Tell {\k18}you {\k15}my {\k60}fee{\k80}lings {\k17}I {\k57}keep {\k36}in{\k41}side
+Dialogue: 11,0:23:07.23,0:23:10.35,Worldline Rom,,0,0,0,,{\k11}{\fsp-4.5}Ko{\k12}do{\k18}ku {\k18}no {\k22}ma{\k73}ma {\k11}ka{\k10}ka{\k41}e{\k17}te{\k40}ki{\k39}ta
+Dialogue: 11,0:23:10.35,0:23:16.11,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k64}zo{\k76}e{\k20}ki{\k28}re{\k32}na{\k72}i {\k20}mu{\k20}ge{\k20}n {\k20}no {\k40}yu{\k20}ni{\k18}ba{\k116}asu
+Dialogue: 11,0:23:16.11,0:23:19.53,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Da{\k15}ka{\k18}ra {\k62}so{\k77}u {\k18}i{\k42}ma {\k15}da{\k40}ke {\k41}wa
+Dialogue: 11,0:23:19.53,0:23:22.62,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k6}A{\k11}na{\k21}ta {\k18}no {\k12}a{\k84}su {\k10}a{\k10}na{\k20}ta {\k16}no {\k20}ta{\k40}me {\k37}ni
+Dialogue: 11,0:23:22.62,0:23:28.41,Worldline Rom,,0,0,0,,{\k17}{\fsp-4.5}U{\k67}chu{\k46}u {\k29}na{\k50}ru {\k43}ka{\k37}mi {\k32}no {\k105}world {\k18}bou{\k19}to{\k116}ku
+Dialogue: 11,0:23:28.79,0:23:31.88,Worldline Rom,,0,0,0,,{\k20}{\fsp-4.5}Ku{\k74}ri{\k23}ka{\k10}e{\k23}sa{\k43}na{\k38}i {\k78}de
+Dialogue: 11,0:23:32.08,0:23:35.13,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}There {\k31}is {\k32}in{\k45}side {\k81}world{\k78}line
+Dialogue: 11,0:23:35.13,0:23:38.38,Worldline Rom,,0,0,0,,{\k41}{\fsp-4.5}There {\k28}is {\k35}in{\k49}side {\k51}world {\k27}la{\k94}yer
+Dialogue: 11,0:22:12.84,0:22:17.84,Worldline Trans,,0,0,0,,{\fsp-4.5}Vibration, an undelivered emotion
+Dialogue: 11,0:22:24.72,0:22:30.56,Worldline Trans,,0,0,0,,{\fsp-4.5}This place exists as a sequence of layers
+Dialogue: 11,0:22:30.77,0:22:36.70,Worldline Trans,,0,0,0,,{\fsp-4.5}Of worlds recursing within worlds
+Dialogue: 11,0:22:38.36,0:22:41.49,Worldline Trans,,0,0,0,,{\fsp-4.5}Although time is irreversible
+Dialogue: 11,0:22:41.49,0:22:44.20,Worldline Trans,,0,0,0,,{\fsp-4.5}These sectors remain unaccessed
+Dialogue: 11,0:22:44.20,0:22:46.25,Worldline Trans,,0,0,0,,{\fsp-4.5}Why did I receive this vision of a kiss
+Dialogue: 11,0:22:46.25,0:22:49.21,Worldline Trans,,0,0,0,,{\fsp-4.5}Like a flash-forward?
+Dialogue: 11,0:22:50.33,0:22:55.26,Worldline Trans,,0,0,0,,{\fsp-4.5}It came from so close—an outrageously large distance
+Dialogue: 11,0:22:56.46,0:22:59.59,Worldline Trans,,0,0,0,,{\fsp-4.5}I can only conclude that our existence is defined by “0”s and “1”s
+Dialogue: 11,0:22:59.59,0:23:02.93,Worldline Trans,,0,0,0,,{\fsp-4.5}In which I can be found right here
+Dialogue: 11,0:23:03.81,0:23:07.23,Worldline Trans,,0,0,0,,{\fsp-4.5}I’ll tell you my feelings that I keep inside
+Dialogue: 11,0:23:07.23,0:23:10.35,Worldline Trans,,0,0,0,,{\fsp-4.5}I remain in solitude, while in hold of
+Dialogue: 11,0:23:10.35,0:23:16.11,Worldline Trans,,0,0,0,,{\fsp-4.5}A countless number of infinitely expansive universes
+Dialogue: 11,0:23:16.11,0:23:19.53,Worldline Trans,,0,0,0,,{\fsp-4.5}That’s why I’ll make sure
+Dialogue: 11,0:23:19.53,0:23:22.62,Worldline Trans,,0,0,0,,{\fsp-4.5}For the sake of your tomorrow
+Dialogue: 11,0:23:22.62,0:23:28.41,Worldline Trans,,0,0,0,,{\fsp-4.5}That the blasphemy of the God ruling this universe
+Dialogue: 11,0:23:28.79,0:23:31.88,Worldline Trans,,0,0,0,,{\fsp-4.5}Will never be repeated
+Dialogue: 1,0:11:45.92,0:11:50.93,Title,,0,0,0,,{\pos(1036,800)\fsp-3\fs70}Recognition
+Dialogue: 1,0:11:45.92,0:11:50.93,Title,,0,0,0,,{\pos(1280,820)\fs47}of the
+Dialogue: 1,0:11:45.92,0:11:50.93,Title,,0,0,0,,{\pos(1030,836)}Asymptotic Line
+Dialogue: 1,0:03:24.84,0:03:26.80,Signs,,0,0,0,,{\an8\fs40\be1\c&H25252B&\3c&H7F7F85&\bord3\fnNanum Brush Script\org(882,271)\frx14\fry22\frz333.6\pos(1154,408)\fade(500,0)}Marbled Port-Cutlet Sandwiches
+Dialogue: 1,0:03:24.84,0:03:26.80,Signs,,0,0,0,,{\an8\frx2\fry356\org(902,492)\pos(578,558)\frz5.097\c&H515081&\fs70\fnNanum Brush Script\be3\fade(500,0)\iclip(596,584,616,682)}Chicken & Rice
+Dialogue: 0,0:07:13.69,0:07:15.19,Draw,,0,0,0,,{\blur6\pos(0,0)\p1\c&HB8B9BA&}m 896 278 l 993 312 l 971 367 l 872 332 {\p0}
+Dialogue: 1,0:07:13.69,0:07:15.19,MahoPhone,,0,0,0,,{\c&H6D696B&\fs38\be1\org(854,438)\frz339.2\frx10\fry2\pos(840,250)}Maho-san!\NHelp me!
+Dialogue: 0,0:07:51.39,0:07:53.35,Draw,,0,0,0,,{\blur9\pos(0,0)\p1\c&HE4DDDB&}m 668 591 l 780 617 l 767 659 l 803 674 l 789 733 l 637 687 {\p0}
+Dialogue: 1,0:07:51.39,0:07:53.35,OkabePhone,,0,0,0,,{\c&H716462&\fs47\be3\org(494,532)\frx0\fry354\frz343.5\pos(654,530)}Incoming Call
+Dialogue: 1,0:07:51.39,0:07:53.35,OkabePhone,,0,0,0,,{\c&H716462&\be3\org(494,532)\frx0\fry354\frz343.5\fs90\pos(650,557)}Mayuri
+Dialogue: 0,0:08:59.59,0:08:59.71,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&HD5D4D0&}m 683 888 l 913 913 l 908 972 l 678 950 {\p0}
+Dialogue: 0,0:08:59.71,0:08:59.84,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HEDECEE&}m 790 536 l 1020 561 l 1015 620 l 785 598 {\p0}
+Dialogue: 0,0:08:59.71,0:08:59.84,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HCACACA&}m 708 999 l 1014 1037 l 993 1132 l 698 1100 {\p0}
+Dialogue: 0,0:08:59.84,0:08:59.96,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HEFEDED&}m 886 153 l 1116 178 l 1111 237 l 881 215 {\p0}
+Dialogue: 0,0:08:59.84,0:08:59.96,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HE1E0E1&}m 808 624 l 1111 655 l 1105 699 l 1020 692 l 1017 749 l 798 725 {\p0}
+Dialogue: 0,0:08:59.96,0:09:01.55,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&HE4E4E4&}m 861 410 l 1164 441 l 1158 485 l 1073 478 l 1070 535 l 851 511 {\p0}
+Dialogue: 0,0:08:59.96,0:09:01.55,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&HA3A2A2&}m 1302 962 l 1405 974 l 1399 1040 l 1297 1024 {\p0}
+Dialogue: 1,0:08:59.59,0:08:59.71,MoekaPhone,,0,0,0,,{\blur6\c&H5D5D5D&\fs36\be2\t(0,125,\blur5)\pos(679,886)\frz353.3}How do I keep the conversation\Ngoing?
+Dialogue: 1,0:08:59.71,0:08:59.84,MoekaPhone,,0,0,0,,{\blur5\c&H5D5D5D&\fs36\be2\t(0,125,\blur4)\frz353.4\pos(779,528)}How do I keep the conversation\Ngoing?
+Dialogue: 1,0:08:59.84,0:08:59.96,MoekaPhone,,0,0,0,,{\blur4\c&H5D5D5D&\fs36\be2\t(0,125,\blur2.5)\frz354.7\pos(874,148)}How do I keep the conversation\Ngoing?
+Dialogue: 1,0:08:59.71,0:08:59.84,MoekaPhone,,0,0,0,,{\blur5\c&H5D5D5D&\fs59\be2\t(0,125,\blur4)\frz351.5\pos(712,996)}Keep the conversation\Nfun and exciting.
+Dialogue: 1,0:08:59.84,0:08:59.96,MoekaPhone,,0,0,0,,{\blur4\c&H5D5D5D&\fs59\be2\t(0,125,\blur2.5)\frz354.1\pos(814,614)}Keep the conversation\Nfun and exciting.
+Dialogue: 1,0:08:59.96,0:09:01.55,MoekaPhone,,0,0,0,,{\blur2.5\c&H5D5D5D&\fs59\be2\t(0,125,\blur0)\pos(866,402)\frz354.1}Keep the conversation\Nfun and exciting.
+Dialogue: 0,0:16:28.29,0:16:28.41,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 196 985 l 300 950 l 313 984 l 209 1019 {\p0}
+Dialogue: 0,0:16:28.41,0:16:28.54,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 194 885 l 304 857 l 314 893 l 204 921 {\p0}
+Dialogue: 0,0:16:28.54,0:16:29.75,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493340&}m 204 799 l 320 773 l 329 811 l 214 837 {\p0}
+Dialogue: 1,0:16:28.29,0:16:28.41,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\frz18.6\pos(256,980)}Yuki-san
+Dialogue: 1,0:16:28.41,0:16:28.54,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\pos(260,886)\frz14.77}Yuki-san
+Dialogue: 1,0:16:28.54,0:16:29.75,DaruPhone,,0,0,0,,{\an5\b1\c&H9C858F&\fs45\be3\pos(272,802)\frz12.45}Yuki-san
+Dialogue: 0,0:16:28.41,0:16:28.54,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&H0F0D12&}m 208 1054 l 397 997 l 404 1043 l 214 1104 {\p0}
+Dialogue: 0,0:16:28.54,0:16:29.75,Draw,,0,0,0,,{\blur10\pos(0,0)\p1\c&H0F0D12&}m 215 964 l 410 926 l 412 972 l 217 1015 {\p0}
+Dialogue: 1,0:16:28.41,0:16:28.54,DaruPhone,,0,0,0,,{\an5\c&HB19AA4&\fs35\be2\frz14.22\pos(308,1044)}Call Completed
+Dialogue: 1,0:16:28.54,0:16:29.75,DaruPhone,,0,0,0,,{\an5\c&HB19AA4&\fs35\be2\frz12.2\pos(316,968)}Call Completed
+Dialogue: 0,0:19:09.65,0:19:13.12,Draw,,0,0,0,,{\blur12\pos(0,0)\p1\c&HD8D9DA&}m 651 482 l 1188 568 l 1181 630 l 1237 645 l 1226 712 l 855 651 l 844 715 l 617 676 {\p0}
+Dialogue: 1,0:19:09.65,0:19:13.12,OkabePhone,,0,0,0,,{\c&H5B5558&\fs77\be2\fay-0.04\fax0.02\frz348.5\pos(660,474)}Think we can meet today?\NThere’s so much I want to\Ntalk about.
 Dialogue: 30,0:00:02.87,0:00:04.67,Default,,0,0,0,,K-Kagari?
 Dialogue: 30,0:00:04.67,0:00:06.21,Default,,0,0,0,,Wait!
 Dialogue: 30,0:00:16.60,0:00:18.31,Default,,0,0,0,,Kagari...

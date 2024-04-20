@@ -25,52 +25,52 @@ Style: Worldline Trans,Kode Mono SemiBold,100,&H0000FF00,&H000000FF,&H00000000,&
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 11,0:22:12.93,0:22:17.94,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}Bai{\k23}bu{\k30}ree{\k160}shion {\k18}to{\k19}do{\k15}ka{\k30}na{\k22}i {\k11}e{\k25}moo{\k109}shion
-Dialogue: 11,0:22:18.52,0:22:24.69,Worldline Rom,,0,0,0,,{\k48}{\fsp-4.5}He{\k48}llo {\k18}A{\k32}ma{\k158}deus, {\k22}I’m {\k36}wai{\k37}ting {\k23}for {\k36}your {\k159}call
-Dialogue: 11,0:22:24.82,0:22:30.66,Worldline Rom,,0,0,0,,{\k36}{\fsp-4.5}Ko{\k44}no {\k14}ba{\k47}sho {\k144}wa {\k24}re{\k20}i{\k18}ya{\k20}a{\k21}do {\k23}no {\k37}you {\k136}ni
-Dialogue: 11,0:22:30.87,0:22:36.79,Worldline Rom,,0,0,0,,{\k45}{\fsp-4.5}Ta{\k43}ge{\k22}n{\k34}te{\k150}ki, {\k20}The {\k48}world {\k31}in {\k27}the {\k173}world
-Dialogue: 11,0:22:38.46,0:22:41.59,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}To{\k23}ki {\k14}wa {\k62}fu{\k16}ka{\k64}gya{\k19}ku {\k17}na{\k21}no{\k59}ni
-Dialogue: 11,0:22:41.59,0:22:44.30,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k10}Mi{\k24}chi {\k17}na{\k54}ru {\k29}se{\k58}ku{\k79}ta
-Dialogue: 11,0:22:44.30,0:22:46.34,Worldline Rom,,0,0,0,,{\k14}{\fsp-4.5}Ma{\k41}ru{\k15}de {\k43}furasshu {\k39}fowaado {\k17}na{\k37}ze?
-Dialogue: 11,0:22:46.34,0:22:49.30,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k42}Kissu {\k18}no {\k32}bi{\k203}jon
-Dialogue: 11,0:22:50.43,0:22:55.35,Worldline Rom,,0,0,0,,{\k19}{\fsp-4.5}Ko{\k22}nna {\k14}ni {\k20}chi{\k18}ka{\k21}ku{\k191}te {\k20}to{\k23}hou{\k19}mo{\k23}na{\k14}i {\k21}kyo{\k68}ri
-Dialogue: 11,0:22:56.56,0:22:59.69,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k12}sa{\k23}na{\k15}ri{\k20}a{\k17}u {\k24}ro{\k35}gosu {\k12}mu{\k11}su{\k17}u {\k14}no {\k25}“ze{\k21}ro” or {\k57}“one”
-Dialogue: 11,0:22:59.69,0:23:03.02,Worldline Rom,,0,0,0,,{\k23}{\fsp-4.5}Wa{\k24}ta{\k28}shi {\k121}wa {\k18}ko{\k23}ko {\k22}ni {\k17}i{\k11}ru {\k47}yo
-Dialogue: 11,0:23:03.90,0:23:07.32,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Tell {\k18}you {\k15}my {\k60}fee{\k80}lings {\k17}I {\k57}keep {\k36}in{\k41}side
-Dialogue: 11,0:23:07.32,0:23:10.45,Worldline Rom,,0,0,0,,{\k11}{\fsp-4.5}Ko{\k12}do{\k18}ku {\k18}no {\k22}ma{\k73}ma {\k11}ka{\k10}ka{\k41}e{\k17}te{\k40}ki{\k39}ta
-Dialogue: 11,0:23:10.45,0:23:16.20,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k64}zo{\k76}e{\k20}ki{\k28}re{\k32}na{\k72}i {\k20}mu{\k20}ge{\k20}n {\k20}no {\k40}yu{\k20}ni{\k18}ba{\k116}asu
-Dialogue: 11,0:23:16.20,0:23:19.62,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Da{\k15}ka{\k18}ra {\k62}so{\k77}u {\k18}i{\k42}ma {\k15}da{\k40}ke {\k41}wa
-Dialogue: 11,0:23:19.62,0:23:22.71,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k6}A{\k11}na{\k21}ta {\k18}no {\k12}a{\k84}su {\k10}a{\k10}na{\k20}ta {\k16}no {\k20}ta{\k40}me {\k37}ni
-Dialogue: 11,0:23:22.71,0:23:28.51,Worldline Rom,,0,0,0,,{\k17}{\fsp-4.5}U{\k67}chu{\k46}u {\k29}na{\k50}ru {\k43}ka{\k37}mi {\k32}no {\k105}world {\k18}bou{\k19}to{\k116}ku
-Dialogue: 11,0:23:28.88,0:23:31.97,Worldline Rom,,0,0,0,,{\k20}{\fsp-4.5}Ku{\k74}ri{\k23}ka{\k10}e{\k23}sa{\k43}na{\k38}i {\k78}de
-Dialogue: 11,0:23:32.18,0:23:35.22,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}There {\k31}is {\k32}in{\k45}side {\k81}world{\k78}line
-Dialogue: 11,0:23:35.22,0:23:38.48,Worldline Rom,,0,0,0,,{\k41}{\fsp-4.5}There {\k28}is {\k35}in{\k49}side {\k51}world {\k27}la{\k94}yer
-Dialogue: 11,0:22:12.93,0:22:17.94,Worldline Trans,,0,0,0,,{\fsp-4.5}Vibration, an undelivered emotion
-Dialogue: 11,0:22:24.82,0:22:30.66,Worldline Trans,,0,0,0,,{\fsp-4.5}This place exists as a sequence of layers
-Dialogue: 11,0:22:30.87,0:22:36.79,Worldline Trans,,0,0,0,,{\fsp-4.5}Of worlds recursing within worlds
-Dialogue: 11,0:22:38.46,0:22:41.59,Worldline Trans,,0,0,0,,{\fsp-4.5}Although time is irreversible
-Dialogue: 11,0:22:41.59,0:22:44.30,Worldline Trans,,0,0,0,,{\fsp-4.5}These sectors remain unaccessed
-Dialogue: 11,0:22:44.30,0:22:46.34,Worldline Trans,,0,0,0,,{\fsp-4.5}Why did I receive this vision of a kiss
-Dialogue: 11,0:22:46.34,0:22:49.30,Worldline Trans,,0,0,0,,{\fsp-4.5}Like a flash-forward?
-Dialogue: 11,0:22:50.43,0:22:55.35,Worldline Trans,,0,0,0,,{\fsp-4.5}It came from so close—an outrageously large distance
-Dialogue: 11,0:22:56.56,0:22:59.69,Worldline Trans,,0,0,0,,{\fsp-4.5}I can only conclude that our existence is defined by “0”s and “1”s
-Dialogue: 11,0:22:59.69,0:23:03.02,Worldline Trans,,0,0,0,,{\fsp-4.5}In which I can be found right here
-Dialogue: 11,0:23:03.90,0:23:07.32,Worldline Trans,,0,0,0,,{\fsp-4.5}I’ll tell you my feelings that I keep inside
-Dialogue: 11,0:23:07.32,0:23:10.45,Worldline Trans,,0,0,0,,{\fsp-4.5}I remain in solitude, while in hold of
-Dialogue: 11,0:23:10.45,0:23:16.20,Worldline Trans,,0,0,0,,{\fsp-4.5}A countless number of infinitely expansive universes
-Dialogue: 11,0:23:16.20,0:23:19.62,Worldline Trans,,0,0,0,,{\fsp-4.5}That’s why I’ll make sure
-Dialogue: 11,0:23:19.62,0:23:22.71,Worldline Trans,,0,0,0,,{\fsp-4.5}For the sake of your tomorrow
-Dialogue: 11,0:23:22.71,0:23:28.51,Worldline Trans,,0,0,0,,{\fsp-4.5}That the blasphemy of the God ruling this universe
-Dialogue: 11,0:23:28.88,0:23:31.97,Worldline Trans,,0,0,0,,{\fsp-4.5}Will never be repeated
-Dialogue: 1,0:12:02.03,0:12:07.03,Title,,0,0,0,,{\an3\fsp-6\pos(1412,926)}Rinascimento
-Dialogue: 1,0:12:02.03,0:12:07.03,Title,,0,0,0,,{\an3\fs60\pos(1470,960)}of{\fs30} {\fs60}the
-Dialogue: 1,0:12:02.03,0:12:07.03,Title,,0,0,0,,{\an3\fs120\pos(1788,930)}U{\fs90}nwavering
-Dialogue: 1,0:12:02.03,0:12:07.03,Title,,0,0,0,,{\an3\pos(1788,988)}Promise
-Dialogue: 0,0:06:04.71,0:06:06.67,Draw,,0,0,0,,{\pos(0,0)\p1\c&H569CAF&\blur34}m 501 372 l 432 427 l 443 629 l 1488 630 l 1513 362 {\p0}
-Dialogue: 1,0:06:04.71,0:06:06.67,Draw,,0,0,0,,{\pos(0,0)\p1\c&H13252F&\blur10}m 426 409 l 772 413 l 1038 413 l 1406 414 l 1528 413 l 1527 421 l 1242 426 l 1055 426 l 820 423 l 647 422 l 425 420 {\p0}
-Dialogue: 0,0:06:04.71,0:06:06.67,Draw,,0,0,0,,{\pos(0,0)\p1\c&H86C4D1&\blur20}m 994 687 l 1472 689 l 1465 803 l 996 794 {\p0}
-Dialogue: 2,0:06:04.71,0:06:06.67,Signs,,0,0,0,,{\fnSedgwick Ave\alpha&H60&\be3\c&H3C5E6D&\fs520\pos(966,392)}Mansei Bridge
-Dialogue: 1,0:06:04.71,0:06:06.67,Signs,,0,0,0,,{\an4\fnSedgwick Ave\alpha&HA0&\be3\c&H2F4E5A&\fs300\pos(1004,678)}Suehirocho
+Dialogue: 11,0:22:12.92,0:22:17.93,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}Bai{\k23}bu{\k30}ree{\k160}shion {\k18}to{\k19}do{\k15}ka{\k30}na{\k22}i {\k11}e{\k25}moo{\k109}shion
+Dialogue: 11,0:22:18.51,0:22:24.68,Worldline Rom,,0,0,0,,{\k48}{\fsp-4.5}He{\k48}llo {\k18}A{\k32}ma{\k158}deus, {\k22}I’m {\k36}wai{\k37}ting {\k23}for {\k36}your {\k159}call
+Dialogue: 11,0:22:24.81,0:22:30.65,Worldline Rom,,0,0,0,,{\k36}{\fsp-4.5}Ko{\k44}no {\k14}ba{\k47}sho {\k144}wa {\k24}re{\k20}i{\k18}ya{\k20}a{\k21}do {\k23}no {\k37}you {\k136}ni
+Dialogue: 11,0:22:30.86,0:22:36.78,Worldline Rom,,0,0,0,,{\k45}{\fsp-4.5}Ta{\k43}ge{\k22}n{\k34}te{\k150}ki, {\k20}The {\k48}world {\k31}in {\k27}the {\k173}world
+Dialogue: 11,0:22:38.45,0:22:41.58,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}To{\k23}ki {\k14}wa {\k62}fu{\k16}ka{\k64}gya{\k19}ku {\k17}na{\k21}no{\k59}ni
+Dialogue: 11,0:22:41.58,0:22:44.29,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k10}Mi{\k24}chi {\k17}na{\k54}ru {\k29}se{\k58}ku{\k79}ta
+Dialogue: 11,0:22:44.29,0:22:46.33,Worldline Rom,,0,0,0,,{\k14}{\fsp-4.5}Ma{\k41}ru{\k15}de {\k43}furasshu {\k39}fowaado {\k17}na{\k37}ze?
+Dialogue: 11,0:22:46.33,0:22:49.29,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k42}Kissu {\k18}no {\k32}bi{\k203}jon
+Dialogue: 11,0:22:50.42,0:22:55.34,Worldline Rom,,0,0,0,,{\k19}{\fsp-4.5}Ko{\k22}nna {\k14}ni {\k20}chi{\k18}ka{\k21}ku{\k191}te {\k20}to{\k23}hou{\k19}mo{\k23}na{\k14}i {\k21}kyo{\k68}ri
+Dialogue: 11,0:22:56.55,0:22:59.68,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k12}sa{\k23}na{\k15}ri{\k20}a{\k17}u {\k24}ro{\k35}gosu {\k12}mu{\k11}su{\k17}u {\k14}no {\k25}“ze{\k21}ro” or {\k57}“one”
+Dialogue: 11,0:22:59.68,0:23:03.01,Worldline Rom,,0,0,0,,{\k23}{\fsp-4.5}Wa{\k24}ta{\k28}shi {\k121}wa {\k18}ko{\k23}ko {\k22}ni {\k17}i{\k11}ru {\k47}yo
+Dialogue: 11,0:23:03.89,0:23:07.31,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Tell {\k18}you {\k15}my {\k60}fee{\k80}lings {\k17}I {\k57}keep {\k36}in{\k41}side
+Dialogue: 11,0:23:07.31,0:23:10.44,Worldline Rom,,0,0,0,,{\k11}{\fsp-4.5}Ko{\k12}do{\k18}ku {\k18}no {\k22}ma{\k73}ma {\k11}ka{\k10}ka{\k41}e{\k17}te{\k40}ki{\k39}ta
+Dialogue: 11,0:23:10.44,0:23:16.19,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k64}zo{\k76}e{\k20}ki{\k28}re{\k32}na{\k72}i {\k20}mu{\k20}ge{\k20}n {\k20}no {\k40}yu{\k20}ni{\k18}ba{\k116}asu
+Dialogue: 11,0:23:16.19,0:23:19.61,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Da{\k15}ka{\k18}ra {\k62}so{\k77}u {\k18}i{\k42}ma {\k15}da{\k40}ke {\k41}wa
+Dialogue: 11,0:23:19.61,0:23:22.70,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k6}A{\k11}na{\k21}ta {\k18}no {\k12}a{\k84}su {\k10}a{\k10}na{\k20}ta {\k16}no {\k20}ta{\k40}me {\k37}ni
+Dialogue: 11,0:23:22.70,0:23:28.50,Worldline Rom,,0,0,0,,{\k17}{\fsp-4.5}U{\k67}chu{\k46}u {\k29}na{\k50}ru {\k43}ka{\k37}mi {\k32}no {\k105}world {\k18}bou{\k19}to{\k116}ku
+Dialogue: 11,0:23:28.87,0:23:31.96,Worldline Rom,,0,0,0,,{\k20}{\fsp-4.5}Ku{\k74}ri{\k23}ka{\k10}e{\k23}sa{\k43}na{\k38}i {\k78}de
+Dialogue: 11,0:23:32.17,0:23:35.21,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}There {\k31}is {\k32}in{\k45}side {\k81}world{\k78}line
+Dialogue: 11,0:23:35.21,0:23:38.47,Worldline Rom,,0,0,0,,{\k41}{\fsp-4.5}There {\k28}is {\k35}in{\k49}side {\k51}world {\k27}la{\k94}yer
+Dialogue: 11,0:22:12.92,0:22:17.93,Worldline Trans,,0,0,0,,{\fsp-4.5}Vibration, an undelivered emotion
+Dialogue: 11,0:22:24.81,0:22:30.65,Worldline Trans,,0,0,0,,{\fsp-4.5}This place exists as a sequence of layers
+Dialogue: 11,0:22:30.86,0:22:36.78,Worldline Trans,,0,0,0,,{\fsp-4.5}Of worlds recursing within worlds
+Dialogue: 11,0:22:38.45,0:22:41.58,Worldline Trans,,0,0,0,,{\fsp-4.5}Although time is irreversible
+Dialogue: 11,0:22:41.58,0:22:44.29,Worldline Trans,,0,0,0,,{\fsp-4.5}These sectors remain unaccessed
+Dialogue: 11,0:22:44.29,0:22:46.33,Worldline Trans,,0,0,0,,{\fsp-4.5}Why did I receive this vision of a kiss
+Dialogue: 11,0:22:46.33,0:22:49.29,Worldline Trans,,0,0,0,,{\fsp-4.5}Like a flash-forward?
+Dialogue: 11,0:22:50.42,0:22:55.34,Worldline Trans,,0,0,0,,{\fsp-4.5}It came from so close—an outrageously large distance
+Dialogue: 11,0:22:56.55,0:22:59.68,Worldline Trans,,0,0,0,,{\fsp-4.5}I can only conclude that our existence is defined by “0”s and “1”s
+Dialogue: 11,0:22:59.68,0:23:03.01,Worldline Trans,,0,0,0,,{\fsp-4.5}In which I can be found right here
+Dialogue: 11,0:23:03.89,0:23:07.31,Worldline Trans,,0,0,0,,{\fsp-4.5}I’ll tell you my feelings that I keep inside
+Dialogue: 11,0:23:07.31,0:23:10.44,Worldline Trans,,0,0,0,,{\fsp-4.5}I remain in solitude, while in hold of
+Dialogue: 11,0:23:10.44,0:23:16.19,Worldline Trans,,0,0,0,,{\fsp-4.5}A countless number of infinitely expansive universes
+Dialogue: 11,0:23:16.19,0:23:19.61,Worldline Trans,,0,0,0,,{\fsp-4.5}That’s why I’ll make sure
+Dialogue: 11,0:23:19.61,0:23:22.70,Worldline Trans,,0,0,0,,{\fsp-4.5}For the sake of your tomorrow
+Dialogue: 11,0:23:22.70,0:23:28.50,Worldline Trans,,0,0,0,,{\fsp-4.5}That the blasphemy of the God ruling this universe
+Dialogue: 11,0:23:28.87,0:23:31.96,Worldline Trans,,0,0,0,,{\fsp-4.5}Will never be repeated
+Dialogue: 1,0:12:02.02,0:12:07.02,Title,,0,0,0,,{\an3\fsp-6\pos(1412,926)}Rinascimento
+Dialogue: 1,0:12:02.02,0:12:07.02,Title,,0,0,0,,{\an3\fs60\pos(1470,960)}of{\fs30} {\fs60}the
+Dialogue: 1,0:12:02.02,0:12:07.02,Title,,0,0,0,,{\an3\fs120\pos(1788,930)}U{\fs90}nwavering
+Dialogue: 1,0:12:02.02,0:12:07.02,Title,,0,0,0,,{\an3\pos(1788,988)}Promise
+Dialogue: 0,0:06:04.70,0:06:06.66,Draw,,0,0,0,,{\pos(0,0)\p1\c&H569CAF&\blur34}m 501 372 l 432 427 l 443 629 l 1488 630 l 1513 362 {\p0}
+Dialogue: 1,0:06:04.70,0:06:06.66,Draw,,0,0,0,,{\pos(0,0)\p1\c&H13252F&\blur10}m 426 409 l 772 413 l 1038 413 l 1406 414 l 1528 413 l 1527 421 l 1242 426 l 1055 426 l 820 423 l 647 422 l 425 420 {\p0}
+Dialogue: 0,0:06:04.70,0:06:06.66,Draw,,0,0,0,,{\pos(0,0)\p1\c&H86C4D1&\blur20}m 994 687 l 1472 689 l 1465 803 l 996 794 {\p0}
+Dialogue: 2,0:06:04.70,0:06:06.66,Signs,,0,0,0,,{\fnSedgwick Ave\alpha&H60&\be3\c&H3C5E6D&\fs520\pos(966,392)}Mansei Bridge
+Dialogue: 1,0:06:04.70,0:06:06.66,Signs,,0,0,0,,{\an4\fnSedgwick Ave\alpha&HA0&\be3\c&H2F4E5A&\fs300\pos(1004,678)}Suehirocho
 Dialogue: 30,0:00:08.34,0:00:09.25,Default,,0,0,0,,Okarin!
 Dialogue: 30,0:00:09.25,0:00:10.63,Default,,0,0,0,,Huh?
 Dialogue: 30,0:00:13.34,0:00:15.39,Default,,0,0,0,,Okabe.

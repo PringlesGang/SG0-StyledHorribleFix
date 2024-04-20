@@ -27,195 +27,195 @@ Style: SO OtE RandomChar,nixie one,60,&H00FFFFFF,&H000000FF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom,,0,0,0,code once,char = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "-", "+", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"}
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-400,-300)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-350,-250)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-300,-200)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-250,-150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-200,-100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans,,0,0,0,template,!retime("line",-150,-150)!{\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&H00&)}
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",-150,-50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",-100,0)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",-50,50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",0,100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",50,150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-400,-300)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-350,-250)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-300,-200)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\\)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-250,-150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-200,-100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom,,0,0,0,template,!retime("line",-150,-150)!{\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&H00&)}
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",-150,-50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",-100,0)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",-50,50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",0,100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",50,150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO Rom,,0,0,0,template char noblank,!retime("syl",0,0)!{\fad(0,150)\pos($x,$y)\shad0\blur3\bord3\c&H3A7BE4&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&H0094D8&\3c&H057DEE&)\t(!syl.duration/2+syl.duration/4!,!syl.duration!,\c&HA6CBF2&\3c&H085DB3&)}
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE,,0,0,0,template,!retime("start2syl",0,0)!{\c&HD6E0F4&\3c&H14196C&\blur3\shad0\pos($x,$y)\blur3}
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-400,-300)!{\c&HD6E0F4&\3c&H14196C&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-350,-250)!{\c&HD6E0F4&\3c&H14196C&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-300,-200)!{\c&HD6E0F4&\3c&H14196C&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-250,-150)!{\c&HD6E0F4&\3c&H14196C&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-200,-100)!{\c&HD6E0F4&\3c&H14196C&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE,,0,0,0,template,!retime("line",-150,-150)!{\alpha&H88&\c&HD6E0F4&\3c&H14196C&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&H00&)}
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",-150,-50)!{\c&HD6E0F4&\3c&H14196C&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",-100,0)!{\c&HD6E0F4&\3c&H14196C&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",-50,50)!{\c&HD6E0F4&\3c&H14196C&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",0,100)!{\c&HD6E0F4&\3c&H14196C&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",50,150)!{\c&HD6E0F4&\3c&H14196C&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&HFF&)}!char[math.random(1,38)]!
-Comment: 0,0:10:52.00,0:10:54.00,SO OtE,,0,0,0,template char noblank,!retime("syl",0,0)!{\fad(0,150)\pos($x,$y)\shad0\blur3\bord3\c&H7B7CE6&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&H6B6CE0&\3c&H4C4CAF&)\t(!syl.duration/2+syl.duration/4!,!syl.duration!,\c&H7B7CE6&\3c&HFFFFFF&)}
-Comment: 11,0:10:54.00,0:10:57.01,SO Trans,,0,0,0,karaoke,Even the concept of time
-Comment: 11,0:10:57.01,0:10:59.63,SO Trans,,0,0,0,karaoke,Dictated by the two hands
-Comment: 11,0:10:59.63,0:11:04.93,SO Trans,,0,0,0,karaoke,Is distorted at the whim of the Observer
-Comment: 11,0:11:04.93,0:11:08.77,SO Trans,,0,0,0,karaoke,Even wisdom bestowed upon us by God
-Comment: 11,0:11:08.77,0:11:16.23,SO Trans,,0,0,0,karaoke,Must have its limits—an absolute boundary
-Comment: 11,0:11:16.23,0:11:20.07,SO Trans,,0,0,0,karaoke,It must have been through sheer coincidence
-Comment: 11,0:11:20.07,0:11:22.91,SO Trans,,0,0,0,karaoke,That I have been chosen as this miracle
-Comment: 11,0:11:22.91,0:11:26.91,SO Trans,,0,0,0,karaoke,To close this gate of “regulation”
-Comment: 11,0:11:26.91,0:11:28.70,SO Trans,,0,0,0,karaoke,Once and for all
-Comment: 11,0:11:29.91,0:11:32.54,SO Trans,,0,0,0,karaoke,As I stretch out my hand at the speed of light
-Comment: 11,0:11:32.54,0:11:35.67,SO Trans,,0,0,0,karaoke,The pulse of my memories
-Comment: 11,0:11:35.67,0:11:40.51,SO Trans,,0,0,0,karaoke,Leaps back with miraculous logic
-Comment: 11,0:11:41.43,0:11:44.22,SO Trans,,0,0,0,karaoke,The universe once again conceals
-Comment: 11,0:11:44.22,0:11:47.14,SO Trans,,0,0,0,karaoke,Its inconsistent logic
-Comment: 11,0:11:47.14,0:11:52.85,SO Trans,,0,0,0,karaoke,As numerous points, encompassing infinity
-Comment: 11,0:11:52.85,0:11:55.73,SO Trans,,0,0,0,karaoke,Borrow an impossible amount of power
-Comment: 11,0:11:55.73,0:11:59.19,SO Trans,,0,0,0,karaoke,And “restart” over and over
-Comment: 11,0:12:08.70,0:12:11.87,SO Trans,,0,0,0,karaoke,“0” is the past, “1” is the future
-Comment: 11,0:12:20.34,0:12:23.72,SO Trans,,0,0,0,karaoke,Amidst the myriad parallel lines
-Comment: 11,0:12:30.31,0:12:33.10,SO Trans,,0,0,0,karaoke,“0” is the past, “1” is the future
-Comment: 11,0:12:33.10,0:12:36.06,SO Trans,,0,0,0,karaoke,“The Present” cannot be found
-Comment: 11,0:12:36.06,0:12:40.69,SO Trans,,0,0,0,karaoke,This is a Logic that cannot be denied
-Comment: 11,0:12:41.78,0:12:44.49,SO Trans,,0,0,0,karaoke,Amidst the myriad parallel lines
-Comment: 11,0:12:44.49,0:12:47.41,SO Trans,,0,0,0,karaoke,My choice is that of blasphemy
-Comment: 11,0:12:47.41,0:12:53.21,SO Trans,,0,0,0,karaoke,“Existence” itself is denied
-Comment: 11,0:12:53.21,0:12:56.17,SO Trans,,0,0,0,karaoke,As the scenery reflected in those eyes
-Comment: 11,0:12:56.17,0:12:59.50,SO Trans,,0,0,0,karaoke,Begins to “Converge”
-Comment: 11,0:10:54.00,0:10:57.01,SO Trans RandomChar,,0,0,0,karaoke,{\k1}E{\k1}v{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}c{\k1}o{\k1}n{\k1}c{\k1}e{\k1}p{\k1}t {\k1}o{\k1}f {\k1}t{\k1}i{\k1}m{\k1}e
-Comment: 11,0:10:57.01,0:10:59.63,SO Trans RandomChar,,0,0,0,karaoke,{\k1}D{\k1}i{\k1}c{\k1}t{\k1}a{\k1}t{\k1}e{\k1}d {\k1}b{\k1}y {\k1}t{\k1}h{\k1}e {\k1}t{\k1}w{\k1}o {\k1}h{\k1}a{\k1}n{\k1}d{\k1}s
-Comment: 11,0:10:59.63,0:11:04.93,SO Trans RandomChar,,0,0,0,karaoke,{\k1}I{\k1}s {\k1}d{\k1}i{\k1}s{\k1}t{\k1}o{\k1}r{\k1}t{\k1}e{\k1}d {\k1}a{\k1}t {\k1}t{\k1}h{\k1}e {\k1}w{\k1}h{\k1}i{\k1}m {\k1}o{\k1}f {\k1}t{\k1}h{\k1}e {\k1}O{\k1}b{\k1}s{\k1}e{\k1}r{\k1}v{\k1}e{\k1}r
-Comment: 11,0:11:04.93,0:11:08.77,SO Trans RandomChar,,0,0,0,karaoke,{\k1}E{\k1}v{\k1}e{\k1}n {\k1}k{\k1}n{\k1}o{\k1}w{\k1}l{\k1}e{\k1}d{\k1}g{\k1}e {\k1}b{\k1}e{\k1}s{\k1}t{\k1}o{\k1}w{\k1}e{\k1}d {\k1}u{\k1}p{\k1}o{\k1}n {\k1}u{\k1}s {\k1}b{\k1}y {\k1}G{\k1}o{\k1}d
-Comment: 11,0:11:08.77,0:11:16.23,SO Trans RandomChar,,0,0,0,karaoke,{\k1}M{\k1}u{\k1}s{\k1}t {\k1}h{\k1}a{\k1}v{\k1}e {\k1}i{\k1}t{\k1}s {\k1}l{\k1}i{\k1}m{\k1}i{\k1}t{\k1}s{\k1}—{\k1}a{\k1}n {\k1}a{\k1}b{\k1}s{\k1}o{\k1}l{\k1}u{\k1}t{\k1}e {\k1}b{\k1}o{\k1}u{\k1}n{\k1}d{\k1}a{\k1}r{\k1}y
-Comment: 11,0:11:16.23,0:11:20.07,SO Trans RandomChar,,0,0,0,karaoke,{\k1}I{\k1}t {\k1}m{\k1}u{\k1}s{\k1}t {\k1}h{\k1}a{\k1}v{\k1}e {\k1}b{\k1}e{\k1}e{\k1}n {\k1}t{\k1}h{\k1}r{\k1}o{\k1}u{\k1}g{\k1}h {\k1}s{\k1}h{\k1}e{\k1}e{\k1}r {\k1}c{\k1}o{\k1}i{\k1}n{\k1}c{\k1}i{\k1}d{\k1}e{\k1}n{\k1}c{\k1}e
-Comment: 11,0:11:20.07,0:11:22.91,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}a{\k1}t {\k1}I {\k1}h{\k1}a{\k1}v{\k1}e {\k1}b{\k1}e{\k1}e{\k1}n {\k1}c{\k1}h{\k1}o{\k1}s{\k1}e{\k1}n {\k1}a{\k1}s {\k1}t{\k1}h{\k1}i{\k1}s {\k1}m{\k1}i{\k1}r{\k1}a{\k1}c{\k1}l{\k1}e
-Comment: 11,0:11:22.91,0:11:26.91,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}o {\k1}c{\k1}l{\k1}o{\k1}s{\k1}e {\k1}t{\k1}h{\k1}i{\k1}s {\k1}g{\k1}a{\k1}t{\k1}e {\k1}o{\k1}f {\k1}“{\k1}r{\k1}e{\k1}g{\k1}u{\k1}l{\k1}a{\k1}t{\k1}i{\k1}o{\k1}n{\k1}”
-Comment: 11,0:11:26.91,0:11:28.70,SO Trans RandomChar,,0,0,0,karaoke,{\k1}O{\k1}n{\k1}c{\k1}e {\k1}a{\k1}n{\k1}d {\k1}f{\k1}o{\k1}r {\k1}a{\k1}l{\k1}l
-Comment: 11,0:11:29.91,0:11:32.54,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}s {\k1}I {\k1}s{\k1}t{\k1}r{\k1}e{\k1}t{\k1}c{\k1}h {\k1}o{\k1}u{\k1}t {\k1}m{\k1}y {\k1}h{\k1}a{\k1}n{\k1}d {\k1}a{\k1}t {\k1}t{\k1}h{\k1}e {\k1}s{\k1}p{\k1}e{\k1}e{\k1}d {\k1}o{\k1}f {\k1}l{\k1}i{\k1}g{\k1}h{\k1}t
-Comment: 11,0:11:32.54,0:11:35.67,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}e {\k1}p{\k1}u{\k1}l{\k1}s{\k1}e {\k1}o{\k1}f {\k1}m{\k1}y {\k1}m{\k1}e{\k1}m{\k1}o{\k1}r{\k1}i{\k1}e{\k1}s
-Comment: 11,0:11:35.67,0:11:40.51,SO Trans RandomChar,,0,0,0,karaoke,{\k1}L{\k1}e{\k1}a{\k1}p{\k1}s {\k1}b{\k1}a{\k1}c{\k1}k {\k1}w{\k1}i{\k1}t{\k1}h {\k1}m{\k1}i{\k1}r{\k1}a{\k1}c{\k1}u{\k1}l{\k1}o{\k1}u{\k1}s {\k1}l{\k1}o{\k1}g{\k1}i{\k1}c
-Comment: 11,0:11:41.43,0:11:44.22,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}e {\k1}u{\k1}n{\k1}i{\k1}v{\k1}e{\k1}r{\k1}s{\k1}e {\k1}o{\k1}n{\k1}c{\k1}e {\k1}a{\k1}g{\k1}a{\k1}i{\k1}n {\k1}c{\k1}o{\k1}n{\k1}c{\k1}e{\k1}a{\k1}l{\k1}s
-Comment: 11,0:11:44.22,0:11:47.14,SO Trans RandomChar,,0,0,0,karaoke,{\k1}I{\k1}t{\k1}s {\k1}i{\k1}n{\k1}c{\k1}o{\k1}n{\k1}s{\k1}i{\k1}s{\k1}t{\k1}e{\k1}n{\k1}t {\k1}l{\k1}o{\k1}g{\k1}i{\k1}c
-Comment: 11,0:11:47.14,0:11:52.85,SO Trans RandomChar,,0,0,0,karaoke,{\k1}N{\k1}u{\k1}m{\k1}e{\k1}r{\k1}o{\k1}u{\k1}s {\k1}p{\k1}o{\k1}i{\k1}n{\k1}t{\k1}s{\k1}, {\k1}e{\k1}n{\k1}c{\k1}o{\k1}m{\k1}p{\k1}a{\k1}s{\k1}s{\k1}i{\k1}n{\k1}g {\k1}i{\k1}n{\k1}f{\k1}i{\k1}n{\k1}i{\k1}t{\k1}y
-Comment: 11,0:11:52.85,0:11:55.73,SO Trans RandomChar,,0,0,0,karaoke,{\k1}B{\k1}o{\k1}r{\k1}r{\k1}o{\k1}w {\k1}a{\k1}n {\k1}i{\k1}m{\k1}p{\k1}o{\k1}s{\k1}s{\k1}i{\k1}b{\k1}l{\k1}e {\k1}a{\k1}m{\k1}o{\k1}u{\k1}n{\k1}t {\k1}o{\k1}f {\k1}p{\k1}o{\k1}w{\k1}e{\k1}r
-Comment: 11,0:11:55.73,0:11:59.19,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}n{\k1}d {\k1}“{\k1}r{\k1}e{\k1}p{\k1}l{\k1}a{\k1}y{\k1}” {\k1}o{\k1}v{\k1}e{\k1}r {\k1}a{\k1}n{\k1}d {\k1}o{\k1}v{\k1}e{\k1}r
-Comment: 11,0:12:08.70,0:12:11.87,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}0{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}p{\k1}a{\k1}s{\k1}t{\k1}, {\k1}“{\k1}1{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}f{\k1}u{\k1}t{\k1}u{\k1}r{\k1}e
-Comment: 11,0:12:20.34,0:12:23.72,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}m{\k1}i{\k1}d{\k1}s{\k1}t {\k1}t{\k1}h{\k1}e {\k1}m{\k1}y{\k1}r{\k1}i{\k1}a{\k1}d {\k1}p{\k1}a{\k1}r{\k1}a{\k1}l{\k1}l{\k1}e{\k1}l {\k1}l{\k1}i{\k1}n{\k1}e{\k1}s
-Comment: 11,0:12:30.31,0:12:33.10,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}0{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}p{\k1}a{\k1}s{\k1}t{\k1}, {\k1}“{\k1}1{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}f{\k1}u{\k1}t{\k1}u{\k1}r{\k1}e
-Comment: 11,0:12:33.10,0:12:36.06,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}T{\k1}h{\k1}e {\k1}P{\k1}r{\k1}e{\k1}s{\k1}e{\k1}n{\k1}t{\k1}” {\k1}c{\k1}a{\k1}n{\k1}n{\k1}o{\k1}t {\k1}b{\k1}e {\k1}f{\k1}o{\k1}u{\k1}n{\k1}d
-Comment: 11,0:12:36.06,0:12:40.69,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}i{\k1}s {\k1}i{\k1}s {\k1}a {\k1}L{\k1}o{\k1}g{\k1}i{\k1}c {\k1}t{\k1}h{\k1}a{\k1}t {\k1}c{\k1}a{\k1}n{\k1}n{\k1}o{\k1}t {\k1}b{\k1}e {\k1}d{\k1}e{\k1}n{\k1}i{\k1}e{\k1}d
-Comment: 11,0:12:41.78,0:12:44.49,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}m{\k1}i{\k1}d{\k1}s{\k1}t {\k1}t{\k1}h{\k1}e {\k1}m{\k1}y{\k1}r{\k1}i{\k1}a{\k1}d {\k1}p{\k1}a{\k1}r{\k1}a{\k1}l{\k1}l{\k1}e{\k1}l {\k1}l{\k1}i{\k1}n{\k1}e{\k1}s
-Comment: 11,0:12:44.49,0:12:47.41,SO Trans RandomChar,,0,0,0,karaoke,{\k1}M{\k1}y {\k1}c{\k1}h{\k1}o{\k1}i{\k1}c{\k1}e {\k1}i{\k1}s {\k1}t{\k1}h{\k1}a{\k1}t {\k1}o{\k1}f {\k1}b{\k1}l{\k1}a{\k1}s{\k1}p{\k1}h{\k1}e{\k1}m{\k1}y
-Comment: 11,0:12:47.41,0:12:53.21,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}E{\k1}x{\k1}i{\k1}s{\k1}t{\k1}e{\k1}n{\k1}c{\k1}e{\k1}” {\k1}i{\k1}t{\k1}s{\k1}e{\k1}l{\k1}f {\k1}i{\k1}s {\k1}d{\k1}e{\k1}n{\k1}i{\k1}e{\k1}d
-Comment: 11,0:12:53.21,0:12:56.17,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}s {\k1}t{\k1}h{\k1}e {\k1}s{\k1}c{\k1}e{\k1}n{\k1}e{\k1}r{\k1}y {\k1}r{\k1}e{\k1}f{\k1}l{\k1}e{\k1}c{\k1}t{\k1}e{\k1}d {\k1}i{\k1}n {\k1}t{\k1}h{\k1}o{\k1}s{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
-Comment: 11,0:12:56.17,0:12:59.50,SO Trans RandomChar,,0,0,0,karaoke,{\k1}B{\k1}e{\k1}g{\k1}i{\k1}n{\k1}s {\k1}t{\k1}o {\k1}“{\k1}C{\k1}o{\k1}n{\k1}v{\k1}e{\k1}r{\k1}g{\k1}e{\k1}”
-Comment: 11,0:10:54.00,0:10:57.01,SO Rom,,0,0,0,karaoke,{\k34}Fu{\k18}ta{\k24}tsu {\k53}no {\k26}ha{\k43}ri {\k29}ga {\k14}sa{\k44}su
-Comment: 11,0:10:57.01,0:10:59.63,SO Rom,,0,0,0,karaoke,{\k38}Ji{\k17}ka{\k34}n {\k34}no {\k19}ga{\k18}i{\k15}ne{\k19}n {\k68}mo
-Comment: 11,0:10:59.63,0:11:04.93,SO Rom,,0,0,0,karaoke,{\k60}Ka{\k13}n{\k43}so{\k22}ku{\k36}sha {\k53}shi{\k24}da{\k11}i {\k37}de {\k22}hi{\k16}zu{\k24}mi {\k33}wo {\k12}mi{\k27}se{\k97}ru
-Comment: 11,0:11:04.93,0:11:08.77,SO Rom,,0,0,0,karaoke,{\k28}Ka{\k14}mi {\k53}ni {\k21}a{\k22}ta{\k16}e{\k34}ra{\k42}re{\k18}ta {\k13}e{\k37}i{\k24}chi {\k62}wa
-Comment: 11,0:11:08.77,0:11:11.73,SO Rom,,0,0,0,karaoke,{\k22}Ka{\k21}na{\k20}ra{\k34}zu {\k30}“ha{\k39}te” {\k42}ga {\k19}a{\k65}ru
-Comment: 11,0:11:11.73,0:11:16.23,SO Rom,,0,0,0,karaoke,{\k39}Ze{\k23}tta{\k26}i {\k61}no {\k17}ryo{\k55}u{\k19}i{\k214}ki
-Comment: 11,0:11:16.23,0:11:20.07,SO Rom,,0,0,0,karaoke,{\k53}So{\k16}re {\k52}wa {\k15}o{\k23}ro{\k19}ka na {\k39}yu{\k30}e {\k26}no {\k15}gu{\k24}u{\k29}ze{\k43}n
-Comment: 11,0:11:20.07,0:11:22.91,SO Rom,,0,0,0,karaoke,{\k42}Ma{\k18}ne{\k19}ka{\k32}re{\k39}za{\k39}ru {\k29}ki{\k27}se{\k39}ki
-Comment: 11,0:11:22.91,0:11:26.91,SO Rom,,0,0,0,karaoke,{\k15}To{\k9}za{\k20}sa{\k43}re{\k15}te{\k21}ki{\k123}ta {\k39}ge{\k115}eto
-Comment: 11,0:11:26.91,0:11:28.70,SO Rom,,0,0,0,karaoke,{\k18}“Ki{\k42}sei” {\k21}wa {\k32}o{\k13}wa{\k22}t{\k31}ta
-Comment: 11,0:11:28.70,0:11:29.91,SO OtE,,0,0,0,karaoke,{\k60}{\i1}O{\k22}pen {\k17}the {\k22}eyes{\i}
-Comment: 11,0:11:29.91,0:11:32.54,SO Rom,,0,0,0,karaoke,{\k40}Kou{\k26}so{\k35}ku {\k22}he {\k36}to {\k12}te {\k19}wo {\k18}no{\k10}ba{\k27}shi{\k18}ta
-Comment: 11,0:11:32.54,0:11:35.67,SO Rom,,0,0,0,karaoke,{\k30}O{\k45}mo{\k38}i{\k17}de {\k38}no {\k32}pa{\k24}ru{\k50}su {\k39}ga
-Comment: 11,0:11:35.67,0:11:40.51,SO Rom,,0,0,0,karaoke,{\k51}To{\k28}bi{\k24}ko{\k36}mu {\k33}fu{\k25}ka{\k43}shi{\k43}gi {\k122}na {\k23}ro{\k14}ji{\k19}k{\k23}ku
-Comment: 11,0:11:40.51,0:11:41.43,SO OtE,,0,0,0,karaoke,{\k29}{\i1}O{\k22}pen {\k18}the {\k23}eyes{\i}
-Comment: 11,0:11:41.43,0:11:44.22,SO Rom,,0,0,0,karaoke,{\k25}U{\k39}chuu {\k30}ga {\k28}ma{\k30}da {\k24}ka{\k15}ku{\k21}shi{\k14}mo{\k19}t{\k34}ta
-Comment: 11,0:11:44.22,0:11:47.14,SO Rom,,0,0,0,karaoke,{\k19}Chi{\k38}tsu{\k33}jo {\k21}no {\k32}na{\k41}i {\k28}ri{\k43}ro{\k37}n
-Comment: 11,0:11:47.14,0:11:52.85,SO Rom,,0,0,0,karaoke,{\k36}Mu{\k16}ge{\k18}n {\k27}to {\k30}yo{\k13}ba{\k20}re{\k37}ta {\k28}te{\k43}n {\k36}to {\k37}te{\k18}n {\k212}ga
-Comment: 11,0:11:52.85,0:11:55.73,SO Rom,,0,0,0,karaoke,{\k26}Fu{\k30}se{\k18}i {\k34}na {\k20}chi{\k17}ka{\k22}ra {\k29}wo {\k40}ka{\k35}ri{\k29}te
-Comment: 11,0:11:55.73,0:11:59.19,SO Rom,,0,0,0,karaoke,{\k24}“Sa{\k10}i{\k25}se{\k35}i” {\k14}wo {\k26}su{\k200}ru
-Comment: 11,0:12:08.70,0:12:11.87,SO Rom,,0,0,0,karaoke,{\k38}“Ze{\k16}ro” {\k19}ga {\k31}ka{\k20}ko {\k32}de {\k16}“i{\k18}chi” {\k26}ga {\k18}mi{\k20}ra{\k63}i
-Comment: 11,0:12:20.34,0:12:23.72,SO Rom,,0,0,0,karaoke,{\k26}He{\k22}i{\k17}ko{\k19}u {\k28}su{\k33}ru {\k11}mu{\k19}su{\k26}u {\k20}no {\k15}se{\k102}n
-Comment: 11,0:12:30.31,0:12:33.10,SO Rom,,0,0,0,karaoke,{\k21}“Ze{\k24}ro” {\k18}ga {\k36}ka{\k18}ko {\k36}de {\k18}“i{\k17}chi” {\k20}ga {\k19}mi{\k18}ra{\k37}i
-Comment: 11,0:12:33.10,0:12:36.06,SO Rom,,0,0,0,karaoke,{\k17}I{\k31}ma {\k43}wa {\k15}do{\k38}ko{\k31}ni{\k28}mo{\k44}na{\k46}i
-Comment: 11,0:12:36.06,0:12:40.69,SO Rom,,0,0,0,karaoke,{\k48}So{\k25}mu{\k29}ku {\k32}ko{\k35}to {\k43}no {\k32}de{\k32}ki{\k115}nu {\k31}ro{\k15}ji{\k14}k{\k12}ku
-Comment: 11,0:12:40.69,0:12:41.78,SO OtE,,0,0,0,karaoke,{\k37}{\i1}O{\k31}pen {\k19}the {\k22}eyes{\i}
-Comment: 11,0:12:41.78,0:12:44.49,SO Rom,,0,0,0,karaoke,{\k29}He{\k19}i{\k15}ko{\k26}u {\k31}su{\k39}ru {\k11}mu{\k18}su{\k18}u {\k13}no {\k23}se{\k29}n
-Comment: 11,0:12:44.49,0:12:47.41,SO Rom,,0,0,0,karaoke,{\k32}Se{\k36}n{\k31}ta{\k22}ku {\k35}wa {\k40}bou{\k34}to{\k34}ku {\k28}he
-Comment: 11,0:12:47.41,0:12:53.21,SO Rom,,0,0,0,karaoke,{\k46}Bo{\k16}ku{\k12}ra {\k36}no {\k24}so{\k14}n{\k20}za{\k33}i {\k41}sa{\k35}e {\k36}u{\k38}ta{\k19}ga{\k210}u
-Comment: 11,0:12:53.21,0:12:56.17,SO Rom,,0,0,0,karaoke,{\k37}So{\k18}no {\k21}me {\k31}ni {\k18}u{\k17}tsu{\k22}ru {\k22}ke{\k48}shi{\k33}ki {\k30}wa
-Comment: 11,0:12:56.17,0:12:59.50,SO Rom,,0,0,0,karaoke,{\k24}Shu{\k13}u{\k27}so{\k31}ku {\k15}wo {\k25}su{\k197}ru
-Comment: 11,0:10:54.00,0:10:57.01,SO Rom RandomChar,,0,0,0,karaoke,{\k1}F{\k1}u{\k1}t{\k1}a{\k1}t{\k1}s{\k1}u {\k1}n{\k1}o {\k1}h{\k1}a{\k1}r{\k1}i {\k1}g{\k1}a {\k1}s{\k1}a{\k1}s{\k1}u
-Comment: 11,0:10:57.01,0:10:59.63,SO Rom RandomChar,,0,0,0,karaoke,{\k1}J{\k1}i{\k1}k{\k1}a{\k1}n {\k1}n{\k1}o {\k1}g{\k1}a{\k1}i{\k1}n{\k1}e{\k1}n {\k1}m{\k1}o
-Comment: 11,0:10:59.63,0:11:04.93,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}a{\k1}n{\k1}s{\k1}o{\k1}k{\k1}u{\k1}s{\k1}h{\k1}a {\k1}s{\k1}h{\k1}i{\k1}d{\k1}a{\k1}i {\k1}d{\k1}e {\k1}h{\k1}i{\k1}z{\k1}u{\k1}m{\k1}i {\k1}w{\k1}o {\k1}m{\k1}i{\k1}s{\k1}e{\k1}r{\k1}u
-Comment: 11,0:11:04.93,0:11:08.77,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}a{\k1}m{\k1}i {\k1}n{\k1}i {\k1}a{\k1}t{\k1}a{\k1}e{\k1}r{\k1}a{\k1}r{\k1}e{\k1}t{\k1}a {\k1}e{\k1}i{\k1}c{\k1}h{\k1}i {\k1}w{\k1}a
-Comment: 11,0:11:08.77,0:11:11.73,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}a{\k1}n{\k1}a{\k1}r{\k1}a{\k1}z{\k1}u {\k1}“{\k1}h{\k1}a{\k1}t{\k1}e{\k1}” {\k1}g{\k1}a {\k1}a{\k1}r{\k1}u
-Comment: 11,0:11:11.73,0:11:16.23,SO Rom RandomChar,,0,0,0,karaoke,{\k1}Z{\k1}e{\k1}t{\k1}t{\k1}a{\k1}i {\k1}n{\k1}o {\k1}r{\k1}y{\k1}o{\k1}u{\k1}i{\k1}k{\k1}i
-Comment: 11,0:11:16.23,0:11:20.07,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}o{\k1}r{\k1}e {\k1}w{\k1}a {\k1}o{\k1}r{\k1}o{\k1}k{\k1}a {\k1}n{\k1}a {\k1}y{\k1}u{\k1}e {\k1}n{\k1}o {\k1}g{\k1}u{\k1}u{\k1}z{\k1}e{\k1}n
-Comment: 11,0:11:20.07,0:11:22.91,SO Rom RandomChar,,0,0,0,karaoke,{\k1}M{\k1}a{\k1}n{\k1}e{\k1}k{\k1}a{\k1}r{\k1}e{\k1}z{\k1}a{\k1}r{\k1}u {\k1}k{\k1}i{\k1}s{\k1}e{\k1}k{\k1}i
-Comment: 11,0:11:22.91,0:11:26.91,SO Rom RandomChar,,0,0,0,karaoke,{\k1}T{\k1}o{\k1}z{\k1}a{\k1}s{\k1}a{\k1}r{\k1}e{\k1}t{\k1}e{\k1}k{\k1}i{\k1}t{\k1}a {\k1}g{\k1}e{\k1}e{\k1}t{\k1}o
-Comment: 11,0:11:26.91,0:11:28.70,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}K{\k1}i{\k1}s{\k1}e{\k1}i{\k1}” {\k1}w{\k1}a {\k1}o{\k1}w{\k1}a{\k1}t{\k1}t{\k1}a
-Comment: 11,0:11:28.70,0:11:29.91,SO OtE RandomChar,,0,0,0,karaoke,{\k1}O{\k1}p{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
-Comment: 11,0:11:29.91,0:11:32.54,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}o{\k1}u{\k1}s{\k1}o{\k1}k{\k1}u {\k1}h{\k1}e {\k1}t{\k1}o {\k1}t{\k1}e {\k1}w{\k1}o {\k1}n{\k1}o{\k1}b{\k1}a{\k1}s{\k1}h{\k1}i{\k1}t{\k1}a
-Comment: 11,0:11:32.54,0:11:35.67,SO Rom RandomChar,,0,0,0,karaoke,{\k1}O{\k1}m{\k1}o{\k1}i{\k1}d{\k1}e {\k1}n{\k1}o {\k1}p{\k1}a{\k1}r{\k1}u{\k1}s{\k1}u {\k1}g{\k1}a
-Comment: 11,0:11:35.67,0:11:40.51,SO Rom RandomChar,,0,0,0,karaoke,{\k1}T{\k1}o{\k1}b{\k1}i{\k1}k{\k1}o{\k1}m{\k1}u {\k1}f{\k1}u{\k1}k{\k1}a{\k1}s{\k1}h{\k1}i{\k1}g{\k1}i {\k1}n{\k1}a {\k1}r{\k1}o{\k1}j{\k1}i{\k1}k{\k1}k{\k1}u
-Comment: 11,0:11:40.51,0:11:41.43,SO OtE RandomChar,,0,0,0,karaoke,{\k1}O{\k1}p{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
-Comment: 11,0:11:41.43,0:11:44.22,SO Rom RandomChar,,0,0,0,karaoke,{\k1}U{\k1}c{\k1}h{\k1}u{\k1}u {\k1}g{\k1}a {\k1}m{\k1}a{\k1}d{\k1}a {\k1}k{\k1}a{\k1}k{\k1}u{\k1}s{\k1}h{\k1}i{\k1}m{\k1}o{\k1}t{\k1}t{\k1}a
-Comment: 11,0:11:44.22,0:11:47.14,SO Rom RandomChar,,0,0,0,karaoke,{\k1}C{\k1}h{\k1}i{\k1}t{\k1}s{\k1}u{\k1}j{\k1}o {\k1}n{\k1}o {\k1}n{\k1}a{\k1}i {\k1}r{\k1}i{\k1}r{\k1}o{\k1}n
-Comment: 11,0:11:47.14,0:11:52.85,SO Rom RandomChar,,0,0,0,karaoke,{\k1}M{\k1}u{\k1}g{\k1}e{\k1}n {\k1}t{\k1}o {\k1}y{\k1}o{\k1}b{\k1}a{\k1}r{\k1}e{\k1}t{\k1}a {\k1}t{\k1}e{\k1}n {\k1}t{\k1}o {\k1}t{\k1}e{\k1}n {\k1}g{\k1}a
-Comment: 11,0:11:52.85,0:11:55.73,SO Rom RandomChar,,0,0,0,karaoke,{\k1}F{\k1}u{\k1}s{\k1}e{\k1}i {\k1}n{\k1}a {\k1}c{\k1}h{\k1}i{\k1}k{\k1}a{\k1}r{\k1}a {\k1}w{\k1}o {\k1}k{\k1}a{\k1}r{\k1}i{\k1}t{\k1}e
-Comment: 11,0:11:55.73,0:11:59.19,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}S{\k1}a{\k1}i{\k1}s{\k1}e{\k1}i{\k1}” {\k1}w{\k1}o {\k1}s{\k1}u{\k1}r{\k1}u
-Comment: 11,0:12:08.70,0:12:11.87,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}Z{\k1}e{\k1}r{\k1}o{\k1}” {\k1}g{\k1}a {\k1}k{\k1}a{\k1}k{\k1}o {\k1}d{\k1}e {\k1}“{\k1}i{\k1}c{\k1}h{\k1}i{\k1}” {\k1}g{\k1}a {\k1}m{\k1}i{\k1}r{\k1}a{\k1}i
-Comment: 11,0:12:20.34,0:12:23.72,SO Rom RandomChar,,0,0,0,karaoke,{\k1}H{\k1}e{\k1}i{\k1}k{\k1}o{\k1}u {\k1}s{\k1}u{\k1}r{\k1}u {\k1}m{\k1}u{\k1}s{\k1}u{\k1}u {\k1}n{\k1}o {\k1}s{\k1}e{\k1}n
-Comment: 11,0:12:30.31,0:12:33.10,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}Z{\k1}e{\k1}r{\k1}o{\k1}” {\k1}g{\k1}a {\k1}k{\k1}a{\k1}k{\k1}o {\k1}d{\k1}e {\k1}“{\k1}i{\k1}c{\k1}h{\k1}i{\k1}” {\k1}g{\k1}a {\k1}m{\k1}i{\k1}r{\k1}a{\k1}i
-Comment: 11,0:12:33.10,0:12:36.06,SO Rom RandomChar,,0,0,0,karaoke,{\k1}I{\k1}m{\k1}a {\k1}w{\k1}a {\k1}d{\k1}o{\k1}k{\k1}o{\k1}n{\k1}i{\k1}m{\k1}o{\k1}n{\k1}a{\k1}i
-Comment: 11,0:12:36.06,0:12:40.69,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}o{\k1}m{\k1}u{\k1}k{\k1}u {\k1}k{\k1}o{\k1}t{\k1}o {\k1}n{\k1}o {\k1}d{\k1}e{\k1}k{\k1}i{\k1}n{\k1}u {\k1}r{\k1}o{\k1}j{\k1}i{\k1}k{\k1}k{\k1}u
-Comment: 11,0:12:40.69,0:12:41.78,SO OtE RandomChar,,0,0,0,karaoke,{\k1}O{\k1}p{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
-Comment: 11,0:12:41.78,0:12:44.49,SO Rom RandomChar,,0,0,0,karaoke,{\k1}H{\k1}e{\k1}i{\k1}k{\k1}o{\k1}u {\k1}s{\k1}u{\k1}r{\k1}u {\k1}m{\k1}u{\k1}s{\k1}u{\k1}u {\k1}n{\k1}o {\k1}s{\k1}e{\k1}n
-Comment: 11,0:12:44.49,0:12:47.41,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}e{\k1}n{\k1}t{\k1}a{\k1}k{\k1}u {\k1}w{\k1}a {\k1}b{\k1}o{\k1}u{\k1}t{\k1}o{\k1}k{\k1}u {\k1}h{\k1}e
-Comment: 11,0:12:47.41,0:12:53.21,SO Rom RandomChar,,0,0,0,karaoke,{\k1}B{\k1}o{\k1}k{\k1}u{\k1}r{\k1}a {\k1}n{\k1}o {\k1}s{\k1}o{\k1}n{\k1}z{\k1}a{\k1}i {\k1}s{\k1}a{\k1}e {\k1}u{\k1}t{\k1}a{\k1}g{\k1}a{\k1}u
-Comment: 11,0:12:53.21,0:12:56.17,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}o{\k1}n{\k1}o {\k1}m{\k1}e {\k1}n{\k1}i {\k1}u{\k1}t{\k1}s{\k1}u{\k1}r{\k1}u {\k1}k{\k1}e{\k1}s{\k1}h{\k1}i{\k1}k{\k1}i {\k1}w{\k1}a
-Comment: 11,0:12:56.17,0:12:59.50,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}h{\k1}u{\k1}u{\k1}s{\k1}o{\k1}k{\k1}u {\k1}w{\k1}o {\k1}s{\k1}u{\k1}r{\k1}u
-Comment: 0,0:21:54.50,0:21:56.50,OP Rom,,0,0,0,code once,hor = 0
-Comment: 0,0:21:54.50,0:21:56.50,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
-Comment: 12,0:21:56.50,0:21:58.50,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
-Comment: 11,0:21:58.50,0:22:00.50,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
-Comment: 11,0:22:00.50,0:22:05.63,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
-Comment: 11,0:22:05.63,0:22:11.72,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
-Comment: 11,0:22:12.64,0:22:18.10,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
-Comment: 11,0:22:18.10,0:22:23.53,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
-Comment: 11,0:22:23.53,0:22:28.86,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
-Comment: 11,0:22:28.86,0:22:33.20,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
-Comment: 11,0:22:33.20,0:22:38.58,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
-Comment: 11,0:22:38.58,0:22:45.30,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
-Comment: 11,0:22:45.30,0:22:46.42,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
-Comment: 11,0:22:46.42,0:22:51.72,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
-Comment: 11,0:22:52.26,0:22:57.18,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
-Comment: 11,0:22:57.18,0:22:59.89,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
-Comment: 11,0:22:59.89,0:23:02.73,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
-Comment: 11,0:23:02.73,0:23:08.07,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
-Comment: 11,0:23:08.07,0:23:13.53,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}God. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
-Dialogue: 11,0:22:00.50,0:22:05.63,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
-Dialogue: 11,0:22:05.63,0:22:11.72,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It’s merely a vision projected into our eyes
-Dialogue: 11,0:22:12.64,0:22:18.10,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
-Dialogue: 11,0:22:18.10,0:22:23.53,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
-Dialogue: 11,0:22:23.53,0:22:28.86,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
-Dialogue: 11,0:22:28.86,0:22:33.20,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
-Dialogue: 11,0:22:33.20,0:22:38.58,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
-Dialogue: 11,0:22:38.58,0:22:45.30,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
-Dialogue: 11,0:22:46.42,0:22:51.72,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
-Dialogue: 11,0:22:52.26,0:22:57.18,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn’t merely something that’s expanding our distance
-Dialogue: 11,0:22:57.18,0:22:59.89,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
-Dialogue: 11,0:22:59.89,0:23:02.73,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
-Dialogue: 11,0:23:02.73,0:23:08.07,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
-Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\fsp-6\pos(1418,904)}Rinascimento
-Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\fs60\pos(1438,940)}of
-Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\pos(1614,888)\fs120}I{\fs90}mage
-Dialogue: 1,0:03:01.95,0:03:05.45,Title,,0,0,0,,{\an6\pos(1786,942)}Formation
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom,,0,0,0,code once,char = {"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "-", "+", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0"}
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-400,-300)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-350,-250)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-300,-200)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-250,-150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("preline",-200,-100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans,,0,0,0,template,!retime("line",-150,-150)!{\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&H00&)}
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",-150,-50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",-100,0)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",-50,50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",0,100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Trans RandomChar,,0,0,0,template notext,!retime("postline",50,150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-400,-300)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-350,-250)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-300,-200)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\\)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-250,-150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("preline",-200,-100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom,,0,0,0,template,!retime("line",-150,-150)!{\alpha&H88&\c&HA6CBF2&\3c&H085DB3&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&H00&)}
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",-150,-50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",-100,0)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",-50,50)!{\c&HA6CBF2&\3c&H085DB3&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",0,100)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom RandomChar,,0,0,0,template notext,!retime("postline",50,150)!{\c&HA6CBF2&\3c&H085DB3&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO Rom,,0,0,0,template char noblank,!retime("syl",0,0)!{\fad(0,150)\pos($x,$y)\shad0\blur3\bord3\c&H3A7BE4&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&H0094D8&\3c&H057DEE&)\t(!syl.duration/2+syl.duration/4!,!syl.duration!,\c&HA6CBF2&\3c&H085DB3&)}
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE,,0,0,0,template,!retime("start2syl",0,0)!{\c&HD6E0F4&\3c&H14196C&\blur3\shad0\pos($x,$y)\blur3}
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-400,-300)!{\c&HD6E0F4&\3c&H14196C&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-350,-250)!{\c&HD6E0F4&\3c&H14196C&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-300,-200)!{\c&HD6E0F4&\3c&H14196C&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-250,-150)!{\c&HD6E0F4&\3c&H14196C&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("preline",-200,-100)!{\c&HD6E0F4&\3c&H14196C&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE,,0,0,0,template,!retime("line",-150,-150)!{\alpha&H88&\c&HD6E0F4&\3c&H14196C&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&H00&)}
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",-150,-50)!{\c&HD6E0F4&\3c&H14196C&\alpha&H2A&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",-100,0)!{\c&HD6E0F4&\3c&H14196C&\alpha&H55&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",-50,50)!{\c&HD6E0F4&\3c&H14196C&\alpha&H80&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",0,100)!{\c&HD6E0F4&\3c&H14196C&\alpha&HAA&\blur3\shad0\pos($x,$y)\t(50,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE RandomChar,,0,0,0,template notext,!retime("postline",50,150)!{\c&HD6E0F4&\3c&H14196C&\alpha&HD5&\blur3\shad0\pos($x,$y)\t(0,100,\alpha&HFF&)}!char[math.random(1,38)]!
+Comment: 0,0:10:51.99,0:10:53.99,SO OtE,,0,0,0,template char noblank,!retime("syl",0,0)!{\fad(0,150)\pos($x,$y)\shad0\blur3\bord3\c&H7B7CE6&\3c&HFFFFFF&\1a&H33&\t(0,250,0.8,\blur2\bord2\c&H6B6CE0&\3c&H4C4CAF&)\t(!syl.duration/2+syl.duration/4!,!syl.duration!,\c&H7B7CE6&\3c&HFFFFFF&)}
+Comment: 11,0:10:53.99,0:10:57.00,SO Trans,,0,0,0,karaoke,Even the concept of time
+Comment: 11,0:10:57.00,0:10:59.62,SO Trans,,0,0,0,karaoke,Dictated by the two hands
+Comment: 11,0:10:59.62,0:11:04.92,SO Trans,,0,0,0,karaoke,Is distorted at the whim of the Observer
+Comment: 11,0:11:04.92,0:11:08.76,SO Trans,,0,0,0,karaoke,Even wisdom bestowed upon us by God
+Comment: 11,0:11:08.76,0:11:16.22,SO Trans,,0,0,0,karaoke,Must have its limits—an absolute boundary
+Comment: 11,0:11:16.22,0:11:20.06,SO Trans,,0,0,0,karaoke,It must have been through sheer coincidence
+Comment: 11,0:11:20.06,0:11:22.90,SO Trans,,0,0,0,karaoke,That I have been chosen as this miracle
+Comment: 11,0:11:22.90,0:11:26.90,SO Trans,,0,0,0,karaoke,To close this gate of “regulation”
+Comment: 11,0:11:26.90,0:11:28.69,SO Trans,,0,0,0,karaoke,Once and for all
+Comment: 11,0:11:29.90,0:11:32.53,SO Trans,,0,0,0,karaoke,As I stretch out my hand at the speed of light
+Comment: 11,0:11:32.53,0:11:35.66,SO Trans,,0,0,0,karaoke,The pulse of my memories
+Comment: 11,0:11:35.66,0:11:40.50,SO Trans,,0,0,0,karaoke,Leaps back with miraculous logic
+Comment: 11,0:11:41.42,0:11:44.21,SO Trans,,0,0,0,karaoke,The universe once again conceals
+Comment: 11,0:11:44.21,0:11:47.13,SO Trans,,0,0,0,karaoke,Its inconsistent logic
+Comment: 11,0:11:47.13,0:11:52.84,SO Trans,,0,0,0,karaoke,As numerous points, encompassing infinity
+Comment: 11,0:11:52.84,0:11:55.72,SO Trans,,0,0,0,karaoke,Borrow an impossible amount of power
+Comment: 11,0:11:55.72,0:11:59.18,SO Trans,,0,0,0,karaoke,And “restart” over and over
+Comment: 11,0:12:08.69,0:12:11.86,SO Trans,,0,0,0,karaoke,“0” is the past, “1” is the future
+Comment: 11,0:12:20.33,0:12:23.71,SO Trans,,0,0,0,karaoke,Amidst the myriad parallel lines
+Comment: 11,0:12:30.30,0:12:33.09,SO Trans,,0,0,0,karaoke,“0” is the past, “1” is the future
+Comment: 11,0:12:33.09,0:12:36.05,SO Trans,,0,0,0,karaoke,“The Present” cannot be found
+Comment: 11,0:12:36.05,0:12:40.68,SO Trans,,0,0,0,karaoke,This is a Logic that cannot be denied
+Comment: 11,0:12:41.77,0:12:44.48,SO Trans,,0,0,0,karaoke,Amidst the myriad parallel lines
+Comment: 11,0:12:44.48,0:12:47.40,SO Trans,,0,0,0,karaoke,My choice is that of blasphemy
+Comment: 11,0:12:47.40,0:12:53.20,SO Trans,,0,0,0,karaoke,“Existence” itself is denied
+Comment: 11,0:12:53.20,0:12:56.16,SO Trans,,0,0,0,karaoke,As the scenery reflected in those eyes
+Comment: 11,0:12:56.16,0:12:59.49,SO Trans,,0,0,0,karaoke,Begins to “Converge”
+Comment: 11,0:10:53.99,0:10:57.00,SO Trans RandomChar,,0,0,0,karaoke,{\k1}E{\k1}v{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}c{\k1}o{\k1}n{\k1}c{\k1}e{\k1}p{\k1}t {\k1}o{\k1}f {\k1}t{\k1}i{\k1}m{\k1}e
+Comment: 11,0:10:57.00,0:10:59.62,SO Trans RandomChar,,0,0,0,karaoke,{\k1}D{\k1}i{\k1}c{\k1}t{\k1}a{\k1}t{\k1}e{\k1}d {\k1}b{\k1}y {\k1}t{\k1}h{\k1}e {\k1}t{\k1}w{\k1}o {\k1}h{\k1}a{\k1}n{\k1}d{\k1}s
+Comment: 11,0:10:59.62,0:11:04.92,SO Trans RandomChar,,0,0,0,karaoke,{\k1}I{\k1}s {\k1}d{\k1}i{\k1}s{\k1}t{\k1}o{\k1}r{\k1}t{\k1}e{\k1}d {\k1}a{\k1}t {\k1}t{\k1}h{\k1}e {\k1}w{\k1}h{\k1}i{\k1}m {\k1}o{\k1}f {\k1}t{\k1}h{\k1}e {\k1}O{\k1}b{\k1}s{\k1}e{\k1}r{\k1}v{\k1}e{\k1}r
+Comment: 11,0:11:04.92,0:11:08.76,SO Trans RandomChar,,0,0,0,karaoke,{\k1}E{\k1}v{\k1}e{\k1}n {\k1}k{\k1}n{\k1}o{\k1}w{\k1}l{\k1}e{\k1}d{\k1}g{\k1}e {\k1}b{\k1}e{\k1}s{\k1}t{\k1}o{\k1}w{\k1}e{\k1}d {\k1}u{\k1}p{\k1}o{\k1}n {\k1}u{\k1}s {\k1}b{\k1}y {\k1}G{\k1}o{\k1}d
+Comment: 11,0:11:08.76,0:11:16.22,SO Trans RandomChar,,0,0,0,karaoke,{\k1}M{\k1}u{\k1}s{\k1}t {\k1}h{\k1}a{\k1}v{\k1}e {\k1}i{\k1}t{\k1}s {\k1}l{\k1}i{\k1}m{\k1}i{\k1}t{\k1}s{\k1}—{\k1}a{\k1}n {\k1}a{\k1}b{\k1}s{\k1}o{\k1}l{\k1}u{\k1}t{\k1}e {\k1}b{\k1}o{\k1}u{\k1}n{\k1}d{\k1}a{\k1}r{\k1}y
+Comment: 11,0:11:16.22,0:11:20.06,SO Trans RandomChar,,0,0,0,karaoke,{\k1}I{\k1}t {\k1}m{\k1}u{\k1}s{\k1}t {\k1}h{\k1}a{\k1}v{\k1}e {\k1}b{\k1}e{\k1}e{\k1}n {\k1}t{\k1}h{\k1}r{\k1}o{\k1}u{\k1}g{\k1}h {\k1}s{\k1}h{\k1}e{\k1}e{\k1}r {\k1}c{\k1}o{\k1}i{\k1}n{\k1}c{\k1}i{\k1}d{\k1}e{\k1}n{\k1}c{\k1}e
+Comment: 11,0:11:20.06,0:11:22.90,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}a{\k1}t {\k1}I {\k1}h{\k1}a{\k1}v{\k1}e {\k1}b{\k1}e{\k1}e{\k1}n {\k1}c{\k1}h{\k1}o{\k1}s{\k1}e{\k1}n {\k1}a{\k1}s {\k1}t{\k1}h{\k1}i{\k1}s {\k1}m{\k1}i{\k1}r{\k1}a{\k1}c{\k1}l{\k1}e
+Comment: 11,0:11:22.90,0:11:26.90,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}o {\k1}c{\k1}l{\k1}o{\k1}s{\k1}e {\k1}t{\k1}h{\k1}i{\k1}s {\k1}g{\k1}a{\k1}t{\k1}e {\k1}o{\k1}f {\k1}“{\k1}r{\k1}e{\k1}g{\k1}u{\k1}l{\k1}a{\k1}t{\k1}i{\k1}o{\k1}n{\k1}”
+Comment: 11,0:11:26.90,0:11:28.69,SO Trans RandomChar,,0,0,0,karaoke,{\k1}O{\k1}n{\k1}c{\k1}e {\k1}a{\k1}n{\k1}d {\k1}f{\k1}o{\k1}r {\k1}a{\k1}l{\k1}l
+Comment: 11,0:11:29.90,0:11:32.53,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}s {\k1}I {\k1}s{\k1}t{\k1}r{\k1}e{\k1}t{\k1}c{\k1}h {\k1}o{\k1}u{\k1}t {\k1}m{\k1}y {\k1}h{\k1}a{\k1}n{\k1}d {\k1}a{\k1}t {\k1}t{\k1}h{\k1}e {\k1}s{\k1}p{\k1}e{\k1}e{\k1}d {\k1}o{\k1}f {\k1}l{\k1}i{\k1}g{\k1}h{\k1}t
+Comment: 11,0:11:32.53,0:11:35.66,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}e {\k1}p{\k1}u{\k1}l{\k1}s{\k1}e {\k1}o{\k1}f {\k1}m{\k1}y {\k1}m{\k1}e{\k1}m{\k1}o{\k1}r{\k1}i{\k1}e{\k1}s
+Comment: 11,0:11:35.66,0:11:40.50,SO Trans RandomChar,,0,0,0,karaoke,{\k1}L{\k1}e{\k1}a{\k1}p{\k1}s {\k1}b{\k1}a{\k1}c{\k1}k {\k1}w{\k1}i{\k1}t{\k1}h {\k1}m{\k1}i{\k1}r{\k1}a{\k1}c{\k1}u{\k1}l{\k1}o{\k1}u{\k1}s {\k1}l{\k1}o{\k1}g{\k1}i{\k1}c
+Comment: 11,0:11:41.42,0:11:44.21,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}e {\k1}u{\k1}n{\k1}i{\k1}v{\k1}e{\k1}r{\k1}s{\k1}e {\k1}o{\k1}n{\k1}c{\k1}e {\k1}a{\k1}g{\k1}a{\k1}i{\k1}n {\k1}c{\k1}o{\k1}n{\k1}c{\k1}e{\k1}a{\k1}l{\k1}s
+Comment: 11,0:11:44.21,0:11:47.13,SO Trans RandomChar,,0,0,0,karaoke,{\k1}I{\k1}t{\k1}s {\k1}i{\k1}n{\k1}c{\k1}o{\k1}n{\k1}s{\k1}i{\k1}s{\k1}t{\k1}e{\k1}n{\k1}t {\k1}l{\k1}o{\k1}g{\k1}i{\k1}c
+Comment: 11,0:11:47.13,0:11:52.84,SO Trans RandomChar,,0,0,0,karaoke,{\k1}N{\k1}u{\k1}m{\k1}e{\k1}r{\k1}o{\k1}u{\k1}s {\k1}p{\k1}o{\k1}i{\k1}n{\k1}t{\k1}s{\k1}, {\k1}e{\k1}n{\k1}c{\k1}o{\k1}m{\k1}p{\k1}a{\k1}s{\k1}s{\k1}i{\k1}n{\k1}g {\k1}i{\k1}n{\k1}f{\k1}i{\k1}n{\k1}i{\k1}t{\k1}y
+Comment: 11,0:11:52.84,0:11:55.72,SO Trans RandomChar,,0,0,0,karaoke,{\k1}B{\k1}o{\k1}r{\k1}r{\k1}o{\k1}w {\k1}a{\k1}n {\k1}i{\k1}m{\k1}p{\k1}o{\k1}s{\k1}s{\k1}i{\k1}b{\k1}l{\k1}e {\k1}a{\k1}m{\k1}o{\k1}u{\k1}n{\k1}t {\k1}o{\k1}f {\k1}p{\k1}o{\k1}w{\k1}e{\k1}r
+Comment: 11,0:11:55.72,0:11:59.18,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}n{\k1}d {\k1}“{\k1}r{\k1}e{\k1}p{\k1}l{\k1}a{\k1}y{\k1}” {\k1}o{\k1}v{\k1}e{\k1}r {\k1}a{\k1}n{\k1}d {\k1}o{\k1}v{\k1}e{\k1}r
+Comment: 11,0:12:08.69,0:12:11.86,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}0{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}p{\k1}a{\k1}s{\k1}t{\k1}, {\k1}“{\k1}1{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}f{\k1}u{\k1}t{\k1}u{\k1}r{\k1}e
+Comment: 11,0:12:20.33,0:12:23.71,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}m{\k1}i{\k1}d{\k1}s{\k1}t {\k1}t{\k1}h{\k1}e {\k1}m{\k1}y{\k1}r{\k1}i{\k1}a{\k1}d {\k1}p{\k1}a{\k1}r{\k1}a{\k1}l{\k1}l{\k1}e{\k1}l {\k1}l{\k1}i{\k1}n{\k1}e{\k1}s
+Comment: 11,0:12:30.30,0:12:33.09,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}0{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}p{\k1}a{\k1}s{\k1}t{\k1}, {\k1}“{\k1}1{\k1}” {\k1}i{\k1}s {\k1}t{\k1}h{\k1}e {\k1}f{\k1}u{\k1}t{\k1}u{\k1}r{\k1}e
+Comment: 11,0:12:33.09,0:12:36.05,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}T{\k1}h{\k1}e {\k1}P{\k1}r{\k1}e{\k1}s{\k1}e{\k1}n{\k1}t{\k1}” {\k1}c{\k1}a{\k1}n{\k1}n{\k1}o{\k1}t {\k1}b{\k1}e {\k1}f{\k1}o{\k1}u{\k1}n{\k1}d
+Comment: 11,0:12:36.05,0:12:40.68,SO Trans RandomChar,,0,0,0,karaoke,{\k1}T{\k1}h{\k1}i{\k1}s {\k1}i{\k1}s {\k1}a {\k1}L{\k1}o{\k1}g{\k1}i{\k1}c {\k1}t{\k1}h{\k1}a{\k1}t {\k1}c{\k1}a{\k1}n{\k1}n{\k1}o{\k1}t {\k1}b{\k1}e {\k1}d{\k1}e{\k1}n{\k1}i{\k1}e{\k1}d
+Comment: 11,0:12:41.77,0:12:44.48,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}m{\k1}i{\k1}d{\k1}s{\k1}t {\k1}t{\k1}h{\k1}e {\k1}m{\k1}y{\k1}r{\k1}i{\k1}a{\k1}d {\k1}p{\k1}a{\k1}r{\k1}a{\k1}l{\k1}l{\k1}e{\k1}l {\k1}l{\k1}i{\k1}n{\k1}e{\k1}s
+Comment: 11,0:12:44.48,0:12:47.40,SO Trans RandomChar,,0,0,0,karaoke,{\k1}M{\k1}y {\k1}c{\k1}h{\k1}o{\k1}i{\k1}c{\k1}e {\k1}i{\k1}s {\k1}t{\k1}h{\k1}a{\k1}t {\k1}o{\k1}f {\k1}b{\k1}l{\k1}a{\k1}s{\k1}p{\k1}h{\k1}e{\k1}m{\k1}y
+Comment: 11,0:12:47.40,0:12:53.20,SO Trans RandomChar,,0,0,0,karaoke,{\k1}“{\k1}E{\k1}x{\k1}i{\k1}s{\k1}t{\k1}e{\k1}n{\k1}c{\k1}e{\k1}” {\k1}i{\k1}t{\k1}s{\k1}e{\k1}l{\k1}f {\k1}i{\k1}s {\k1}d{\k1}e{\k1}n{\k1}i{\k1}e{\k1}d
+Comment: 11,0:12:53.20,0:12:56.16,SO Trans RandomChar,,0,0,0,karaoke,{\k1}A{\k1}s {\k1}t{\k1}h{\k1}e {\k1}s{\k1}c{\k1}e{\k1}n{\k1}e{\k1}r{\k1}y {\k1}r{\k1}e{\k1}f{\k1}l{\k1}e{\k1}c{\k1}t{\k1}e{\k1}d {\k1}i{\k1}n {\k1}t{\k1}h{\k1}o{\k1}s{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
+Comment: 11,0:12:56.16,0:12:59.49,SO Trans RandomChar,,0,0,0,karaoke,{\k1}B{\k1}e{\k1}g{\k1}i{\k1}n{\k1}s {\k1}t{\k1}o {\k1}“{\k1}C{\k1}o{\k1}n{\k1}v{\k1}e{\k1}r{\k1}g{\k1}e{\k1}”
+Comment: 11,0:10:53.99,0:10:57.00,SO Rom,,0,0,0,karaoke,{\k34}Fu{\k18}ta{\k24}tsu {\k53}no {\k26}ha{\k43}ri {\k29}ga {\k14}sa{\k44}su
+Comment: 11,0:10:57.00,0:10:59.62,SO Rom,,0,0,0,karaoke,{\k38}Ji{\k17}ka{\k34}n {\k34}no {\k19}ga{\k18}i{\k15}ne{\k19}n {\k68}mo
+Comment: 11,0:10:59.62,0:11:04.92,SO Rom,,0,0,0,karaoke,{\k60}Ka{\k13}n{\k43}so{\k22}ku{\k36}sha {\k53}shi{\k24}da{\k11}i {\k37}de {\k22}hi{\k16}zu{\k24}mi {\k33}wo {\k12}mi{\k27}se{\k97}ru
+Comment: 11,0:11:04.92,0:11:08.76,SO Rom,,0,0,0,karaoke,{\k28}Ka{\k14}mi {\k53}ni {\k21}a{\k22}ta{\k16}e{\k34}ra{\k42}re{\k18}ta {\k13}e{\k37}i{\k24}chi {\k62}wa
+Comment: 11,0:11:08.76,0:11:11.72,SO Rom,,0,0,0,karaoke,{\k22}Ka{\k21}na{\k20}ra{\k34}zu {\k30}“ha{\k39}te” {\k42}ga {\k19}a{\k65}ru
+Comment: 11,0:11:11.72,0:11:16.22,SO Rom,,0,0,0,karaoke,{\k39}Ze{\k23}tta{\k26}i {\k61}no {\k17}ryo{\k55}u{\k19}i{\k214}ki
+Comment: 11,0:11:16.22,0:11:20.06,SO Rom,,0,0,0,karaoke,{\k53}So{\k16}re {\k52}wa {\k15}o{\k23}ro{\k19}ka na {\k39}yu{\k30}e {\k26}no {\k15}gu{\k24}u{\k29}ze{\k43}n
+Comment: 11,0:11:20.06,0:11:22.90,SO Rom,,0,0,0,karaoke,{\k42}Ma{\k18}ne{\k19}ka{\k32}re{\k39}za{\k39}ru {\k29}ki{\k27}se{\k39}ki
+Comment: 11,0:11:22.90,0:11:26.90,SO Rom,,0,0,0,karaoke,{\k15}To{\k9}za{\k20}sa{\k43}re{\k15}te{\k21}ki{\k123}ta {\k39}ge{\k115}eto
+Comment: 11,0:11:26.90,0:11:28.69,SO Rom,,0,0,0,karaoke,{\k18}“Ki{\k42}sei” {\k21}wa {\k32}o{\k13}wa{\k22}t{\k31}ta
+Comment: 11,0:11:28.69,0:11:29.90,SO OtE,,0,0,0,karaoke,{\k60}{\i1}O{\k22}pen {\k17}the {\k22}eyes{\i}
+Comment: 11,0:11:29.90,0:11:32.53,SO Rom,,0,0,0,karaoke,{\k40}Kou{\k26}so{\k35}ku {\k22}he {\k36}to {\k12}te {\k19}wo {\k18}no{\k10}ba{\k27}shi{\k18}ta
+Comment: 11,0:11:32.53,0:11:35.66,SO Rom,,0,0,0,karaoke,{\k30}O{\k45}mo{\k38}i{\k17}de {\k38}no {\k32}pa{\k24}ru{\k50}su {\k39}ga
+Comment: 11,0:11:35.66,0:11:40.50,SO Rom,,0,0,0,karaoke,{\k51}To{\k28}bi{\k24}ko{\k36}mu {\k33}fu{\k25}ka{\k43}shi{\k43}gi {\k122}na {\k23}ro{\k14}ji{\k19}k{\k23}ku
+Comment: 11,0:11:40.50,0:11:41.42,SO OtE,,0,0,0,karaoke,{\k29}{\i1}O{\k22}pen {\k18}the {\k23}eyes{\i}
+Comment: 11,0:11:41.42,0:11:44.21,SO Rom,,0,0,0,karaoke,{\k25}U{\k39}chuu {\k30}ga {\k28}ma{\k30}da {\k24}ka{\k15}ku{\k21}shi{\k14}mo{\k19}t{\k34}ta
+Comment: 11,0:11:44.21,0:11:47.13,SO Rom,,0,0,0,karaoke,{\k19}Chi{\k38}tsu{\k33}jo {\k21}no {\k32}na{\k41}i {\k28}ri{\k43}ro{\k37}n
+Comment: 11,0:11:47.13,0:11:52.84,SO Rom,,0,0,0,karaoke,{\k36}Mu{\k16}ge{\k18}n {\k27}to {\k30}yo{\k13}ba{\k20}re{\k37}ta {\k28}te{\k43}n {\k36}to {\k37}te{\k18}n {\k212}ga
+Comment: 11,0:11:52.84,0:11:55.72,SO Rom,,0,0,0,karaoke,{\k26}Fu{\k30}se{\k18}i {\k34}na {\k20}chi{\k17}ka{\k22}ra {\k29}wo {\k40}ka{\k35}ri{\k29}te
+Comment: 11,0:11:55.72,0:11:59.18,SO Rom,,0,0,0,karaoke,{\k24}“Sa{\k10}i{\k25}se{\k35}i” {\k14}wo {\k26}su{\k200}ru
+Comment: 11,0:12:08.69,0:12:11.86,SO Rom,,0,0,0,karaoke,{\k38}“Ze{\k16}ro” {\k19}ga {\k31}ka{\k20}ko {\k32}de {\k16}“i{\k18}chi” {\k26}ga {\k18}mi{\k20}ra{\k63}i
+Comment: 11,0:12:20.33,0:12:23.71,SO Rom,,0,0,0,karaoke,{\k26}He{\k22}i{\k17}ko{\k19}u {\k28}su{\k33}ru {\k11}mu{\k19}su{\k26}u {\k20}no {\k15}se{\k102}n
+Comment: 11,0:12:30.30,0:12:33.09,SO Rom,,0,0,0,karaoke,{\k21}“Ze{\k24}ro” {\k18}ga {\k36}ka{\k18}ko {\k36}de {\k18}“i{\k17}chi” {\k20}ga {\k19}mi{\k18}ra{\k37}i
+Comment: 11,0:12:33.09,0:12:36.05,SO Rom,,0,0,0,karaoke,{\k17}I{\k31}ma {\k43}wa {\k15}do{\k38}ko{\k31}ni{\k28}mo{\k44}na{\k46}i
+Comment: 11,0:12:36.05,0:12:40.68,SO Rom,,0,0,0,karaoke,{\k48}So{\k25}mu{\k29}ku {\k32}ko{\k35}to {\k43}no {\k32}de{\k32}ki{\k115}nu {\k31}ro{\k15}ji{\k14}k{\k12}ku
+Comment: 11,0:12:40.68,0:12:41.77,SO OtE,,0,0,0,karaoke,{\k37}{\i1}O{\k31}pen {\k19}the {\k22}eyes{\i}
+Comment: 11,0:12:41.77,0:12:44.48,SO Rom,,0,0,0,karaoke,{\k29}He{\k19}i{\k15}ko{\k26}u {\k31}su{\k39}ru {\k11}mu{\k18}su{\k18}u {\k13}no {\k23}se{\k29}n
+Comment: 11,0:12:44.48,0:12:47.40,SO Rom,,0,0,0,karaoke,{\k32}Se{\k36}n{\k31}ta{\k22}ku {\k35}wa {\k40}bou{\k34}to{\k34}ku {\k28}he
+Comment: 11,0:12:47.40,0:12:53.20,SO Rom,,0,0,0,karaoke,{\k46}Bo{\k16}ku{\k12}ra {\k36}no {\k24}so{\k14}n{\k20}za{\k33}i {\k41}sa{\k35}e {\k36}u{\k38}ta{\k19}ga{\k210}u
+Comment: 11,0:12:53.20,0:12:56.16,SO Rom,,0,0,0,karaoke,{\k37}So{\k18}no {\k21}me {\k31}ni {\k18}u{\k17}tsu{\k22}ru {\k22}ke{\k48}shi{\k33}ki {\k30}wa
+Comment: 11,0:12:56.16,0:12:59.49,SO Rom,,0,0,0,karaoke,{\k24}Shu{\k13}u{\k27}so{\k31}ku {\k15}wo {\k25}su{\k197}ru
+Comment: 11,0:10:53.99,0:10:57.00,SO Rom RandomChar,,0,0,0,karaoke,{\k1}F{\k1}u{\k1}t{\k1}a{\k1}t{\k1}s{\k1}u {\k1}n{\k1}o {\k1}h{\k1}a{\k1}r{\k1}i {\k1}g{\k1}a {\k1}s{\k1}a{\k1}s{\k1}u
+Comment: 11,0:10:57.00,0:10:59.62,SO Rom RandomChar,,0,0,0,karaoke,{\k1}J{\k1}i{\k1}k{\k1}a{\k1}n {\k1}n{\k1}o {\k1}g{\k1}a{\k1}i{\k1}n{\k1}e{\k1}n {\k1}m{\k1}o
+Comment: 11,0:10:59.62,0:11:04.92,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}a{\k1}n{\k1}s{\k1}o{\k1}k{\k1}u{\k1}s{\k1}h{\k1}a {\k1}s{\k1}h{\k1}i{\k1}d{\k1}a{\k1}i {\k1}d{\k1}e {\k1}h{\k1}i{\k1}z{\k1}u{\k1}m{\k1}i {\k1}w{\k1}o {\k1}m{\k1}i{\k1}s{\k1}e{\k1}r{\k1}u
+Comment: 11,0:11:04.92,0:11:08.76,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}a{\k1}m{\k1}i {\k1}n{\k1}i {\k1}a{\k1}t{\k1}a{\k1}e{\k1}r{\k1}a{\k1}r{\k1}e{\k1}t{\k1}a {\k1}e{\k1}i{\k1}c{\k1}h{\k1}i {\k1}w{\k1}a
+Comment: 11,0:11:08.76,0:11:11.72,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}a{\k1}n{\k1}a{\k1}r{\k1}a{\k1}z{\k1}u {\k1}“{\k1}h{\k1}a{\k1}t{\k1}e{\k1}” {\k1}g{\k1}a {\k1}a{\k1}r{\k1}u
+Comment: 11,0:11:11.72,0:11:16.22,SO Rom RandomChar,,0,0,0,karaoke,{\k1}Z{\k1}e{\k1}t{\k1}t{\k1}a{\k1}i {\k1}n{\k1}o {\k1}r{\k1}y{\k1}o{\k1}u{\k1}i{\k1}k{\k1}i
+Comment: 11,0:11:16.22,0:11:20.06,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}o{\k1}r{\k1}e {\k1}w{\k1}a {\k1}o{\k1}r{\k1}o{\k1}k{\k1}a {\k1}n{\k1}a {\k1}y{\k1}u{\k1}e {\k1}n{\k1}o {\k1}g{\k1}u{\k1}u{\k1}z{\k1}e{\k1}n
+Comment: 11,0:11:20.06,0:11:22.90,SO Rom RandomChar,,0,0,0,karaoke,{\k1}M{\k1}a{\k1}n{\k1}e{\k1}k{\k1}a{\k1}r{\k1}e{\k1}z{\k1}a{\k1}r{\k1}u {\k1}k{\k1}i{\k1}s{\k1}e{\k1}k{\k1}i
+Comment: 11,0:11:22.90,0:11:26.90,SO Rom RandomChar,,0,0,0,karaoke,{\k1}T{\k1}o{\k1}z{\k1}a{\k1}s{\k1}a{\k1}r{\k1}e{\k1}t{\k1}e{\k1}k{\k1}i{\k1}t{\k1}a {\k1}g{\k1}e{\k1}e{\k1}t{\k1}o
+Comment: 11,0:11:26.90,0:11:28.69,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}K{\k1}i{\k1}s{\k1}e{\k1}i{\k1}” {\k1}w{\k1}a {\k1}o{\k1}w{\k1}a{\k1}t{\k1}t{\k1}a
+Comment: 11,0:11:28.69,0:11:29.90,SO OtE RandomChar,,0,0,0,karaoke,{\k1}O{\k1}p{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
+Comment: 11,0:11:29.90,0:11:32.53,SO Rom RandomChar,,0,0,0,karaoke,{\k1}K{\k1}o{\k1}u{\k1}s{\k1}o{\k1}k{\k1}u {\k1}h{\k1}e {\k1}t{\k1}o {\k1}t{\k1}e {\k1}w{\k1}o {\k1}n{\k1}o{\k1}b{\k1}a{\k1}s{\k1}h{\k1}i{\k1}t{\k1}a
+Comment: 11,0:11:32.53,0:11:35.66,SO Rom RandomChar,,0,0,0,karaoke,{\k1}O{\k1}m{\k1}o{\k1}i{\k1}d{\k1}e {\k1}n{\k1}o {\k1}p{\k1}a{\k1}r{\k1}u{\k1}s{\k1}u {\k1}g{\k1}a
+Comment: 11,0:11:35.66,0:11:40.50,SO Rom RandomChar,,0,0,0,karaoke,{\k1}T{\k1}o{\k1}b{\k1}i{\k1}k{\k1}o{\k1}m{\k1}u {\k1}f{\k1}u{\k1}k{\k1}a{\k1}s{\k1}h{\k1}i{\k1}g{\k1}i {\k1}n{\k1}a {\k1}r{\k1}o{\k1}j{\k1}i{\k1}k{\k1}k{\k1}u
+Comment: 11,0:11:40.50,0:11:41.42,SO OtE RandomChar,,0,0,0,karaoke,{\k1}O{\k1}p{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
+Comment: 11,0:11:41.42,0:11:44.21,SO Rom RandomChar,,0,0,0,karaoke,{\k1}U{\k1}c{\k1}h{\k1}u{\k1}u {\k1}g{\k1}a {\k1}m{\k1}a{\k1}d{\k1}a {\k1}k{\k1}a{\k1}k{\k1}u{\k1}s{\k1}h{\k1}i{\k1}m{\k1}o{\k1}t{\k1}t{\k1}a
+Comment: 11,0:11:44.21,0:11:47.13,SO Rom RandomChar,,0,0,0,karaoke,{\k1}C{\k1}h{\k1}i{\k1}t{\k1}s{\k1}u{\k1}j{\k1}o {\k1}n{\k1}o {\k1}n{\k1}a{\k1}i {\k1}r{\k1}i{\k1}r{\k1}o{\k1}n
+Comment: 11,0:11:47.13,0:11:52.84,SO Rom RandomChar,,0,0,0,karaoke,{\k1}M{\k1}u{\k1}g{\k1}e{\k1}n {\k1}t{\k1}o {\k1}y{\k1}o{\k1}b{\k1}a{\k1}r{\k1}e{\k1}t{\k1}a {\k1}t{\k1}e{\k1}n {\k1}t{\k1}o {\k1}t{\k1}e{\k1}n {\k1}g{\k1}a
+Comment: 11,0:11:52.84,0:11:55.72,SO Rom RandomChar,,0,0,0,karaoke,{\k1}F{\k1}u{\k1}s{\k1}e{\k1}i {\k1}n{\k1}a {\k1}c{\k1}h{\k1}i{\k1}k{\k1}a{\k1}r{\k1}a {\k1}w{\k1}o {\k1}k{\k1}a{\k1}r{\k1}i{\k1}t{\k1}e
+Comment: 11,0:11:55.72,0:11:59.18,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}S{\k1}a{\k1}i{\k1}s{\k1}e{\k1}i{\k1}” {\k1}w{\k1}o {\k1}s{\k1}u{\k1}r{\k1}u
+Comment: 11,0:12:08.69,0:12:11.86,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}Z{\k1}e{\k1}r{\k1}o{\k1}” {\k1}g{\k1}a {\k1}k{\k1}a{\k1}k{\k1}o {\k1}d{\k1}e {\k1}“{\k1}i{\k1}c{\k1}h{\k1}i{\k1}” {\k1}g{\k1}a {\k1}m{\k1}i{\k1}r{\k1}a{\k1}i
+Comment: 11,0:12:20.33,0:12:23.71,SO Rom RandomChar,,0,0,0,karaoke,{\k1}H{\k1}e{\k1}i{\k1}k{\k1}o{\k1}u {\k1}s{\k1}u{\k1}r{\k1}u {\k1}m{\k1}u{\k1}s{\k1}u{\k1}u {\k1}n{\k1}o {\k1}s{\k1}e{\k1}n
+Comment: 11,0:12:30.30,0:12:33.09,SO Rom RandomChar,,0,0,0,karaoke,{\k1}“{\k1}Z{\k1}e{\k1}r{\k1}o{\k1}” {\k1}g{\k1}a {\k1}k{\k1}a{\k1}k{\k1}o {\k1}d{\k1}e {\k1}“{\k1}i{\k1}c{\k1}h{\k1}i{\k1}” {\k1}g{\k1}a {\k1}m{\k1}i{\k1}r{\k1}a{\k1}i
+Comment: 11,0:12:33.09,0:12:36.05,SO Rom RandomChar,,0,0,0,karaoke,{\k1}I{\k1}m{\k1}a {\k1}w{\k1}a {\k1}d{\k1}o{\k1}k{\k1}o{\k1}n{\k1}i{\k1}m{\k1}o{\k1}n{\k1}a{\k1}i
+Comment: 11,0:12:36.05,0:12:40.68,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}o{\k1}m{\k1}u{\k1}k{\k1}u {\k1}k{\k1}o{\k1}t{\k1}o {\k1}n{\k1}o {\k1}d{\k1}e{\k1}k{\k1}i{\k1}n{\k1}u {\k1}r{\k1}o{\k1}j{\k1}i{\k1}k{\k1}k{\k1}u
+Comment: 11,0:12:40.68,0:12:41.77,SO OtE RandomChar,,0,0,0,karaoke,{\k1}O{\k1}p{\k1}e{\k1}n {\k1}t{\k1}h{\k1}e {\k1}e{\k1}y{\k1}e{\k1}s
+Comment: 11,0:12:41.77,0:12:44.48,SO Rom RandomChar,,0,0,0,karaoke,{\k1}H{\k1}e{\k1}i{\k1}k{\k1}o{\k1}u {\k1}s{\k1}u{\k1}r{\k1}u {\k1}m{\k1}u{\k1}s{\k1}u{\k1}u {\k1}n{\k1}o {\k1}s{\k1}e{\k1}n
+Comment: 11,0:12:44.48,0:12:47.40,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}e{\k1}n{\k1}t{\k1}a{\k1}k{\k1}u {\k1}w{\k1}a {\k1}b{\k1}o{\k1}u{\k1}t{\k1}o{\k1}k{\k1}u {\k1}h{\k1}e
+Comment: 11,0:12:47.40,0:12:53.20,SO Rom RandomChar,,0,0,0,karaoke,{\k1}B{\k1}o{\k1}k{\k1}u{\k1}r{\k1}a {\k1}n{\k1}o {\k1}s{\k1}o{\k1}n{\k1}z{\k1}a{\k1}i {\k1}s{\k1}a{\k1}e {\k1}u{\k1}t{\k1}a{\k1}g{\k1}a{\k1}u
+Comment: 11,0:12:53.20,0:12:56.16,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}o{\k1}n{\k1}o {\k1}m{\k1}e {\k1}n{\k1}i {\k1}u{\k1}t{\k1}s{\k1}u{\k1}r{\k1}u {\k1}k{\k1}e{\k1}s{\k1}h{\k1}i{\k1}k{\k1}i {\k1}w{\k1}a
+Comment: 11,0:12:56.16,0:12:59.49,SO Rom RandomChar,,0,0,0,karaoke,{\k1}S{\k1}h{\k1}u{\k1}u{\k1}s{\k1}o{\k1}k{\k1}u {\k1}w{\k1}o {\k1}s{\k1}u{\k1}r{\k1}u
+Comment: 0,0:21:54.49,0:21:56.49,OP Rom,,0,0,0,code once,hor = 0
+Comment: 0,0:21:54.49,0:21:56.49,OP Rom,,0,0,0,code once,function resetHor(left, right) hor = math.random(left, right) return "" end
+Comment: 12,0:21:56.49,0:21:58.49,OP Rom,,0,0,0,template notext char loop 1,!loopctl(j, math.ceil($sdur / 50))! !retime("presyl", 50 * j, 50 * (j + 5))! !resetHor($left, $right)! {\r\fade(100,100, )\move(!hor!,!math.random($middle, $bottom)!,!hor!,!math.random($top, $middle)!)} {\an7\p1\c&HFFFFFF&\3c&A6D8CD&\bord2\blur2}m 0 0 l 0 !math.random(6, 19)! l 0.1 0 {\p0}
+Comment: 11,0:21:58.49,0:22:00.49,OP Rom,,0,0,0,template line,{\r\blur11.25\t($start,!math.min($mid, $start + 200)!,\bord8\c&578078&\3c&HD0FFF7&)\t(!math.max($mid, $end - 200)!,$end,\bord2.25\c&H000000&\3c&HFFFFFF&)\fade(100,100)}
+Comment: 11,0:22:00.49,0:22:05.62,OP Rom,,0,0,0,karaoke,{\ko41}{\blur11.25\fad(100,100)}Ko{\ko93}no {\ko20}se{\ko27}ka{\ko38}i {\ko11}wa {\ko29}hi{\ko39}ge{\ko116}n{\ko16}ji{\ko83}tsu
+Comment: 11,0:22:05.62,0:22:11.71,OP Rom,,0,0,0,karaoke,{\ko67}{\blur11.25\fad(100,100)}Ta{\ko86}da {\ko32}su{\ko20}ri{\ko32}ko{\ko21}ma{\ko39}re{\ko20}ta {\ko120}bi{\ko20}jo{\ko152}n
+Comment: 11,0:22:12.63,0:22:18.09,OP Rom,,0,0,0,karaoke,{\ko28}{\blur11.25\fad(100,100)}Mu{\ko16}ge{\ko26}n{\ko26}e{\ko28}n{\ko32}te{\ko116}n {\ko19}ka{\ko20}chi{\ko34}ka{\ko19}n {\ko27}wo {\ko36}i{\ko120}ma
+Comment: 11,0:22:18.09,0:22:23.52,OP Rom,,0,0,0,karaoke,{\ko15}{\blur11.25\fad(100,100)}U{\ko15}wa{\ko34}ga{\ko13}ki {\ko34}su{\ko50}ru {\ko22}he{\ko18}n{\ko11}te{\ko38}tsu {\ko18}no {\ko16}na{\ko69}i {\ko26}u{\ko21}chu{\ko142}u
+Comment: 11,0:22:23.52,0:22:28.85,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Gou{\ko37}ma{\ko13}n {\ko26}na {\ko23}ka{\ko17}mi {\ko100}wa {\ko36}me {\ko16}ni {\ko27}u{\ko22}tsu{\ko27}ra{\ko32}na{\ko131}i
+Comment: 11,0:22:28.85,0:22:33.19,OP Rom,,0,0,0,karaoke,{\ko21}{\blur11.25\fad(100,100)}Kou{\ko34}so{\ko19}ku{\ko31}do {\ko44}de {\ko28}shi{\ko21}ha{\ko15}i {\ko30}tsu{\ko20}dzu{\ko18}ke{\ko62}ru {\ko25}na{\ko13}ra{\ko52}ba
+Comment: 11,0:22:33.19,0:22:38.57,OP Rom,,0,0,0,karaoke,{\ko91}{\blur11.25\fad(100,100)}Bo{\ko23}ku {\ko95}wa {\ko36}bo{\ko19}ku {\ko100}da{\ko15}ke {\ko159}wa
+Comment: 11,0:22:38.57,0:22:45.29,OP Rom,,0,0,0,karaoke,{\ko14}{\blur11.25\fad(100,100)}Ki{\ko17}se{\ko16}ki{\ko29}te{\ko38}ki {\ko14}de {\ko20}chi{\ko18}me{\ko15}i{\ko26}te{\ko45}ki {\ko36}na {\ko42}ma{\ko35}i{\ko33}no{\ko28}ri{\ko33}ti {\ko23}de {\ko31}i{\ko159}i
+Comment: 11,0:22:45.29,0:22:46.41,OP Rom,,0,0,0,karaoke,{\ko10}{\blur11.25\fad(100,100)}I {\ko25}can {\ko78}fly—
+Comment: 11,0:22:46.41,0:22:51.71,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}A{\ko13}no {\ko16}shu{\ko21}n{\ko20}ka{\ko33}n, {\ko35}a{\ko14}no {\ko20}ba{\ko17}me{\ko13}n {\ko33}ga {\ko36}ki{\ko14}mi {\ko12}ni {\ko21}to{\ko16}t{\ko36}te {\ko33}to{\ko18}ku{\ko16}be{\ko17}tsu {\ko15}na{\ko29}ra
+Comment: 11,0:22:52.25,0:22:57.17,OP Rom,,0,0,0,karaoke,{\ko31}{\blur11.25\fad(100,100)}Ka{\ko19}ko {\ko31}wa {\ko35}ha{\ko19}na{\ko18}re{\ko31}te {\ko14}yu{\ko19}ku {\ko24}mo{\ko43}no {\ko55}na{\ko48}n{\ko10}ka {\ko23}ja{\ko17}na{\ko19}ku{\ko37}te
+Comment: 11,0:22:57.17,0:22:59.88,OP Rom,,0,0,0,karaoke,{\ko25}{\blur11.25\fad(100,100)}Ki{\ko18}zu{\ko20}tsu{\ko12}ku {\ko22}ko{\ko34}to {\ko33}no {\ko18}i{\ko17}ta{\ko15}mi {\ko17}yo{\ko40}ri
+Comment: 11,0:22:59.88,0:23:02.72,OP Rom,,0,0,0,karaoke,{\ko27}{\blur11.25\fad(100,100)}Da{\ko16}i{\ko18}ji {\ko7}na {\ko19}shi{\ko34}in {\ko41}so{\ko8}no {\ko21}su{\ko16}be{\ko19}te {\ko57}no
+Comment: 11,0:23:02.72,0:23:08.06,OP Rom,,0,0,0,karaoke,{\ko55}{\blur11.25\fad(100,100)}Hi{\ko30}ka{\ko28}ri {\ko39}ga {\ko27}i{\ko25}ma {\ko27}ze{\ko18}ro {\ko116}wo {\ko18}u{\ko151}mu
+Comment: 11,0:23:08.06,0:23:13.52,OP Rom,,0,0,0,karaoke,{\ko23}{\blur11.25\fad(100,100)}There {\ko42}is {\ko33}no {\ko151}God. {\ko44}Won{\ko37}der{\ko38}ful {\ko64}new {\ko115}world
+Dialogue: 11,0:22:00.49,0:22:05.62,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}This world is a false reality
+Dialogue: 11,0:22:05.62,0:22:11.71,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}It’s merely a vision projected into our eyes
+Dialogue: 11,0:22:12.63,0:22:18.09,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}The arbiter at the point at infinity
+Dialogue: 11,0:22:18.09,0:22:23.52,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Is overwriting the abnormalities of this universe
+Dialogue: 11,0:22:23.52,0:22:28.85,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If an arrogant God, imperceptible by our eyes
+Dialogue: 11,0:22:28.85,0:22:33.19,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Maintains control over us with the speed of light
+Dialogue: 11,0:22:33.19,0:22:38.57,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then I—and merely I—
+Dialogue: 11,0:22:38.57,0:22:45.29,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Will be sufficient, as a miraculous and fatal minority
+Dialogue: 11,0:22:46.41,0:22:51.71,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}If that moment, that place, was special to you
+Dialogue: 11,0:22:52.25,0:22:57.17,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Then the past isn’t merely something that’s expanding our distance
+Dialogue: 11,0:22:57.17,0:22:59.88,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}All the pain and misery
+Dialogue: 11,0:22:59.88,0:23:02.72,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Of that crucial scene—
+Dialogue: 11,0:23:02.72,0:23:08.06,OP Trans,,0,0,0,,{\fad(100,100)\blur11.25}Its light will now manifest “0”
+Dialogue: 1,0:03:01.94,0:03:05.44,Title,,0,0,0,,{\an6\fsp-6\pos(1418,904)}Rinascimento
+Dialogue: 1,0:03:01.94,0:03:05.44,Title,,0,0,0,,{\an6\fs60\pos(1438,940)}of
+Dialogue: 1,0:03:01.94,0:03:05.44,Title,,0,0,0,,{\an6\pos(1614,888)\fs120}I{\fs90}mage
+Dialogue: 1,0:03:01.94,0:03:05.44,Title,,0,0,0,,{\an6\pos(1786,942)}Formation
 Dialogue: 30,0:00:02.41,0:00:05.25,Default,,0,0,0,,Theoretically, it is possible.
 Dialogue: 30,0:00:05.25,0:00:08.05,Default,,0,0,0,,However, that’s just in theory.
 Dialogue: 30,0:00:08.05,0:00:13.01,Default,,0,0,0,,The mental burden alone will\Nbe colossal... to go back to 2011.
