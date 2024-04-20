@@ -70,7 +70,7 @@ Download the latest release under the [**Releases**](https://github.com/Pringles
 - `full` contains the full subtitles, intended for Japanese audio
 - `ss` contains the signs+songs subtitles, intended for English audio
 
-In addition to this, there is also a PowerShell script: [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1). 
+In addition to this, there is also a PowerShell script [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) for Windows and a Bash script [`auto-mkv-subs.sh`](./auto-mkv-subs.sh) for Linux and macOS.
 
 To use these subtitles, either install each font on your machine, or merge them into each episode's video file [using the automated merging script](#using-the-automated-merging-script).
 A comprehensive list of what fonts are used in what episodes can be found in [`fonts.md`](./fonts.md).
@@ -78,11 +78,14 @@ A comprehensive list of what fonts are used in what episodes can be found in [`f
 ### Using the automated merging script
 The automated merging script will take all anime episodes as input, and spit out those same files with their respective subtitles and fonts injected, making them perfectly playable straight from the video file!
 
-To use this, first make sure that [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) is in a directory that has the subdirectories `fonts`, `full` and `ss`, containing the fonts, full subtitles and signs+songs subtitles respectively.
+To use this, first make sure that the `auto-mkv-subs` script is in a directory that has the subdirectories `fonts`, `full` and `ss`, containing the fonts, full subtitles and signs+songs subtitles respectively.
 
 Next, create a fourth folder called `anime`. In this folder, copy all Steins;Gate 0 episodes from the [Anime Time] release.
 
-Finally, right-click on the [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) script, and select `Run with PowerShell`. The injected video files should slowly start to appear in the newly generated `output` folder.
+> [!CAUTION]
+> Make sure none of the files are renamed.
+
+Finally, if you're on Windows, right-click on the [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) script, and select `Run with PowerShell`. If you're on Linux or macOS instead, run the [`auto-mkv-subs.sh`](./auto-mkv-subs.sh) script with Bash. The injected video files should slowly start to appear in the newly generated `output` folder.
 
 ## Building from source
 To make better use of source-control, the source subtitle files in this repository are not compiled, meaning some stylings only exist as Aegisub templates, and not as actual lines. To compile these files, open them in [Aegisub](https://aegisub.org/), and compile by clicking the `Automation -> Apply karaoke template` button.
