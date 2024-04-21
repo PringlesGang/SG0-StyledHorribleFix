@@ -1,6 +1,8 @@
 <#
 Automatically merges all subtitles into the video files
 
+Make sure mkvmerge is installed! (https://mkvtoolnix.download/)
+
 This script assumes the following file structure:
  root
  ├── anime                Contains all anime episodes

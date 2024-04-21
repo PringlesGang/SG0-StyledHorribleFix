@@ -78,7 +78,7 @@ A comprehensive list of what fonts are used in what episodes can be found in [`f
 ### Using the automated merging script
 The automated merging script will take all anime episodes as input, and spit out those same files with their respective subtitles and fonts injected, making them perfectly playable straight from the video file!
 
-To use this, first make sure that the `auto-mkv-subs` script is in a directory that has the subdirectories `fonts`, `full` and `ss`, containing the fonts, full subtitles and signs+songs subtitles respectively.
+To use this, first make sure that [mkvmerge](https://mkvtoolnix.download/) is installed. After that, make sure the `auto-mkv-subs` script is in a directory that has the subdirectories `fonts`, `full` and `ss`, containing the fonts, full subtitles and signs+songs subtitles respectively.
 
 Next, create a fourth folder called `anime`. In this folder, copy all Steins;Gate 0 episodes from the [Anime Time] release.
 
