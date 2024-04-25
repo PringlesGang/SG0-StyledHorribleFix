@@ -12,6 +12,17 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Amadeus Rom Square-furigana,Pixelify Sans,45,&H55000011,&H550000FF,&H554BB1D6,&H55000000,0,0,0,0,100,100,0,0,1,1.5,0,8,23,23,23,1
+Style: Amadeus Rom Red-furigana,Pixelify Sans,45,&H00000011,&HFF000011,&H00210FBD,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
+Style: Amadeus Trans-furigana,Pixelify Sans,45,&H00000011,&H00000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
+Style: Amadeus Rom-furigana,Pixelify Sans,45,&H00000011,&HFF000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
+Style: Whiteboard-furigana,Playpen Sans Medium,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,0,0,0,0,100,100,0,0,1,0,0,8,20,20,20,0
+Style: Draw-furigana,Noto Sans JP,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: OkabePhone-furigana,Playpen Sans,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
+Style: Title-furigana,Playfair Display,45,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
+Style: Signs-furigana,Noto Sans JP,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
+Style: On Top-furigana,Noto Sans JP Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,30,0
+Style: Default-furigana,Noto Sans JP Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,0
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
 Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
@@ -22,13 +33,27 @@ Style: Whiteboard,Playpen Sans Medium,90,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F40
 Style: Amadeus Rom,Pixelify Sans,90,&H00000011,&HFF000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
 Style: Amadeus Trans,Pixelify Sans,90,&H00000011,&H00000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,23,23,23,1
 Style: Amadeus Rom Red,Pixelify Sans,90,&H00000011,&HFF000011,&H00210FBD,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
-Style: Amadeus Rom Square,Pixelify Sans,90,&H55000011,&H550000FF,&H554BB1D6,&H55000000,0,0,0,0,100,100,0,0,1,3,0,8,23,23,23,1
+Style: Amadeus Rom Square,Pixelify Sans,90,&H00000011,&H550000FF,&H504BB1D6,&H55000000,0,0,0,0,100,100,0,0,1,2.2,0,8,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,size = math.random(15, 23)
-Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,horizOffset = math.random(-20, 10)
-Comment: 11,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,template notext,!retime("syl", -200, 3000)! !maxloop(math.random(1, 3))! {\r\move(!$center + horizOffset + 12*j!,!$middle + math.random(30, 50)!,!$center + horizOffset + 12*j!,!$middle + math.random(80, 170)!, )\frz!math.random(0, 359)!\t(\frz180, )\fade(500,1500)} {\p1\blur0.5}m !-(size - 3*j)! !-(size - 3*j)! l !-(size - 3*j)! !size - 3*j! l !size - 3*j! !size - 3*j! l !size - 3*j! !-(size - 3*j)! {\p0}
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,clusterSize = 3
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,vertOffset = 0
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,size = 0
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,horizOffset = 0
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,timeOffset = 0
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,speedOffset = 0
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,vertMove = math.random(60, 80)
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code syl,flickerEffectTemp = 0
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,function sigmoidIsh(t) return ((1 + math.exp(-2)) / (1 + math.exp(-4 * t + 2))); end
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,function whiteTime(time) return math.max(0, (time - 23 * 60 * 1000 - 12643) / (23 * 60 * 1000 + 23782 - 23 * 60 * 1000 - 12643)); end
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,function RGBToHex(R, G, B) return (string.format("%x", B) .. string.format("%x", G) .. string.format("%x", R)); end
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,function colourEffect(start) startR = 214; startG = 177; startB = 75; endVal = 199; t = whiteTime(start); return RGBToHex(startR * (1 - t) + endVal * t, startG * (1 - t) + endVal * t, startB * (1 - t) + endVal * t); end
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,function flickerEffect(dur) effect = ""; for i = 0, math.floor(dur / 1000), 1 do flickerEffectTemp = math.random(0, 800); effect = effect .. "\\t(" .. (i * 400 + flickerEffectTemp) .. "," .. (i * 400 + flickerEffectTemp + 42) .. ", \\alpha&HFF&) \\t(" .. (i * 400 + flickerEffectTemp + 84) .. "," .. (i * 400 + flickerEffectTemp + 126) .. ",\\alpha&H00&)"; end; return effect; end
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,function segmentTime(start) return (start - (23 * 60 * 1000 + 1470)) / ((23 * 60 * 1000 + 27660) - (23 * 60 * 1000 + 1470)); end
+Comment: 0,0:22:11.68,0:22:13.85,Amadeus Rom Square,,0,0,0,code once,function setVars(j) size = math.random(10, 20); horizOffset = (size / 20) * math.random(-60, 60); vertOffset = (size / 20) * math.random(0, 50); if (j % clusterSize == 0) then timeOffset = math.random(-600, 0); speedOffset = math.random(-100, 100) end return ""; end
+Comment: 0,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,code once,function getClusterDur(start) return 175 + 800 * (1 - sigmoidIsh(segmentTime(start))); end
+Comment: 11,0:22:12.26,0:22:14.26,Amadeus Rom Square,,0,0,0,template notext syl loop 1,!setVars(j)! !loopctl(j, clusterSize * math.floor(0.5 + $sstart / getClusterDur($lstart)))! !retime("preline", getClusterDur($lstart) * math.floor(j / clusterSize) + timeOffset, (getClusterDur($lstart) * (math.floor(j / clusterSize) + 1) + timeOffset + speedOffset * (2 - segmentTime($lstart))) * (math.ceil(tenv.maxj / clusterSize / 1000)))! {\r\move(!$center + horizOffset!,!$middle + vertOffset!,!$center + horizOffset!,!$bottom + vertOffset + vertMove!, )\fade(!math.min(200, $sdur / 2)!,!$sdur / 2!) \3c&H!colourEffect($lstart + getClusterDur($lstart) * math.floor(j / clusterSize) + timeOffset)!& !flickerEffect($dur)!} {\p1\be1.5}m !-size! !-size! l !-size! !size! l !size! !size! l !size! !-size! {\p0}
 Comment: 11,0:23:01.47,0:23:04.51,Amadeus Rom Square,,0,0,0,karaoke,{\k43}Ze{\k12}ro {\k15}no {\k39}gee{\k33}to {\k37}hi{\k14}ra{\k21}ku {\k90}yo
 Comment: 11,0:23:04.51,0:23:06.98,Amadeus Rom Square,,0,0,0,karaoke,{\k41}Ma{\k10}bu{\k27}shi{\k27}i {\k36}hi{\k21}ka{\k18}ri {\k67}ni
 Comment: 11,0:23:06.98,0:23:08.69,Amadeus Rom Square,,0,0,0,karaoke,{\k34}Tsu{\k18}tsu{\k17}ma{\k28}re {\k34}yu{\k40}ku
@@ -36,12 +61,12 @@ Comment: 11,0:23:08.69,0:23:12.31,Amadeus Rom Square,,0,0,0,karaoke,{\k26}Ki{\k2
 Comment: 11,0:23:12.31,0:23:15.28,Amadeus Rom Square,,0,0,0,karaoke,{\k45}Wa{\k17}ra{\k16}i{\k13}go{\k19}e {\k36}ga {\k32}a{\k18}fu{\k20}re{\k81}ru
 Comment: 11,0:23:15.28,0:23:17.99,Amadeus Rom Square,,0,0,0,karaoke,{\k19}A{\k16}no {\k17}ji{\k32}ka{\k39}n {\k13}a{\k16}no {\k16}ba{\k18}sho {\k85}de
 Comment: 11,0:23:17.99,0:23:27.66,Amadeus Rom Square,,0,0,0,karaoke,{\k33}Ki{\k20}mi {\k34}no {\k19}“to{\k14}ki” {\k70}ga {\k33}mou{\k29}i{\k140}chi{\k352}do {\k21}ha{\k31}ji{\k133}ma{\k184}ru
-Dialogue: 13,0:22:14.26,0:22:19.55,Amadeus Rom Red,,0,0,0,karaoke,{\ko51}{\fs65}Da{\ko48}i{\ko36}ji{\ko133}na {\ko56}ki{\ko52}o{\ko31}ku {\ko122}wa
-Dialogue: 13,0:22:19.55,0:22:24.98,Amadeus Rom Red,,0,0,0,karaoke,{\ko38}{\fs65}Be{\ko21}tsu {\ko40}no {\ko17}ri{\ko18}ro{\ko15}n{\ko36}shi{\ko13}ki {\ko136}de {\ko30}u{\ko22}chi{\ko12}ke{\ko24}sa{\ko50}re{\ko71}ru
-Dialogue: 13,0:22:24.98,0:22:30.44,Amadeus Rom Red,,0,0,0,karaoke,{\ko53}{\fs65}Ji{\ko55}sho{\ko33}u {\ko141}no {\ko53}chi{\ko52}he{\ko33}i {\ko126}mo
-Dialogue: 13,0:22:30.44,0:22:35.44,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}{\fs65}Ba{\ko17}n{\ko33}bu{\ko28}tsu {\ko13}no {\ko21}so{\ko19}re {\ko28}sa{\ko141}e {\ko32}ka{\ko21}ki{\ko11}ka{\ko18}e{\ko85}ta
-Dialogue: 13,0:22:35.44,0:22:40.74,Amadeus Rom Red,,0,0,0,karaoke,{\ko18}{\fs65}Ha{\ko16}ko {\ko51}ni {\ko32}to{\ko19}ji{\ko19}ko{\ko14}me{\ko52}ta {\ko32}a{\ko25}i {\ko45}no {\ko36}da{\ko18}n{\ko47}pe{\ko23}n {\ko83}wa
-Dialogue: 13,0:22:40.74,0:22:46.08,Amadeus Rom Red,,0,0,0,karaoke,{\ko30}{\fs65}Chi{\ko26}ka{\ko44}ku {\ko15}to{\ko26}u{\ko25}su{\ko22}gi{\ko42}ru {\ko37}ji{\ko34}ge{\ko34}n {\ko24}no {\ko27}sa{\ko47}i{\ko18}ha{\ko83}te
+Dialogue: 13,0:22:14.26,0:22:19.55,Amadeus Rom Red,,0,0,0,karaoke,{\ko51\fs65}Da{\ko48}i{\ko36}ji{\ko133}na {\ko56}ki{\ko52}o{\ko31}ku {\ko122}wa
+Dialogue: 13,0:22:19.55,0:22:24.98,Amadeus Rom Red,,0,0,0,karaoke,{\ko38\fs65}Be{\ko21}tsu {\ko40}no {\ko17}ri{\ko18}ro{\ko15}n{\ko36}shi{\ko13}ki {\ko136}de {\ko30}u{\ko22}chi{\ko12}ke{\ko24}sa{\ko50}re{\ko71}ru
+Dialogue: 13,0:22:24.98,0:22:30.44,Amadeus Rom Red,,0,0,0,karaoke,{\ko53\fs65}Ji{\ko55}sho{\ko33}u {\ko141}no {\ko53}chi{\ko52}he{\ko33}i {\ko126}mo
+Dialogue: 13,0:22:30.44,0:22:35.44,Amadeus Rom Red,,0,0,0,karaoke,{\ko33\fs65}Ba{\ko17}n{\ko33}bu{\ko28}tsu {\ko13}no {\ko21}so{\ko19}re {\ko28}sa{\ko141}e {\ko32}ka{\ko21}ki{\ko11}ka{\ko18}e{\ko85}ta
+Dialogue: 13,0:22:35.44,0:22:40.74,Amadeus Rom Red,,0,0,0,karaoke,{\ko18\fs65}Ha{\ko16}ko {\ko51}ni {\ko32}to{\ko19}ji{\ko19}ko{\ko14}me{\ko52}ta {\ko32}a{\ko25}i {\ko45}no {\ko36}da{\ko18}n{\ko47}pe{\ko23}n {\ko83}wa
+Dialogue: 13,0:22:40.74,0:22:46.08,Amadeus Rom Red,,0,0,0,karaoke,{\ko30\fs65}Chi{\ko26}ka{\ko44}ku {\ko15}to{\ko26}u{\ko25}su{\ko22}gi{\ko42}ru {\ko37}ji{\ko34}ge{\ko34}n {\ko24}no {\ko27}sa{\ko47}i{\ko18}ha{\ko83}te
 Dialogue: 13,0:22:46.08,0:22:52.25,Amadeus Rom Red,,0,0,0,karaoke,{\ko33}Ka{\ko16}i{\ko25}he{\ko40}n {\ko80}no {\ko15}pu{\ko16}ro{\ko20}se{\ko49}su {\ko51}wa {\ko32}to{\ko20}te{\ko64}mo {\ko18}mu{\ko18}ja{\ko32}ki {\ko88}ni
 Dialogue: 13,0:22:52.25,0:22:54.71,Amadeus Rom Red,,0,0,0,karaoke,{\ko15}Ka{\ko17}mi {\ko16}sa{\ko28}e {\ko40}mo {\ko7}a{\ko25}zu{\ko20}mu{\ko14}ku {\ko25}fikku{\ko39}shon
 Dialogue: 13,0:22:54.71,0:22:57.88,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ya{\ko12}ku{\ko19}so{\ko30}ku {\ko39}no {\ko19}a{\ko15}no {\ko11}ba{\ko20}sho {\ko109}he
@@ -50,9 +75,9 @@ Dialogue: 13,0:23:01.47,0:23:04.51,Amadeus Rom Red,,0,0,0,karaoke,{\ko43}Ze{\ko1
 Dialogue: 13,0:23:04.51,0:23:06.98,Amadeus Rom Red,,0,0,0,karaoke,{\ko41}Ma{\ko10}bu{\ko27}shi{\ko27}i {\ko36}hi{\ko21}ka{\ko18}ri {\ko67}ni
 Dialogue: 13,0:23:06.98,0:23:08.69,Amadeus Rom Red,,0,0,0,karaoke,{\ko34}Tsu{\ko18}tsu{\ko17}ma{\ko28}re {\ko34}yu{\ko40}ku
 Dialogue: 13,0:23:08.69,0:23:12.31,Amadeus Rom Red,,0,0,0,karaoke,{\ko26}Ki{\ko21}se{\ko19}ki {\ko34}wo {\ko24}u{\ko31}n{\ko17}me{\ko11}i {\ko21}ni {\ko31}ka{\ko34}ki{\ko30}ka{\ko36}e{\ko27}te
-Dialogue: 13,0:23:12.31,0:23:15.28,Amadeus Rom Red,,0,0,0,karaoke,{\t(333,11458,\3c&HC7C7C7&)}{\ko45}Wa{\ko17}ra{\ko16}i{\ko13}go{\ko19}e {\ko36}ga {\ko32}a{\ko18}fu{\ko20}re{\ko81}ru
-Dialogue: 13,0:23:15.28,0:23:17.99,Amadeus Rom Red,,0,0,0,karaoke,{\t(-2583,8500,\3c&HC7C7C7&)}{\ko19}A{\ko16}no {\ko17}ji{\ko32}ka{\ko39}n {\ko13}a{\ko16}no {\ko16}ba{\ko18}sho {\ko85}de
-Dialogue: 13,0:23:17.99,0:23:27.66,Amadeus Rom Red,,0,0,0,karaoke,{\t(-5333,5792,\3c&HC7C7C7&)}{\ko33}Ki{\ko20}mi {\ko34}no {\ko19}“to{\ko14}ki” {\ko70}ga {\ko33}mou{\ko29}i{\ko140}chi{\ko352}do {\ko21}ha{\ko31}ji{\ko133}ma{\ko184}ru
+Dialogue: 13,0:23:12.31,0:23:15.28,Amadeus Rom Red,,0,0,0,karaoke,{\ko45\t(333,11458,\3c&HC7C7C7&)}Wa{\ko17}ra{\ko16}i{\ko13}go{\ko19}e {\ko36}ga {\ko32}a{\ko18}fu{\ko20}re{\ko81}ru
+Dialogue: 13,0:23:15.28,0:23:17.99,Amadeus Rom Red,,0,0,0,karaoke,{\ko19\t(-2583,8500,\3c&HC7C7C7&)}A{\ko16}no {\ko17}ji{\ko32}ka{\ko39}n {\ko13}a{\ko16}no {\ko16}ba{\ko18}sho {\ko85}de
+Dialogue: 13,0:23:17.99,0:23:27.66,Amadeus Rom Red,,0,0,0,karaoke,{\ko33\t(-5333,5792,\3c&HC7C7C7&)}Ki{\ko20}mi {\ko34}no {\ko19}“to{\ko14}ki” {\ko70}ga {\ko33}mou{\ko29}i{\ko140}chi{\ko352}do {\ko21}ha{\ko31}ji{\ko133}ma{\ko184}ru
 Dialogue: 12,0:22:14.26,0:22:19.55,Amadeus Rom,,0,0,0,karaoke,{\fs65}Daijina kioku wa
 Dialogue: 12,0:22:19.55,0:22:24.98,Amadeus Rom,,0,0,0,karaoke,{\fs65}Betsu no rironshiki de uchikesareru
 Dialogue: 12,0:22:24.98,0:22:30.44,Amadeus Rom,,0,0,0,karaoke,{\fs65}Jishou no chihei mo
@@ -205,9 +230,9 @@ Dialogue: 1,0:06:40.16,0:06:43.12,Whiteboard,,0,0,0,,{\pos(186,582)\c&H534B43&\f
 Dialogue: 0,0:13:25.56,0:13:27.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HCEC3BF&}m 264 57 l 560 10 l 588 84 l 281 132 {\p0}
 Dialogue: 0,0:13:25.56,0:13:27.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEBE4E0&}m 246 188 l 766 105 l 802 188 l 620 218 l 632 265 l 279 319 {\p0}
 Dialogue: 0,0:13:25.56,0:13:27.65,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HEBE4E0&}m 296 349 l 664 285 l 695 368 l 317 431 {\p0}
-Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\org(26,146)\fnPlaypen Sans Medium\c&H948683&\fs80\be3\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.097\pos(268,86)}Inbox
-Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\org(-08,222)\c&H787473&\fs77\fnPlaypen Sans Medium\be3\blur6\t(0,1000,\blur0)\frz8.685\frx6\fry356\pos(234,208)}From: {\c&HC2BBB8&}Hiyajo-san\N{\fs65\c&H787473&}To: {\c&HC2BBB8&}Okabe Rintaro
-Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\an4\org(108,260)\c&H787473&\fnPlaypen Sans Medium\fs70\be4\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.866\pos(256,400)}Subject: {\c&HD5CFCE&}(No subject)
+Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\org(26,146)\pos(268,86)\fnPlaypen Sans Medium\c&H948683&\fs80\be3\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.097}Inbox
+Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\org(-08,222)\pos(234,208)\c&H787473&\fs77\fnPlaypen Sans Medium\be3\blur6\t(0,1000,\blur0)\frz8.685\frx6\fry356}From: {\c&HC2BBB8&}Hiyajo-san\N{\fs65\c&H787473&}To: {\c&HC2BBB8&}Okabe Rintaro
+Dialogue: 1,0:13:25.56,0:13:27.65,OkabePhone,,0,0,0,,{\an4\org(108,260)\pos(256,400)\c&H787473&\fnPlaypen Sans Medium\fs70\be4\blur6\t(0,1000,\blur0)\frx6\fry356\frz9.866}Subject: {\c&HD5CFCE&}(No subject)
 Dialogue: 0,0:20:43.67,0:20:47.88,Draw,,0,0,0,,{\pos(0,0)\blur7\p1\c&H3C2929&}m 472 206 l 1207 204 l 1208 301 l 881 304 l 881 341 l 477 337 l 478 364 l 1015 363 l 1020 422 l 476 424 {\p0}
 Dialogue: 1,0:20:43.67,0:20:47.88,Signs,,0,0,0,,{\an7\pos(474,206)\fnCourier Prime\b0\fs46\be2\c&HFFF4EA&}Break into the servers of Viktor\NChondria University’s Brain Science\NInstitute and destroy all the data\Nconcerning the Amadeus AI.\N\NOpen the door with the attached key\Nbelow.
 Dialogue: 0,0:22:35.44,0:22:36.95,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&H815955&}m 849 342 l 1855 166 l 1885 518 l 1729 536 l 1737 655 l 842 763 {\p0}
