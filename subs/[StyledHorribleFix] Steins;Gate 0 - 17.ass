@@ -24,7 +24,7 @@ Style: SuzuhaPhone,Manjari,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Style: OP Rom,Libre Bodoni,90,&H00000000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
 Style: OP Trans,Libre Bodoni,90,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
 Style: Worldline Rom,Kode Mono SemiBold,100,&H0000FF00,&H00004200,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,23,1
-Style: Worldline Trans,Kode Mono SemiBold,100,&H0000FF00,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,23,23,23,1
+Style: Worldline Trans,Kode Mono SemiBold,100,&H0000FF00,&H00004200,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,2,23,23,23,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -60,43 +60,72 @@ Dialogue: 11,0:03:02.77,0:03:07.65,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Gua
 Dialogue: 11,0:03:07.65,0:03:10.36,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}I am forever by your side
 Dialogue: 11,0:03:10.36,0:03:13.07,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}We’re joined together as one
 Dialogue: 11,0:03:13.07,0:03:18.54,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Out of this quantum entanglement, “0” will manifest
-Dialogue: 11,0:22:12.84,0:22:17.84,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}Bai{\k23}bu{\k30}ree{\k160}shion {\k18}to{\k19}do{\k15}ka{\k30}na{\k22}i {\k11}e{\k25}moo{\k109}shion
-Dialogue: 11,0:22:18.43,0:22:24.60,Worldline Rom,,0,0,0,,{\k48}{\fsp-4.5}He{\k48}llo {\k18}A{\k32}ma{\k158}deus, {\k22}I’m {\k36}wai{\k37}ting {\k23}for {\k36}your {\k159}call
-Dialogue: 11,0:22:24.72,0:22:30.56,Worldline Rom,,0,0,0,,{\k36}{\fsp-4.5}Ko{\k44}no {\k14}ba{\k47}sho {\k144}wa {\k24}re{\k20}i{\k18}ya{\k20}a{\k21}do {\k23}no {\k37}you {\k136}ni
-Dialogue: 11,0:22:30.77,0:22:36.70,Worldline Rom,,0,0,0,,{\k45}{\fsp-4.5}Ta{\k43}ge{\k22}n{\k34}te{\k150}ki, {\k20}The {\k48}world {\k31}in {\k27}the {\k173}world
-Dialogue: 11,0:22:38.36,0:22:41.49,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}To{\k23}ki {\k14}wa {\k62}fu{\k16}ka{\k64}gya{\k19}ku {\k17}na{\k21}no{\k59}ni
-Dialogue: 11,0:22:41.49,0:22:44.20,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k10}Mi{\k24}chi {\k17}na{\k54}ru {\k29}se{\k58}ku{\k79}ta
-Dialogue: 11,0:22:44.20,0:22:46.25,Worldline Rom,,0,0,0,,{\k14}{\fsp-4.5}Ma{\k41}ru{\k15}de {\k43}furasshu {\k39}fowaado {\k17}na{\k37}ze?
-Dialogue: 11,0:22:46.25,0:22:49.21,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k42}Kissu {\k18}no {\k32}bi{\k203}jon
-Dialogue: 11,0:22:50.33,0:22:55.26,Worldline Rom,,0,0,0,,{\k19}{\fsp-4.5}Ko{\k22}nna {\k14}ni {\k20}chi{\k18}ka{\k21}ku{\k191}te {\k20}to{\k23}hou{\k19}mo{\k23}na{\k14}i {\k21}kyo{\k68}ri
-Dialogue: 11,0:22:56.46,0:22:59.59,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k12}sa{\k23}na{\k15}ri{\k20}a{\k17}u {\k24}ro{\k35}gosu {\k12}mu{\k11}su{\k17}u {\k14}no {\k25}“ze{\k21}ro” or {\k57}“one”
-Dialogue: 11,0:22:59.59,0:23:02.93,Worldline Rom,,0,0,0,,{\k23}{\fsp-4.5}Wa{\k24}ta{\k28}shi {\k121}wa {\k18}ko{\k23}ko {\k22}ni {\k17}i{\k11}ru {\k47}yo
-Dialogue: 11,0:23:03.81,0:23:07.23,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Tell {\k18}you {\k15}my {\k60}fee{\k80}lings {\k17}I {\k57}keep {\k36}in{\k41}side
-Dialogue: 11,0:23:07.23,0:23:10.35,Worldline Rom,,0,0,0,,{\k11}{\fsp-4.5}Ko{\k12}do{\k18}ku {\k18}no {\k22}ma{\k73}ma {\k11}ka{\k10}ka{\k41}e{\k17}te{\k40}ki{\k39}ta
-Dialogue: 11,0:23:10.35,0:23:16.11,Worldline Rom,,0,0,0,,{\k10}{\fsp-4.5}Ka{\k64}zo{\k76}e{\k20}ki{\k28}re{\k32}na{\k72}i {\k20}mu{\k20}ge{\k20}n {\k20}no {\k40}yu{\k20}ni{\k18}ba{\k116}asu
-Dialogue: 11,0:23:16.11,0:23:19.53,Worldline Rom,,0,0,0,,{\k18}{\fsp-4.5}Da{\k15}ka{\k18}ra {\k62}so{\k77}u {\k18}i{\k42}ma {\k15}da{\k40}ke {\k41}wa
-Dialogue: 11,0:23:19.53,0:23:22.62,Worldline Rom,,0,0,0,,{\fsp-4.5}{\k6}A{\k11}na{\k21}ta {\k18}no {\k12}a{\k84}su {\k10}a{\k10}na{\k20}ta {\k16}no {\k20}ta{\k40}me {\k37}ni
-Dialogue: 11,0:23:22.62,0:23:28.41,Worldline Rom,,0,0,0,,{\k17}{\fsp-4.5}U{\k67}chu{\k46}u {\k29}na{\k50}ru {\k43}ka{\k37}mi {\k32}no {\k105}world {\k18}bou{\k19}to{\k116}ku
-Dialogue: 11,0:23:28.79,0:23:31.88,Worldline Rom,,0,0,0,,{\k20}{\fsp-4.5}Ku{\k74}ri{\k23}ka{\k10}e{\k23}sa{\k43}na{\k38}i {\k78}de
-Dialogue: 11,0:23:32.08,0:23:35.13,Worldline Rom,,0,0,0,,{\k38}{\fsp-4.5}There {\k31}is {\k32}in{\k45}side {\k81}world{\k78}line
-Dialogue: 11,0:23:35.13,0:23:38.38,Worldline Rom,,0,0,0,,{\k41}{\fsp-4.5}There {\k28}is {\k35}in{\k49}side {\k51}world {\k27}la{\k94}yer
-Dialogue: 11,0:22:12.84,0:22:17.84,Worldline Trans,,0,0,0,,{\fsp-4.5}Vibration, an undelivered emotion
-Dialogue: 11,0:22:24.72,0:22:30.56,Worldline Trans,,0,0,0,,{\fsp-4.5}This place exists as a sequence of layers
-Dialogue: 11,0:22:30.77,0:22:36.70,Worldline Trans,,0,0,0,,{\fsp-4.5}Of worlds recursing within worlds
-Dialogue: 11,0:22:38.36,0:22:41.49,Worldline Trans,,0,0,0,,{\fsp-4.5}Although time is irreversible
-Dialogue: 11,0:22:41.49,0:22:44.20,Worldline Trans,,0,0,0,,{\fsp-4.5}These sectors remain unaccessed
-Dialogue: 11,0:22:44.20,0:22:46.25,Worldline Trans,,0,0,0,,{\fsp-4.5}Why did I receive this vision of a kiss
-Dialogue: 11,0:22:46.25,0:22:49.21,Worldline Trans,,0,0,0,,{\fsp-4.5}Like a flash-forward?
-Dialogue: 11,0:22:50.33,0:22:55.26,Worldline Trans,,0,0,0,,{\fsp-4.5}It came from so close—an outrageously large distance
-Dialogue: 11,0:22:56.46,0:22:59.59,Worldline Trans,,0,0,0,,{\fsp-4.5}I can only conclude that our existence is defined by “0”s and “1”s
-Dialogue: 11,0:22:59.59,0:23:02.93,Worldline Trans,,0,0,0,,{\fsp-4.5}In which I can be found right here
-Dialogue: 11,0:23:03.81,0:23:07.23,Worldline Trans,,0,0,0,,{\fsp-4.5}I’ll tell you my feelings that I keep inside
-Dialogue: 11,0:23:07.23,0:23:10.35,Worldline Trans,,0,0,0,,{\fsp-4.5}I remain in solitude, while in hold of
-Dialogue: 11,0:23:10.35,0:23:16.11,Worldline Trans,,0,0,0,,{\fsp-4.5}A countless number of infinitely expansive universes
-Dialogue: 11,0:23:16.11,0:23:19.53,Worldline Trans,,0,0,0,,{\fsp-4.5}That’s why I’ll make sure
-Dialogue: 11,0:23:19.53,0:23:22.62,Worldline Trans,,0,0,0,,{\fsp-4.5}For the sake of your tomorrow
-Dialogue: 11,0:23:22.62,0:23:28.41,Worldline Trans,,0,0,0,,{\fsp-4.5}That the blasphemy of the God ruling this universe
-Dialogue: 11,0:23:28.79,0:23:31.88,Worldline Trans,,0,0,0,,{\fsp-4.5}Will never be repeated
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,,
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,charKDur = 1.3 * 100 * (1001 / 24000)
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,charDur = charKDur * 10
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,charWriteTime = 0
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,function getCharWriteTime(skdur) if (skdur == 0) then charWriteTime = charWriteTime + charKDur; return charKDur; else returnVal = math.max(0, skdur - charWriteTime); charWriteTime = -math.min(0, skdur - charWriteTime); return returnVal; end; end
+Comment: 12,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,template line,{\k!getCharWriteTime($skdur)!}
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,flickerTime = 600
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,charWriteTimeLine = 0
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,charWriteTimeLineEnd = 0
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,function getCharWriteTimeLine(sdur, si) if (si == 0) then charWriteTimeLineEnd = 0; return 0; end if (sdur == 0) then returnVal = charWriteTimeLine; charWriteTimeLine = charWriteTimeLine + charDur; charWriteTimeLineEnd = charWriteTimeLine; return returnVal; else returnVal = charWriteTimeLine; charWriteTimeLine = -math.min(0, sdur - charWriteTimeLine); charWriteTimeLineEnd = sdur; return returnVal; end; end
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,lineNum = 0
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,prevTime = 0
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,code once,function flickerEffect(dur, si, syln) if (si == syln and lineNum ~= 0) then return ""; end; returnVal = ""; for i = 1, math.floor(dur / 500) + 2, 2 do returnVal = returnVal .. "\\t(" .. flickerTime * i .. "," .. flickerTime * i .. ", \\alpha&HFF&)\\t(" .. flickerTime * (i + 1) .. "," .. flickerTime * (i + 1) .. ", \\alpha&H00&)"; end; return returnVal; end
+Comment: 13,0:22:10.84,0:22:12.84,Worldline Rom,,0,0,0,template syl notext,!retime("presyl", getCharWriteTimeLine($sdur, $si), charWriteTimeLineEnd)!{\pos(!$sright + 5!, !$stop + 12!) !flickerEffect(charWriteTimeLineEnd - charWriteTimeLine, $si, $syln)! \p1} m 0 0 l 0 70 l 5 70 l 5 0 {\p0}
+Comment: 12,0:22:12.84,0:22:18.43,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}B{\k0}a{\k38}i{\k0}b{\k23}u{\k0}r{\k0}e{\k30}e{\k0}s{\k0}h{\k0}i{\k0}o{\k160}n{\k0} {\k0}t{\k18}o{\k0}d{\k19}o{\k0}k{\k15}a{\k0}n{\k30}a{\k22}i{\k0} {\k11}e{\k0}m{\k0}o{\k25}o{\k0}s{\k0}h{\k0}i{\k0}o{\k168}n
+Comment: 12,0:22:18.43,0:22:24.72,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}H{\k48}e{\k0}l{\k0}l{\k48}o{\k0} {\k18}A{\k0}m{\k32}a{\k0}d{\k0}e{\k0}u{\k0}s{\k158},{\k0} {\k0}I{\k0}’{\k22}m{\k0} {\k0}w{\k0}a{\k36}i{\k0}t{\k0}i{\k0}n{\k37}g{\k0} {\k0}f{\k0}o{\k23}r{\k0} {\k0}y{\k0}o{\k0}u{\k36}r{\k0} {\k0}c{\k0}a{\k0}l{\k171}l
+Comment: 12,0:22:24.72,0:22:30.77,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k36}o{\k0}n{\k44}o{\k0} {\k0}b{\k14}a{\k0}s{\k0}h{\k47}o{\k0} {\k0}w{\k144}a{\k0} {\k0}r{\k24}e{\k20}i{\k0}y{\k18}a{\k20}a{\k0}d{\k21}o{\k0} {\k0}n{\k23}o{\k0} {\k0}y{\k0}o{\k37}u{\k0} {\k0}n{\k157}i
+Comment: 12,0:22:30.77,0:22:38.36,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k45}a{\k0}g{\k43}e{\k22}n{\k0}t{\k34}e{\k0}k{\k0}i{\k150},{\k0} {\k0}T{\k0}h{\k20}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k48}d{\k0} {\k0}i{\k31}n{\k0} {\k0}t{\k0}h{\k27}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k339}d
+Comment: 12,0:22:38.36,0:22:41.49,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k18}o{\k0}k{\k23}i{\k0} {\k0}w{\k14}a{\k0} {\k0}f{\k62}u{\k0}k{\k16}a{\k0}g{\k0}y{\k64}a{\k0}k{\k19}u{\k0} {\k0}n{\k17}a{\k0}n{\k21}o{\k0}n{\k59}i
+Comment: 12,0:22:41.49,0:22:44.20,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}M{\k10}i{\k0}c{\k0}h{\k24}i{\k0} {\k0}n{\k17}a{\k0}r{\k54}u{\k0} {\k0}s{\k29}e{\k0}k{\k58}u{\k0}t{\k79}a
+Comment: 12,0:22:44.20,0:22:46.25,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}M{\k14}a{\k0}r{\k41}u{\k0}d{\k15}e{\k0} {\k0}f{\k0}u{\k0}r{\k0}a{\k0}s{\k0}s{\k0}h{\k43}u{\k0} {\k0}f{\k0}o{\k0}w{\k0}a{\k0}a{\k0}d{\k39}o{\k0} {\k0}n{\k17}a{\k0}z{\k0}e{\k36}?
+Comment: 12,0:22:46.25,0:22:50.33,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k0}i{\k0}s{\k0}s{\k42}u{\k0} {\k0}n{\k18}o{\k0} {\k0}b{\k32}i{\k0}j{\k0}o{\k316}n
+Comment: 12,0:22:50.33,0:22:56.46,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k19}o{\k0}n{\k0}n{\k22}a{\k0} {\k0}n{\k14}i{\k0} {\k0}c{\k0}h{\k20}i{\k0}k{\k18}a{\k0}k{\k21}u{\k0}t{\k191}e{\k0} {\k0}t{\k20}o{\k0}h{\k0}o{\k23}u{\k0}m{\k19}o{\k0}n{\k23}a{\k14}i{\k0} {\k0}k{\k0}y{\k21}o{\k0}r{\k188}i
+Comment: 12,0:22:56.46,0:22:59.59,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k10}a{\k0}s{\k12}a{\k0}n{\k23}a{\k0}r{\k15}i{\k20}a{\k17}u{\k0} {\k0}r{\k24}o{\k0}g{\k0}o{\k0}s{\k35}u{\k0} {\k0}m{\k12}u{\k0}s{\k11}u{\k17}u{\k0} {\k0}n{\k14}o{\k0} {\k0}“{\k0}z{\k25}e{\k0}r{\k0}o{\k0}”{\k0} {\k0}o{\k21}r{\k0} {\k0}“{\k0}o{\k0}n{\k0}e{\k57}”
+Comment: 12,0:22:59.59,0:23:03.81,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}W{\k23}a{\k0}t{\k24}a{\k0}s{\k0}h{\k28}{\k0}i{\k0} {\k0}w{\k121}a{\k0} {\k0}k{\k18}o{\k0}k{\k23}o{\k0} {\k0}n{\k22}i{\k0} {\k17}i{\k0}r{\k11}u{\k0} {\k0}y{\k135}o
+Comment: 12,0:23:03.81,0:23:07.23,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}e{\k0}l{\k18}l{\k0} {\k0}y{\k0}o{\k18}u{\k0} {\k0}m{\k15}y{\k0} {\k0}f{\k0}e{\k60}e{\k0}l{\k0}i{\k0}n{\k0}g{\k80}s{\k0} {\k17}I{\k0} {\k0}k{\k0}e{\k0}e{\k57}p{\k0} {\k0}i{\k36}n{\k0}s{\k0}i{\k0}d{\k41}e
+Comment: 12,0:23:07.23,0:23:10.35,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k11}o{\k0}d{\k12}o{\k0}k{\k18}u{\k0} {\k0}n{\k18}o{\k0} {\k0}m{\k22}a{\k0}m{\k73}a{\k0} {\k0}k{\k11}a{\k0}k{\k10}a{\k41}e{\k0}t{\k17}e{\k0}k{\k40}i{\k0}t{\k39}a
+Comment: 12,0:23:10.35,0:23:16.11,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k10}a{\k0}z{\k64}o{\k76}e{\k0}k{\k20}i{\k0}r{\k28}e{\k0}n{\k32}a{\k72}i{\k0} {\k0}m{\k20}u{\k0}g{\k20}e{\k20}n{\k0} {\k0}n{\k20}o{\k0} {\k0}y{\k40}u{\k0}n{\k20}i{\k0}b{\k18}a{\k0}a{\k0}s{\k116}u
+Comment: 12,0:23:16.11,0:23:19.53,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}D{\k18}a{\k0}k{\k15}a{\k0}r{\k18}a{\k0} {\k0}s{\k62}o{\k77}u{\k0} {\k18}i{\k0}m{\k42}a{\k0} {\k0}d{\k15}a{\k0}k{\k40}e{\k0} {\k0}w{\k37}a
+Comment: 12,0:23:19.53,0:23:22.62,Worldline Rom,,0,0,0,karaoke,{\k6}{\fsp-4.5}A{\k0}n{\k11}a{\k0}t{\k21}a{\k0} {\k0}n{\k18}o{\k0} {\k12}a{\k0}s{\k84}u{\k0} {\k10}a{\k0}n{\k10}a{\k0}t{\k20}a{\k0} {\k0}n{\k16}o{\k0} {\k0}t{\k20}a{\k0}m{\k40}e{\k0} {\k0}n{\k41}i
+Comment: 12,0:23:22.62,0:23:28.79,Worldline Rom,,0,0,0,karaoke,{\k17}{\fsp-4.5}U{\k0}c{\k0}h{\k67}u{\k46}u{\k0} {\k0}n{\k29}a{\k0}r{\k50}u{\k0} {\k0}k{\k43}a{\k0}m{\k37}i{\k0} {\k0}n{\k32}o{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k105}d{\k0} {\k0}b{\k0}o{\k18}u{\k0}t{\k19}o{\k0}k{\k154}u
+Comment: 12,0:23:28.79,0:23:32.08,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k20}u{\k0}r{\k74}i{\k0}k{\k23}a{\k10}e{\k0}s{\k23}a{\k0}n{\k43}a{\k38}i{\k0} {\k0}d{\k98}e
+Comment: 12,0:23:32.08,0:23:35.13,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k38}e{\k0} {\k0}i{\k31}s{\k0} {\k0}i{\k32}n{\k0}s{\k0}i{\k0}d{\k45}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k81}d{\k0}l{\k0}i{\k0}n{\k78}e
+Comment: 12,0:23:35.13,0:23:38.38,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k41}e{\k0} {\k0}i{\k28}s{\k0} {\k0}i{\k35}n{\k0}s{\k0}i{\k0}d{\k49}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k51}d{\k0} {\k0}l{\k27}a{\k0}y{\k0}e{\k94}r
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,,
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,charKDurTrans = 1.15 * 100 * (1001 / 24000)
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,charDurTrans = charKDurTrans * 10
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,function getCharWriteTimeTrans(skdur) if (skdur == 0) then return charKDurTrans; end; return skdur * charKDurTrans; end
+Comment: 12,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,template line,{\k!getCharWriteTimeTrans($skdur)!}
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code line,charWriteTimeLineTrans = 0
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code line,charWriteTimeLineEndTrans = 0
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,function handleMultiline(si, lstart) if (si ~= 0) then return ""; end; if (lstart == prevTime) then lineNum = lineNum + 1; else lineNum = 0; prevTime = lstart; end; return ""; end
+Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,function getCharWriteTimeLineTrans(skdur, remainingDur, si, syln) if (si == 0 or si == syln and lineNum ~= 0) then charWriteTimeLineEndTrans = 0; charWriteTimeLineTrans = 0; elseif (si == syln) then charWriteTimeLineTrans = charWriteTimeLineEndTrans + skdur * (charDurTrans - 10); charWriteTimeLineEndTrans = remainingDur; elseif (skdur ~= 0) then charWriteTimeLineTrans = charWriteTimeLineEndTrans + skdur * charDurTrans; charWriteTimeLineEndTrans = charWriteTimeLineEndTrans + skdur * (charDurTrans - 10); else charWriteTimeLineTrans = charWriteTimeLineEndTrans + skdur * charDurTrans; charWriteTimeLineEndTrans = charWriteTimeLineEndTrans + charDurTrans; end; return charWriteTimeLineTrans; end
+Comment: 13,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,template syl notext,!handleMultiline($si, $lstart)! !retime("presyl", getCharWriteTimeLineTrans($skdur, $ldur - $sstart, $si, $syln), charWriteTimeLineEndTrans)!{\pos(!$sright + 5!, !$sbottom - 18 - ($lheight + $margin_v / 2) * lineNum!) !flickerEffect(charWriteTimeLineEndTrans - charWriteTimeLineTrans, $si, $syln)! \p1} m 0 0 l 0 70 l 5 70 l 5 0 {\p0}
+Comment: 12,0:22:12.84,0:22:18.43,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}V{\k0}i{\k0}b{\k0}r{\k0}a{\k0}t{\k0}i{\k0}o{\k0}n{\k0},{\k0} {\k0}a{\k0}n{\k0} {\k0}u{\k0}n{\k0}d{\k0}e{\k0}l{\k0}i{\k0}v{\k0}e{\k0}r{\k0}e{\k0}d{\k0} {\k0}e{\k0}m{\k0}o{\k0}t{\k0}i{\k0}o{\k0}n
+Comment: 12,0:22:24.72,0:22:30.77,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}T{\k0}h{\k0}i{\k0}s{\k0} {\k0}p{\k0}l{\k0}a{\k0}c{\k0}e{\k0} {\k0}e{\k0}x{\k0}i{\k0}s{\k0}t{\k0}s{\k0} {\k0}a{\k0}s{\k0} {\k0}a{\k0} {\k0}s{\k0}e{\k0}q{\k0}u{\k0}e{\k0}n{\k0}c{\k0}e{\k0} {\k0}o{\k0}f{\k0} {\k0}l{\k0}a{\k0}y{\k0}e{\k0}r{\k0}s
+Comment: 12,0:22:30.77,0:22:38.36,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}O{\k0}f{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k0}d{\k0}s{\k0} {\k0}r{\k0}e{\k0}c{\k0}u{\k0}r{\k0}s{\k0}i{\k0}n{\k0}g{\k0} {\k0}w{\k0}i{\k0}t{\k0}h{\k0}i{\k0}n{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k0}d{\k0}s
+Comment: 12,0:22:38.36,0:22:41.49,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}A{\k0}l{\k0}t{\k0}h{\k0}o{\k0}u{\k0}g{\k0}h{\k0} {\k0}t{\k0}i{\k0}m{\k0}e{\k0} {\k0}i{\k0}s{\k0} {\k0}i{\k0}r{\k0}r{\k0}e{\k0}v{\k0}e{\k0}r{\k0}s{\k0}i{\k0}b{\k0}l{\k0}e
+Comment: 12,0:22:41.49,0:22:44.20,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}T{\k0}h{\k0}e{\k0}s{\k0}e{\k0} {\k0}s{\k0}e{\k0}c{\k0}t{\k0}o{\k0}r{\k0}s{\k0} {\k0}r{\k0}e{\k0}m{\k0}a{\k0}i{\k0}n{\k0} {\k0}u{\k0}n{\k0}a{\k0}c{\k0}c{\k0}e{\k0}s{\k0}s{\k0}e{\k0}d
+Comment: 12,0:22:44.20,0:22:50.33,Worldline Trans,,0,0,0,karaoke,{\k40}{\fsp-4.5}{\k0}l{\k0}i{\k0}k{\k0}e{\k0} {\k0}a{\k0} {\k0}f{\k0}l{\k0}a{\k0}s{\k0}h{\k0}-{\k0}f{\k0}o{\k0}r{\k0}w{\k0}a{\k0}r{\k0}d{\k0}?
+Comment: 12,0:22:44.20,0:22:50.33,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}W{\k0}h{\k0}y{\k0} {\k0}d{\k0}i{\k0}d{\k0} {\k0}I{\k0} {\k0}r{\k0}e{\k0}c{\k0}e{\k0}i{\k0}v{\k0}e{\k0} {\k0}t{\k0}h{\k0}i{\k0}s{\k0} {\k0}v{\k0}i{\k0}s{\k0}i{\k0}o{\k0}n{\k0} {\k0}o{\k0}f{\k0} {\k0}a{\k0} {\k0}k{\k0}i{\k0}s{\k0}s{\k0},
+Comment: 12,0:22:50.33,0:22:56.46,Worldline Trans,,0,0,0,karaoke,{\k22}{\fsp-4.5}{\k0}a{\k0}n{\k0} {\k0}o{\k0}u{\k0}t{\k0}r{\k0}a{\k0}g{\k0}e{\k0}o{\k0}u{\k0}s{\k0}l{\k0}y{\k0} {\k0}l{\k0}a{\k0}r{\k0}g{\k0}e{\k0} {\k0}d{\k0}i{\k0}s{\k0}t{\k0}a{\k0}n{\k0}c{\k0}e
+Comment: 12,0:22:50.33,0:22:56.46,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}I{\k0}t{\k0} {\k0}c{\k0}a{\k0}m{\k0}e{\k0} {\k0}f{\k0}r{\k0}o{\k0}m{\k0} {\k0}s{\k0}o{\k0} {\k0}c{\k0}l{\k0}o{\k0}s{\k0}e{\k0}—
+Comment: 12,0:22:56.46,0:22:59.59,Worldline Trans,,0,0,0,karaoke,{\k24}{\fsp-4.5}{\k0}o{\k0}u{\k0}r{\k0} {\k0}e{\k0}x{\k0}i{\k0}s{\k0}t{\k0}e{\k0}n{\k0}c{\k0}e{\k0} {\k0}i{\k0}s{\k0} {\k0}d{\k0}e{\k0}f{\k0}i{\k0}n{\k0}e{\k0}d{\k0} {\k0}b{\k0}y{\k0} {\k0}“{\k0}0{\k0}”{\k0}s{\k0} {\k0}a{\k0}n{\k0}d{\k0} {\k0}“{\k0}1{\k0}”{\k0}s
+Comment: 12,0:22:56.46,0:22:59.59,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}I{\k0} {\k0}c{\k0}a{\k0}n{\k0} {\k0}o{\k0}n{\k0}l{\k0}y{\k0} {\k0}c{\k0}o{\k0}n{\k0}c{\k0}l{\k0}u{\k0}d{\k0}e{\k0} {\k0}t{\k0}h{\k0}a{\k0}t
+Comment: 12,0:22:59.59,0:23:03.81,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}I{\k0}n{\k0} {\k0}w{\k0}h{\k0}i{\k0}c{\k0}h{\k0} {\k0}I{\k0} {\k0}c{\k0}a{\k0}n{\k0} {\k0}b{\k0}e{\k0} {\k0}f{\k0}o{\k0}u{\k0}n{\k0}d{\k0} {\k0}r{\k0}i{\k0}g{\k0}h{\k0}t{\k0} {\k0}h{\k0}e{\k0}r{\k0}e
+Comment: 12,0:23:03.81,0:23:07.23,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}I{\k0}’{\k0}l{\k0}l{\k0} {\k0}t{\k0}e{\k0}l{\k0}l{\k0} {\k0}y{\k0}o{\k0}u{\k0} {\k0}m{\k0}y{\k0} {\k0}f{\k0}e{\k0}e{\k0}l{\k0}i{\k0}n{\k0}g{\k0}s{\k0} {\k0}t{\k0}h{\k0}a{\k0}t{\k0} {\k0}I{\k0} {\k0}k{\k0}e{\k0}e{\k0}p{\k0} {\k0}i{\k0}n{\k0}s{\k0}i{\k0}d{\k0}e
+Comment: 12,0:23:07.23,0:23:10.35,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}I{\k0} {\k0}r{\k0}e{\k0}m{\k0}a{\k0}i{\k0}n{\k0} {\k0}i{\k0}n{\k0} {\k0}s{\k0}o{\k0}l{\k0}i{\k0}t{\k0}u{\k0}d{\k0}e{\k0},{\k0} {\k0}w{\k0}h{\k0}i{\k0}l{\k0}e{\k0} {\k0}i{\k0}n{\k0} {\k0}h{\k0}o{\k0}l{\k0}d{\k0} {\k0}o{\k0}f
+Comment: 12,0:23:10.35,0:23:16.11,Worldline Trans,,0,0,0,karaoke,{\k22}{\fsp-4.5}{\k0}i{\k0}n{\k0}f{\k0}i{\k0}n{\k0}i{\k0}t{\k0}e{\k0}l{\k0}y{\k0} {\k0}e{\k0}x{\k0}p{\k0}a{\k0}n{\k0}s{\k0}i{\k0}v{\k0}e{\k0} {\k0}u{\k0}n{\k0}i{\k0}v{\k0}e{\k0}r{\k0}s{\k0}e{\k0}s
+Comment: 12,0:23:10.35,0:23:16.11,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}A{\k0} {\k0}c{\k0}o{\k0}u{\k0}n{\k0}t{\k0}l{\k0}e{\k0}s{\k0}s{\k0} {\k0}n{\k0}u{\k0}m{\k0}b{\k0}e{\k0}r{\k0} {\k0}o{\k0}f
+Comment: 12,0:23:16.11,0:23:19.53,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}T{\k0}h{\k0}a{\k0}t{\k0}’{\k0}s{\k0} {\k0}w{\k0}h{\k0}y{\k0} {\k0}I{\k0}’{\k0}l{\k0}l{\k0} {\k0}m{\k0}a{\k0}k{\k0}e{\k0} {\k0}s{\k0}u{\k0}r{\k0}e
+Comment: 12,0:23:19.53,0:23:22.62,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}F{\k0}o{\k0}r{\k0} {\k0}t{\k0}h{\k0}e{\k0} {\k0}s{\k0}a{\k0}k{\k0}e{\k0} {\k0}o{\k0}f{\k0} {\k0}y{\k0}o{\k0}u{\k0}r{\k0} {\k0}t{\k0}o{\k0}m{\k0}o{\k0}r{\k0}r{\k0}o{\k0}w
+Comment: 12,0:23:22.62,0:23:28.79,Worldline Trans,,0,0,0,karaoke,{\k21}{\fsp-4.5}{\k0}t{\k0}h{\k0}e{\k0} {\k0}G{\k0}o{\k0}d{\k0} {\k0}r{\k0}u{\k0}l{\k0}i{\k0}n{\k0}g{\k0} {\k0}t{\k0}h{\k0}i{\k0}s{\k0} {\k0}u{\k0}n{\k0}i{\k0}v{\k0}e{\k0}r{\k0}s{\k0}e
+Comment: 12,0:23:22.62,0:23:28.79,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}T{\k0}h{\k0}a{\k0}t{\k0} {\k0}t{\k0}h{\k0}e{\k0} {\k0}b{\k0}l{\k0}a{\k0}s{\k0}p{\k0}h{\k0}e{\k0}m{\k0}y{\k0} {\k0}o{\k0}f
+Comment: 12,0:23:28.79,0:23:32.08,Worldline Trans,,0,0,0,karaoke,{\fsp-4.5}{\k0}W{\k0}i{\k0}l{\k0}l{\k0} {\k0}n{\k0}e{\k0}v{\k0}e{\k0}r{\k0} {\k0}b{\k0}e{\k0} {\k0}r{\k0}e{\k0}p{\k0}e{\k0}a{\k0}t{\k0}e{\k0}d
+Comment: 12,0:23:28.79,0:23:32.08,Worldline Trans,,0,0,0,,
 Dialogue: 1,0:12:43.98,0:12:48.98,Title,,0,0,0,,{\an3\fsp-3\pos(1216,890)}Altair
 Dialogue: 1,0:12:43.98,0:12:48.98,Title,,0,0,0,,{\an3\fsp8\pos(1288,912)}of
 Dialogue: 1,0:12:43.98,0:12:48.98,Title,,0,0,0,,{\an3\fsp-7\fs80\pos(1280,958)}the
