@@ -99,39 +99,65 @@ Dialogue: 1,0:15:44.41,0:15:44.53,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlay
 Dialogue: 1,0:15:44.53,0:15:52.67,Signs,,0,0,0,,{\an7\be1\fs50\c&H262628&\fnPlaypen Sans\b1\blur1\frz310.2\pos(1070.377,860)}Burnable
 Dialogue: 1,0:16:07.93,0:16:11.14,Signs,,0,0,0,,{\an8\fnAnton\b0\c&H0D0F11&\fs50\fsp1\frz161.3\be3.5\pos(1336,320)}INTERACTIVE {\c&H091213&}TRAI{\c&H121519&}NING {\c&H16171C&}SIMULATION
 Dialogue: 0,0:17:01.82,0:17:02.90,Draw,,0,0,0,,{\pos(0,0)\p1\c&HEDE8E7&\blur10}m 732 101 l 961 154 l 942 267 l 711 212 {\p0}
-Dialogue: 0,0:17:02.90,0:17:02.99,Draw,,0,0,0,,{\move(0,-20,0,-170)\p1\c&HEDE8E7&\blur10}m 732 101 l 961 154 l 942 267 l 711 212 {\p0}
+Dialogue: 0,0:17:02.90,0:17:02.96,Draw,,0,0,0,,{\p1\c&HEDE8E7&\blur10\pos(12,-34)}m 732 101 l 961 154 l 942 267 l 711 212 {\p0}
+Dialogue: 0,0:17:02.96,0:17:02.99,Draw,,0,0,0,,{\p1\c&HEDE8E7&\blur10\pos(24,-144)}m 732 101 l 961 154 l 942 267 l 711 212 {\p0}
 Dialogue: 0,0:17:01.82,0:17:02.90,Draw,,0,0,0,,{\pos(0,0)\p1\c&HEBE4E3&\blur10}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
-Dialogue: 0,0:17:02.90,0:17:03.07,Draw,,0,0,0,,{\move(0,0,60,-420)\p1\c&HEBE4E3&\blur10}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
+Dialogue: 0,0:17:02.90,0:17:02.96,Draw,,0,0,0,,{\p1\c&HEBE4E3&\blur10\pos(6,-44)}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
+Dialogue: 0,0:17:02.96,0:17:03.00,Draw,,0,0,0,,{\p1\c&HEBE4E3&\blur10\pos(34,-144)}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
+Dialogue: 0,0:17:03.00,0:17:03.04,Draw,,0,0,0,,{\p1\c&HEBE4E3&\blur10\pos(30,-246)}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
+Dialogue: 0,0:17:03.04,0:17:03.07,Draw,,0,0,0,,{\pos(50,-380)\p1\c&HEBE4E3&\blur10}m 660 379 l 850 423 l 831 536 l 639 490 {\p0}
 Dialogue: 0,0:17:01.82,0:17:02.90,Draw,,0,0,0,,{\pos(0,0)\p1\c&HE3DAD8&\blur10}m 604 673 l 824 726 l 805 839 l 583 784 {\p0}
-Dialogue: 0,0:17:02.90,0:17:03.24,Draw,,0,0,0,,{\move(0,0,100,-840)\p1\c&HE3DAD8&\blur10}m 604 673 l 824 726 l 796 863 l 574 808 {\p0}
+Dialogue: 0,0:17:02.90,0:17:03.21,Draw,,0,0,0,,{\move(0,0,100,-740)\p1\c&HE3DAD8&\blur10}m 604 673 l 824 726 l 796 863 l 574 808 {\p0}
+Dialogue: 0,0:17:03.21,0:17:03.24,Draw,,0,0,0,,{\pos(120,-740)\p1\c&HE3DAD8&\blur10}m 604 673 l 824 726 l 796 863 l 574 808 {\p0}
 Dialogue: 0,0:17:01.82,0:17:02.90,Draw,,0,0,0,,{\pos(0,0)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
-Dialogue: 0,0:17:02.90,0:17:03.24,Draw,,0,0,0,,{\move(0,0,100,-840)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
+Dialogue: 0,0:17:02.90,0:17:03.21,Draw,,0,0,0,,{\move(0,0,100,-750)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
+Dialogue: 0,0:17:03.21,0:17:03.25,Draw,,0,0,0,,{\pos(100,-760)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
 Dialogue: 0,0:17:03.24,0:17:03.49,Draw,,0,0,0,,{\move(130,-820,150,-990)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
 Dialogue: 0,0:17:03.49,0:17:04.24,Draw,,0,0,0,,{\move(150,-990,160,-1100)\p1\c&HD8D0CB&\blur10}m 531 966 l 751 1019 l 723 1156 l 501 1101 {\p0}
 Dialogue: 0,0:17:02.99,0:17:03.24,Draw,,0,0,0,,{\move(-90,500,0,-50)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
 Dialogue: 0,0:17:03.24,0:17:03.49,Draw,,0,0,0,,{\move(0,-50,30,-240)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
 Dialogue: 0,0:17:03.49,0:17:04.24,Draw,,0,0,0,,{\move(30,-240,50,-350)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
 Dialogue: 0,0:17:04.24,0:17:04.86,Draw,,0,0,0,,{\pos(50,-350)\p1\c&HB7ACA5&\blur20}m 564 493 l 974 583 l 949 742 l 545 650 {\p0}
-Dialogue: 0,0:17:03.11,0:17:03.24,Draw,,0,0,0,,{\move(-40,280,0,-10)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
+Dialogue: 0,0:17:03.11,0:17:03.24,Draw,,0,0,0,,{\move(-40,280,0,20)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
 Dialogue: 0,0:17:03.24,0:17:03.49,Draw,,0,0,0,,{\move(0,30,30,-170)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
 Dialogue: 0,0:17:03.49,0:17:04.24,Draw,,0,0,0,,{\move(30,-170,50,-300)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
 Dialogue: 0,0:17:04.24,0:17:04.86,Draw,,0,0,0,,{\pos(50,-300)\p1\c&H938780&\blur20}m 510 727 l 742 783 l 711 925 l 485 867 {\p0}
 Dialogue: 1,0:17:01.82,0:17:02.90,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H786868&\blur1.5\pos(726,161)}Mayuri
-Dialogue: 1,0:17:02.90,0:17:02.99,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H786868&\blur1.5\move(726,161,766,-20)}Mayuri
+Dialogue: 1,0:17:02.90,0:17:02.96,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H786868&\blur1.5\pos(732,113)}Mayuri
+Dialogue: 1,0:17:02.96,0:17:02.99,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H786868&\blur1.5\pos(754,14)}Mayuri
 Dialogue: 1,0:17:01.82,0:17:02.90,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\pos(656,443)}Daru
-Dialogue: 1,0:17:02.90,0:17:03.07,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\move(646,463,716,20)}Daru
+Dialogue: 1,0:17:02.90,0:17:02.96,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\pos(664,397)}Daru
+Dialogue: 1,0:17:02.96,0:17:03.00,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\pos(680,295)}Daru
+Dialogue: 1,0:17:03.00,0:17:03.04,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\pos(700,177)}Daru
+Dialogue: 1,0:17:03.04,0:17:03.07,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H9F60D9&\blur1.5\pos(714,61)}Daru
 Dialogue: 1,0:17:01.82,0:17:02.90,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(590,721)}Mayuri
-Dialogue: 1,0:17:02.90,0:17:03.07,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\move(590,741,650,310)}Mayuri
-Dialogue: 1,0:17:03.07,0:17:03.28,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\move(660,290,730,-110)}Mayuri
-Dialogue: 1,0:17:01.82,0:17:02.90,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(520,1027)}Lukako
-Dialogue: 1,0:17:02.90,0:17:03.07,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(525,1055,590,600)}Lukako
-Dialogue: 1,0:17:03.07,0:17:03.24,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(590,600,640,240)}Lukako
+Dialogue: 1,0:17:02.90,0:17:02.96,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(598,677)}Mayuri
+Dialogue: 1,0:17:02.96,0:17:03.00,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(612,579)}Mayuri
+Dialogue: 1,0:17:03.00,0:17:03.04,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(630,457)}Mayuri
+Dialogue: 1,0:17:03.04,0:17:03.07,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(646,347)}Mayuri
+Dialogue: 1,0:17:03.07,0:17:03.12,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(668,248)}Mayuri
+Dialogue: 1,0:17:03.12,0:17:03.16,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(676,158)}Mayuri
+Dialogue: 1,0:17:03.16,0:17:03.21,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(692,58)}Mayuri
+Dialogue: 1,0:17:03.21,0:17:03.25,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H5B5150&\blur1.5\pos(706,-10)}Mayuri
+Dialogue: 1,0:17:01.82,0:17:02.90,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(532,1027)}Lukako
+Dialogue: 1,0:17:02.90,0:17:02.96,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(539,979)}Lukako
+Dialogue: 1,0:17:02.96,0:17:03.00,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(547,871)}Lukako
+Dialogue: 1,0:17:03.00,0:17:03.04,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(567,755)}Lukako
+Dialogue: 1,0:17:03.04,0:17:03.07,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(579,641)}Lukako
+Dialogue: 1,0:17:03.07,0:17:03.12,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(594,538)}Lukako
+Dialogue: 1,0:17:03.12,0:17:03.16,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(610,438)}Lukako
+Dialogue: 1,0:17:03.16,0:17:03.21,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(618,352)}Lukako
+Dialogue: 1,0:17:03.21,0:17:03.24,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\pos(634,288)}Lukako
 Dialogue: 1,0:17:03.24,0:17:03.36,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(640,240,660,130)}Lukako
 Dialogue: 1,0:17:03.36,0:17:03.49,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(660,130,670,70)}Lukako
 Dialogue: 1,0:17:03.49,0:17:03.74,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(675,50,685,-20)}Lukako
-Dialogue: 1,0:17:03.74,0:17:04.03,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(681,-16,690,-65)}Lukako
+Dialogue: 1,0:17:03.74,0:17:04.03,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(685,-16,690,-65)}Lukako
 Dialogue: 1,0:17:04.03,0:17:04.28,OkabePhone,,0,0,0,,{\an4\fs100\fr-13\c&H4B413F&\blur1.5\move(690,-65,695,-90)}Lukako
-Dialogue: 1,0:17:02.99,0:17:03.20,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(495,1100,565,600)\frz346.3}Professor Izaki
+Dialogue: 1,0:17:02.99,0:17:03.04,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\frz346.3\pos(517,1060)}Professor Izaki
+Dialogue: 1,0:17:03.04,0:17:03.08,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\frz346.3\pos(519,932)}Professor Izaki
+Dialogue: 1,0:17:03.08,0:17:03.12,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\frz346.3\pos(535,820)}Professor Izaki
+Dialogue: 1,0:17:03.12,0:17:03.16,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\frz346.3\pos(547,734)}Professor Izaki
+Dialogue: 1,0:17:03.16,0:17:03.20,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\frz346.3\pos(561,644)}Professor Izaki
 Dialogue: 1,0:17:03.20,0:17:03.32,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(565,600,589,450)\frz346.3}Professor Izaki
 Dialogue: 1,0:17:03.32,0:17:03.45,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(596,425,597,375)\frz346.3}Professor Izaki
 Dialogue: 1,0:17:03.45,0:17:03.70,OkabePhone,,0,0,0,,{\an4\fs100\c&H322A25&\blur1.5\move(600,366,613,290)\frz346.3}Professor Izaki
