@@ -105,5 +105,5 @@ Special thanks to the following people, without whom this project wouldn't have 
 
 - Mia - Worked on the original [HorribleFix] release, and helped me with the *World-Line* song translation.
 - Woute - Worked on the original [HorribleFix] release.
-- Committee of Zero - Provided song translations for *A Song for the Stars* and *Gate of Steiner*, plus the first part of *Amadeus* and *Lyra*, as well as the chorus and stylings for *Skyclad Observer*. They are also, of course, to be thanked for the terminology this project strives to be consistent with!
+- Committee of Zero - Provided song translations for *A Song for the Stars* and *Gate of Steiner*, plus the first part of *Amadeus* and *Lyra*, as well as the stylings for *Skyclad Observer*. They are also, of course, to be thanked for the terminology this project strives to be consistent with!
 - All font creators listed in [`fonts.md`](./fonts.md)!
