@@ -65,7 +65,7 @@ These subtitles target the [Anime Time] release, though through some minor tempo
 > These subtitles are best played with [mpv](https://mpv.io)!
 
 ## Downloading the release
-Download the latest release under the [**Releases**](https://github.com/PringlesGang/SG0-HorribleStyledFix/releases) section. This zip file will include three folders:
+Download the latest release under the [**Releases**](https://github.com/PringlesGang/SG0-StyledHorribleFix/releases) section. This zip file will include three folders:
 - `fonts` contains all fonts used in the project
 - `full` contains the full subtitles, intended for Japanese audio
 - `ss` contains the signs+songs subtitles, intended for English audio

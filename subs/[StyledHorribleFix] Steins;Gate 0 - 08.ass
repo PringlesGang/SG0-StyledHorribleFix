@@ -1,10 +1,10 @@
 ﻿[Script Info]
-Title: HorribleSubs(StyledFix)
+Title: StyledHorribleFix
 ; Subs edited by Woute, Mia and PringlesGang for consistency
 ; Subs styled by PringlesGang
 ; Fátima translation by PringlesGang
 ; Lyra translation by Committee of Zero
-; https://github.com/PringlesGang/SG0-HorribleStyledFix
+; https://github.com/PringlesGang/SG0-StyledHorribleFix
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
