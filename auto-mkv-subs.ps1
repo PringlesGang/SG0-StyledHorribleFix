@@ -70,7 +70,7 @@ function Get-Subtitles($FolderName) {
     $SubFiles = Get-ChildItem -Path ".\$FolderName\*.ass"
     foreach ($SubFile in $SubFiles) {
         $SubNumber = Get-Episode-Number($SubFile.BaseName)
-        if (!($SubNumber -eq $EpisodeNumber -or $($SubNumber -isnot [int] -and $EpisodeNumber -eq "OVA"))) {continue}
+        if (!($SubNumber -eq $EpisodeNumber -or $(($SubNumber -isnot [int] -or $SubNumber -lt 1 -or $SubNumber -gt 23) -and $EpisodeNumber -eq "OVA"))) {continue}
         
         $EpisodeSubFiles += Join-Path -Path $FolderName -ChildPath $SubFile.Name
     }
