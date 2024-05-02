@@ -87,6 +87,9 @@ Next, create a fourth folder called `anime`. In this folder, copy all Steins;Gat
 
 Finally, if you're on Windows, right-click on the [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) script, and select `Run with PowerShell`. If you're on Linux or macOS instead, run the [`auto-mkv-subs.sh`](./auto-mkv-subs.sh) script with Bash. The injected video files should slowly start to appear in the newly generated `output` folder.
 
+> [!IMPORTANT]
+> From episode 14 onwards the script will likely start warning about lines that will be skipped. This is expected, and everything is going fine.
+
 ## Building from source
 To make better use of source-control, the source subtitle files in this repository are not compiled, meaning some stylings only exist as Aegisub templates, and not as actual lines. To compile these files, open them in [Aegisub](https://aegisub.org/), and compile by clicking the `Automation -> Apply karaoke template` button.
 
