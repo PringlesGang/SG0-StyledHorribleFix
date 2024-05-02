@@ -378,7 +378,7 @@ do
 
     input_file=$file
     output_file="./output/$file_name.mkv"
-    addOutput=("-o" "\"$output_file\"" "--default-track" "1:0" "--default-track" "2:1" "\"$input_file\"")
+    addOutput=("-o" "\"$output_file\"" "--default-track" "1:0" "--default-track" "2:1" "--default-track" "3:0" "\"$input_file\"")
 
     full_prefix=("--default-track" "0:1" "--language" "0:en" "--track-name" "0:\"Full [StyledHorribleFix]\"")
     add_full_subs=()

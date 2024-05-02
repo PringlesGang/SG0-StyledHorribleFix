@@ -368,7 +368,7 @@ foreach ($File in $Files) {
 
     $InputFile = Join-Path -Path "anime" -ChildPath ("$FileName.mkv")
     $OutputFile = Join-Path -Path "output" -ChildPath ("$FileName.mkv")
-    $AddOutput = "-o", $OutputFile, "--default-track-flag", "1:0", "--default-track", "2:1", $InputFile
+    $AddOutput = "-o", $OutputFile, "--default-track-flag", "1:0", "--default-track-flag", "2:1", "--default-track-flag", "3:0", $InputFile
 
     $FullPrefix = "--default-track-flag", "0:1", "--language", "0:en", "--track-name", "0:Full [StyledHorribleFix]"
     $AddFullSubs = @(Get-Subtitles("full") | ForEach-Object {$FullPrefix + $_})
