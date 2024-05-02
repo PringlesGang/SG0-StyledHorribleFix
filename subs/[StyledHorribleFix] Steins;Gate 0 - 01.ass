@@ -204,7 +204,7 @@ Dialogue: 1,0:15:56.80,0:16:01.13,OkabePhone,,0,0,0,,{\an7\move(50,-597.5,50,-10
 Dialogue: 1,0:16:43.88,0:16:48.06,Signs,,0,0,0,,{\a9\move(1358.491,720,1335.849,742.5)\c&H504C43&\3c&H645F52&\bord2.25\shad2.25\fr24\fs74.25\frx358\fry3\fs100}DEC 2010\N{\fs80}10 FR–11 SA\NUPX Theater
 Dialogue: 1,0:16:57.90,0:17:01.15,Signs,,0,0,0,,{\q2\an7\fs150\c&H101010&\fade(0,1000)\fnPlayfair Display Medium\be8\frz2.002\fay-0.025\move(370,718,88,718,0,3195)}Viktor Chondria University Professor\NBrain Science Institute Chief Researcher
 Dialogue: 0,0:20:43.58,0:20:48.59,Draw,,0,0,0,,{\pos(0,0)\p1\c&HFFFFFB&\blur15}m 860 7 l 1007 119 l 1326 385 l 1270 517 l 1139 384 l 1091 526 l 860 181 l 881 96 l 849 60 {\p0}
-Dialogue: 1,0:20:43.58,0:20:48.59,Signs,,0,0,0,,{\org(1136,1250)\pos(276,958)\c&H7D7A74&\fs80\be3\fnPlayfair Display\frz293.7\frx356\fry328}An Analysis of Neural Pulse Signals\N{\fs50}in Relation to Memories Stored in the Temporal Lobe
+Dialogue: 1,0:20:43.58,0:20:48.59,Signs,,0,0,0,,{\org(1920,1842)\c&H7D7A74&\fs150\be3\fnPlayfair Display\frx-2\fry-10\pos(-500,1664)\frz303.4}An Analysis of Neural Pulse Signals\N{\fs80}in Relation to Memories Stored in the Temporal Lobe
 Dialogue: 30,0:00:15.47,0:00:19.51,Default,,0,0,0,,So this is where you’ve been, Big Sis Mayu.
 Dialogue: 30,0:00:19.51,0:00:21.27,Default,,0,0,0,,Suzu-chan...
 Dialogue: 30,0:00:21.27,0:00:23.39,Default,,0,0,0,,Dad and the others are looking for you.
