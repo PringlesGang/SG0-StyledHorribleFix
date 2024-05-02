@@ -10,7 +10,7 @@ The [HorribleFix] subtitles do a great job at keeping the terminology consistent
 In addition to that, this release also tries to improve consistency with the CoZ patches wherever possible, as well as simply improving the translation in other small ways.
 
 ### Contact
-Have you found an issue with the subs, big or small? Found something that could be improved on? An inconsistency with the Committee of Zero patches? Something else? Feel free to open an issue, or a pull request!
+Have you found an issue with the subs, big or small? Found something that could be improved on? An inconsistency with the Committee of Zero patches? Something else? Feel free to open an issue, open a pull request or simply shoot me a message!
 
 You can contact me on Discord under the username `pringlesgang`.
 
