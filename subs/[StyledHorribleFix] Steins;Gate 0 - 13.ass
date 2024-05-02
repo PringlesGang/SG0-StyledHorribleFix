@@ -110,23 +110,76 @@ Dialogue: 0,0:13:02.37,0:13:03.83,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HE6E7E7&}m
 Dialogue: 1,0:13:02.37,0:13:03.83,OkabePhone,,0,0,0,,{\be1\c&H504B4C&\fs125\pos(466,258)}Can leave tomorrow\Nmorning~\NLong drive is going to be\Na pain
 Dialogue: 1,0:13:11.96,0:13:14.43,Signs,,0,0,0,,{\an8\fnBad Script\fs150\c&H262132&\3c&H777374&\bord10\b1\blur1\pos(664,804)}Fun for All Ages with Mozart
 Dialogue: 1,0:16:18.65,0:16:20.11,Signs,,0,0,0,,{\an2\fnSedgwick Ave\c&H494949&\be2\fs190\frz312.7\pos(834,786)}Congrats Kagari-chan!
-Dialogue: 0,0:17:20.50,0:17:20.96,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HDCDADA&}m 172 850 l 1471 856 l 1483 1061 l 179 1055 {\p0}
-Dialogue: 1,0:17:20.50,0:17:20.96,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(182,944)}Sweets Akihabara
-Dialogue: 0,0:17:20.96,0:17:21.21,Draw,,0,0,0,,{\move(0,-10,90,185)\blur15\p1\c&HD9D7D7&}m 172 850 l 1471 856 l 1483 1061 l 179 1055 {\p0}
-Dialogue: 1,0:17:20.96,0:17:21.21,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\move(192,964,282,1129)}Sweets Akihabara
-Dialogue: 1,0:17:20.50,0:17:20.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(664,-2)}Shohei Bridge
-Dialogue: 1,0:17:20.96,0:17:21.42,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\move(672,22,848,350,30,447)}Shohei Bridge
-Dialogue: 1,0:17:21.42,0:17:21.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(862,372)}Shohei Bridge
-Dialogue: 1,0:17:20.50,0:17:20.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(918,72)}2 Chome Sotokanda
-Dialogue: 1,0:17:20.96,0:17:21.42,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\move(926,96,1102,424)}2 Chome Sotokanda
-Dialogue: 1,0:17:21.42,0:17:21.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1116,446)}2 Chome Sotokanda
-Dialogue: 1,0:17:20.50,0:17:20.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(520,348)}Kanda Shrine
-Dialogue: 1,0:17:20.96,0:17:21.42,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\move(528,372,704,700)}Kanda Shrine
-Dialogue: 1,0:17:21.42,0:17:21.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(718,722)}Kanda Shrine
-Dialogue: 1,0:17:21.17,0:17:21.42,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\move(238,2,324,164,28,237)}Mansei Bridge
-Dialogue: 1,0:17:21.42,0:17:21.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(332,186)}Mansei Bridge
-Dialogue: 1,0:17:21.13,0:17:21.42,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\move(854,-26,966,178,26,277)}Kanda Shrine
-Dialogue: 1,0:17:21.42,0:17:21.96,Signs,,0,0,0,,{\an8\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(976,194)}Kanda Shrine
+Dialogue: 0,0:17:20.50,0:17:20.97,Draw,,0,0,0,,{\pos(0,0)\blur15\p1\c&HDCDADA&}m 172 850 l 1471 856 l 1483 1061 l 179 1055 {\p0}
+Dialogue: 0,0:17:20.96,0:17:21.21,Draw,,0,0,0,,{\move(0,-10,90,155)\blur15\p1\c&HD9D7D7&}m 172 850 l 1471 856 l 1483 1061 l 179 1055 {\p0}
+Dialogue: 1,0:17:20.50,0:17:20.93,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(182,944)}Sweets Akihabara
+Dialogue: 1,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(184,950)}Sweets Akihabara
+Dialogue: 1,0:17:20.96,0:17:21.01,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(192,964)}Sweets Akihabara
+Dialogue: 1,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(204,982)}Sweets Akihabara
+Dialogue: 1,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(222,1012)}Sweets Akihabara
+Dialogue: 1,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(236,1048)}Sweets Akihabara
+Dialogue: 1,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\fnConcert One\b0\fs230\c&H565454&\an4\be1\pos(266,1086)}Sweets Akihabara
+Dialogue: 1,0:17:20.50,0:17:20.93,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(658,44)}Shohei Bridge
+Dialogue: 1,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(664.4,48.8)}Shohei Bridge
+Dialogue: 1,0:17:20.96,0:17:21.01,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(670.8,64.8)}Shohei Bridge
+Dialogue: 1,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(683.6,87.2)}Shohei Bridge
+Dialogue: 1,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(698,117.6)}Shohei Bridge
+Dialogue: 1,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(717.2,151.2)}Shohei Bridge
+Dialogue: 1,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(736.4,188)}Shohei Bridge
+Dialogue: 1,0:17:21.18,0:17:21.22,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(757.2,231.2)}Shohei Bridge
+Dialogue: 1,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(779.6,269.6)}Shohei Bridge
+Dialogue: 1,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(798.8,306.4)}Shohei Bridge
+Dialogue: 1,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(818,341.6)}Shohei Bridge
+Dialogue: 1,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(834,370.4)}Shohei Bridge
+Dialogue: 1,0:17:21.39,0:17:21.42,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(845.2,392.8)}Shohei Bridge
+Dialogue: 1,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(853.2,408.8)}Shohei Bridge
+Dialogue: 1,0:17:21.47,0:17:21.96,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(856.4,415.2)}Shohei Bridge
+Dialogue: 1,0:17:20.50,0:17:20.93,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(922.8,118.4)}2 Chome Sotokanda
+Dialogue: 1,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(926,123.2)}2 Chome Sotokanda
+Dialogue: 1,0:17:20.96,0:17:21.01,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(934,139.2)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(946.8,163.2)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(962.8,192)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(982,227.2)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1001.2,267.2)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.18,0:17:21.22,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1022,307.2)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1042.8,345.6)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1063.6,382.4)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1081.2,417.6)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1097.2,448)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.39,0:17:21.42,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1108.4,472)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1119.6,488)}2 Chome Sotokanda
+Dialogue: 1,0:17:21.47,0:17:21.96,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(1119.6,491.2)}2 Chome Sotokanda
+Dialogue: 1,0:17:20.50,0:17:20.93,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(518.4,394.4)}Kanda Shrine
+Dialogue: 1,0:17:20.93,0:17:20.97,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(521.6,400.8)}Kanda Shrine
+Dialogue: 1,0:17:20.96,0:17:21.01,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(531.2,415.2)}Kanda Shrine
+Dialogue: 1,0:17:21.01,0:17:21.06,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(542.4,439.2)}Kanda Shrine
+Dialogue: 1,0:17:21.06,0:17:21.10,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(558.4,469.6)}Kanda Shrine
+Dialogue: 1,0:17:21.10,0:17:21.14,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(574.4,503.2)}Kanda Shrine
+Dialogue: 1,0:17:21.14,0:17:21.18,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(596.8,541.6)}Kanda Shrine
+Dialogue: 1,0:17:21.18,0:17:21.22,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(617.6,581.6)}Kanda Shrine
+Dialogue: 1,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(638.4,620)}Kanda Shrine
+Dialogue: 1,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(657.6,658.4)}Kanda Shrine
+Dialogue: 1,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(676.8,693.6)}Kanda Shrine
+Dialogue: 1,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(692.8,724)}Kanda Shrine
+Dialogue: 1,0:17:21.39,0:17:21.42,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(704,746.4)}Kanda Shrine
+Dialogue: 1,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(711.467,761.867)}Kanda Shrine
+Dialogue: 1,0:17:21.47,0:17:21.96,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(714.399,767.733)}Kanda Shrine
+Dialogue: 1,0:17:21.17,0:17:21.22,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(230,42)}Mansei Bridge
+Dialogue: 1,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(252.4,82)}Mansei Bridge
+Dialogue: 1,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(271.6,122)}Mansei Bridge
+Dialogue: 1,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(290.8,154)}Mansei Bridge
+Dialogue: 1,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(306.8,184.4)}Mansei Bridge
+Dialogue: 1,0:17:21.39,0:17:21.42,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(318,208.4)}Mansei Bridge
+Dialogue: 1,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(326,224.4)}Mansei Bridge
+Dialogue: 1,0:17:21.47,0:17:21.96,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(329.2,227.6)}Mansei Bridge
+Dialogue: 1,0:17:21.17,0:17:21.22,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(878,58)}Kanda Post Office
+Dialogue: 1,0:17:21.22,0:17:21.27,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(898,98)}Kanda Post Office
+Dialogue: 1,0:17:21.27,0:17:21.31,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(919.333,135.333)}Kanda Post Office
+Dialogue: 1,0:17:21.31,0:17:21.35,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(936.667,170)}Kanda Post Office
+Dialogue: 1,0:17:21.35,0:17:21.39,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(952.667,200.667)}Kanda Post Office
+Dialogue: 1,0:17:21.39,0:17:21.42,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(964.667,223.333)}Kanda Post Office
+Dialogue: 1,0:17:21.43,0:17:21.47,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(974,239.333)}Kanda Post Office
+Dialogue: 1,0:17:21.47,0:17:21.96,Signs,,0,0,0,,{\an2\fnConcert One\b0\fs45\c&H565454&\bord4\3c&HFFFFFF&\be2\pos(975.333,244.667)}Kanda Post Office
 Dialogue: 0,0:21:45.52,0:21:46.94,Draw,,0,0,0,,{\blur5\pos(0,0)\p1\c&H493031&}m 1707 528 l 1449 450 l 1417 564 l 1675 648 {\p0}
 Dialogue: 1,0:21:45.52,0:21:46.94,Draw,,0,0,0,,{\blur15\pos(20,0)\p1\c&H32201F&}m 1713 528 l 1559 480 l 1518 617 l 1677 667 {\p0}
 Dialogue: 2,0:21:45.52,0:21:46.94,Draw,,0,0,0,,{\blur25\pos(-15,-30)\p1\c&H26191A&}m 1707 528 l 1449 450 l 1432 501 l 1701 579 {\p0}
