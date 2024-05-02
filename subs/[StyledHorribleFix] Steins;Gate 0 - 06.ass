@@ -76,30 +76,84 @@ Dialogue: 1,0:09:18.98,0:09:23.99,Title,,0,0,0,,{\an3\c&H676472&\fs110\pos(1384.
 Dialogue: 1,0:09:18.98,0:09:23.99,Title,,0,0,0,,{\an1\c&H676472&\fs60\pos(1392.981,980)}of
 Dialogue: 1,0:09:18.98,0:09:23.99,Title,,0,0,0,,{\an3\c&H676472&\fs76\pos(1738.981,1034)}Orbital Ordering
 Dialogue: 1,0:05:36.09,0:05:39.55,Signs,,0,0,0,,{\an7\fs34\pos(1488,357)\fry1\frx2\c&HC8C8D0&\b1\be2}Coin\NLocker
-Dialogue: 0,0:06:22.93,0:06:23.47,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HEDEDED&}m 1162 -5 l 1175 167 l 1590 134 l 1568 -20 {\p0}
-Dialogue: 0,0:06:23.47,0:06:23.64,Draw,,0,0,0,,{\move(0,30,-20,-170)\blur12\p1\c&HEDEDED&}m 1162 -5 l 1175 167 l 1590 134 l 1568 -20 {\p0}
-Dialogue: 0,0:06:22.93,0:06:23.47,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HD4D3D3&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
-Dialogue: 0,0:06:23.47,0:06:23.68,Draw,,0,0,0,,{\move(0,14,-26,-246)\blur12\p1\c&HD4D3D3&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
-Dialogue: 0,0:06:23.68,0:06:24.22,Draw,,0,0,0,,{\move(-26,-246,-76,-1683)\blur12\p1\c&HE7E7E7&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
-Dialogue: 0,0:06:22.93,0:06:23.51,Draw,,0,0,0,,{\pos(0,0)\blur16\p1\c&H969495&}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
-Dialogue: 0,0:06:23.51,0:06:23.76,Draw,,0,0,0,,{\blur16\p1\c&HBCBABA&\move(-6,30,-30,-436)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
-Dialogue: 0,0:06:23.76,0:06:24.06,Draw,,0,0,0,,{\blur16\p1\c&HE5E4E3&\move(-30,-480,-60,-1150)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
-Dialogue: 0,0:06:23.68,0:06:23.93,Draw,,0,0,0,,{\blur10\p1\c&HC9C9C9&\move(70,920,20,300)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
-Dialogue: 0,0:06:23.93,0:06:24.02,Draw,,0,0,0,,{\blur10\p1\c&HDEDFE0&\move(20,300,20,120)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
-Dialogue: 0,0:06:24.02,0:06:24.10,Draw,,0,0,0,,{\blur10\p1\c&HEDEDED&\move(8,118,-6,10)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
-Dialogue: 0,0:06:24.10,0:06:27.73,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HEDEDED&}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
-Dialogue: 1,0:06:22.93,0:06:23.47,MahoPhone,,0,0,0,,{\c&H606060&\blur1\fry0.5\frx1\fs70\pos(1156,23)\frz3.698}This is Hiyajo.\NYou’re in my contacts.
-Dialogue: 1,0:06:23.47,0:06:23.68,MahoPhone,,0,0,0,,{\c&H606060&\blur1\fry0.5\frx1\fs70\move(1154,40,1146,-163)\frz3.698}This is Hiyajo.\NYou’re in my contacts.
-Dialogue: 1,0:06:22.93,0:06:23.47,MahoPhone,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\pos(686,503)\fs80}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
-Dialogue: 1,0:06:23.47,0:06:23.68,MahoPhone,,0,0,0,,{\c&H606060&\fry0.5\frx1\fs80\frz4.805\move(686, 517, 660, 257)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
-Dialogue: 1,0:06:23.68,0:06:24.22,MahoPhone,,0,0,0,,{\c&H606060&\fry0.5\frx1\fs80\an7\frz4.805\move(660, 257, 610, -1180)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
-Dialogue: 1,0:06:22.93,0:06:23.51,MahoPhone,,0,0,0,,{\an8\c&H464646&\blur1\fry1\frx1\fs95\pos(866,992)\frz4.032}No worries.
-Dialogue: 1,0:06:23.51,0:06:23.76,MahoPhone,,0,0,0,,{\an8\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\move(854, 984, 828, 568)}No worries.
-Dialogue: 1,0:06:23.76,0:06:24.06,MahoPhone,,0,0,0,,{\an8\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\move(818, 484, 776, -139)}No worries.
-Dialogue: 1,0:06:23.68,0:06:23.93,MahoPhone,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs95\frz4.317\move(722, 1158, 671, 549)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
-Dialogue: 1,0:06:23.93,0:06:24.02,MahoPhone,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs95\frz4.317\move(668, 463, 658, 378)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
-Dialogue: 1,0:06:24.02,0:06:24.10,MahoPhone,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs95\frz4.317\move(654, 309, 646, 236)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
-Dialogue: 1,0:06:24.10,0:06:27.73,MahoPhone,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs95\frz4.317\pos(642,208)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 0,0:06:22.93,0:06:23.47,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HE4E4E4&}m 1162 -5 l 1175 167 l 1590 134 l 1568 -20 {\p0}
+Dialogue: 0,0:06:23.47,0:06:23.52,Draw,,0,0,0,,{\blur12\p1\c&HE4E5E5&\pos(-10,-16)}m 1162 -5 l 1175 167 l 1590 134 l 1568 -20 {\p0}
+Dialogue: 0,0:06:23.52,0:06:23.57,Draw,,0,0,0,,{\blur12\p1\c&HE5E5E5&\pos(-8,-34)}m 1162 -5 l 1175 167 l 1590 134 l 1568 -20 {\p0}
+Dialogue: 0,0:06:23.57,0:06:23.61,Draw,,0,0,0,,{\blur12\p1\c&HE5E5E5&\pos(-16,-100)}m 1162 -5 l 1175 167 l 1590 134 l 1568 -20 {\p0}
+Dialogue: 0,0:06:22.93,0:06:23.48,Draw,,0,0,0,,{\pos(0,0)\blur12\p1\c&HDADAD9&\iclip(m 1576 680 l 1566 640 1576 554 1642 506 1704 544 1666 752)}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.47,0:06:23.52,Draw,,0,0,0,,{\blur12\p1\c&HDADADA&\pos(0,-24)}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.52,0:06:23.57,Draw,,0,0,0,,{\blur12\p1\c&HDEDEDE&\pos(2,-46)}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.57,0:06:23.61,Draw,,0,0,0,,{\blur12\p1\c&HE0DFDF&\pos(-4,-102)}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.61,0:06:23.65,Draw,,0,0,0,,{\blur12\p1\c&HE1E1E1&\pos(-16,-166)}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.65,0:06:23.69,Draw,,0,0,0,,{\pos(-20,-254)\blur12\p1\c&HE4E3E3&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.68,0:06:23.73,Draw,,0,0,0,,{\pos(-26,-346)\blur12\p1\c&HE5E5E5&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.73,0:06:23.77,Draw,,0,0,0,,{\pos(-26,-446)\blur12\p1\c&HE3E3E3&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.77,0:06:23.82,Draw,,0,0,0,,{\pos(-36,-546)\blur12\p1\c&HE4E4E4&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:23.82,0:06:23.86,Draw,,0,0,0,,{\pos(-46,-646)\blur12\p1\c&HE5E6E5&}m 681 496 l 1610 413 l 1640 665 l 699 739{\p0}
+Dialogue: 0,0:06:22.93,0:06:23.51,Draw,,0,0,0,,{\pos(0,0)\blur16\p1\c&H979797&}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.51,0:06:23.57,Draw,,0,0,0,,{\blur16\p1\c&HA9A9A9&\pos(-2,-48)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.57,0:06:23.61,Draw,,0,0,0,,{\blur16\p1\c&HB4B3B3&\pos(2,-90)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.61,0:06:23.65,Draw,,0,0,0,,{\blur16\p1\c&HC1BFBF&\pos(-10,-168)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.65,0:06:23.69,Draw,,0,0,0,,{\blur16\p1\c&HBCBABA&\pos(-10,-240)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.69,0:06:23.73,Draw,,0,0,0,,{\blur16\p1\c&HD0D0CF&\pos(-20,-340)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.73,0:06:23.77,Draw,,0,0,0,,{\blur16\p1\c&HD1CCCD&\pos(-30,-440)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.76,0:06:23.82,Draw,,0,0,0,,{\blur16\p1\c&HD8D6D7&\pos(-30,-530)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.82,0:06:23.86,Draw,,0,0,0,,{\blur16\p1\c&HE1DDE1&\pos(-50,-640)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.86,0:06:23.90,Draw,,0,0,0,,{\blur16\p1\c&HE7E4E4&\pos(-50,-750)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.90,0:06:23.94,Draw,,0,0,0,,{\blur16\p1\c&HE8E6E7&\pos(-60,-850)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.94,0:06:23.98,Draw,,0,0,0,,{\blur16\p1\c&HEAE8E7&\pos(-65,-940)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.98,0:06:24.03,Draw,,0,0,0,,{\blur16\p1\c&HE9E8E7&\pos(-70,-1020)}m 683 984 l 1270 935 l 1284 1071 l 695 1091 {\p0}
+Dialogue: 0,0:06:23.68,0:06:23.73,Draw,,0,0,0,,{\blur10\p1\c&H959493&\pos(64,852)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:23.73,0:06:23.77,Draw,,0,0,0,,{\blur10\p1\c&HA2A2A2&\pos(58,750)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:23.77,0:06:23.82,Draw,,0,0,0,,{\blur10\p1\c&HB7B7B7&\pos(52,648)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:23.82,0:06:23.86,Draw,,0,0,0,,{\blur10\p1\c&HCDCECD&\pos(40,544)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:23.86,0:06:23.90,Draw,,0,0,0,,{\blur10\p1\c&HC3C3C3&\pos(38,430)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:23.90,0:06:23.94,Draw,,0,0,0,,{\blur10\p1\c&HCECDCD&\pos(22,332)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:23.93,0:06:23.98,Draw,,0,0,0,,{\blur10\p1\c&HDBD8D8&\pos(26,244)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:23.98,0:06:24.03,Draw,,0,0,0,,{\blur10\p1\c&HDDDCDD&\pos(16,166)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:24.02,0:06:24.07,Draw,,0,0,0,,{\blur10\p1\c&HE2E0E0&\pos(10,90)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:24.07,0:06:24.11,Draw,,0,0,0,,{\blur10\p1\c&HE6E3E4&\pos(8,48)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:24.10,0:06:24.15,Draw,,0,0,0,,{\blur10\p1\c&HE8E5E6&\pos(0,12)}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 0,0:06:24.15,0:06:27.73,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HE8E5E7&}m 631 190 l 656 523 l 1486 453 l 1455 124 {\p0}
+Dialogue: 1,0:06:22.93,0:06:23.47,Draw,,0,0,0,,{\c&H606060&\blur1\fry0.5\frx1\fs64\frz3.698\pos(1152,25)}This is Hiyajo.\NYou’re in my contacts.
+Dialogue: 1,0:06:23.47,0:06:23.52,Draw,,0,0,0,,{\c&H606060&\blur1\fry0.5\frx1\fs64\frz3.698\pos(1152,15)}This is Hiyajo.\NYou’re in my contacts.
+Dialogue: 1,0:06:23.52,0:06:23.57,Draw,,0,0,0,,{\c&H606060&\blur1\fry0.5\frx1\fs64\frz3.698\pos(1147,-17)}This is Hiyajo.\NYou’re in my contacts.
+Dialogue: 1,0:06:23.57,0:06:23.61,Draw,,0,0,0,,{\c&H606060&\blur1\fry0.5\frx1\fs64\frz3.698\pos(1144,-69)}This is Hiyajo.\NYou’re in my contacts.
+Dialogue: 1,0:06:22.93,0:06:23.48,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(676,501)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.47,0:06:23.52,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(674,491)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.52,0:06:23.57,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(672,459)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.57,0:06:23.61,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(668,405)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.61,0:06:23.65,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(666,335)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.65,0:06:23.69,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(660,253)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.68,0:06:23.73,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(654,161)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.73,0:06:23.77,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(646,65)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.77,0:06:23.82,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(644,-41)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:23.82,0:06:23.86,Draw,,0,0,0,,{\c&H606060&\fry0.5\frx1\frz4.805\fs78\pos(632,-147)}Thanks for inviting me to the Christmas\Nparty.\NAnd sorry about the professor
+Dialogue: 1,0:06:22.93,0:06:23.51,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(818,1038)}No worries.
+Dialogue: 1,0:06:23.51,0:06:23.57,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(814,988)}No worries.
+Dialogue: 1,0:06:23.57,0:06:23.61,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(812,928)}No worries.
+Dialogue: 1,0:06:23.61,0:06:23.65,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(800,862)}No worries.
+Dialogue: 1,0:06:23.65,0:06:23.69,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(788,780)}No worries.
+Dialogue: 1,0:06:23.69,0:06:23.73,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(782,690)}No worries.
+Dialogue: 1,0:06:23.73,0:06:23.77,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(776,592)}No worries.
+Dialogue: 1,0:06:23.76,0:06:23.82,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(770,490)}No worries.
+Dialogue: 1,0:06:23.82,0:06:23.86,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(764,384)}No worries.
+Dialogue: 1,0:06:23.86,0:06:23.90,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(756,274)}No worries.
+Dialogue: 1,0:06:23.90,0:06:23.94,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(752,178)}No worries.
+Dialogue: 1,0:06:23.94,0:06:23.98,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(738,84)}No worries.
+Dialogue: 1,0:06:23.98,0:06:24.03,Draw,,0,0,0,,{\an4\c&H464646&\blur1\fry1\frx1\fs95\frz4.032\pos(720,2)}No worries.
+Dialogue: 1,0:06:23.68,0:06:23.73,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(698,1048)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:23.73,0:06:23.77,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(690,950)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:23.77,0:06:23.82,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(682,846)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:23.82,0:06:23.86,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(678,742)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:23.86,0:06:23.90,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(672,638)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:23.90,0:06:23.94,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(662,540)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:23.93,0:06:23.98,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(658,446)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:23.98,0:06:24.03,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(650,366)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:24.02,0:06:24.07,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(648,298)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:24.07,0:06:24.11,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(642,246)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:24.10,0:06:24.15,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(638,212)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
+Dialogue: 1,0:06:24.15,0:06:27.73,Draw,,0,0,0,,{\c&H464646&\blur1\fry1\frx1\fs92\frz4.317\pos(638,200)}Mayuri said everyone’s going\Nto the shrine for New Year’s\Nand you’re welcome to come.
 Dialogue: 0,0:06:30.98,0:06:32.94,Draw,,0,0,0,,{\pos(0,0)\blur10\p1\c&HE3DFDE&}m 203 331 l 1453 186 l 1498 411 l 236 548 {\p0}
 Dialogue: 1,0:06:30.98,0:06:31.48,MahoPhone,,0,0,0,,{\frx2\fry1\frz5.6\fay-0.007\fs160\be1\c&H5A5352&\pos(242,365)}We need to talk about Amadeus, but
 Dialogue: 1,0:06:31.48,0:06:31.98,MahoPhone,,0,0,0,,{\frx2\fry1\frz5.6\fay-0.007\fs160\be1\c&H5A5352&\pos(242,365)}We need to talk about Amadeus, but|
