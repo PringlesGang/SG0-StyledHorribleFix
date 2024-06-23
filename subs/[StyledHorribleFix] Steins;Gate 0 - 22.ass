@@ -116,9 +116,9 @@ Dialogue: 1,0:12:17.99,0:12:23.00,Title,,0,0,0,,{\an3\pos(1514,900)\fs60}of
 Dialogue: 1,0:12:17.99,0:12:23.00,Title,,0,0,0,,{\an3\pos(1708,958)}Entwurf
 Dialogue: 1,0:03:06.48,0:03:07.15,Whiteboard,,0,0,0,,{\pos(826,116)\c&H362821&\fay0.55\fax-0.1\fs130\be4}America
 Dialogue: 1,0:03:07.15,0:03:07.19,Whiteboard,,0,0,0,,{\pos(212,-169)\c&H362821&\fay0.55\fax-0.1\fs130\be4}America
-Dialogue: 1,0:03:06.48,0:03:07.15,Whiteboard,,0,0,0,,{\pos(982,708)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
-Dialogue: 1,0:03:07.15,0:03:07.19,Whiteboard,,0,0,0,,{\pos(364,418)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
-Dialogue: 1,0:03:07.19,0:03:07.24,Whiteboard,,0,0,0,,{\pos(2,246)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfo
+Dialogue: 1,0:03:06.48,0:03:07.15,Whiteboard,,0,0,0,,{\pos(982,708)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfoc
+Dialogue: 1,0:03:07.15,0:03:07.19,Whiteboard,,0,0,0,,{\pos(364,418)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfoc
+Dialogue: 1,0:03:07.19,0:03:07.24,Whiteboard,,0,0,0,,{\pos(2,246)\c&H3D3229&\fay0.5\fax-0.1\fs130\be4}Stratfoc
 Dialogue: 1,0:03:07.19,0:03:07.24,Whiteboard,,0,0,0,,{\pos(2016,872)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
 Dialogue: 1,0:03:07.24,0:03:07.28,Whiteboard,,0,0,0,,{\pos(1772,746)\c&H3E352E&\fay0.65\fax0.05\fs130\be4}Russia
 Dialogue: 1,0:03:07.28,0:03:07.36,Whiteboard,,0,0,0,,{\c&H3E352E&\fay0.65\fax0.05\fs130\be4\move(1586,664,1460,600,23,65)}Russia
@@ -131,13 +131,13 @@ Dialogue: 1,0:03:10.70,0:03:10.82,Whiteboard,,0,0,0,,{\c&H5F564F&\fs150\be4\move
 Dialogue: 1,0:03:10.82,0:03:11.74,Whiteboard,,0,0,0,,{\pos(940,210)\cH5F564F&\fs150\be4}Time machine
 Dialogue: 1,0:03:15.95,0:03:18.50,Whiteboard,,0,0,0,,{\pos(774,-60)\c&H463D35&\fay0.35\fs100\be4}America
 Dialogue: 1,0:03:18.50,0:03:18.62,Whiteboard,,0,0,0,,{\move(774,-50,774,-150)\c&H463D35&\fay0.35\fs100\be4}America
-Dialogue: 1,0:03:15.95,0:03:16.87,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:16.87,0:03:16.95,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 826 362 l 930 390 1034 396 1160 434 1054 576 714 444)}Stratfo
-Dialogue: 1,0:03:16.95,0:03:17.04,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 820 350 l 806 338 764 346 744 320 716 272 866 192)}Stratfo
-Dialogue: 1,0:03:17.04,0:03:18.50,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:18.50,0:03:18.62,Whiteboard,,0,0,0,,{\move(922,306,922,210)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:18.62,0:03:18.75,Whiteboard,,0,0,0,,{\move(922,206,922,12)\c&H473E36&\fs130\be4\fay0.25}Stratfo
-Dialogue: 1,0:03:18.75,0:03:18.83,Whiteboard,,0,0,0,,{\move(922,0,922,-160)\c&H473E36&\fs130\be4\fay0.25}Stratfo
+Dialogue: 1,0:03:15.95,0:03:16.87,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfoc
+Dialogue: 1,0:03:16.87,0:03:16.95,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 826 362 l 930 390 1034 396 1160 434 1054 576 714 444)}Stratfoc
+Dialogue: 1,0:03:16.95,0:03:17.04,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25\iclip(m 820 350 l 806 338 764 346 744 320 716 272 866 192)}Stratfoc
+Dialogue: 1,0:03:17.04,0:03:18.50,Whiteboard,,0,0,0,,{\pos(922,296)\c&H473E36&\fs130\be4\fay0.25}Stratfoc
+Dialogue: 1,0:03:18.50,0:03:18.62,Whiteboard,,0,0,0,,{\move(922,306,922,210)\c&H473E36&\fs130\be4\fay0.25}Stratfoc
+Dialogue: 1,0:03:18.62,0:03:18.75,Whiteboard,,0,0,0,,{\move(922,206,922,12)\c&H473E36&\fs130\be4\fay0.25}Stratfoc
+Dialogue: 1,0:03:18.75,0:03:18.83,Whiteboard,,0,0,0,,{\move(922,0,922,-160)\c&H473E36&\fs130\be4\fay0.25}Stratfoc
 Dialogue: 1,0:03:15.95,0:03:16.62,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15}Leskinen
 Dialogue: 1,0:03:16.62,0:03:16.70,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 1224 702 l 1250 724 1188 778 1174 744)}Leskinen
 Dialogue: 1,0:03:16.70,0:03:16.79,Whiteboard,,0,0,0,,{\pos(988,620)\c&H514540&\fs130\be4\fay0.1\fax0.15\iclip(m 1092 706 l 1146 668 1382 830 1070 740)}Leskinen
@@ -162,9 +162,9 @@ Dialogue: 1,0:03:19.04,0:03:19.21,Whiteboard,,0,0,0,,{\move(832,444,842,285)\c&H
 Dialogue: 1,0:03:19.21,0:03:20.71,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
 Dialogue: 1,0:03:20.71,0:03:20.79,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1\iclip(m 854 320 l 1276 420 698 524 758 392)}DURPA
 Dialogue: 1,0:03:20.79,0:03:21.12,Whiteboard,,0,0,0,,{\pos(842,302)\c&H463D38&\fs140\be4\fay0.15\fax0.1}DURPA
-Dialogue: 1,0:05:21.95,0:05:23.50,Whiteboard,,0,0,0,,{\pos(940,108)\c&H443932&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:23.50,0:05:23.62,Whiteboard,,0,0,0,,{\move(940,110,940,50)\c&H443932&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:23.62,0:05:23.75,Whiteboard,,0,0,0,,{\move(940,50,940,-90)\c&H443932&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:21.95,0:05:23.50,Whiteboard,,0,0,0,,{\pos(940,108)\c&H443932&\fs160\be4\frz4.164}Stratfoc
+Dialogue: 1,0:05:23.50,0:05:23.62,Whiteboard,,0,0,0,,{\move(940,110,940,50)\c&H443932&\fs160\be4\frz4.164}Stratfoc
+Dialogue: 1,0:05:23.62,0:05:23.75,Whiteboard,,0,0,0,,{\move(940,50,940,-90)\c&H443932&\fs160\be4\frz4.164}Stratfoc
 Dialogue: 1,0:05:21.95,0:05:23.50,Whiteboard,,0,0,0,,{\pos(1062,444)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
 Dialogue: 1,0:05:23.50,0:05:23.66,Whiteboard,,0,0,0,,{\move(1062,434,1062,350)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
 Dialogue: 1,0:05:23.66,0:05:23.83,Whiteboard,,0,0,0,,{\move(1062,340,1062,110)\c&H3E342A&\fs160\be4\frz6.145}Leskinen
@@ -184,16 +184,16 @@ Dialogue: 1,0:05:26.50,0:05:26.67,Whiteboard,,0,0,0,,{\c&H443A34&\fs130\be4\frz3
 Dialogue: 1,0:05:26.33,0:05:26.50,Whiteboard,,0,0,0,,{\c&H493E39&\fs160\be4\move(1758,-162,1282,84,0,154)}Foreign Intel
 Dialogue: 1,0:05:26.50,0:05:26.62,Whiteboard,,0,0,0,,{\c&H493E39&\fs160\be4\move(1182,138,1034,206,26,109)}Foreign Intel
 Dialogue: 1,0:05:26.62,0:05:27.88,Whiteboard,,0,0,0,,{\pos(986,234)\c&H493E39&\fs160\be4}Foreign Intel
-Dialogue: 1,0:05:45.56,0:05:46.48,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:46.48,0:05:46.56,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 1044 172 l 1134 100 1370 262 1166 256)}Stratfo
-Dialogue: 1,0:05:46.56,0:05:46.64,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 898 200 l 1136 84 1356 258 1058 288 990 242)}Stratfo
-Dialogue: 1,0:05:46.64,0:05:46.73,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 816 196 l 1192 100 1356 258 942 280 836 228)}Stratfo
-Dialogue: 1,0:05:46.73,0:05:46.81,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 870 276 800 250)}Stratfo
-Dialogue: 1,0:05:46.81,0:05:46.89,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 862 284 800 260)}Stratfo
-Dialogue: 1,0:05:47.06,0:05:47.14,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\clip(m 772 200 l 1026 168 982 246 962 290 818 302)}Stratfo
-Dialogue: 1,0:05:47.14,0:05:49.31,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfo
-Dialogue: 1,0:05:49.31,0:05:49.48,Whiteboard,,0,0,0,,{\c&H483F37&\fs160\be4\frz4.164\move(1026,126,1026,56,20,145)}Stratfo
-Dialogue: 1,0:05:49.48,0:05:49.65,Whiteboard,,0,0,0,,{\move(1026,50,1026,-146)\c&H483F37&\fs160\be4\frz4.164}Stratfo
+Dialogue: 1,0:05:45.56,0:05:46.48,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfoc
+Dialogue: 1,0:05:46.48,0:05:46.56,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 1044 172 l 1134 100 1370 262 1166 256)}Stratfoc
+Dialogue: 1,0:05:46.56,0:05:46.64,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 898 200 l 1136 84 1356 258 1058 288 990 242)}Stratfoc
+Dialogue: 1,0:05:46.64,0:05:46.73,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 816 196 l 1192 100 1356 258 942 280 836 228)}Stratfoc
+Dialogue: 1,0:05:46.73,0:05:46.81,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 870 276 800 250)}Stratfoc
+Dialogue: 1,0:05:46.81,0:05:46.89,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\iclip(m 772 200 l 1192 100 1356 258 862 284 800 260)}Stratfoc
+Dialogue: 1,0:05:47.06,0:05:47.14,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164\clip(m 772 200 l 1026 168 982 246 962 290 818 302)}Stratfoc
+Dialogue: 1,0:05:47.14,0:05:49.31,Whiteboard,,0,0,0,,{\pos(1026,130)\c&H483F37&\fs160\be4\frz4.164}Stratfoc
+Dialogue: 1,0:05:49.31,0:05:49.48,Whiteboard,,0,0,0,,{\c&H483F37&\fs160\be4\frz4.164\move(1026,126,1026,56,20,145)}Stratfoc
+Dialogue: 1,0:05:49.48,0:05:49.65,Whiteboard,,0,0,0,,{\move(1026,50,1026,-146)\c&H483F37&\fs160\be4\frz4.164}Stratfoc
 Dialogue: 1,0:05:45.56,0:05:46.64,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145}Leskinen
 Dialogue: 1,0:05:46.64,0:05:46.73,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1310 462 1336 590 820 622)}Leskinen
 Dialogue: 1,0:05:46.73,0:05:46.81,Whiteboard,,0,0,0,,{\pos(1142,454)\c&H473B31&\fs160\be4\frz6.145\clip(m 820 454 l 1272 470 1296 584 820 622)}Leskinen
@@ -356,7 +356,7 @@ Dialogue: 30,0:03:06.64,0:03:09.98,Default,,0,0,0,,America and Russia, plus...
 Dialogue: 30,0:03:09.98,0:03:11.90,Default,,0,0,0,,...the time machine.
 Dialogue: 30,0:03:11.90,0:03:13.56,Default,,0,0,0,,You said that earlier.
 Dialogue: 30,0:03:13.56,0:03:15.98,Default,,0,0,0,,The organizations responsible are...
-Dialogue: 30,0:03:15.98,0:03:18.36,Default,,0,0,0,,...Stratfo with Leskinen...
+Dialogue: 30,0:03:15.98,0:03:18.36,Default,,0,0,0,,...Stratfoc with Leskinen...
 Dialogue: 30,0:03:18.36,0:03:21.32,Default,,0,0,0,,...and another American faction, DURPA.
 Dialogue: 30,0:03:21.32,0:03:25.45,Default,,0,0,0,,There’s also Russian intelligence,\Nso that makes three organizations.
 Dialogue: 30,0:03:25.45,0:03:27.29,Default,,0,0,0,,Isn’t this a bit far-fetched?
@@ -414,7 +414,7 @@ Dialogue: 30,0:05:31.83,0:05:36.21,Default,,0,0,0,,So the time machine’s destr
 Dialogue: 30,0:05:36.21,0:05:39.54,Default,,0,0,0,,Basically, we let them board the time machine,
 Dialogue: 30,0:05:39.54,0:05:42.42,Default,,0,0,0,,but it’s that exact moment\Nthey leave for the past
 Dialogue: 30,0:05:42.42,0:05:44.88,Default,,0,0,0,,that we can’t allow interference.
-Dialogue: 30,0:05:44.88,0:05:48.97,Default,,0,0,0,,Still, we’ve foiled Stratfo and Leskinen.
+Dialogue: 30,0:05:44.88,0:05:48.97,Default,,0,0,0,,Still, we’ve foiled Stratfoc and Leskinen.
 Dialogue: 30,0:05:48.97,0:05:54.56,Default,,0,0,0,,Likewise, we’ve managed to put\Na halt on DURPA and their soldiers.
 Dialogue: 30,0:05:54.56,0:05:56.02,Default,,0,0,0,,In other words...
 Dialogue: 30,0:05:56.02,0:05:57.64,Default,,0,0,0,,Only Russia’s left.
