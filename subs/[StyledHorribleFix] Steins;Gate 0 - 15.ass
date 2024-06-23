@@ -51,7 +51,7 @@ Comment: 11,0:02:59.52,0:03:04.98,OP Rom,,0,0,0,karaoke,{\k41}{\blur11.25\fad(10
 Dialogue: 11,0:01:51.95,0:01:57.12,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}This “vision” we call life
 Dialogue: 11,0:01:57.12,0:02:03.17,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Is yet unaware that it’s an illusion
 Dialogue: 11,0:02:04.09,0:02:09.55,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Even antinomic paradoxes
-Dialogue: 11,0:02:09.55,0:02:14.97,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of worldlines
+Dialogue: 11,0:02:09.55,0:02:14.97,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of world lines
 Dialogue: 11,0:02:14.97,0:02:20.31,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}If the natural trajectory dictated by emotional decisions
 Dialogue: 11,0:02:20.31,0:02:24.65,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Supersedes even common sense
 Dialogue: 11,0:02:24.65,0:02:30.03,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Then my—and merely my—
@@ -93,7 +93,7 @@ Comment: 12,0:23:16.11,0:23:19.53,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}D{
 Comment: 12,0:23:19.53,0:23:22.62,Worldline Rom,,0,0,0,karaoke,{\k6}{\fsp-4.5}A{\k0}n{\k11}a{\k0}t{\k21}a{\k0} {\k0}n{\k18}o{\k0} {\k12}a{\k0}s{\k84}u{\k0} {\k10}a{\k0}n{\k10}a{\k0}t{\k20}a{\k0} {\k0}n{\k16}o{\k0} {\k0}t{\k20}a{\k0}m{\k40}e{\k0} {\k0}n{\k41}i
 Comment: 12,0:23:22.62,0:23:28.79,Worldline Rom,,0,0,0,karaoke,{\k17}{\fsp-4.5}U{\k0}c{\k0}h{\k67}u{\k46}u{\k0} {\k0}n{\k29}a{\k0}r{\k50}u{\k0} {\k0}k{\k43}a{\k0}m{\k37}i{\k0} {\k0}n{\k32}o{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k105}d{\k0} {\k0}b{\k0}o{\k18}u{\k0}t{\k19}o{\k0}k{\k154}u
 Comment: 12,0:23:28.79,0:23:32.08,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k20}u{\k0}r{\k74}i{\k0}k{\k23}a{\k10}e{\k0}s{\k23}a{\k0}n{\k43}a{\k38}i{\k0} {\k0}d{\k98}e
-Comment: 12,0:23:32.08,0:23:35.13,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k38}e{\k0} {\k0}i{\k31}s{\k0} {\k0}i{\k32}n{\k0}s{\k0}i{\k0}d{\k45}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k81}d{\k0}l{\k0}i{\k0}n{\k78}e
+Comment: 12,0:23:32.08,0:23:35.13,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k38}e{\k0} {\k0}i{\k31}s{\k0} {\k0}i{\k32}n{\k0}s{\k0}i{\k0}d{\k45}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k81}d{\k0} {\k0}l{\k0}i{\k0}n{\k78}e
 Comment: 12,0:23:35.13,0:23:38.38,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k41}e{\k0} {\k0}i{\k28}s{\k0} {\k0}i{\k35}n{\k0}s{\k0}i{\k0}d{\k49}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k51}d{\k0} {\k0}l{\k27}a{\k0}y{\k0}e{\k94}r
 Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,,
 Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,charKDurTrans = 1.15 * 100 * (1001 / 24000)

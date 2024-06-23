@@ -50,7 +50,7 @@ Comment: 11,0:03:18.54,0:03:24.00,OP Rom,,0,0,0,karaoke,{\k41}{\blur11.25\fad(10
 Dialogue: 11,0:02:10.97,0:02:16.14,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}This “vision” we call life
 Dialogue: 11,0:02:16.14,0:02:22.19,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Is yet unaware that it’s an illusion
 Dialogue: 11,0:02:23.11,0:02:28.57,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Even antinomic paradoxes
-Dialogue: 11,0:02:28.57,0:02:33.99,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of worldlines
+Dialogue: 11,0:02:28.57,0:02:33.99,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of world lines
 Dialogue: 11,0:02:33.99,0:02:39.33,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}If the natural trajectory dictated by emotional decisions
 Dialogue: 11,0:02:39.33,0:02:43.67,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Supersedes even common sense
 Dialogue: 11,0:02:43.67,0:02:49.05,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Then my—and merely my—
@@ -92,7 +92,7 @@ Comment: 12,0:23:16.11,0:23:19.53,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}D{
 Comment: 12,0:23:19.53,0:23:22.62,Worldline Rom,,0,0,0,karaoke,{\k6}{\fsp-4.5}A{\k0}n{\k11}a{\k0}t{\k21}a{\k0} {\k0}n{\k18}o{\k0} {\k12}a{\k0}s{\k84}u{\k0} {\k10}a{\k0}n{\k10}a{\k0}t{\k20}a{\k0} {\k0}n{\k16}o{\k0} {\k0}t{\k20}a{\k0}m{\k40}e{\k0} {\k0}n{\k41}i
 Comment: 12,0:23:22.62,0:23:28.79,Worldline Rom,,0,0,0,karaoke,{\k17}{\fsp-4.5}U{\k0}c{\k0}h{\k67}u{\k46}u{\k0} {\k0}n{\k29}a{\k0}r{\k50}u{\k0} {\k0}k{\k43}a{\k0}m{\k37}i{\k0} {\k0}n{\k32}o{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k105}d{\k0} {\k0}b{\k0}o{\k18}u{\k0}t{\k19}o{\k0}k{\k154}u
 Comment: 12,0:23:28.79,0:23:32.08,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k20}u{\k0}r{\k74}i{\k0}k{\k23}a{\k10}e{\k0}s{\k23}a{\k0}n{\k43}a{\k38}i{\k0} {\k0}d{\k98}e
-Comment: 12,0:23:32.08,0:23:35.13,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k38}e{\k0} {\k0}i{\k31}s{\k0} {\k0}i{\k32}n{\k0}s{\k0}i{\k0}d{\k45}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k81}d{\k0}l{\k0}i{\k0}n{\k78}e
+Comment: 12,0:23:32.08,0:23:35.13,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k38}e{\k0} {\k0}i{\k31}s{\k0} {\k0}i{\k32}n{\k0}s{\k0}i{\k0}d{\k45}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k81}d{\k0} {\k0}l{\k0}i{\k0}n{\k78}e
 Comment: 12,0:23:35.13,0:23:38.38,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k41}e{\k0} {\k0}i{\k28}s{\k0} {\k0}i{\k35}n{\k0}s{\k0}i{\k0}d{\k49}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k51}d{\k0} {\k0}l{\k27}a{\k0}y{\k0}e{\k94}r
 Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,,
 Comment: 0,0:22:10.84,0:22:12.84,Worldline Trans,,0,0,0,code once,charKDurTrans = 1.15 * 100 * (1001 / 24000)
@@ -340,32 +340,32 @@ Dialogue: 30,0:04:34.06,0:04:39.07,Default,,0,0,0,,The thing is, I don’t think
 Dialogue: 30,0:04:39.07,0:04:41.44,Default,,0,0,0,,I know that, but...
 Dialogue: 30,0:04:41.44,0:04:43.53,Default,,0,0,0,,Even so, I want to hear.
 Dialogue: 30,0:04:43.53,0:04:47.87,Default,,0,0,0,,If I never hear for myself,\NI know I’ll regret it someday.
-Dialogue: 30,0:04:49.58,0:04:55.50,Default,,0,0,0,,All right. Just so you know, none of us carry\Nour memories over from other worldlines.
+Dialogue: 30,0:04:49.58,0:04:55.50,Default,,0,0,0,,All right. Just so you know, none of us carry\Nour memories over from other world lines.
 Dialogue: 30,0:04:55.50,0:04:59.75,Default,,0,0,0,,At best, I can only put together\Nwhat Uncle Okarin’s told me.
 Dialogue: 30,0:04:59.75,0:05:02.63,Default,,0,0,0,,Did Makise Kurisu-san...?
 Dialogue: 30,0:05:02.63,0:05:08.43,Default,,0,0,0,,Did Makise Kurisu-san sacrifice\Nherself to save Mayushii’s life?
 Dialogue: 30,0:05:08.43,0:05:12.31,Default,,0,0,0,,I don’t know if sacrifice is\Nthe word to be using or not.
-Dialogue: 30,0:05:12.31,0:05:16.06,Default,,0,0,0,,However, it’s clear there were\Nat least two worldlines.
-Dialogue: 30,0:05:16.06,0:05:20.94,Default,,0,0,0,,Makise Kurisu lives and Big Sis Mayu\Nloses her life in the Alpha worldlines.
-Dialogue: 30,0:05:20.94,0:05:26.99,Default,,0,0,0,,And... Makise Kurisu loses her life and Big Sis\NMayu keeps living in the Beta worldlines.
-Dialogue: 30,0:05:26.99,0:05:31.79,Default,,0,0,0,,Here, the worldline that we’re in\Nright now is a Beta worldline.
-Dialogue: 30,0:05:31.79,0:05:36.54,Default,,0,0,0,,Is that all there is?\NAre those two worldlines all there is?
+Dialogue: 30,0:05:12.31,0:05:16.06,Default,,0,0,0,,However, it’s clear there were\Nat least two world lines.
+Dialogue: 30,0:05:16.06,0:05:20.94,Default,,0,0,0,,Makise Kurisu lives and Big Sis Mayu\Nloses her life in the Alpha world lines.
+Dialogue: 30,0:05:20.94,0:05:26.99,Default,,0,0,0,,And... Makise Kurisu loses her life and Big Sis\NMayu keeps living in the Beta world lines.
+Dialogue: 30,0:05:26.99,0:05:31.79,Default,,0,0,0,,Here, the world line that we’re in\Nright now is a Beta world line.
+Dialogue: 30,0:05:31.79,0:05:36.54,Default,,0,0,0,,Is that all there is?\NAre those two world lines all there is?
 Dialogue: 30,0:05:36.54,0:05:37.71,Default,,0,0,0,,There is more.
 Dialogue: 30,0:05:37.71,0:05:40.75,Default,,0,0,0,,Rather, I want to believe that there is.
-Dialogue: 30,0:05:40.75,0:05:44.51,Default,,0,0,0,,The Steins Gate worldline definitely exists.
+Dialogue: 30,0:05:40.75,0:05:44.51,Default,,0,0,0,,The Steins Gate world line definitely exists.
 Dialogue: 30,0:05:44.51,0:05:46.68,Default,,0,0,0,,Steins Gate?
 Dialogue: 30,0:05:46.68,0:05:49.18,Default,,0,0,0,,A world where neither of you lose your lives,
 Dialogue: 30,0:05:49.18,0:05:54.47,Default,,0,0,0,,and the conflict over time machines\Nthat starts WWIII never occurs.
 Dialogue: 30,0:05:54.47,0:05:56.77,Default,,0,0,0,,Dad in the future told me about it.
-Dialogue: 30,0:05:56.77,0:05:59.77,Default,,0,0,0,,It’s the unknown worldline\Nwe’re trying to reach.
+Dialogue: 30,0:05:56.77,0:05:59.77,Default,,0,0,0,,It’s the unknown world line\Nwe’re trying to reach.
 Dialogue: 30,0:05:59.77,0:06:05.11,Default,,0,0,0,,Uncle Okarin lived the same summer\Nover and over trying to find the way there.
 Dialogue: 30,0:06:05.11,0:06:08.91,Default,,0,0,0,,He thought there had to be\Na way to save both of you.
 Dialogue: 30,0:06:08.91,0:06:10.16,Default,,0,0,0,,But...
 Dialogue: 30,0:06:12.12,0:06:16.91,Default,,0,0,0,,So... It’s all because Mayushii\Nstopped him that time...
 Dialogue: 30,0:06:16.91,0:06:18.92,Default,,0,0,0,,It’s not your fault, Big Sis Mayu.
 Dialogue: 30,0:06:18.92,0:06:23.00,Default,,0,0,0,,Honestly, Uncle Okarin was\Na total wreck back then.
-Dialogue: 30,0:06:23.00,0:06:27.30,Default,,0,0,0,,He has an ability to remember all\Nworldlines called Reading Steiner.
-Dialogue: 30,0:06:27.30,0:06:33.22,Default,,0,0,0,,Because of that, he retains his memories\Nof many people across many worldlines.
+Dialogue: 30,0:06:23.00,0:06:27.30,Default,,0,0,0,,He has an ability to remember all\Nworld lines called Reading Steiner.
+Dialogue: 30,0:06:27.30,0:06:33.22,Default,,0,0,0,,Because of that, he retains his memories\Nof many people across many world lines.
 Dialogue: 30,0:06:33.22,0:06:37.43,Default,,0,0,0,,The feelings they tried to hide...\NThings they never achieved...
 Dialogue: 30,0:06:37.43,0:06:41.15,Default,,0,0,0,,The fear of suddenly losing\Nthose who should exist...
 Dialogue: 30,0:06:41.15,0:06:46.82,Default,,0,0,0,,Just retaining those memories is\Nplenty enough to damage the heart.
@@ -396,7 +396,7 @@ Dialogue: 30,0:08:05.06,0:08:07.36,Default,,0,0,0,,So we can try as much as need
 Dialogue: 30,0:08:07.36,0:08:12.82,Default,,0,0,0,,Suzu-san, you’re going back to the past?\NWhat will happen when you do?
 Dialogue: 30,0:08:12.82,0:08:14.32,Default,,0,0,0,,Who knows?
 Dialogue: 30,0:08:14.32,0:08:17.53,Default,,0,0,0,,I won’t be coming back here, that’s for sure.
-Dialogue: 30,0:08:17.53,0:08:22.54,Default,,0,0,0,,Worldline convergence might mean an\Nirregularity like me is straightened out.
+Dialogue: 30,0:08:17.53,0:08:22.54,Default,,0,0,0,,World line convergence might mean an\Nirregularity like me is straightened out.
 Dialogue: 30,0:08:22.54,0:08:25.04,Default,,0,0,0,,Straightened out?
 Dialogue: 30,0:08:31.01,0:08:35.22,Default,,0,0,0,,Suzu-san, wait! You can’t go! Don’t!
 Dialogue: 30,0:08:36.47,0:08:38.72,Default,,0,0,0,,Suzu-san! Daru-kun!
@@ -571,9 +571,9 @@ Dialogue: 30,0:18:58.47,0:19:00.63,Default,,0,0,0,,It’s the year 2025 here.
 Dialogue: 30,0:19:00.63,0:19:02.09,Default,,0,0,0,,Dad...
 Dialogue: 30,0:19:02.09,0:19:05.51,Default,,0,0,0,,If this video mail reached you, it means you...
 Dialogue: 30,0:19:05.51,0:19:11.10,Default,,0,0,0,,rather, you and Mayu-shi discovered\Nanother path to Steins Gate.
-Dialogue: 30,0:19:11.10,0:19:17.40,Default,,0,0,0,,You may not realize it, but the two of your\Nchoices altered the worldline slightly.
-Dialogue: 30,0:19:17.40,0:19:19.11,Default,,0,0,0,,The worldline?
-Dialogue: 30,0:19:19.11,0:19:26.12,Default,,0,0,0,,In other words, I’m not from the worldline you\Nleft from, but a Hashida Itaru from another world.
+Dialogue: 30,0:19:11.10,0:19:17.40,Default,,0,0,0,,You may not realize it, but the two of your\Nchoices altered the world line slightly.
+Dialogue: 30,0:19:17.40,0:19:19.11,Default,,0,0,0,,The world line?
+Dialogue: 30,0:19:19.11,0:19:26.12,Default,,0,0,0,,In other words, I’m not from the world line you\Nleft from, but a Hashida Itaru from another world.
 Dialogue: 30,0:19:26.12,0:19:31.08,Default,,0,0,0,,However, my love for my daughter\Nwill ever be the same.
 Dialogue: 30,0:19:31.08,0:19:34.17,Default,,0,0,0,,Moving on to the point of this video mail...
 Dialogue: 30,0:19:34.17,0:19:37.30,Default,,0,0,0,,Now for the details of Operation Arc-light.

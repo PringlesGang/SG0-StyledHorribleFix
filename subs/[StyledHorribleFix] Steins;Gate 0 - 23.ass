@@ -55,11 +55,11 @@ Dialogue: 11,0:16:27.66,0:16:33.75,HttG Trans,,0,0,0,,{\an8\fs60}Dreams stretchi
 Dialogue: 11,0:16:33.75,0:16:39.55,HttG Trans,,0,0,0,,{\an8\fs60}Such thoughts are but arrogant privileges granted to us
 Dialogue: 11,0:16:39.55,0:16:45.72,HttG Trans,,0,0,0,,{\an8\fs60}The “finite” is dictated by the two hands
 Dialogue: 11,0:16:45.72,0:16:50.10,HttG Trans,,0,0,0,,{\an8\fs60}If I’m bound by such a cruel contract, my choice will instead be to go
-Dialogue: 11,0:16:52.77,0:16:59.65,HttG Trans,,0,0,0,,{\an8\fs60\fade(100,0)}And thus I will cross worldlines with each second passed
+Dialogue: 11,0:16:52.77,0:16:59.65,HttG Trans,,0,0,0,,{\an8\fs60\fade(100,0)}And thus I will cross world lines with each second passed
 Dialogue: 11,0:16:59.65,0:17:04.66,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
 Dialogue: 11,0:17:04.66,0:17:11.58,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
 Dialogue: 11,0:17:11.58,0:17:17.83,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
-Dialogue: 11,0:17:19.63,0:17:26.51,HttG Trans,,0,0,0,,{\an8\fs60\fade(200,0)}And thus I will cross worldlines with each second passed
+Dialogue: 11,0:17:19.63,0:17:26.51,HttG Trans,,0,0,0,,{\an8\fs60\fade(200,0)}And thus I will cross world lines with each second passed
 Dialogue: 11,0:17:26.51,0:17:31.52,HttG Trans,,0,0,0,,{\an8\fs60}In order to protect your smile most precious to me
 Dialogue: 11,0:17:31.52,0:17:38.44,HttG Trans,,0,0,0,,{\an8\fs60}Reinstating a time loop devoid of sorrow
 Dialogue: 11,0:17:38.44,0:17:44.70,HttG Trans,,0,0,0,,{\an8\fs60\fad(0,200)}To this end, I will endure, as a solitary observer
@@ -241,7 +241,7 @@ Dialogue: 30,0:00:22.81,0:00:24.14,Default,,0,0,0,,What?
 Dialogue: 30,0:00:24.14,0:00:26.81,Default,,0,0,0,,Have you given up talking funny now?
 Dialogue: 30,0:00:27.94,0:00:32.44,Default,,0,0,0,,Due to our D-RINE, Amadeus was lost, but...
 Dialogue: 30,0:00:32.44,0:00:37.62,Default,,0,0,0,,...we still meet Hiyajo-san,\Nbut apparently for different reasons.
-Dialogue: 30,0:00:37.62,0:00:40.20,Default,,0,0,0,,Even as worldlines change...
+Dialogue: 30,0:00:37.62,0:00:40.20,Default,,0,0,0,,Even as world lines change...
 Dialogue: 30,0:00:40.20,0:00:43.83,Default,,0,0,0,,...that fate which links us,\Nthose connections...
 Dialogue: 30,0:00:43.83,0:00:46.75,Default,,0,0,0,,Do they change to bring us together as well?
 Dialogue: 30,0:00:49.38,0:00:50.63,Default,,0,0,0,,Mayuri?
@@ -459,7 +459,7 @@ Dialogue: 30,0:12:52.56,0:12:55.90,Default,,0,0,0,,For bringing me along with yo
 Dialogue: 30,0:12:55.90,0:13:01.86,Default,,0,0,0,,I’m sure the other Mayushii and\Nmy Hikoboshi can take care of the rest.
 Dialogue: 30,0:13:04.78,0:13:07.99,Default,,0,0,0,,I’m so jealous of Uncle Okarin right now.
 Dialogue: 30,0:13:07.99,0:13:10.08,Default,,0,0,0,,If I had Reading Steiner...
-Dialogue: 30,0:13:10.08,0:13:14.21,Default,,0,0,0,,...I could remember everything,\Neven when worldlines change.
+Dialogue: 30,0:13:10.08,0:13:14.21,Default,,0,0,0,,...I could remember everything,\Neven when world lines change.
 Dialogue: 30,0:13:14.21,0:13:17.04,Default,,0,0,0,,Big Sis Mayu being younger than me...
 Dialogue: 30,0:13:17.04,0:13:19.00,Default,,0,0,0,,This moment right now...
 Dialogue: 30,0:13:19.00,0:13:22.84,Default,,0,0,0,,I won’t get to talk with\NSuzu-san for another six whole years.
@@ -494,7 +494,7 @@ Dialogue: 30,0:14:56.85,0:15:02.81,Default,,0,0,0,,This pits the world’s super
 Dialogue: 30,0:15:02.81,0:15:06.61,Default,,0,0,0,,Ultimately, it leads to world war.
 Dialogue: 30,0:15:06.61,0:15:09.65,Default,,0,0,0,,The lives of 5.7 billion people are at stake.
 Dialogue: 30,0:15:09.65,0:15:11.78,Default,,0,0,0,,Save Makise Kurisu!
-Dialogue: 30,0:15:11.78,0:15:13.78,Default,,0,0,0,,Change the worldline!
+Dialogue: 30,0:15:11.78,0:15:13.78,Default,,0,0,0,,Change the world line!
 Dialogue: 30,0:15:13.78,0:15:16.04,Default,,0,0,0,,I can’t.
 Dialogue: 30,0:15:16.04,0:15:19.04,Default,,0,0,0,,It’s just like what happened with Mayuri.
 Dialogue: 30,0:15:19.04,0:15:21.62,Default,,0,0,0,,However hard I try, it’ll always end the same...
@@ -516,7 +516,7 @@ Dialogue: 30,0:16:25.77,0:16:30.23,Default,,0,0,0,,But that pain also gave me de
 Dialogue: 30,0:16:30.23,0:16:34.82,Default,,0,0,0,,So I couldn’t afford to undo it.
 Dialogue: 30,0:16:34.82,0:16:38.28,Default,,0,0,0,,Now we can move to the real focus of our plan.
 Dialogue: 30,0:16:38.28,0:16:42.21,Default,,0,0,0,,The plan is this: save\NMakise Kurisu and enter Steins Gate.
-Dialogue: 30,0:16:44.00,0:16:48.84,Default,,0,0,0,,I was also the one who named\Nthe target worldline “Steins Gate.”
+Dialogue: 30,0:16:44.00,0:16:48.84,Default,,0,0,0,,I was also the one who named\Nthe target world line “Steins Gate.”
 Dialogue: 30,0:16:48.84,0:16:53.17,Default,,0,0,0,,I’m sure you know the reason for that name too.
 Dialogue: 30,0:16:53.17,0:16:55.55,Default,,0,0,0,,It doesn’t really mean anything.
 Dialogue: 30,0:16:55.55,0:16:57.80,Default,,0,0,0,,Isn’t that right?
@@ -551,7 +551,7 @@ Dialogue: 30,0:18:22.01,0:18:24.35,Default,,0,0,0,,What if you interpret it like
 Dialogue: 30,0:18:24.35,0:18:28.60,Default,,0,0,0,,In 2025, Okabe Rintaro doesn’t die, but...
 Dialogue: 30,0:18:28.60,0:18:31.61,Default,,0,0,0,,...he boards the first version\Nof our time machine...
 Dialogue: 30,0:18:31.61,0:18:34.69,Default,,0,0,0,,...and leaves for another space-time.
-Dialogue: 30,0:18:34.69,0:18:37.53,Default,,0,0,0,,Disappearing from this worldline is...
+Dialogue: 30,0:18:34.69,0:18:37.53,Default,,0,0,0,,Disappearing from this world line is...
 Dialogue: 30,0:18:37.53,0:18:40.95,Default,,0,0,0,,...essentially the same as dying, is it not?
 Dialogue: 30,0:18:40.95,0:18:43.37,Default,,0,0,0,,That’s some crazy positive thinking.
 Dialogue: 30,0:18:43.37,0:18:46.79,Default,,0,0,0,,Though, it holds up as a theory, right?

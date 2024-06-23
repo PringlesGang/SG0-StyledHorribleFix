@@ -49,7 +49,7 @@ Comment: 11,0:01:57.54,0:02:03.00,OP Rom,,0,0,0,karaoke,{\k41}{\blur11.25\fad(10
 Dialogue: 11,0:00:49.97,0:00:55.14,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}This “vision” we call life
 Dialogue: 11,0:00:55.14,0:01:01.19,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Is yet unaware that it’s an illusion
 Dialogue: 11,0:01:02.11,0:01:07.57,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Even antinomic paradoxes
-Dialogue: 11,0:01:07.57,0:01:13.00,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of worldlines
+Dialogue: 11,0:01:07.57,0:01:13.00,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Can be tricked into existence by an infinite amount of world lines
 Dialogue: 11,0:01:13.00,0:01:18.33,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}If the natural trajectory dictated by emotional decisions
 Dialogue: 11,0:01:18.33,0:01:22.67,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Supersedes even common sense
 Dialogue: 11,0:01:22.67,0:01:28.05,OP Trans,,0,0,0,,{\blur11.25\fad(100,100)}Then my—and merely my—
@@ -89,7 +89,7 @@ Dialogue: 11,0:20:26.61,0:20:31.11,Lyra Rom,,0,0,0,,{\fade(100,100)}So I’ll pr
 Dialogue: 11,0:20:31.11,0:20:35.57,Lyra Rom,,0,0,0,,{\fade(100,100)}Isn’t that also a form of love?
 Dialogue: 11,0:20:35.57,0:20:41.08,Lyra Rom,,0,0,0,,{\fade(100,100)}I long for all the scenes, back in those days
 Dialogue: 11,0:20:41.08,0:20:46.59,Lyra Rom,,0,0,0,,{\fade(100,100)}And so we head once again toward that place...
-Dialogue: 11,0:20:46.59,0:20:53.01,Lyra Rom,,0,0,0,,{\fade(100,100)}In that worldline, shining with the most radiant light
+Dialogue: 11,0:20:46.59,0:20:53.01,Lyra Rom,,0,0,0,,{\fade(100,100)}In that world line, shining with the most radiant light
 Dialogue: 11,0:20:53.01,0:20:59.31,Lyra Rom,,0,0,0,,{\fade(100,100)}Where you said your most bittersweet farewell
 Dialogue: 11,0:20:59.31,0:21:05.77,Lyra Rom,,0,0,0,,{\fade(100,100)}I will strike your cheek, crying all the while
 Dialogue: 11,0:21:05.77,0:21:12.86,Lyra Rom,,0,0,0,,{\fade(100,100)}Changing everything in that moment
@@ -137,7 +137,7 @@ Dialogue: 1,0:23:34.54,0:23:40.01,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H474ECB&\c
 Dialogue: 2,0:23:34.54,0:23:40.01,Draw,,0,0,0,,{\blur15\pos(0,0)\p1\c&H535BD4&}m 1085 106 l 1110 110 l 1133 151 l 1148 542 l 1043 529 l 1044 203 l 1053 122 {\p0}
 Dialogue: 3,0:23:34.54,0:23:40.01,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H46438F&\b0\blur2\move(1126,532,1128,510)\c&H434296&\fs75\t(\fs79)}I wish{\c&H3D3C84&} to {\c&H393975&}meet{\c&H353272&} my {\c&H302F63&}Hikoboshi
 Dialogue: 3,0:23:34.54,0:23:40.01,Signs,,0,0,0,,{\an8\frz269.8\fnPlaypen Sans\c&H2D2E5B&\b0\blur2\fs75\t(\fs79)\move(1036,910,1036,908)}Mayushii
-Dialogue: 30,0:00:07.09,0:00:10.42,Default,,0,0,0,,Don’t panic. The worldline hasn’t changed.
+Dialogue: 30,0:00:07.09,0:00:10.42,Default,,0,0,0,,Don’t panic. The world line hasn’t changed.
 Dialogue: 30,0:00:10.42,0:00:13.30,Default,,0,0,0,,In which case, Mayuri and Suzuha are okay.
 Dialogue: 30,0:00:13.30,0:00:15.34,Default,,0,0,0,,This can’t be where they...
 Dialogue: 30,0:00:21.27,0:00:22.89,Default,,0,0,0,,Mayuri...
@@ -394,8 +394,8 @@ Dialogue: 30,0:19:53.48,0:19:55.61,Default,,0,0,0,,It’s still incomplete.
 Dialogue: 30,0:19:57.69,0:19:59.36,Default,,0,0,0,,Why?
 Dialogue: 30,0:19:59.36,0:20:02.86,Default,,0,0,0,,Why did this happen?
 Dialogue: 30,0:20:02.86,0:20:04.37,Default,,0,0,0,,Okarin...
-Dialogue: 30,0:20:08.41,0:20:13.87,Default,,0,0,0,,I... I chose this worldline because\NI thought it was the best choice!
-Dialogue: 30,0:20:13.87,0:20:19.59,Default,,0,0,0,,This... This was the one and only\Nworldline built upon Kurisu’s sacrifice!
+Dialogue: 30,0:20:08.41,0:20:13.87,Default,,0,0,0,,I... I chose this world line because\NI thought it was the best choice!
+Dialogue: 30,0:20:13.87,0:20:19.59,Default,,0,0,0,,This... This was the one and only\Nworld line built upon Kurisu’s sacrifice!
 Dialogue: 30,0:20:19.59,0:20:24.09,Default,,0,0,0,,And yet... And yet, why?
 Dialogue: 30,0:20:24.09,0:20:25.85,Default,,0,0,0,,Why?
 Dialogue: 30,0:20:25.85,0:20:27.60,Default,,0,0,0,,Why?!

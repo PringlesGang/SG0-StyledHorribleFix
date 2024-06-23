@@ -47,7 +47,7 @@ The Steins;Gate 0 visual novel has restored honorifics, thanks to the Committee 
 
 ### Visual novel and Committee of Zero consistency
 These subtitles have been thoroughly edited to match the Committee of Zero's visual novel patches as closely as possible. Examples are:
-- Sticking to established Science Adventure terminology (like *worldline* and *world layer*)
+- Sticking to established Science Adventure terminology (like *world line* and *world layer*)
 - Name order and romanization (Okabe Rintaro instead of Rintarou Okabe)
 - [Restored Japanese honorifics](#restored-japanese-honorifics)
 - Textual stylistic choices (e.g. writing ‘[Kurisu]’ when referring to *Amadeus* Kurisu)

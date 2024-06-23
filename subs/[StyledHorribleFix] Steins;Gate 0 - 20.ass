@@ -57,7 +57,7 @@ Comment: 12,0:23:16.20,0:23:19.62,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}D{
 Comment: 12,0:23:19.62,0:23:22.71,Worldline Rom,,0,0,0,karaoke,{\k6}{\fsp-4.5}A{\k0}n{\k11}a{\k0}t{\k21}a{\k0} {\k0}n{\k18}o{\k0} {\k12}a{\k0}s{\k84}u{\k0} {\k10}a{\k0}n{\k10}a{\k0}t{\k20}a{\k0} {\k0}n{\k16}o{\k0} {\k0}t{\k20}a{\k0}m{\k40}e{\k0} {\k0}n{\k41}i
 Comment: 12,0:23:22.71,0:23:28.88,Worldline Rom,,0,0,0,karaoke,{\k17}{\fsp-4.5}U{\k0}c{\k0}h{\k67}u{\k46}u{\k0} {\k0}n{\k29}a{\k0}r{\k50}u{\k0} {\k0}k{\k43}a{\k0}m{\k37}i{\k0} {\k0}n{\k32}o{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k105}d{\k0} {\k0}b{\k0}o{\k18}u{\k0}t{\k19}o{\k0}k{\k154}u
 Comment: 12,0:23:28.88,0:23:32.18,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}K{\k20}u{\k0}r{\k74}i{\k0}k{\k23}a{\k10}e{\k0}s{\k23}a{\k0}n{\k43}a{\k38}i{\k0} {\k0}d{\k98}e
-Comment: 12,0:23:32.18,0:23:35.22,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k38}e{\k0} {\k0}i{\k31}s{\k0} {\k0}i{\k32}n{\k0}s{\k0}i{\k0}d{\k45}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k81}d{\k0}l{\k0}i{\k0}n{\k78}e
+Comment: 12,0:23:32.18,0:23:35.22,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k38}e{\k0} {\k0}i{\k31}s{\k0} {\k0}i{\k32}n{\k0}s{\k0}i{\k0}d{\k45}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k81}d{\k0} {\k0}l{\k0}i{\k0}n{\k78}e
 Comment: 12,0:23:35.22,0:23:38.48,Worldline Rom,,0,0,0,karaoke,{\k0}{\fsp-4.5}T{\k0}h{\k0}e{\k0}r{\k41}e{\k0} {\k0}i{\k28}s{\k0} {\k0}i{\k35}n{\k0}s{\k0}i{\k0}d{\k49}e{\k0} {\k0}w{\k0}o{\k0}r{\k0}l{\k51}d{\k0} {\k0}l{\k27}a{\k0}y{\k0}e{\k94}r
 Comment: 0,0:22:10.93,0:22:12.93,Worldline Trans,,0,0,0,,
 Comment: 0,0:22:10.93,0:22:12.93,Worldline Trans,,0,0,0,code once,charKDurTrans = 1.15 * 100 * (1001 / 24000)
@@ -366,7 +366,7 @@ Dialogue: 30,0:19:42.43,0:19:44.97,Default,,0,0,0,,We can’t just sit and griev
 Dialogue: 30,0:19:46.47,0:19:48.93,Default,,0,0,0,,That’s what our reality has become.
 Dialogue: 30,0:19:52.06,0:19:53.81,Default,,0,0,0,,I thought I knew...
 Dialogue: 30,0:19:55.77,0:19:59.61,Default,,0,0,0,,Suzuha told me time and time again.
-Dialogue: 30,0:19:59.61,0:20:05.74,Default,,0,0,0,,That down the worldline I chose,\Nthis kind of future was waiting.
+Dialogue: 30,0:19:59.61,0:20:05.74,Default,,0,0,0,,That down the world line I chose,\Nthis kind of future was waiting.
 Dialogue: 30,0:20:05.74,0:20:08.16,Default,,0,0,0,,I thought I understood.
 Dialogue: 30,0:20:09.29,0:20:13.50,Default,,0,0,0,,But...
 Dialogue: 30,0:20:13.50,0:20:16.59,Default,,0,0,0,,I was only telling myself I understood!
