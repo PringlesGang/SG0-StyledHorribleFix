@@ -12,17 +12,6 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Amadeus Rom Square-furigana,Pixelify Sans,45,&H55000011,&H550000FF,&H554BB1D6,&H55000000,0,0,0,0,100,100,0,0,1,1.5,0,8,23,23,23,1
-Style: Amadeus Rom Red-furigana,Pixelify Sans,45,&H00000011,&HFF000011,&H00210FBD,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
-Style: Amadeus Trans-furigana,Pixelify Sans,45,&H00000011,&H00000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,2,23,23,23,1
-Style: Amadeus Rom-furigana,Pixelify Sans,45,&H00000011,&HFF000011,&H00119DE9,&H00000000,0,0,0,0,100,100,0,0,1,2.25,0,8,23,23,23,1
-Style: Whiteboard-furigana,Playpen Sans Medium,45,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,0,0,0,0,100,100,0,0,1,0,0,8,20,20,20,0
-Style: Draw-furigana,Noto Sans JP,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
-Style: OkabePhone-furigana,Playpen Sans,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,10,10,10,1
-Style: Title-furigana,Playfair Display,45,&H00696571,&H00726F87,&H00726F87,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,60,40,30,1
-Style: Signs-furigana,Noto Sans JP,30,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
-Style: On Top-furigana,Noto Sans JP Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,30,0
-Style: Default-furigana,Noto Sans JP Medium,45,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,0
 Style: Default,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,2,30,30,30,0
 Style: On Top,Noto Sans JP Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&HA0062210,-1,0,0,0,100,100,0,0,1,4,0,8,30,30,30,0
 Style: Signs,Noto Sans JP,60,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,0,0,5,20,20,20,0
