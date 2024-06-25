@@ -21,6 +21,7 @@ You can contact me on Discord under the username `pringlesgang`.
     - [Downloading the release](#downloading-the-release)
     - [Building from source](#building-from-source)
     - [Targeting the TV release](#targeting-the-tv-release)
+- [Contributing](#contributing)
 - [Credits](#credits)
 
 # Preview
@@ -93,15 +94,21 @@ Finally, if you're on Windows, right-click on the [`auto-mkv-subs.ps1`](./auto-m
 ## Building from source
 To make better use of source-control, the source subtitle files in this repository are not compiled, meaning some stylings only exist as Aegisub templates, and not as actual lines. To compile these files, open them in [Aegisub](https://aegisub.org/), and compile by clicking the `Automation -> Apply karaoke template` button.
 
-The repository contains three blacklist files: [`decompile-blacklist.txt`](./ssa-cleanup-filters/decompile-blacklist.txt), [`release-blacklist.txt`](./ssa-cleanup-filters/release-blacklist.txt) and [`signsSongs-blacklist.txt`](./ssa-cleanup-filters/signsSongs-blacklist.txt). These are to be used with my [ssa-cleanup-tool](https://github.com/PringlesGang/ssa-cleanup-tool).
-- [`decompile-blacklist.txt`](./ssa-cleanup-filters/decompile-blacklist.txt) removes all lines with the `fx`-effect—all compiled lines. Used for decompiling to place under source control.
-- [`release-blacklist.txt`](./ssa-cleanup-filters/release-blacklist.txt) removes all comment lines. Used for debloating the public release.
-- [`signsSongs-blacklist.txt`](./ssa-cleanup-filters/signsSongs-blacklist.txt) removes all lines that either have the `Default` or `On Top` style—all dialogue; leaving only the signs and the songs. Used for creating _signs+songs_ subtitles for dubbed audio.
+The subtitles can be built into _full-release_ and _signsSongs-release_ versions by means of the [`build.ps1`](./build.ps1) script.
+> [!IMPORTANT]
+> Make sure my [ssa-cleanup-tool](https://github.com/PringlesGang/ssa-cleanup-tool/releases/tag/v2.0.0) is installed and can be ran directly by means of Path for this build script to work!
 
 All fonts used, as well as their download links, are found in the [`fonts.md`](./fonts.md) file.
 
 ## Targeting the TV release
 These subtitles target the Blu-ray release, which changed some of the animation. This means that if you wish to target a TV release (such as the HorribleSubs release), some stylings will need to be altered. These alterations can be found in [`TV-alterations.md`](./TV-alterations.md).
+
+# Contributing
+Any contributions are welcome! Please open pull requests for any change you wish to merge.
+
+To maintain a clean codebase, make sure you decompile the Aegisub karaoke effects and revert the subtitle file headers before committing. This can be done automatically using the [`decompile.ps1`](./decompile.ps1) script.
+> [!IMPORTANT]
+> Make sure my [ssa-cleanup-tool](https://github.com/PringlesGang/ssa-cleanup-tool/releases/tag/v2.0.0) is installed and can be ran directly by means of Path for this build script to work!
 
 # Credits
 Special thanks to the following people, without whom this project wouldn't have been possible!

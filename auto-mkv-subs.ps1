@@ -1,7 +1,7 @@
 <#
 Automatically merges all subtitles into the video files
 
-Make sure mkvmerge is installed! (https://mkvtoolnix.download/)
+Make sure mkvmerge is installed and added to Path! (https://mkvtoolnix.download/)
 
 This script assumes the following file structure:
  root
@@ -9,6 +9,8 @@ This script assumes the following file structure:
  ├── auto-mkv-subs.ps1    This script
  ├── fonts                The fonts folder, as supplied in the download links
  ├── full                 The full subtitles, as supplied by the ssa-cleanup script
+ ├── helper-scripts       Folder containing helper scripts
+ │   └── subtitles.psm1   Helper script for fetching the right subtitle files
  ├── output               The output folder (will be automatically generated)
  └── ss                   The signs+songs subtitles, as supplied by the ssa-cleanup script
 
@@ -19,6 +21,9 @@ Any episode whose number does not evaluate to something between 1 and 23 will be
 
 The subtitles will be associated with their video file by evaluating the episode number in the same way
 #>
+
+Remove-Module -Name .\helper-scripts\subtitles -Force -ErrorAction Ignore
+Import-Module -Name .\helper-scripts\subtitles -Function Get-EpisodeNumber, Get-Subtitles
 
 $Anton = ".\fonts\Anton\Anton-Regular.ttf"
 $AreYouSerious = ".\fonts\Are_You_Serious\AreYouSerious-Regular.ttf"
@@ -60,30 +65,12 @@ $Roboto = ".\fonts\Roboto\Roboto-Regular.ttf"
 $SedgwickAve = ".\fonts\Sedgwick_Ave\SedgwickAve-Regular.ttf"
 $SpecialElite = ".\fonts\Special_Elite\SpecialElite-Regular.ttf"
 
-function Get-Episode-Number($String) {
-    return [int]($String -replace "[^0-9]", '')
-}
-
-function Get-Subtitles($FolderName) {
-    [string[]]$EpisodeSubFiles
-
-    $SubFiles = Get-ChildItem -Path ".\$FolderName\*.ass"
-    foreach ($SubFile in $SubFiles) {
-        $SubNumber = Get-Episode-Number($SubFile.BaseName)
-        if (!($SubNumber -eq $EpisodeNumber -or $(($SubNumber -isnot [int] -or $SubNumber -lt 1 -or $SubNumber -gt 23) -and $EpisodeNumber -eq "OVA"))) {continue}
-        
-        $EpisodeSubFiles += Join-Path -Path $FolderName -ChildPath $SubFile.Name
-    }
-    
-    return $EpisodeSubFiles
-}
-
 
 New-Item -Path .\output -ItemType Directory -Force
 $Files = Get-ChildItem -Path .\anime\*.mkv
 foreach ($File in $Files) {
     $FileName = $File.BaseName
-    $EpisodeNumber = Get-Episode-Number($FileName)
+    $EpisodeNumber = Get-EpisodeNumber $FileName
 
     Switch ($EpisodeNumber) {
         1 {
@@ -371,13 +358,15 @@ foreach ($File in $Files) {
     $AddOutput = "-o", $OutputFile, "--default-track-flag", "1:0", "--default-track-flag", "2:1", "--default-track-flag", "3:0", $InputFile
 
     $FullPrefix = "--default-track-flag", "0:1", "--language", "0:en", "--track-name", "0:Full [StyledHorribleFix]"
-    $AddFullSubs = @(Get-Subtitles("full") | ForEach-Object {$FullPrefix + $_})
+    $AddFullSubs = @(Get-Subtitles -FolderName "full" -EpisodeNumber $EpisodeNumber | ForEach-Object {$FullPrefix + $_})
 
     $SSPrefix = "--default-track-flag", "0:0", "--language", "0:en", "--track-name", "0:Signs+Songs [StyledHorribleFix]"
-    $AddSSSubs = @(Get-Subtitles("ss") | ForEach-Object {$SSPrefix + $_})
+    $AddSSSubs = @(Get-Subtitles -FolderName "ss" -EpisodeNumber $EpisodeNumber | ForEach-Object {$SSPrefix + $_})
 
     $FontPrefix = "--attachment-mime-type", "application/x-truetype-font", "--attach-file"
     $AddFonts = @($Fonts | ForEach-Object {$FontPrefix + $_})
 
     &$Executable @(($AddOutput, $AddFullSubs, $AddSSSubs, $AddFonts) | ForEach-Object {$_})
 }
+
+Remove-Module -Name .\helper-scripts\subtitles -Force

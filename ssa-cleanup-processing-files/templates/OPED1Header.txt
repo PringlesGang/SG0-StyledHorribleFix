@@ -1,0 +1,13 @@
+﻿[Script Info]
+Title: StyledHorribleFix
+; Subs edited by Woute, Mia and PringlesGang for consistency
+; Subs styled by PringlesGang
+; Fátima translation by PringlesGang
+; Last Game translation by PringlesGang
+; https://github.com/PringlesGang/SG0-StyledHorribleFix
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
