@@ -66,7 +66,8 @@ These subtitles target the [Anime Time] release, though through some minor tempo
 > These subtitles are best played with [mpv](https://mpv.io)!
 
 ## Downloading the release
-Download the latest release under the [**Releases**](https://github.com/PringlesGang/SG0-StyledHorribleFix/releases) section. This zip file will include three folders:
+Download the latest release under the [**Releases**](https://github.com/PringlesGang/SG0-StyledHorribleFix/releases) section. This zip file will include four folders:
+- `anime` is empty, and will have to have the anime's video files copied into
 - `fonts` contains all fonts used in the project
 - `full` contains the full subtitles, intended for Japanese audio
 - `ss` contains the signs+songs subtitles, intended for English audio
@@ -81,12 +82,14 @@ The automated merging script will take all anime episodes as input, and spit out
 
 To use this, first make sure that [mkvmerge](https://mkvtoolnix.download/) is installed. After that, make sure the `auto-mkv-subs` script is in a directory that has the subdirectories `fonts`, `full` and `ss`, containing the fonts, full subtitles and signs+songs subtitles respectively.
 
-Next, create a fourth folder called `anime`. In this folder, copy all Steins;Gate 0 episodes from the [Anime Time] release.
+Next, copy all Steins;Gate 0 episodes from the [Anime Time] release into the `anime` directory.
 
 > [!CAUTION]
 > Make sure none of the files are renamed.
 
-Finally, if you're on Windows, right-click on the [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) script, and select `Run with PowerShell`. If you're on Linux or macOS instead, run the [`auto-mkv-subs.sh`](./auto-mkv-subs.sh) script with Bash. The injected video files should slowly start to appear in the newly generated `output` folder.
+Finally, if you're on Windows, run [`auto-mkv-subs.ps1`](./auto-mkv-subs.ps1) by opening a PowerShell instance in the folder containing that script, and executing `./auto-mkv-subs.ps1`.
+If you're on Linux or macOS instead, run the [`auto-mkv-subs.sh`](./auto-mkv-subs.sh) script with Bash.
+The injected video files should slowly start to appear in the newly generated `output` folder.
 
 > [!IMPORTANT]
 > From episode 14 onwards the script will likely start warning about lines that will be skipped. This is expected, and everything is going fine.
@@ -94,9 +97,9 @@ Finally, if you're on Windows, right-click on the [`auto-mkv-subs.ps1`](./auto-m
 ## Building from source
 To make better use of source-control, the source subtitle files in this repository are not compiled, meaning some stylings only exist as Aegisub templates, and not as actual lines. To compile these files, open them in [Aegisub](https://aegisub.org/), and compile by clicking the `Automation -> Apply karaoke template` button.
 
-The subtitles can be built into _full-release_ and _signsSongs-release_ versions by means of the [`build.ps1`](./build.ps1) script.
-> [!IMPORTANT]
-> Make sure my [ssa-cleanup-tool](https://github.com/PringlesGang/ssa-cleanup-tool/releases/tag/v2.0.0) is installed and can be ran directly by means of Path for this build script to work!
+The subtitles can automatically be built into _full-release_ and _signsSongs-release_ versions by means of the [`build.ps1`](./build.ps1) script.
+In order to use this, install both my [ssa-cleanup-tool](https://github.com/PringlesGang/ssa-cleanup-tool/releases/tag/v2.0.0) and [aegisub-cli](https://github.com/Myaamori/aegisub-cli).
+After this, copy [`builder_config_template.json`](./builder_config_template.json) into `builder_config.json` and edit it to point to your installations of the dependencies.
 
 All fonts used, as well as their download links, are found in the [`fonts.md`](./fonts.md) file.
 
