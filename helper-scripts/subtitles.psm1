@@ -12,7 +12,7 @@ function Get-Subtitles {
         $EpisodeNumber
     )
 
-    [string[]]$EpisodeSubFiles
+    [string[]]$EpisodeSubFiles = @()
 
     $SubFiles = Get-ChildItem -Path ".\$FolderName\*.ass"
     foreach ($SubFile in $SubFiles) {
