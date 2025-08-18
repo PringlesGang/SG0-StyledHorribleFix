@@ -1,0 +1,59 @@
+name: Steins;Gate 0 [StyledHorribleFix]
+
+on:
+    push:
+        branches:
+            - "main"
+    workflow_dispatch:
+    
+jobs:
+    build:
+        name: Build subtitles
+        runs-on: windows-2025
+        permissions:
+            contents: read
+        steps:
+            - name: Install Aegisub
+              run: |
+                Invoke-WebRequest -Uri https://github.com/TypesettingTools/Aegisub/releases/download/v3.4.2/Aegisub-3.4.2-portable.zip -OutFile "${{ github.workspace }}/Aegisub-3.4.2-portable.zip"
+                Expand-Archive -Path ./Aegisub-3.4.2-portable.zip -DestinationPath ${{ github.workspace }}/..
+                Remove-Item -Path ./Aegisub-3.4.2-portable.zip
+            - name: Install Aegisub-cli
+              id: install-aegisub-cli
+              run: |
+                Invoke-WebRequest -Uri https://github.com/Myaamori/aegisub-cli/releases/download/db0e4f9/aegisub-cli.exe -OutFile "${{ github.workspace }}/../aegisub-portable/aegisub-cli.exe"
+                $targetPath = (Join-Path -Path ${{ github.workspace }}/.. -ChildPath aegisub-portable/aegisub-cli.exe).Replace("\", "/")
+                echo "aegisub-cli-path=$targetPath" >> "$env:GITHUB_OUTPUT"
+            - name: Install Python
+              uses: actions/setup-python@v5
+              with:
+                python-version: 3.13
+            - name: Install ssa_cleanup_tool
+              id: install-ssa-cleanup-tool
+              run: |
+                Invoke-WebRequest -Uri https://github.com/PringlesGang/ssa-cleanup-tool/archive/refs/tags/v2.0.0.zip -OutFile "./ssa-cleanup-tool.zip"
+                Expand-Archive -Path ./ssa-cleanup-tool.zip -DestinationPath ${{ github.workspace }}/..
+                Remove-Item -Path ./ssa-cleanup-tool.zip
+                $targetPath = (Join-Path -Path ${{ github.workspace }}/.. -ChildPath ssa-cleanup-tool-2.0.0/ssa-cleanup-tool.py).Replace("\", "/")
+                echo "ssa-cleanup-tool-path=$targetPath" >> "$env:GITHUB_OUTPUT"
+            - name: Checkout Git repository
+              uses: actions/checkout@v4
+            - name: Setup builder configuration
+              uses: jsdaniell/create-json@v1.2.3
+              with:
+                name: "builder_config.json"
+                json: '{"python": "python", "ssa_cleanup_tool": "${{ steps.install-ssa-cleanup-tool.outputs.ssa-cleanup-tool-path }}", "aegisub_cli": "${{ steps.install-aegisub-cli.outputs.aegisub-cli-path }}"}'
+            - name: Run build script
+              run: ./build.ps1
+            - name: Upload artifact
+              uses: actions/upload-artifact@v4
+              with:
+                name: Steins;Gate 0 [StyledHorribleFix]
+                path: |
+                    ./anime
+                    ./full
+                    ./ss
+                    ./auto-mkv-subs.ps1
+                    ./auto-mkv-subs.sh
+                    ./README.md
+                include-hidden-files: true
