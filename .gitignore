@@ -1,7 +1,10 @@
-anime
-fonts
-full
+anime/**
+fonts/**
+full/**
+ss/**
+
 output
-ss
 
 *.mkv
+
+!.gitkeep
