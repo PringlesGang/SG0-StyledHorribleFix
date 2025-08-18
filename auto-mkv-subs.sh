@@ -2,7 +2,7 @@
 : '
 Automatically merges all subtitles into the video files
 
-Make sure mkvmerge is installed! (https://mkvtoolnix.download/)
+Make sure mkvmerge is installed and added to PATH! (https://mkvtoolnix.download/)
 
 This script assumes the following file structure:
  root
@@ -13,7 +13,7 @@ This script assumes the following file structure:
  ├── output               The output folder (will be automatically generated)
  └── ss                   The signs+songs subtitles, as supplied by the ssa-cleanup script
 
-The episode number of the video will be identified by concatonating ALL NUMBERS in the filename
+The episode number of the video will be identified by concatenating ALL NUMBERS in the filename
 make sure these are thus equal to the desired episode number (leading zeroes are ignored)
 (e.g. "[Anime Time] Steins;Gate 0 - 12" will be evaluated as "012" -> episode 12)
 Any episode whose number does not evaluate to something between 1 and 23 will be treated as the OVA
