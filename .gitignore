@@ -5,6 +5,8 @@ ss/**
 
 output
 
+builder_config.json
+
 *.mkv
 
 !.gitkeep

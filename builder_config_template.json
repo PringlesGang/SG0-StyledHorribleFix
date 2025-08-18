@@ -1,0 +1,5 @@
+{
+    "python": "PATH/TO/PYTHON",
+    "ssa_cleanup_tool": "PATH/TO/SSA_CLEANUP_TOOL",
+    "aegisub_cli": "PATH/TO/AEGISUB_CLI"
+}
