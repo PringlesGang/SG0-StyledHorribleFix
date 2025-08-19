@@ -53,6 +53,11 @@ jobs:
                 json: '{"python": "python", "ssa_cleanup_tool": "${{ steps.install-ssa-cleanup-tool.outputs.ssa-cleanup-tool-path }}", "aegisub_cli": "${{ steps.install-aegisub-cli.outputs.aegisub-cli-path }}"}'
             - name: Run build script
               run: ./build.ps1
+            - name: Prepare artifact
+              run: |
+                Remove-Item -Path ./fonts/.gitkeep
+                Remove-Item -Path ./full/.gitkeep
+                Remove-Item -Path ./ss/.gitkeep
             - name: Upload artifact
               uses: actions/upload-artifact@v4
               with:
