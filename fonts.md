@@ -1,7 +1,7 @@
 This file lists all fonts used [throughout the entire project](#total), as well as [per individual episode](#per-episode).
 
 ## Total
-[Download All](https://fonts.google.com/share?selection.family=Anton|Are+You+Serious|Audiowide|Bad+Script|Cinzel:wght@400..900|Concert+One|Courier+Prime:ital,wght@0,400;0,700;1,400;1,700|Dancing+Script:wght@400..700|Didact+Gothic|Farsan|IM+Fell+English:ital@0;1|Jost:ital,wght@0,100..900;1,100..900|Kode+Mono:wght@400..700|Lexend+Zetta:wght@100..900|Libre+Bodoni:ital,wght@0,400..700;1,400..700|Lugrasimo|M+PLUS+Rounded+1c|Manjari:wght@100;400;700|Nanum+Brush+Script|Nixie+One|Noto+Sans+JP:wght@100..900|Patrick+Hand|Pixelify+Sans:wght@400..700|Playfair+Display:ital,wght@0,400..900;1,400..900|Playpen+Sans:wght@100..800|Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900|Sedgwick+Ave|Special+Elite)
+[Download All](https://fonts.google.com/download?family=Anton|Are+You+Serious|Audiowide|Bad+Script|Cinzel|Concert+One|Courier+Prime|Dancing+Script|Didact+Gothic|Farsan|IM+Fell+English|Jost|Kode+Mono|Lexend+Zetta|Libre+Bodoni|Lugrasimo|M+PLUS+Rounded+1c|Manjari|Nanum+Brush+Script|Nixie+One|Noto+Sans+JP|Patrick+Hand|Pixelify+Sans|Playfair+Display|Playpen+Sans|Roboto|Sedgwick+Ave|Special+Elite)
 
 - <span style="font-family:Anton">[Anton - Vernon Adams](https://fonts.google.com/specimen/Anton)</span>
 - <span style="font-family:Are You Serious">[Are You Serious - Robert Leuschke](https://fonts.google.com/specimen/Are+You+Serious)</span>

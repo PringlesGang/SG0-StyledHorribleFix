@@ -63,7 +63,7 @@ $global:PlayfairDisplaySemibold = "./fonts/Playfair_Display/static/PlayfairDispl
 $global:PlaypenSans = "./fonts/Playpen_Sans/static/PlaypenSans-Regular.ttf"
 $global:PlaypenSansLight = "./fonts/Playpen_Sans/static/PlaypenSans-Light.ttf"
 $global:PlaypenSansMedium = "./fonts/Playpen_Sans/static/PlaypenSans-Medium.ttf"
-$global:Roboto = "./fonts/Roboto/Roboto-Regular.ttf"
+$global:Roboto = "./fonts/Roboto/static/Roboto-Regular.ttf"
 $global:SedgwickAve = "./fonts/Sedgwick_Ave/SedgwickAve-Regular.ttf"
 $global:SpecialElite = "./fonts/Special_Elite/SpecialElite-Regular.ttf"
 
