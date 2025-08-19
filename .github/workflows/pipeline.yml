@@ -38,6 +38,14 @@ jobs:
                 echo "ssa-cleanup-tool-path=$targetPath" >> "$env:GITHUB_OUTPUT"
             - name: Checkout Git repository
               uses: actions/checkout@v4
+            - name: Download fonts
+              run: ./download_fonts.ps1
+            - name: Install fonts
+              run: |
+                $fonts = Get-ChildItem -Path ./fonts -Recurse -Include "*.ttf"
+                $shellApp = New-Object -ComObject Shell.Application
+                $fontsDirectory = $shellApp.NameSpace(0x14)
+                foreach ($font in $fonts) { $fontsDirectory.CopyHere($font.FullName) }
             - name: Setup builder configuration
               uses: jsdaniell/create-json@v1.2.3
               with:
@@ -51,6 +59,7 @@ jobs:
                 name: Steins;Gate 0 [StyledHorribleFix]
                 path: |
                     ./anime
+                    ./fonts
                     ./full
                     ./ss
                     ./auto-mkv-subs.ps1
